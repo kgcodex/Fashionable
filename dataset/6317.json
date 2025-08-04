@@ -1,0 +1,17 @@
+{
+    "id": 6317,
+    "brandName": "Catwalk",
+    "productDisplayName": "Catwalk Pink Slip-On Shoe",
+    "price": 1295,
+    "description": "With a soft clean and damp cloth rub the surface to remove the dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ea40449fc0e7b5fbaf758ece1cd3a68c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/64aa6af5e45fdc35f6a65a6a62c88e55_images.jpg"
+    }
+}

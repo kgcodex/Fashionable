@@ -1,0 +1,17 @@
+{
+    "id": 19785,
+    "brandName": "U.S. Polo Assn.",
+    "productDisplayName": "U.S. Polo Assn. Men Solid Red Tshirt",
+    "price": 1299,
+    "description": "Composition Red polo t-shirt made of 100% cotton, has short sleeves with ribbed cuffs and an appliqu&eacute; d digit on the right sleeve, ribbed collar with a buttoned chest placket, embroidered and appliqu&eacute; d branding on th",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3803cc1afe4304884543380369ed9376_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2a3aa43ff52bf43c3ea9af0d2dcf24a0_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 42216,
+    "brandName": "Sepia",
+    "productDisplayName": "Sepia Women Black Dress",
+    "price": 2199,
+    "description": "Black sleeveless dress, has a boat neck in sheer fabric, copper embroidery on the left chest and a concealed zip down the side",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8dc38fa4c4f523cf6679fea8cad53c95_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/76be0d21b7dd6380418170d7fae7816e_images.jpg"
+    }
+}

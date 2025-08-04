@@ -1,0 +1,17 @@
+{
+    "id": 10604,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Tennis Red Caps",
+    "price": 895,
+    "description": "CompositionRed cap made of Dri-Fit fabric, with mesh fabric between panels, black stiff lining along the cap and visor hem, adjustable velcro back strap, nike swoosh logo embroidered on the front and Dri-Fit printed on the left of the visorFittingRegularWash careMachine wash in cold water or hand wash separatelyDo not use softeners or bleachTumble dry on lowCool ironDo not iron on designDo not dry cleanDon that smart look with ease with this red tennis cap from nike. Made of Dri-Fit fabric, this cap ensures your head is absolutely sweat-free all day long. The black piping along the edges and a classy Nike Swoosh symbol motivates you to 'Just Do It'. This nike cap is an ideal choice as it is a cool sportswear accessory and a classy leisurewear option for all folks.",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c73f4bb7fb44ed114be9fc319f3ba5f9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c678dbb404aba52c66ab2e515976b704_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 40655,
+    "brandName": "Span",
+    "productDisplayName": "Span Women Green Kurta",
+    "price": 939,
+    "description": "Style Note",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f2a55bf706584058f693e02fab1387d6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b33337071476db1636dcdeb502f5891c_images.jpg"
+    }
+}

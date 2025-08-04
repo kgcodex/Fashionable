@@ -1,0 +1,17 @@
+{
+    "id": 57895,
+    "brandName": "Femella",
+    "productDisplayName": "Femella Women Pink Top",
+    "price": 650,
+    "description": "Pink printed top, has a buttoned placket and short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-Pink-Top_bcf7fa658190d6bd20dba4fd34665ef2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-Pink-Top_66e79a6819b7717b73e675b0089f7ac1_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 5434,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Kill Man Red T-shirt",
+    "price": 895,
+    "description": "CompositionRed crew neck short sleeved t-shirt with print on the front, made of 100% cotton and grey fabric tape on the inseam of the necklineFittingRegularWash care Machine wash cold with like colors Do not bleach Remove immediately Do not allow to lay on itself when wet Tumble dry low Cool iron Do not iron directly on print/embroidery Do not dry clean While some people are repulsed by skulls, you'll love them in this nike tee! The large skull in black on the front with the word \"kill\" printed along with the brand logo speak volumes of your gothic side. Team this with jeans and lifestyle shoes for that uber cool look during weekend parties.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/00adc4ac4fa44e8adc7f9dc21272c772_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ce23f33a0d52bf46df845c34827ab6d1_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 5727,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men's Blaze White Black Shoe",
+    "price": 1699,
+    "description": "Run faster and smoother with these Blaze shoes from reebok. The simple design is strong on performance and looks great when teamed with jeans and tees for a casual look.Upper Mesh uppers with synthetic overlays for breathability and support Lace-ups for snug Fit Cushioned collar and tongue for extra comfort Soft, breathable fabric lining for snug fit and comfort Mesh tongue for greater breathability and comfort Branding appliqued on the tongue and printed on the backfoot for style Midsole Cushioned footbed for all-day comfort Full-length Phylon midsole for lightweight cushioning Outsole TPR outsole with circular and triangular lugs on the periphery for better traction and flexibility Built up toe counter for better forefoot protection shoe careRub surface with clean, damp cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6b0cf82e0674e3dd77b5f3b13f6fa3f9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9b02dc1233b9ca3a886d8b9249d428f5_images.jpg"
+    }
+}

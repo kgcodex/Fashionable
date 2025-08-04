@@ -1,0 +1,17 @@
+{
+    "id": 10752,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Hell With White Tshirts",
+    "price": 995,
+    "description": "CompositionWhite round neck t-shirt made of 100%cotton, with a ribbed neckline that has a grey fabric tape inseam, short sleeves and graphic print on the frontFittingComfortWash careMachine wash cold at 30 degrees with like coloursDo not bleachTumble dry lowRemove immediately/do not allow to lay on itself when wetCool iron, but do not iron on designDo not dry cleanDefy all laws of gravity and fly high making those winning goals, winning baskets or stopping those precious runs for your team this season in this white t-shirt from nike. Team this with sport wear trousers or shorts and appropriate sports shoes when on the field, or with jeans and suede shoes for that fab, cool look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0ca238ffe3513523e6315cbe64078121_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fa64f8312349b3b4a49301ecd63d9245_images.jpg"
+    }
+}

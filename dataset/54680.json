@@ -1,0 +1,17 @@
+{
+    "id": 54680,
+    "brandName": "Shree",
+    "productDisplayName": "Shree Women Peach Kurta",
+    "price": 599,
+    "description": "Peach embroidered kurta, woven, khaki three quarter length sleeves with band at the hem, mandarin collar, a short buttoned placket, vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Shree-Women-Dark-Peach-Kurta_ca24d41d4858e722c0a03dc9b166bfea_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Shree-Women-Dark-Peach-Kurta_cb728263133147d604661615896ec1cd_images.jpg"
+    }
+}

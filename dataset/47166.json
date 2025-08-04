@@ -1,0 +1,17 @@
+{
+    "id": 47166,
+    "brandName": "Peter England",
+    "productDisplayName": "Peter England Men Brown Belt",
+    "price": 699,
+    "description": "Style NoteA formal essential, the belt is a must-have accessory for the well-dressed male. peter england perfects this traditional accessory's foray into modern wardrobes by combining classic techniques and innovative designs. Wear this piece with formal trousers, formal shoes in a matching hue, and crisp full-sleeved shirts.Product DetailsBrown belt with tang clasp for a snug FitHoles to customise fitFixed loop near the buckle to hold belt in placeMaterial and CareLeatherWipe surface with a clean, dry cloth to remove dustDo not store in sunlight",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6febc5b9c84c98b7f6b8a771f69c94de_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0ebd3c2589b11dee41f35d075f9a0ed7_images.jpg"
+    }
+}

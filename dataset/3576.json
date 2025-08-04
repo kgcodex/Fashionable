@@ -1,0 +1,17 @@
+{
+    "id": 3576,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Grey Sports Sandal",
+    "price": 1399,
+    "description": "CompositionLightweight grey sandals made of synthetic leather with EVA footbedWash care1. Remove dust with soft, clean, damp cloth2. Do not machine washSoft on the feet and stylish to the T, these grey sandals from adidas are a class apart. The EVA footbed ensures comfort at its best, making it an ideal outdoor footwear.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1eef53426eaa446f20d949073e0493a5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/729bcebebed41dd169a4e3325c554235_images.jpg"
+    }
+}

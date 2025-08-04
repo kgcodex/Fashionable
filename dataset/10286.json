@@ -1,0 +1,17 @@
+{
+    "id": 10286,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Men Hang Tough Leather Black Formal Shoes",
+    "price": 2499,
+    "description": "Enjoy the luxury of royal footwear in this smart Hang Tough slip-on leather shoe from clarks. The flexible non-slip composition sole enhances foot luxury without compromising on durability, while the soft leather apron front makes it perfect for both formal and casual occasions.UpperFull grain leather upper in a slip-on style for absolute comfortTramline seamed and stitched leather apron frontConcealed elastic side gussets for easy insertion and removal of feetSheepskin and fabric inner lining for abrasion-free wearMildly padded collar for comfortHas a generous G-width fittingMidsoleEVA midsole for lightweight comfortSoft leather footbed for cushioned, all-day comfortOutsoleDurable textured rubber outsole with suction grooves throughout the forefoot and grooves on the heel in a horse shoe shape for absolute grip and tractionFlex grooves in the forefoot for flexible movementOne-piece moulded sole unit featuring Cushion Cell heel for absolute cushioningCurved midfoot for inner-arch supportRaised heel for ergonomic comfort and styleShoe careWipe surface with dry, clean cloth to remove dustBrush using a branded leather conditioner to restore shoe shineDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/98f1be9f5c8d0b808628346190d4a7d2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/81973e09555426619a951210e4b1535c_images.jpg"
+    }
+}

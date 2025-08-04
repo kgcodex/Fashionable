@@ -1,0 +1,17 @@
+{
+    "id": 45401,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Grey Sandals",
+    "price": 1590,
+    "description": "Style NoteAdd festive cheer to any occasion with these embellished sandals from rocia. Its semi-cushioned footbed guarantees total comfort. Pair it with a flared kurta and",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ef13f03200d9e08ce10014382760947f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a84f1fe3fffff626f136e82523c736e7_images.jpg"
+    }
+}

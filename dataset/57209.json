@@ -1,0 +1,17 @@
+{
+    "id": 57209,
+    "brandName": "Kraus Jeans",
+    "productDisplayName": "Kraus Jeans Women Blue Jeans",
+    "price": 1395,
+    "description": "Blue skinny Fit jeans with two scoop pockets in the front and a coin pocket on the right, elasticated waistband for a snug fit with loops for belt, zippered fly with buttoned closure, two patch pockets at the back with branding at the right pocket and at the waistband at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Kraus-Jeans-Women-Blue-Jeans_6866a0f81711c9c0d4e4a1bf6906f4b3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Kraus-Jeans-Women-Blue-Jeans_6a19f971dedb198dcf47d181984d7098_images.jpg"
+    }
+}

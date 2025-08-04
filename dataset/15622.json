@@ -1,0 +1,17 @@
+{
+    "id": 15622,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men AD Breakline OH Black Track Pants",
+    "price": 1495,
+    "description": "CompositionBlack trackpants made of 100% shell cotton, has an elasticated waist with drawcords, a pocket on the right at the back, and embroidered nike swoosh logo on the left thighFittingComfortWash careMachine wash cold with like coloursDo not dry clean, bleach or lay on itself when wetTumble dry lowDo not ironDesigned for the man who never compromises on comfort and style, this trackpant from nike is crafted from cotton to offer exemplary comfort and a flattering Fit. Slip into when burning those calories of on a lazy day and revel in the comfort of this tracpant either way. Add on a sporty muscle fit T-shirt for unparallaled cool.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/df2602f7cbcefff6be0f337ad69a86f7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c324317658d080eb930f5d9df3d403b1_images.jpg"
+    }
+}

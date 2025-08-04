@@ -1,0 +1,16 @@
+{
+    "id": 8507,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex  Black Socks",
+    "price": 145,
+    "description": "Composition Black Sports socks made of 77% cotton, 22% nylon and 1% spandex, has an ankle cuff, arch support, half-cushion terry foot and brand name and logo printed Fitting Snug Wash care Machine wash warm in cold water at 30 degrees Use non-chlorine bleach if needed Do not use softeners Tumble dry low Do not dry clean or iron Wear these black cushioned nike socks for maximum comfort when you're indulging in sporting activities. With an arch support for a secure, stable Fit, half-cushion terry foot for extra comfort and shock-absorption, they are perfect for all kinds of sports. The ankle cuff adds to the attractiveness of the socks. Wear comfortable shoes with them for best results.",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5749939db2627d8573e2fde2f287b33a_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 56254,
+    "brandName": "SDL by Sweet Dreams",
+    "productDisplayName": "SDL by Sweet Dreams Men Green & White Pyjama Set",
+    "price": 1199,
+    "description": "Green round neck T-shirt, has short sleeves and print on the chest White three-fourth pyjamas, has a drawstring closure at the waist, two side pockets and one at the knee",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/SDL-by-Sweet-Dreams-Men-Green---White-Pyjama-Set_b1539898d7cd6d4811c2a7310915b4b2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/SDL-by-Sweet-Dreams-Men-Green---White-Pyjama-Set_f668e6edf93d4fd75c2c3395ee5b3157_images.jpg"
+    }
+}

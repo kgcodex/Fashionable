@@ -1,0 +1,17 @@
+{
+    "id": 23508,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex Black Dial Watch",
+    "price": 2995,
+    "description": "Case style: Stainless steel square shaped dial, grey upperDial style: Textured black dial, steel colour, grey and red colour markings, black hands with grey accents, branding near the 12 hour mark, date display near the 3 hour mark Strap style: grey strap with a shiny texture, has a tang closure, adjustable for a snug fit Features: Analog watch, screw to reset time and date Water resistance: Up to 50 m Warranty: 2 years international warranty",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Unisex-Black-Dial-Watch_7f1fbc2a3df8b72e69376e98e90d1f47_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Unisex-Black-Dial-Watch_9739bc5692e5537db991eec430f6d01f_images.jpg"
+    }
+}

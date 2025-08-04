@@ -1,0 +1,17 @@
+{
+    "id": 23914,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men Cicadeo White Casual Shoes",
+    "price": 2099,
+    "description": "fila shoes are crafted from Italy's materials capital Biella, for quality and optimal durability. This Cicadeo shoe with its soccer-shoe referenced styling and padded inner is sure to become a closet favourite. Style this with casual ensembles.UpperSynthetic upper with perforations on the sides for ventilationReinforced overlay at the heel collarCentral lace ups for a snug FitPadded tongue with brandingPadded inner for additional comfortPull loop at the heel collarMidsoleEVA midsole for impact protectionOutsoleTerraced grooves on the outsole",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b3a8aad7cd3f9c3e0f2d6cd471fab1a9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3858aad137bc219f86022bc7592147bd_images.jpg"
+    }
+}

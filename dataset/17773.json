@@ -1,0 +1,17 @@
+{
+    "id": 17773,
+    "brandName": "Reid & Taylor",
+    "productDisplayName": "Reid & Taylor Men Brown Belt",
+    "price": 695,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Reid---Taylor-Men-Brown-Belt_58f952d53710dedea43fd8d9cd43c7f5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Reid---Taylor-Men-Brown-Belt_0c6863497b048805f5f20b997704effc_images.jpg"
+    }
+}

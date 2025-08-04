@@ -1,0 +1,17 @@
+{
+    "id": 54134,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Brown Heels",
+    "price": 690,
+    "description": "Heel: 1.5\"Open toed tan forefoot strap with a twist styleFabric denim-style footbed with a heel patchHas a mini-wedge heelTPU outsole with a heel cap",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/245886e2f8255f04f0458f11be320954_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6fdaa96d1abcd0bf045ba3afe6262ab7_images.jpg"
+    }
+}

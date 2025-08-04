@@ -1,0 +1,17 @@
+{
+    "id": 48206,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Men Black Sunglasses",
+    "price": 3450,
+    "description": "Lens colour: Greyish brown shadedFrame colour: Black with silver colour detail at the bridgeFrame type: Plastic full frame lens, high bridgeFixed nose holdersThe glasses come in a caseBranding at the sides",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Men-Black-Sunglass_cd2e424147453b1ef9486c4f7f8a950d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Men-Black-Sunglass_698b7447829512078643b8b67031ec5a_images.jpg"
+    }
+}

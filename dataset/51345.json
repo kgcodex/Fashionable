@@ -1,0 +1,17 @@
+{
+    "id": 51345,
+    "brandName": "Raymond",
+    "productDisplayName": "Raymond Men Black & Blue Socks",
+    "price": 290,
+    "description": "Black knitted socks with elasticated cuffs, has blue diamond shaped patterning",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/055dccaa4e61322f0c7ea69de1091f19_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5a74f3287b192f03c41a8d8f2078cbbe_images.jpg"
+    }
+}

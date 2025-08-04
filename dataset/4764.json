@@ -1,0 +1,17 @@
+{
+    "id": 4764,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's White Polo T-shirt",
+    "price": 1199,
+    "description": "White polo neck t-shirt made of 100% cotton with green and brown stripes spaced wide apart, ribbed collar and cuff with green stripes along the hem, twill tape with green edging on the inseam of the collar and embroidered logo on the left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c8705379c812c659e4ec20c1fa77855c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e46c84990ad70643886103b9ca5b5f96_images.jpg"
+    }
+}

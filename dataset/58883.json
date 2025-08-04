@@ -1,0 +1,17 @@
+{
+    "id": 58883,
+    "brandName": "Hakashi",
+    "productDisplayName": "Hakashi Men Blue Tie",
+    "price": 705,
+    "description": "Blue tie with lighter blue check patterns A loop at the back of the broader tie end to tuck the smaller end in",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Blue-Tie_ce90ce01965b38ab9e15baadffdb7211_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Blue-Tie_5c9a13c61f0af1c694f6292477f2811f_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 39543,
+    "brandName": "Bwitch",
+    "productDisplayName": "Bwitch Red Bra",
+    "price": 699,
+    "description": "Coral red bra with adjustable shoulder straps, white lace trims above the full coverage cups, hook back closure Owing to intimate nature of this product it is eligible for self-ship return only (no pick-up facility)",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Bwitch-Red-Bra_0716fe9cfef903926c3b53d6f2508b82_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Bwitch-Red-Bra_77566a1dee8215de9348095c4a0913d8_images.jpg"
+    }
+}

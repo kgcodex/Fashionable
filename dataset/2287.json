@@ -1,0 +1,16 @@
+{
+    "id": 2287,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men White T-shirt",
+    "price": 1295,
+    "description": "Composition:White t-shirt&nbsp; of dry-Fit polyester material, that absorbs sweat effectivelyWash Care:It can either be hand washed or machine washedFitting:Comfort FitAction:Summer wear is all about staying cool and dry. nike's white with orange shoulder dry-fit tee is that must have for those who prefer being out in the sun, keeping them dry and fresh.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/79f0625bb7543ff85085f49352a4b38d_images.jpg"
+    }
+}

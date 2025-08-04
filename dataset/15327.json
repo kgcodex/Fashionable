@@ -1,0 +1,17 @@
+{
+    "id": 15327,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Stripes Blue Tshirts",
+    "price": 1995,
+    "description": "CompositionPolo neck T-shirt made of 100% cotton, has purple, white, blue and navy blue bands, short sleeves with ribbed cuffs, ribbed collar with buttoned chest placket, embroidered logo on the upper left chest and vented hemsFittingRegularWash careMachine wash cold with like coloursDo not dry cleanDo not bleachTumble dry on lowWarm iron onlyDo not iron on print or embroideryThe Pinwheel collection from nike takes you back in time with vintage designs and colours. The bold purple, blue and navy blue colours add a splash of fun to your wardrobe, while the cotton fabric offers exemplary comfort. Team this with jeans or chinos.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/347e44e01deae45c79bcc90492db7b02_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a59c7e71a4896ad4434762d8ec4cbe84_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 19943,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Casual Black Backpack",
+    "price": 2295,
+    "description": "If you want a bag that is stylish, uber cool and comfortable to carry around all day, check out this black backpack from nike. Carry it to college or on a casual day out with your friends. A good looking bag with loads of space, it will become your favourite in no time. MeasurementHeight: 50 cmWidth: 35 cmDepth: 20 cmCapacity: 35 litresMade of 80% polyester and 20% nylon for enhanced durability and styleNylon lining for increased durabilityTwo main zippered compartments to accommodate all your useful itemsOne zippered compartment on the front with a zippered pocket inside and a zippered compartment below itMesh pocket on one sidenike swoosh printed on the frontPadded, adjustable shoulder straps that distribute weight evenly and protect the shoulders and back from injuriesHaul loop for handling easeErgonomic design on the back to Fit along the torso comfortablyNike Swoosh on left strapHaul loop for handling easeBranded zippers and sliders for easy useCareDo not machine washRub surface with dry clean cloth to remove dust and dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9cfdd0cfb5d81382c32dc582766fd40d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bce82f8590fee26f0ce3a3c5796c9a46_images.jpg"
+    }
+}

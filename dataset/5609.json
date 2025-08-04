@@ -1,0 +1,17 @@
+{
+    "id": 5609,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Receptor Navy Sports Sandals",
+    "price": 1899,
+    "description": "Open toed, navy blue sports sandals with a Velcro fasteningSynthetic upper with orange stitched detail, has a forefoot strap with a Velcro closure, midfoot strap with branding and Velcro closure and backfoot strap with pull loop and brandingSoft and textured footbed with a slightly upraised guard detail at forefootTough outsole with grooves and lugsWarranty: 3 months warranty from the date of purchase, against manufacturing defects only",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-Receptor-Navy-Sports-Sandals_7b1c42c4b75c66e10452617b413180b8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-Receptor-Navy-Sports-Sandals_1136489b7c17f2b39bd8e186ae5112a7_images.jpg"
+    }
+}

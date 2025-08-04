@@ -1,0 +1,17 @@
+{
+    "id": 38668,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Solarsoft Thong Blue Flip Flops",
+    "price": 1595,
+    "description": "Style Note One look at these flip flops and your feet are bound to sigh with the pleasure of relaxation. The nike Solarsoft thong is designed keeping in mind absolute cushioned comfort to relax your feet and offer a comfortable ride. It&rsquo;s so flexible that you can squeeze with all your might and it still bounces back to shape. Product Details Grooved TPU foot-bed for absolute all-day comfort and massaged feel Soft rubber straps with a toe separator for abrasion-free support and to hold the foot in place PU outsole with patent pending waffle pattern lugs throughout the foot-bed for absolute grip even on wet surfaces Material and Care Synthetic Wipe with a clean, dry cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3053641427cf5aa2b0e6045a3fa91be4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8ce59d78679bb4b088a570022ac7129a_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 23334,
+    "brandName": "W",
+    "productDisplayName": "W Women Maroon Printed Tunic",
+    "price": 1299,
+    "description": "Maroon tunic, has three-quarter sleeves, round neck, yoke with stitch detailing, slightly ruched on the yoke, buttoned chest placket and split side seams",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/efb9f9e7584ea9f4ae1597cf278fae6b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9752459cc0760aea2c3fdd797e089ef3_images.jpg"
+    }
+}

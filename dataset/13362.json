@@ -1,0 +1,17 @@
+{
+    "id": 13362,
+    "brandName": "Timberland",
+    "productDisplayName": "Timberland Women Femmes Blue Casual Shoes",
+    "price": 5490,
+    "description": "Dress to work in style in the Pinkham Oxfords from timberland. With a suede and mesh upper, and a stylish synthetic leather patch, this shoe is designed to offer comfort and style at its best.UpperSuede and mesh upper for ultimate breathable comfort and styleSynthetic leather toe box in a contrast colour for enhanced shoe life and styleLace-up system for a snug, customised FitWide mouth for ease of useFabric inner lining for all-day comfortPadded anti-fatigue foam footbed with a fabric lining for all-day comfortRemovable footbed to accommodate an orthoticMidsoleEVA midsole for all-day comfort and durabilityOutsoleDurable grippy rubber outsole with leaf-shaped lugs throughout the forefoot and midfoot, and has semi-circular grooves on the big toe mound and heel for absolute grip and tractionShoe careWipe dust with a dry, clean clothUse a suede brushDo not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5dc81f6f60aae5e4352e79a777fa96fa_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d258a05f264e03f4e0842c0e287c591d_images.jpg"
+    }
+}

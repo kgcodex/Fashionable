@@ -1,0 +1,17 @@
+{
+    "id": 4013,
+    "brandName": "Spalding",
+    "productDisplayName": "Spalding  177z NBA School Brown Basketball",
+    "price": 1099,
+    "description": "CompositionRed and silver rubber basket ball made with synthetic rubber and wide channelsCare1. Rub surface with clean, damp cloth to remove dust2. Do not machine washEnhance your performance level with this NBA Certified Basketball from spalding. This red and silver ball is engineered with spalding technology. The top grade rubber cover and wide channels is great for court games and outdoor games.",
+    "masterCategoryId": 12,
+    "masterCategoryType": "Sporting Goods",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ce5f01fe0322830d96b8421a7c18f13a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7963df7ae58f950cdb0a900b465a9bd2_images.jpg"
+    }
+}

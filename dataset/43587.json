@@ -1,0 +1,17 @@
+{
+    "id": 43587,
+    "brandName": "Gini and Jony",
+    "productDisplayName": "Gini and Jony Boys Blue Shirts",
+    "price": 1099,
+    "description": "White shirt with a spread collar, long sleeves with buttoned cuffs, full button placket and embroidery on the chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Gini-and-Jony-Boys-Shirt-White-Shirts_0bb34e1ad9d99b673e70ef4f15b1a600_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Gini-and-Jony-Boys-Shirt-White-Shirts_514a8c0eb556a42aafcbf8002c71d100_images.jpg"
+    }
+}

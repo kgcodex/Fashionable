@@ -1,0 +1,17 @@
+{
+    "id": 39970,
+    "brandName": "GAS",
+    "productDisplayName": "Gas Men Red Cutback Shoes",
+    "price": 4500,
+    "description": "Round toed, red shoes with central lace fastening Suede upper with leather overlays, reinforced overlay at the heel collar Soft inner, tongue and footbed Textured rubber outsole",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Gas-Men-Red-Cutback-Shoes_730f1d2b7e95e2a7d4f2f746db78b91f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Gas-Men-Red-Cutback-Shoes_400ee2e8c78870e91ed2b4253cf27393_images.jpg"
+    }
+}

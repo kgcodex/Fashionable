@@ -1,0 +1,17 @@
+{
+    "id": 37154,
+    "brandName": "Campbell",
+    "productDisplayName": "Campbell Men Pack of 3 T-shirts",
+    "price": 499,
+    "description": "Pack of 3 T-shirts in navy, beige and redHave round necks, short sleeves, printed label at back neck for irritation-free comfort, brand label at side seam",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Campbell-Men-Pack-of-3-T-shirt_057a8b1df42dddceac3b5d1b489f6574_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Campbell-Men-Pack-of-3-T-shirt_715b4bdd1b8080571e1b464119e7165e_images.jpg"
+    }
+}

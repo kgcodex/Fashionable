@@ -1,0 +1,17 @@
+{
+    "id": 20124,
+    "brandName": "Wrangler",
+    "productDisplayName": "Wrangler Women Flower Navy Blue Shirt",
+    "price": 1395,
+    "description": "Navy Blue and white checked shirt with floral print, has a narrow pointed collar, full front opening with press stud placket, long sleeves with press stud cuffs, yoked back and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5917443255b89a9435a6276a9adf6d05_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dddcdca89e1be7b6d370c8f874bdad0f_images.jpg"
+    }
+}

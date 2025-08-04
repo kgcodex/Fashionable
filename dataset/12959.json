@@ -1,0 +1,17 @@
+{
+    "id": 12959,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Sports Black Sports Shoes",
+    "price": 5499,
+    "description": "With a complete air mesh upper and grippy outsole, the adidas ClimaCool Experience Trainer features 360 degrees of ventilation and absolute traction, making your workout sessions a pleasurable experience.UpperComplete mesh upper with ClimaCool technology for 360 degree cooling of the footSuede overlays on the upper and inside for enhanced shoe structureadidas Patented 3-Stripes on the midfoot for enhanced shoe structure and styleMeshed and padded collar and tongue for enhanced breathability and snug, comfortable FitMeshed and cushioned inner for absolute breathable comfortLace-up system for a snug, customised fitErgonomically curved and padded footbed engineered with ClimaCool technology for all-day comfortRemovable footbed to accommodate an orthoticOutsoleNon-marking gum rubber outsole with flex grooves for ease of movement and enhanced durabilityTerraced pivot point on big toe mound for easy 180 degree movement of the footShoe careWipe surface with a damp, clean cloth to remove dust and dirtUse a suede brush to clean the upperDo not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9d789e8bb9b5e403956b4e7a9dbd36b7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1a4296cc29dce3167483cad9a7fc5135_images.jpg"
+    }
+}

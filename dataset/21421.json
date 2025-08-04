@@ -1,0 +1,17 @@
+{
+    "id": 21421,
+    "brandName": "roxy",
+    "productDisplayName": "Roxy Women White Spaghetti Top",
+    "price": 895,
+    "description": "White top, spaghetti straps, print in front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/roxy_7e3d8206fee6ce6b8fcbc2c57dadda03_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/roxy_9744f9f75de4fc5f55a090626b597fc3_images.jpg"
+    }
+}

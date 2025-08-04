@@ -1,0 +1,17 @@
+{
+    "id": 15326,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Printed Grey Tshirts",
+    "price": 1095,
+    "description": "CompositionCharcoal grey T-shirt made of 58% cotton and 42% polyester Dri-Fit fabric, has a round ribbed neckline, short sleeves and graphic print on the front FittingRegularWash careMachine wash cold with like coloursDo not dry cleanDo not bleachTumble dry on lowWarm iron onlyDo not iron on print or embroideryThis charcoal grey T-shirt from nike is a perfect mix of sporty and bold styling. The graphic print with the words \"lung searing, physical, bliss\" inspires you to get moving, while the Dri-fit fabric wicks sweat away from the body and keeps you feeling cool and comfortable all day. Team this with jeans or tracks.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4e3e634f2d615a0cba9c991c1d3d8daa_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/727aa1f7f223c12f85fbfd1aeb1a949b_images.jpg"
+    }
+}

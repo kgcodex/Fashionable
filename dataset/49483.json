@@ -1,0 +1,17 @@
+{
+    "id": 49483,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Black Casual Shoes",
+    "price": 3599,
+    "description": "Black low-top boat shoes with two-hole lace-ups EVA midsole TPU sole",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Black-Zapato-Del-Barco-Shoes_375867a751a903e914eb3d66185acb45_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Black-Zapato-Del-Barco-Shoes_8c928788985331f4f1666dbe85fb6456_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 25707,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Black Handbag",
+    "price": 1299,
+    "description": "Black handbag with branding on front Has one top handle Has one zipped compartment with a mobile pouch and a zipped compartment built into the liningA pocket in front with Velcro closure Warranty: 3 months on manufacturing defects",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Women-Black-Handbag_49d4b0b2d0427446ab0503f1c1b88890_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Women-Black-Handbag_752aae31f5d796136ab2c06608d1d912_images.jpg"
+    }
+}

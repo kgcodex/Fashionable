@@ -1,0 +1,17 @@
+{
+    "id": 29711,
+    "brandName": "John Miller",
+    "productDisplayName": "John Miller Men Check Blue Shirt",
+    "price": 1099,
+    "description": "Care Machine wash at 40 degrees with like colours using a mild detergent Do not bleach Tumble dry normal or line dry Warm iron; do not iron on decorations",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0e9588d98aeeaff7b1b743ab31cb0c65_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b02595cbcf189b21fafcb9a2b8dd8249_images.jpg"
+    }
+}

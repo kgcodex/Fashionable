@@ -1,0 +1,17 @@
+{
+    "id": 28535,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Sublimated Green T-shirt",
+    "price": 1995,
+    "description": "CompositionBright green round neck T-shirt for men made of 100% polyester, engineered with Dri-Fit technology, has short sleeves with branding in silver print on left chest and graphic print on the frontFitComfortWash careMachine wash cold at 30 degrees with like coloursDo not bleach or dry cleanLine dryCool iron; do not iron on decorationsDesigned for that absolute running experience, this nike T-shirt is replete with Dri-Fit comfort to make your sporting experience all the more comfortable and fun. The Dri-Fit technology wicks away sweat, allowing you to concentrate on your running, while the mesh side panels enhance ventilation and regulate body temperature. Team this with performance shorts and running shoes for complete running comfort.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/31c18da15cd6f60a1bc7ac7575e2a76f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/69901a79589c7a663885726199b0dea9_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 53782,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Navy Blue T-shirt",
+    "price": 1099,
+    "description": "Navy blue T-shirt, has a ribbed cutaway collar, short sleeves, mesh panels on the sleeves and on the sides, two buttoned placket and puma cat print on the left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Navy-Blue-T-shirt_b83da07e3b045c20b926e8eb7766c159_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Navy-Blue-T-shirt_02bfb5f2e90ce968ad04ced10ada2d9b_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 6542,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Training Green Grey T-shirt",
+    "price": 1895,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b24aa7df120b67d372a91726dbbdf3e0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4978f8cfb75547df0677461f0b3121e1_images.jpg"
+    }
+}

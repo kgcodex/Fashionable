@@ -1,0 +1,17 @@
+{
+    "id": 24074,
+    "brandName": "Catwalk",
+    "productDisplayName": "Catwalk Women Beige Shoes",
+    "price": 1395,
+    "description": "Textured synthetic leather upper with patterned geometrical cut outsPeep toe style slip-ons with a bow detail on the toeTPU outsole with circular nubs all over with a lightly upraised heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/00cd3a828aa1f174ae68a474e247b794_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ead3950506fc9d5747f075e35c2ccc0b_images.jpg"
+    }
+}

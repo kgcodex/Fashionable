@@ -1,0 +1,17 @@
+{
+    "id": 52068,
+    "brandName": "Myntra",
+    "productDisplayName": "Myntra Men Black Printed T-shirt",
+    "price": 499,
+    "description": "Black knit t-shirt, has a round ribbed neckline, short sleeves and graphic print in front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Myntra-Men-Black-T-shirt_a1d97a4eddb4ca59710e4c8001e40adf_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Myntra-Men-Black-T-shirt_57abbbe08044649b8f46d90c92c5046d_images.jpg"
+    }
+}

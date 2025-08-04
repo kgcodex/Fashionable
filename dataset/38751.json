@@ -1,0 +1,17 @@
+{
+    "id": 38751,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Black Backpack",
+    "price": 4995,
+    "description": "Style Note A backpack easily distributes the weight across your shoulders and back, making loads easy to carry while keeping you looking cool and confident. Fill this versatile nike backpack with your laptop and office essentials, sportswear when you're heading to the field or gym, or use it on a trek in the great outdoors, and enjoy the ample storing space for all your gear. Product Details A black backpack with yellow print and a yellow Nike swoosh in the front Two air padded shoulder straps with a click clock clasp, one short handle on top and air padded back The backpack has a water resistant tarpaulin bottom Two main zippered compartments, one compartment has an elasticised, padded laptop sleeve to hold a 17\" laptop, the other compartment has organiser pockets One compartment in front with a hook clasp Two zippered, rounded pockets on the two sides in front Two elasticised compartments on the two sides One compartment at the bottom which extends internally upwards Material and Care 54% nylon and 46% polyester exterior, 91% nylon and 9% EVA lining Do not machine wash or dry clean Do not bleach or iron Wipe with a damp cloth when necessary and line dry Size Height: 50 cm Width: 29 cm Depth: 23 cm",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1b64d1b9c5369910b9d5b28016a5134a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/50db77a6d52ec9c9281908d6bf8a774d_images.jpg"
+    }
+}

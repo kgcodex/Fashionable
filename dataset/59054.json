@@ -1,0 +1,17 @@
+{
+    "id": 59054,
+    "brandName": "Carlton London",
+    "productDisplayName": "Carlton London Women Silver Heels",
+    "price": 2495,
+    "description": "Silver peep toe sandals with pleated design detail and cut outs on the sides on the forefoot Overlays on the side and a buckled back foot strap Upper adhered to the outsole Tough outsole with a cone heel and a heel cap",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Carlton-London-Women-Silver-Sandals_6e8e6d93441af4cd45c2619f46c53784_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Carlton-London-Women-Silver-Sandals_56bbb18a80ada3a5de726937925ab7d2_images.jpg"
+    }
+}

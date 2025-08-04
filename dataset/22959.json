@@ -1,0 +1,17 @@
+{
+    "id": 22959,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men White Fusion Sports Shoes",
+    "price": 2599,
+    "description": "The high-performance Fusion shoe for men from reebok is designed for comfort and stability while you take that power run or work out in the gym. Wear these with a tonal T-shirt from nike and shorts.UpperMesh upper with synthetic overlays on the toe box, midfoot and heelLow cut ankle for optimal supportCentral lace upsPadded tongue with mesh liningPadded insole for instep comfortRemovable sockliner to accommodate an orthoticDMX foam technologyMidsoleIMEVA midsole with uniform density from heel to toe for a cushioned feelOutsoleRubber outsole with diamond patterned grooves and lugs and a decoupled heelFlex Grooves Channels for the shoe to bend and flex properly with the natural motion of the footShoe careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/26e8c6c149ba40d200c9a225736c3127_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e834dd5ee111c3dd2b7a9c36b15cc802_images.jpg"
+    }
+}

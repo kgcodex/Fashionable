@@ -1,0 +1,17 @@
+{
+    "id": 34509,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Feather Black & Pink Sandals",
+    "price": 1199,
+    "description": "Style NoteGet ready to float in comfort and style with these lightweight Feather floaters from adidas. Comfortable yet sturdy, these sandals are great for a stroll in the park or a walk on a trek trail. Product DetailsSynthetic forefoot and ankle straps with velcro fasteners for easy adjustment Forefoot and ankle straps attached with an interconnecting strap via triangular loop for enhanced comfort and to lock the foot in placeAppliqued logo on the ankle strapCushioned footbed with slightly elevated beehive pattern for soft massage feel and all day comfortTPR outsole with multi-directional pattern for durabilityRidge pattern for superior tractionMaterial and CareSyntheticDo not machine wash or store in direct sunlightRemove dust with a dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e3d26591b9d5ba3cf2514980c301527d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cd11069944cbc00a7752b74862668af8_images.jpg"
+    }
+}

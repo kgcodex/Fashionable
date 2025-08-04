@@ -1,0 +1,17 @@
+{
+    "id": 5610,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Stride White Shoe",
+    "price": 2499,
+    "description": "Enjoy those healthy runs in style with the Stride shoes from adidas. These comfortable shoes are high on performance attributes and come in basic colours that look great when teamed with jeans and tees for a cool casual look.UpperMesh uppers for enhanced breathability and dry comfortSynthetic leather overlays for added structure, especially to the midfootIconic three stripes strategically placed on the sides to give more structureCushioned collar and tongue for plush comfortMesh tongue for breathabilityLace-ups for snug FitHeel cup for better fit and supportMidsoleCushioned footbed for support and all day comfortPhylon midsole for lightweight strengthOutsoleScooped out air sole unit in the heel for cushioningImpact guidance pattern on the outsole for smoother motion of the feetFlex grooves for natural movement of the feetAdiwear outsole offering better abrasion resistance during Sports performed on hard surfacesshoe careRub surface with a clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/20457cb5130b8495ce2b9182c2291ba2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/61f8e9e397c74d541fca99d124091276_images.jpg"
+    }
+}

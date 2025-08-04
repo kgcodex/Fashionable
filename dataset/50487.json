@@ -1,0 +1,17 @@
+{
+    "id": 50487,
+    "brandName": "Chromozome",
+    "productDisplayName": "Chromozome Men Red Trunk Trunks",
+    "price": 249,
+    "description": "Red Sports trunks that have a red, grey and black broad, elasticated waistband, stitch detailing, printed branding above the left hem and slightly elasticated at the legs for enhanced comfort",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7391ce548997a25bfe41ffafa4df42d1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7c96705f31c9fb3a53f013e6ae56a0a0_images.jpg"
+    }
+}

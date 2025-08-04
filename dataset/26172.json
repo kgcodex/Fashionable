@@ -1,0 +1,17 @@
+{
+    "id": 26172,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Metallic Casual Sandals",
+    "price": 1490,
+    "description": "NA",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9abf99232acf9c0f4eeaf879b85969a3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/df7aa6e310ae6975d2a033df1260cc21_images.jpg"
+    }
+}

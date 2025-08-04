@@ -1,0 +1,17 @@
+{
+    "id": 12970,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Response Team White Sports Shoes",
+    "price": 5299,
+    "description": "Designed for the tennis player who cares little about the court and more about the game, the adidas Response Team RG shoe comes in a high end design and provides high performance. UpperSynthetic leather upper for absolute support with no break-inMeshed tongue and inner bootie for breathable comfortLace-up system for a snug, customised FitPadded tongue and collar for all-day comfortPadded footbed for in-step comfortadidas Patented 3-Stripes on the midfoot for enhanced shoe structure and styleMidsoleMoulded EVA insole with adiPRENE inserts in the heel and adiPRENE+ inserts in the forefoor for an absolutely cushioned ride and enhanced impact protection3D Torsion for torsional stabilityOutsoleTPR outsole created using Adiwear 6 technology for enhanced durability Herringbone grooves in the forefoot and heel for absolute grip and tractionShoe careWipe surface with a damp, clean cloth to remove dust and dirtDo not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/38f2be67a199d8a4a51cecd51e8c92ff_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7b065aa2701a5d6b632fb656984fb6ab_images.jpg"
+    }
+}

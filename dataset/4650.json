@@ -1,0 +1,17 @@
+{
+    "id": 4650,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Neo Chicane Black Blue Sandal",
+    "price": 1699,
+    "description": "Get ready to float in comfort with these Neo Chicane floaters from adidas. Comfortable yet sturdy, these sandals will perform just as well on everyday walks in the park or a stretch of wild terrain on an adventure trek.UpperSynthetic midfoot, front ankle and back ankle straps, with velcro fasteners for easy adjustment to attain a snug FitElasticated piping on the sides of the straps for better flexibilityMidsoleDual toned grooved footbed for soft, all day comfortOutsoleTPU outsole for durabilityRidge pattern for superior tractionFlex grooves for natural movement of the feetWash careRub surface with a clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ec9fc35f26097735ad759ca084af5497_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1fbbd5ba29fb3dfb42734f6a017e39ea_images.jpg"
+    }
+}

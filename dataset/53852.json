@@ -1,0 +1,17 @@
+{
+    "id": 53852,
+    "brandName": "Vishudh",
+    "productDisplayName": "Vishudh Women Pink Printed Kurta",
+    "price": 499,
+    "description": "Pink printed kurta, has a round neck with a slit neckline, yellow panelling at the yoke, short sleeves and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vishudh-Women-Pink-Printed-Kurta_afdba095b607af2a3aee614fad864321_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vishudh-Women-Pink-Printed-Kurta_9964b06681efb6e0dc6c1bbc7723746e_images.jpg"
+    }
+}

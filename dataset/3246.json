@@ -1,0 +1,17 @@
+{
+    "id": 3246,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Benecio Black Coffee Leather Shoe",
+    "price": 2799,
+    "description": "Composition:Black coffee low profile vulcanized lace-up shoes made of leather uppers with screen printed sockliner and rubber outsolesThere is no keeping a low profile with these low-profile shoes from puma. The simple design and durable construction goes well with everything. The shoes come with leather upper for instant style and durability, cushioned midsoles for comfort and stability and rubber outsoles for maximum traction. Perfect for urban life.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/337176713c585a893167d04e18da6d75_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/61dd67212081f5bfb215570d116b6923_images.jpg"
+    }
+}

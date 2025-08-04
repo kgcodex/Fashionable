@@ -1,0 +1,17 @@
+{
+    "id": 40624,
+    "brandName": "Span",
+    "productDisplayName": "Span Women Brown Kurta",
+    "price": 679,
+    "description": "Style Note",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f383d9546e5e1d35ff7a46b4a5f241da_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8d996ae11914dac06760101b2669a584_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 10297,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Men Black Leather Loafers",
+    "price": 3999,
+    "description": "A pair of black loafersLeather upper with elasticated gussets on either side of the mouthComplete sheepskin inner liningEVA midsoleSoft leather footbed with soft tread technology in the heelTextured rubber outsoleWarranty: 3 months against manufacturing defectsWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Smart Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/666f21df82c0ea67135de194ef42f104_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/04d3761093d3e663f3d704f76fd2a7ae_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 57438,
+    "brandName": "Angry Birds",
+    "productDisplayName": "Angry Birds Women Charcoal T-shirt",
+    "price": 549,
+    "description": "Charcoal T-shirt, print on front with flock print detail, round neck with rib knit binding, short sleeves, brand badge on left sleeve, printed branding on the inside",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Angry-Birds-Women-Charcoal-T-shirt_f120f5cc73dbb436470cdc0494218468_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Angry-Birds-Women-Charcoal-T-shirt_9b349f26e628cad93db9496a2ad25c2b_images.jpg"
+    }
+}

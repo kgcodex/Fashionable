@@ -1,0 +1,17 @@
+{
+    "id": 5397,
+    "brandName": "Decathlon",
+    "productDisplayName": "Artengo Artengo Bad 650 Man",
+    "price": 2799,
+    "description": "Designed for : EXPERT badminton or squash players.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/05c530db2207d118782ab96be0470336_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9ca61f32a9fcea2d594011c9dc649d36_images.jpg"
+    }
+}

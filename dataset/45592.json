@@ -1,0 +1,17 @@
+{
+    "id": 45592,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Tan Formal Shoes",
+    "price": 5399,
+    "description": "Pointy toed tan brown shoes, mid-top styling, central lace-ups Mildly padded inner Tough sole with a stacked heel Warranty: 3 monthsWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/aea9d3d70b5025a443de1b2d7c31dd7c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e228900ef92e69401f0130d7f0823ba4_images.jpg"
+    }
+}

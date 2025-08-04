@@ -1,0 +1,17 @@
+{
+    "id": 30089,
+    "brandName": "Ed Hardy",
+    "productDisplayName": "Ed Hardy Men Black Dial Watch",
+    "price": 8995,
+    "description": "Case style: Analog watch with a square stainless steel case Dial style: Black dial with silver hands Strap style: Black genuine leather strap with circular cutwork patterns, has a tang clasp with a fixed loop for a custom fit Features: Branding at the 12 hour mark, date aperture at the 6 hour mark, graphic prints on the dial and screw to reset time Water resistant 30 mComes in a signature Ed Hardy case Warranty: 2 years against manufacturing defects",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Ed-Hardy-Men-Watches_5c26f1fd56af274f93ef46c70c5c70d1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Ed-Hardy-Men-Watches_db28533d46242a42abc08a8560e0e930_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 49986,
+    "brandName": "Hanes",
+    "productDisplayName": "Hanes Women Assorted Socks",
+    "price": 125,
+    "description": "Grey socks with white and black accents, has ribbed and elasticated cuff with branding Please note that the actual product may vary in colour or print from the displayed image",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hanes-Women-White-Socks_4f385288da726f52089ee3594942a227_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hanes-Women-White-Socks_44f8240238c7c47523f9e5355178a3ef_images.jpg"
+    }
+}

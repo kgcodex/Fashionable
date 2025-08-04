@@ -1,0 +1,17 @@
+{
+    "id": 6386,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Route Ducati White Shoe",
+    "price": 4999,
+    "description": "The En Route LT from the puma Ducati series is one of the best lightweight and well ventilated shoes you can ever offer to your feet. Upper Leather and synthetic leather upper for extended durability Slim and snug lacing puma and ferrari logos adorn the upper Perforations on the sides for ventilation Midsole Injected EVA midsole for cushioned comfort and durability Outsole Durable racing-inspired rubber outsole for outstanding traction",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a842645ca5e45305f2cf48ffb869e383_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0d4d09deb71657c2ac142d0b67358093_images.jpg"
+    }
+}

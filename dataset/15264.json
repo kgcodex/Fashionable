@@ -1,0 +1,17 @@
+{
+    "id": 15264,
+    "brandName": "ADIDAS Originals",
+    "productDisplayName": "ADIDAS Originals Women Ulama Black Casual Shoes",
+    "price": 3599,
+    "description": "Inspired by the sport of wrestling, the Ulama from adidas originals is a sleek and lightweight leisure trainer. Fashionable and packed with practical features, this shoe works great with casual wear, and when gymming, cycling, practicing taekwondo, runing, for pilates, yoga and walking - a perfect blend of smart and useful!UpperSoft leather upper with adidas patented 3-Stripes on the sides of the midfootLacing system for a snug, customised FitMildly padded collar and tongue with a textile inner lining for comfort and optimum fitMildly padded footbed for all-day comfortHard back heel to lock the foot in placeMidsoleMoulded midsole detailing for vintage style and impact protectionOutsoleTPR outsole with suction grooves strategically placed along the multi-directionally grooved forefoot, pivot point on the big toe mound for easy 180 degree movement of the foot, and has adidas trefoil shaped lugs on the backfoot for absolute durability, grip and tractionShoe careWipe surface with a clean, dry cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ffafd088d0c8200c3ae44a5f1e0e6ecc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1e3e80886c98e2d2515bcc1ecfe1989a_images.jpg"
+    }
+}

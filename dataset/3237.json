@@ -1,0 +1,17 @@
+{
+    "id": 3237,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Espera White Red Shoe",
+    "price": 3499,
+    "description": "Composition:White and red ballerina flats made of patent leather with rubber outsolesThese ballerina flats from puma are a fresh take on the Scudera ferrari collection. The streamlined design of the uppers and the strong heel counter gives excellent structure, while the rubber outsoles provide great traction. Perfect for cheering Team Ferrari on the race tracks and urban living alike.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/12f4c85e346796c594f2157377c16ac3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ffa30d3f6c8153ad0eb338ce7d0813fb_images.jpg"
+    }
+}

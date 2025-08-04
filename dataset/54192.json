@@ -1,0 +1,17 @@
+{
+    "id": 54192,
+    "brandName": "HIGHLANDER",
+    "productDisplayName": "Highlander Men Khaki Chinos",
+    "price": 909,
+    "description": "Khaki twill weave chinos, has two slant pockets on the sides, two buttoned welt pockets at the back, stitch detailing, belt loops on waistband and a zipped and button closure on the front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Highlander-Men-Khaki-Chinos_0cfb77768cc042e276c0b018e1ef4dfe_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Highlander-Men-Khaki-Chinos_a11a41831ca9de5e769faab17cc6524f_images.jpg"
+    }
+}

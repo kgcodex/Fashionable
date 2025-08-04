@@ -1,0 +1,17 @@
+{
+    "id": 53417,
+    "brandName": "Alma",
+    "productDisplayName": "Alma Women Teal Kurta",
+    "price": 499,
+    "description": "Woven teal kurta with red print, has a V-neckline, a see-through lace detail along the chest, back chest and hems, three quarter sleeves and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Alma-Women-Green-Kurta_ad7cd5ae0c39862c756a0d3359a16727_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Alma-Women-Green-Kurta_4daa6ddcc7e001fa44ca63afb2108ab4_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 23847,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men White Duramo 3 Sports Shoes",
+    "price": 3699,
+    "description": "Take running to the next level with these Duramo 3 M shoes from adidas. These comfortable trainers are engineered with dry Fit technology and superior cushioning with better shock absorption properties. Team it up with jeans and tees for a cool casual look. Upper Mesh uppers with synthetic overlays for breathable comfort and structure Lace-ups for better fit Iconic three stripes on the sides symbolising the challenges that are seen ahead and goals that can be achieved Padded collar and tongue and textile shoe lining for better comfort Midsole Cushioned foot-bed for all day comfort EVA mid-sole for better shock absorption and cushioning Outsole adiPRENE&reg;+ delivers supreme forefoot cushioning adiPRENE&reg; offers under heel impact protection adiWEAR&reg; out-sole supplies optimal durability in high-wear areas Scooped out heel gives better cushioning of the heel from shock Impact guidance system enables better motion of the feet Flex grooves provide better flexibility to the feet Wash care Wipe surface with soft, clean, damp cloth Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4d6192ddc76303ce79166eaca2ada9bd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0de73f2abdc3a05e085f42e3218e1fde_images.jpg"
+    }
+}

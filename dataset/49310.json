@@ -1,0 +1,17 @@
+{
+    "id": 49310,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Pack of 5 Socks",
+    "price": 545,
+    "description": "Pack of five high ankle length socks &ndash; two in navy blue and black, beige and brown with design all over, elasticated and ribbed cuffs for a good fit and grip, three dimensional shaped heel and toe for a good fit",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Pack-of-5-Socks_b2f19006611df93d925191258d53749b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Pack-of-5-Socks_e3461d81734a00e2485cfcf5c4b1dc73_images.jpg"
+    }
+}

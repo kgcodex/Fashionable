@@ -1,0 +1,17 @@
+{
+    "id": 23469,
+    "brandName": "Lino Perros",
+    "productDisplayName": "Lino Perros Men  Grey Striped Scarf",
+    "price": 795,
+    "description": "This comfy striped scarf from lino perros in grey is made of luxe blended fabric that offers exemplary warmth, making it a perfect addition to your winter wardrobe. Team it with a formal jacket or use it to smarten up a casual coat.Length: 162 cmWidth: 32 cmWash careDry clean onlyDo not bleachWarm iron",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Men-Grey-Striped-Scarf8a0999d1a8316c71f95272b2cff67401_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Men-Grey-Striped-Scarf6f88aeba1040788addf6fb92b21d37ab_images.jpg"
+    }
+}

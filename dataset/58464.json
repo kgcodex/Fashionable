@@ -1,0 +1,17 @@
+{
+    "id": 58464,
+    "brandName": "Fossil",
+    "productDisplayName": "Fossil Men Brown Belt",
+    "price": 1795,
+    "description": "Brown belt that has a tang clasp with a fixed loop to offer a snug Fit and to hold the belt in placeHoles to customise fitBranding embossed below the buckle",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fossil-Men-Brown-Belt_aea69e5c8f6403b8c4fb7dc855c83985_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fossil-Men-Brown-Belt_b69b726b1ca4023df8d3150f9ba418d9_images.jpg"
+    }
+}

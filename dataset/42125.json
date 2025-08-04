@@ -1,0 +1,17 @@
+{
+    "id": 42125,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Grey Ruckus Casual Shoes",
+    "price": 4295,
+    "description": "Style NoteTheres nothing better than a lightweight technical shoe that provides loads of comfort and durability. The nike Ruckus Mid shoes is a powerful sneaker, with its simple style and extremely durable construction.Product DetailsRound toed midtop shoe with synthetic upper with nubuck overlays Suede upper with synthetic leather overlays for durabilityMeshed and padded collar and tongue for all day comfortPerforations for breathabilityHigh ankle collar and heel cup for better support to the lower legLacing system for snug, customised Fit Removable footbed to accommodate an orthoticNike swoosh on either sides and brand name on the collarPU midsole for lightweight cushioning and comfortDurable rubber outsole with herringbone grooves for versatile traction and absolute gripWarranty for manufacturing defects: 6 months (not valid on products with more than 20% discount)Material and CareSynthetic and suedeUse a damp cloth to remove dust and dirtDo not store in direct sunlightWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b6390ba9bd02d055681aa2e6e1ee455e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1af93aa1dbd0232f6f97bb8a0713d1f2_images.jpg"
+    }
+}

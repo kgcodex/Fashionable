@@ -1,0 +1,17 @@
+{
+    "id": 14009,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Printed Black Tshirts",
+    "price": 995,
+    "description": "CompositionDark grey T-shirt made of 100% cotton, has a ribbed crew-neck with tape detailing on the inseam, short sleeves and graphic print on the frontFittingRegularWash careMachine wash cold with like coloursDo not dry cleanDo not bleach Tumble dry on lowCool iron onlyDo not iron on print or embroideryUnleash baseball fury in this dark grey T-shirt from nike. The classic, comfortable Fit is complemented by the bold graphic print of an animated eagle playing baseball, while the cotton fabric provides all day comfort. Team this with jeans and canvas shoes for a strong, aggressive look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/912aa08d3989d36e10d3ad717d29f8c8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a38d2baf96ff9767bfdace3a07503d9d_images.jpg"
+    }
+}

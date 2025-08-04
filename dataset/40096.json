@@ -1,0 +1,17 @@
+{
+    "id": 40096,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Blue T-shirt",
+    "price": 999,
+    "description": "Style Note adidas helps you avoid discomforts and keep dry and comfortable. These T-shirts also offer you a stylised look that is most flattering on your day off. Pair it with a pair of jeans and sports shoes on the weekend or for Friday casuals to your office. Product Details Blue T-shirt, has a V neckline, short sleeves, graphic print in front and branding in the graphic print Material and Care 100% cotton Machine wash at 40 degrees with like colours using a mild detergent Do not soak, tumble dry, bleach or dry clean Dry in shade Warm iron; do not iron on decorations Size and Fit Regular fit The model (height 6' and shoulders 18\") is wearing a size M",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/30e8b14ae2be0e0c65ed1bd6ca023e75_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a143fd4ae5fa5153a37267608878271b_images.jpg"
+    }
+}

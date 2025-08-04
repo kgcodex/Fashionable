@@ -1,0 +1,17 @@
+{
+    "id": 5707,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men's Shaver-Towing Charcoal Shoe",
+    "price": 3199,
+    "description": "Stay cool and stylish for the long haul in the skechers Shaver-Towing shoe. Created with a smooth leather upper in a lace-up casual sneaker style, this shoe speaks volumes of your personality wherever you go.Upper Smooth lightly distressed leather upper Lace up casual sneaker design and snug Fit Stitching accents with leather overlay details for extended durability Perforations over the toes for ventilation Side stripes with contrast colored canvas fabric stripes to add weight to the structure Metal stud detailing on side stripes to further stress the adhesive Embossed side brand logo Padded collar and tongue with soft fabric shoe lining for comfort fit Midsole Relaxed Step cushioned comfort insole Shock absorbing EVA midsole Outsole Flexible rubber high traction outsole Shoe careUse a dry brush to dust off the dirtUse a branded leather polish",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c53525a0d50cf8a5b533823580968669_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1fd8b17376563e2ee191346f9075359d_images.jpg"
+    }
+}

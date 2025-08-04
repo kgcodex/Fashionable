@@ -1,0 +1,17 @@
+{
+    "id": 34794,
+    "brandName": "Flying Machine",
+    "productDisplayName": "Flying Machine Men Black Hat",
+    "price": 699,
+    "description": "Style NoteA stylish hat from flying machine to beat the blues! This fedora will help you keep your cool (literally) with its styling, even as you look great.Product DetailsBlack hat with silver stripes, has a curved visor around the sides and back and a sash around the crownMaterial and CareBlended fabricDry clean only",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b507a3c9d8318bc4c798d0e59b7addc9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f050b5646efa6d0b0514d5aa3c56d432_images.jpg"
+    }
+}

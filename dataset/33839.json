@@ -1,0 +1,17 @@
+{
+    "id": 33839,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Complete Vectana Grey Sports Shoes",
+    "price": 7999,
+    "description": "The Complete Vectana 3 from puma is a lightweight running shoe that adds superior styling to a classic design. The mesh upper lends itself to breathability and lightness. The shoes come with great midsole support coupled with shock absorber function. The rubber soles in a multi-directional pattern give ample grip to the feet, while the forefoot flexors allow greater flexibility. Upper Mesh upper for maximum breathability Reflectives for greater safety dawn to dusk Padded collar and tongue for snug Fit and shock absorption Lace up front for snug fit Midsole IdCELL midsole with ArchTec component for greater support OrthoLite insole for superior breathability, moisture control, anti-microbial properties Cushioned footbed made from an environmentally friendly, sustainable material instead of traditional fossil fuel-based material Outsole EverTrack outsole for abrasion resistance with EverRide and EML Lite component for lightweight cushioning Multi directional lugs in carbon rubber for strong grip on uneven terrain Decoupled heel for ultimate air traction while running or walking shoe care Wipe surface with soft, clean, damp cloth Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0e6b21a0ab076b1840e8b0d25a0903ee_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/45c6442dc4a99545d3feca798180d1e4_images.jpg"
+    }
+}

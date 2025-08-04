@@ -1,0 +1,17 @@
+{
+    "id": 4665,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex Peachtree Digital Black Watch",
+    "price": 2295,
+    "description": "Product descriptionStylish to the T, this all black Peachtree Digital wrist watch with silver buttons from adidas is built in a classic retro square look, making it a subtly stylish piece.Case diameter: 38 mmCase thickness: 13 mmDial shape: Square with rounded endsBlack polyurethane strap and polycarbonate case for added durability, style and comfort Black resin large square bezel and case with 4 silver-tone selector buttonsPerforated straps with tang clasp for easy adjustment, firm grip and ventilationDigital dial displaying hours, minutes, seconds, time in am/pm format, date and day of the weekChronograph where time is counted and accumulated in various formats independent of the main time, like displaying date, month, time from other times zones, etc.Negative (light-on-dark) digital numbers to view time in low light conditionsCountdown TimerDual time zone display to view two zonal timings at the same time and switch between them easilyDigital alarm in either time zonePush-button electroluminescent (EL) to view time in low light conditionsQuartz movement of time display using a paper-thin piece of synthetic quartz to ensure accurate time measurement 10 ATM water resistance tested using the equivalent static depth rating, with resistance&nbsp; at 50 meters or 165 feet, allowing you to use it even when snorkelling, skin-diving, and swimmingSolid case back for enhanced durability10 Lap memory that allows the watch to record upto 10 laps. The watch divides its readings into sessions and provides average, best and local time. You may either rename these sessions or they will hold default names such as set 1, set 2, etc.",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4406c03da448c3223eddf73f2fb6d6bf_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a4afd4ec9b0d5c18b8b5369cc702102f_images.jpg"
+    }
+}

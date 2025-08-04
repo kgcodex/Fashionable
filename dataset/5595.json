@@ -1,0 +1,17 @@
+{
+    "id": 5595,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Check Can White Shoe",
+    "price": 1299,
+    "description": "These lifestyle canvas shoes from adidas are great for casual wear. They give superior traction and protection to the feet while remaining comfortable and stylish. Team these with jeans and tees for a great casual look.UpperHeavy cotton uppers in khaki green checks for snug Fit and protectionGreen cotton lace-ups for snug fitBreathable canvas and upper re-enforcement with rubber compound for strength and longevity.MidsoleShock-absorbing rubber midsole for added comfortOutsoleRubber outsole with circular lugs in alternating up and down pattern for superior gripAbrasion resistant foxing &amp; toe-guard for additional protection and durabilityshoe careWipe surface with soft, clean, damp clothDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8f81dcbd08570e3226c1db5caecb14c5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/732c6d7026c5feed7e32a778883bb3f4_images.jpg"
+    }
+}

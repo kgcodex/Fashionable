@@ -1,0 +1,17 @@
+{
+    "id": 7820,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Blue Polo T-shirt",
+    "price": 699,
+    "description": "Blue polo T-shirt, has a polo collar, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8707db5bb96d62d7a4129fa8545ed40e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/56c19c3a69e4819882a973da8df4a112_images.jpg"
+    }
+}

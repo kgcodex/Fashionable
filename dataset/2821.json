@@ -1,0 +1,17 @@
+{
+    "id": 2821,
+    "brandName": "Lee Cooper",
+    "productDisplayName": "Lee Cooper Men Formal Leather Brown Sandal",
+    "price": 1785,
+    "description": "Composition:Light brown formal leather sandalsWash care:Clean with a leather conditionerFitting:RegularThese dark camel formal leather sandals from lee cooper are a great addition to your wardrobe. Wear them with jeans or chinos in summers and let your feet breathe and stay fresh all day long.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/be4cfaa170bcfa889607f56fb545a94a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a7cc0a46b320f71742e114882c56e4b8_images.jpg"
+    }
+}

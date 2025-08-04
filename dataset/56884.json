@@ -1,0 +1,17 @@
+{
+    "id": 56884,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Black Heels",
+    "price": 1399,
+    "description": "Heel: 1.25\" Open toed heels with a thong style upper and a toe separator and a forefoot strap Soft footbed with a brand label at the heel region Tapering slim heel with a plastic heel cap Tough non-slip sole with herringbone grooves at the midfoot region",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Black-Sandals_83d1dc07228a77e521532fce5bc765de_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Black-Sandals_bf86eb6025d8de7435a1bda717f8723f_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 54382,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Olive Handbag",
+    "price": 1575,
+    "description": "Olive green handbag with knit texture and two short handles A double welted zipped pocket on the front One large zipped compartment with two zipped pockets on the sides One external zipped pocket at the back Branding at the bottom",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Olive-Handbag_9b2689a758be1a8092c708435e7905af_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Olive-Handbag_e6171d9fa6943a1d688a853c03378451_images.jpg"
+    }
+}

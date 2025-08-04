@@ -1,0 +1,17 @@
+{
+    "id": 22698,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Zoom Vomero+5 White Sports Shoes",
+    "price": 8900,
+    "description": "Choose the nike Zoom Vomero+ 5 for a better Fit, smoother ride. A classic, refined. The nike Zoom Vomero+ 5 running shoe combines the best Zoom Vomero features with an enhanced fit, smoother ride and lighter weight. Runners know and love the Vomero for its plush, responsive cushioning. Like its predecessor, this shoe features heel and forefoot Nike Zoom units, along with a full-length, soft midsole for responsive cushioning and durability. Stretch mesh panels help lock down the midfoot while stretching and flexing with it for comfort and support. An inner-sleeve, or bootie, lends a plush fit and feel. For a smoother transition and cushioning when your heel hits the ground, this running shoe has a more segmented crash pad below the heel than earlier Vomeros. And areas of blown rubber on the outsole have been extended in the Vomero+ 5 to promote a smooth, efficient stride while enhancing cushioning. Best for underpronators to neutral-gait runners Upper The upper features Dynamic Fit windows that stretch to accommodate various widths Elastic mesh panels for lockdown and an adaptable fit Mostly open-mesh upper for breathability Reflective elements for enhanced visibility in low light External heel counter that wraps the heel for a snug, secure fit Midsole Nike Zoom units for lightweight, responsive cushioning Arch support to help stabilize the foot while letting you move more naturally Outsole Flex grooves for flexibility and a smooth, efficient stride Lugs and grooves on outsole for traction and grip Shoe care Wipe surface with soft, clean, damp cloth to remove dust Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/92fd56532ab0cfb14a40406d37062d28_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c7566b1de3a4fe2ab7322f21c91fb706_images.jpg"
+    }
+}

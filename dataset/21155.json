@@ -1,0 +1,17 @@
+{
+    "id": 21155,
+    "brandName": "s.Oliver",
+    "productDisplayName": "s.Oliver Women Green Check Shirt",
+    "price": 1999,
+    "description": "Green check shirt made of 100% cotton, has a spread collar with a deep V-neckline, full buttoned placket, short sleeves with buttoned cuffs, a patch pocket on the left chest, belt and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7243cf5f5bbcc2cd7b92e37c4aa29466_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/caf65cc792a36044e0b378a72be519b7_images.jpg"
+    }
+}

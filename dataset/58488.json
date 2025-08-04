@@ -1,0 +1,17 @@
+{
+    "id": 58488,
+    "brandName": "Senorita",
+    "productDisplayName": "Senorita Women Black Heels",
+    "price": 999,
+    "description": "A pair of black heels with synthetic upper, Criss-cross strap from midfoot till the ankle fastened by a velcro closure Tan soft footbed with branding on the heel TPU textured outsole with heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Senorita-Women-Black-Sandals_8e0dc61b4e8f0e8be34050ea93c079b6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Senorita-Women-Black-Sandals_ccb103f49f81730d807fe9dfe5ed69a3_images.jpg"
+    }
+}

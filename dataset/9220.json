@@ -1,0 +1,17 @@
+{
+    "id": 9220,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Snipper Red Casual Shoes",
+    "price": 1499,
+    "description": "Absolutely stylish and comfortable to wear, the puma 917 Mid Graphic shoe is a great addition to your wardrobe. Names after the Porsche 917 that Steve McQueen drove in the legendry movie \"Le Mans\", this Basketball shoe combines the designs of Speed cat and Future Cat. Perfect for casual outings and weekend picnics, this high ankle shoe offers all the comfort your feet can ever ask for. Team this with jeans and t-shirts for a cool, casual look. This shoe comes with an additional pair of laces in contrast colour to suit your styleUpperCanvas upper for durability and breathable comfortLong tongue for a comfortable, snug FitHigh ankle with a V-opening at the back for added protection to the ankleCanvas overlays for midfoot supportVelcro strap fastener at ankle for a snug, customised fitLace-ups for snug fitRubber toe box for enhanced durability and forefoot protectionMidsoleFull length EVA midsole for lightweight durabilityCushioned footbed for all-day comfortOutsoleDurable rubber outsole with multi-directional lugs, grooves and suction points for maximum durability and traction on all surfaces",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/367d1faf9e89f2ff5d5d268307da0b4c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/55738e4eb1d24c229eb9a63a91e63f7f_images.jpg"
+    }
+}

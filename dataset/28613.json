@@ -1,0 +1,17 @@
+{
+    "id": 28613,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Max Tailwind Grey Sports Shoes",
+    "price": 7995,
+    "description": "The nike Air Max Tailwind+ 2 is a running shoe built for the neutral to under pronator who requires enhanced cushioning.UpperBreathable mesh upper ensures a cool and comfortable environmentHardy Flywire sewn into the upper for targeted support and an enhanced FitNearly seamless upper design through the forefoot and no-sew synthetic overlays to minimize the likelihood of irritationInjected TPU in the toe for extra protection and great fit in the forefootFull inner sleeve to provide a secure fit and great step-in feelMidsoleMolded EVA sockliner for lightweight plush comfort and supportFull-length Cushion midsole for soft, responsive cushioning and exceptional impact protection for a smooth transitionrunning specific, low-pressure Air-Sole units in the forefoot and heel for a smooth, stable rideA heel design that adds structure and stability for reinforced medial supportFoam pillars around the heel Air-Sole unit for maximum support and durabilityOutsoleEnvironmentally preferred rubber outsole in a waffle fill pattern for durable traction on mixed terrainBRS 1000 carbon rubber in the heel for abrasion resistanceDeep flex grooves to promote smooth transition from heel strike through toe-offshoe careDo not machine washRemove dust and dirt with damp clean clothDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ecafb05bcdf80b55bf57ad1a350d5d68_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/72ed2ca430decdbc95fbc0ca05a6c032_images.jpg"
+    }
+}

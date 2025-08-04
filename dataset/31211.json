@@ -1,0 +1,17 @@
+{
+    "id": 31211,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Ring Leader Low White Sports Shoes",
+    "price": 4595,
+    "description": "The nike Air ring Leader Low for men with its incredible lightness is a favourite among comfort junkies who love sport. The shoe is made out of tough upper, and the bottom of the shoe has enhanced cushioning. There is light fabric under the toe and it breathes well. The padding on this shoe is designed for optimal grip. UpperSynthetic upper with perforations on the toe and midfoot areaSoft, removable sockliner to accommodate an orthoticCentral lace upsPadded fabric innerOutsole reinforced onto the upper at the toe to act as a toe guardPadded tongue with brandingMidsoleFull length Phylon midsole for absolute shock absorption and lightweight comfortOutsoleHerringbone grooves on the outsole with a branded lug at the midfoot regionShoe careWipe surface with damp, clean cloth to remove dustDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/32d43c92552140db71899a2e93813cbd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/efff83ba1704bf1907991c5ec68b02ca_images.jpg"
+    }
+}

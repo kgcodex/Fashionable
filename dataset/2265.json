@@ -1,0 +1,17 @@
+{
+    "id": 2265,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Womens NIKE MILER SS TOP T-shirt",
+    "price": 1095,
+    "description": "Composition:This t-shirt is made of 100% polyesterWash Care:It can either be hand washed or machine washedFitting:Comfort FitAction:Stay cool in this t-shirt when your body heats because of its unique heat absorption technology",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/37c62dfe3421fa87205baa98d13d3db0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/58fc9ec00396c3da0d7e5b2179c0c2b4_images.jpg"
+    }
+}

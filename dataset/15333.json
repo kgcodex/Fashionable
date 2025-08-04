@@ -1,0 +1,17 @@
+{
+    "id": 15333,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Solid Black Shorts",
+    "price": 1695,
+    "description": "CompositionBlack shorts made of 100% polyester Dri Fit fabric, has an elastic waist with drawcord on the inside, insert pockets on the sides, zippered pocket on the right hip, mesh panel on the inseam of the legs and embroidered brand logo on the left leg hemFittingComfortWash careMachine wash cold with like coloursDo not bleachTumble dry lowCool iron, but do not iron on designDo not dry cleanBuilt with the breathability and zero-distraction fit that athletes demand, this nike tennis shorts comes in a body-friendly design. This high-performance shorts features Dri-Fit technology that wicks sweat away from the skin and keeps you dry. Team it with t-shirts and track jackets.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bd22e2826399f13229fd87c9d2d147ab_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/16c9b7fc0157a3a35c4076b38d0bc2ee_images.jpg"
+    }
+}

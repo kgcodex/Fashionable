@@ -1,0 +1,16 @@
+{
+    "id": 53055,
+    "brandName": "FNF",
+    "productDisplayName": "FNF Blue Printed Sari",
+    "price": 2862,
+    "description": "Blue with pink, black and white printed sariTaping at border",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fashion-N-Fabrics-Printed-Blue-Sari_90212aeb5c3b75e146408f1f12e5b6ef_images.jpg"
+    }
+}

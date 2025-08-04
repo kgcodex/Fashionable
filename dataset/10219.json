@@ -1,0 +1,17 @@
+{
+    "id": 10219,
+    "brandName": "Carrera",
+    "productDisplayName": "Carrera Men Strap dial Yellow Watches",
+    "price": 4450,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f41622050feee79417b30a06a6de0da0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7cb25e4c987665e9d391aac533337e8e_images.jpg"
+    }
+}

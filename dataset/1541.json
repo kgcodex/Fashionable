@@ -1,0 +1,17 @@
+{
+    "id": 1541,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Ballistic Spike White Green Shoe",
+    "price": 5299,
+    "description": "Designed for players who are on their feet all day, the Ballistic rubber has considered what is required to keep you comfortable. Ultra light microfibre upper construction with minimal overlays helps end-of-the-day fatigue, yet support is not reduced due to the introduction of the integrated Lace-Wrap system and rear support pieces. A meshed upper enhances ventilation, keeping the feet fresh and comfortable all day.Upper Lightweight microfibre with breathable mesh panels Perforated toe box detail Abrasion resistant toe overlay for enhanced durability Padded heel for traction Integrated lace-wrap stability support system High visibility cosmetics Midsole Compression moulded EVA with idCELL heel unit and ArchTec stability shank Soft EVA innerboard and padded sockliner Outsole Rubber and metal spikes for grip on uneven terrain and smooth running gait",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c46009c155856a12fa1af674a854e32a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/44c85aa231e3fcc8e2be51f537dc7469_images.jpg"
+    }
+}

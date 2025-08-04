@@ -1,0 +1,17 @@
+{
+    "id": 9074,
+    "brandName": "Mark Taylor",
+    "productDisplayName": "Mark Taylor Men Solid White Shirts",
+    "price": 519,
+    "description": "NA",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cd425616c1061eab64b13c095c16fb0b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c1225353f1f529fffdf806e887fa8e28_images.jpg"
+    }
+}

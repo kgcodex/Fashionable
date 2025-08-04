@@ -1,0 +1,17 @@
+{
+    "id": 4441,
+    "brandName": "Converse",
+    "productDisplayName": "Converse Unisex Canvas Hi White Shoe",
+    "price": 1299,
+    "description": "Dedicated to Basketball champ Chuck Taylor, this Chuck Taylor All-Star series from converse are also called Chucks and come in classic designs. Created using canvas and rubber, this range of sneakers from Converse were initially designed to capture the basketball market, but soon enough turned into hot casual footwear favourites.UpperCanvas upper for easy maintenance and durabilityPlain white upper with Chuck Taylor logo on inner ankle for added brand styleCarbon rubber toe box for enhanced protection of the upper footLong canvas tongue for added comfort and snug FitSynthetic twill lace running through metallic eyelets for durability and snug fitHigh ankle for snug ft and added support to the ankleMidsoleCushioned fabric footbed for comfort and breathabilityOutsoleReinforced guard to protect the forefoot of the shoe and enhance durabilityVulcanized rubber outsole for flexibility and tractionWaffle pattern outsole for superior grip on all terrains",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9b9f2759576807c97aca64c7f3d989c1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a32a3e68bdcf5cf740315432a597746c_images.jpg"
+    }
+}

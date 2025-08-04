@@ -1,0 +1,17 @@
+{
+    "id": 7768,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's As Vapor Ulti Grey Black T-Shirt",
+    "price": 2495,
+    "description": "CompositionMesh t-shirt with Dri Fit technology that has a grey front panel made of 90% polyester and 10% spandex, contoured back panels in grey shades made of 93% polyester and 7% spandex, back inset made of 100% polyester, ribbed neckline and black raglan sleeve&nbsp;FittingRegularWash care Machine wash cold Wash with like colours Do not use softeners Remove immediately Do not allow to lay on itself when wet Do not bleach Line dry Do not iron Do not dry clean Stylish to the T, this black t-shirt from nike with Dri-FIT technology looks stylish and helps improve your performance. This tee is designed to be cool, breathable, and to wick moisture away from the body. Team it with tracks and performance shoes for workouts and training sessions.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c82c61ca998174abea8db3eadb489522_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6c1ae49b03c7a3fac6e4b13b8d7bb69f_images.jpg"
+    }
+}

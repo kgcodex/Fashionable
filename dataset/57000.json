@@ -1,0 +1,17 @@
+{
+    "id": 57000,
+    "brandName": "HM",
+    "productDisplayName": "HM Women White Sandals",
+    "price": 899,
+    "description": "Open toed thong style upper with a crystal link embellishment and a toe holderSoft footbed with a brand label at the heelNon-slip outsole with a short heel and herringbone grooves at the midfoot region",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-White-Sandals_0be52092194b5c7f4211cc7cf89ea52c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-White-Sandals_3c85ad9f7465f8705b35da953ba0c3a2_images.jpg"
+    }
+}

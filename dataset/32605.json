@@ -1,0 +1,17 @@
+{
+    "id": 32605,
+    "brandName": "Levitate",
+    "productDisplayName": "Levitate Men Brown Wallet",
+    "price": 625,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "NA",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/46105df22c2e8f679b1b503740189997_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/aee4eca17e7dc6181404fe0d77ca8a8c_images.jpg"
+    }
+}

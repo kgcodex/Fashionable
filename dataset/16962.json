@@ -1,0 +1,17 @@
+{
+    "id": 16962,
+    "brandName": "Image",
+    "productDisplayName": "Image Men Sunglasses",
+    "price": 2490,
+    "description": "Lens Colour: Tinted brownFrame Colour: Mettalic brown&nbsp; Frame type: Metal, aviator style&nbsp; Flexible hinges for durabilityFixed nose pads made of rubber with a double nose bridge to hold the glasses in placeThis glasses come in a signature Image case&nbsp;",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Image-Men-Classic-Eyewear-Brown-Sunglasses_895ba99aebaa9120238330a81ee724b0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Image-Men-Classic-Eyewear-Brown-Sunglasses_c1a66ffb35fbf293f50e011f59537e21_images.jpg"
+    }
+}

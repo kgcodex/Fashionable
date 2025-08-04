@@ -1,0 +1,17 @@
+{
+    "id": 9378,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Cbf Core Black Caps",
+    "price": 995,
+    "description": "CompositionBlack football cap made of 100% cotton, embroidered eyelets on the crown, team logo embroidered on the front crown, nike Swoosh embroidered on side, and Velcro fastener at the backFittingComfortWash careHand wash in warm water at 40 degreesDo not wring, bleach, iron or dry cleanLine dryA true soccer fan that you are, you must have a favourite team...and if Brazil is your choice, this black soccer cap from nike belongs in your collection! Wear this cap as you cheer for the land of Kaka, Ronaldo and Ronaldinho, or when you're scoring on the field yourself! Looks great and offers protection from the sun as well. Team it with your casual clothes to look sporty.",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b5e334d6a3bd8645b3b6e2f9f97e4ea3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4cf6e8ddc25cb112bb603a267f5baea6_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 18711,
+    "brandName": "Arrow Woman",
+    "productDisplayName": "Arrow Woman Printed Brown Skirt",
+    "price": 1699,
+    "description": "Short skirt made of , has an elasticated wasitband with loops and ethnic print",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Women-Printed-Brown-Skirt_b5abb362f4ab150bb54566272f020270_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Women-Printed-Brown-Skirt_d8b2fe96a931163d70aaa69619c77403_images.jpg"
+    }
+}

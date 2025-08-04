@@ -1,0 +1,17 @@
+{
+    "id": 5701,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men's Flaunted Black Shoe",
+    "price": 3599,
+    "description": "Flaunt your style statement with the Citywalk Flaunted sneaker from skechers. Witha&nbsp; low profile design and sporty overlays, this Z-strap shoe has that absolute flair for the man of styleUpper Smooth leather and slightly distressed leather upper for that rugged look Overlays for that added shoe structure Leather side stripe accents for midfoot support Hook and loop zig-zag velcroed strap for snug Fit and added style Perforations on the toe box and sides for ample ventilation Stitch detailing for durability and style Padded tongue and sockliner with a fabric inner lining for snug fit Lace-up system for a snug fit Brand logo embossed on heel cup Midsole Relaxed Step comfort insole for superior support EVA midsole for durability and impact protection Outsole Durable rubber outsole with lugs along the periphery of the forefoot and heel, extending onto the toe guard and heel guard, with raised grooves in the central forefoot and heel for maximum traction and support Arched midfoot for ergonomic comfort Shoe careRub surface with clean, damp cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3231b29482c3c9f9839a76cb1fb44a55_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/db8d71aab559d66e0af68ad34c56a3ed_images.jpg"
+    }
+}

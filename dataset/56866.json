@@ -1,0 +1,17 @@
+{
+    "id": 56866,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Brown Flats",
+    "price": 999,
+    "description": "-",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Brown-Casual-Shoes_e8ed93bd819f633bdd331fa2d9abfd76_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Brown-Casual-Shoes_54e205272baf8bba58d53504f84f9ba8_images.jpg"
+    }
+}

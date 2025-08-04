@@ -1,0 +1,17 @@
+{
+    "id": 10125,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Women Premier Zigfly White Sports Shoes",
+    "price": 4999,
+    "description": "These Premier ZigFly combines our top performance running line with the patented Zig technology. These lightweight shoes provide a responsive ride for your run. Stylish and comfortable, wear this with performance clothes when going out for jogs, or team it with jeans or shorts and t-shirts for that casual look. Upper SmoothFit smooth seam upper offers ultimate in comfort with minimal irritation Open mesh uppers with synthetic overlays for greater breathability Mesh tongue for greater breathability Padded collar for greater comfort Central lacing for snug Fit Brand name appliqued on the tongue Synthetic overlay on the heel cup with branding Midsole PlayDry lining provides moisture management Forefoot flex grooves for flexibility and better running performance Phylon midsole for lightweight comfort Outsole Lightweight, low-profile ZigNano sole for a responsive ride High-abrasion rubber outsole for increased durability Multi-surface outsole for optimal traction Carbon rubber heel strike shoe care Do not machine wash Remove dust and dirt with damp clean cloth Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/261b7f8b7f1b403d14ca1dfa1562a5ed_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e677c0f715723260b8d2e962304230cc_images.jpg"
+    }
+}

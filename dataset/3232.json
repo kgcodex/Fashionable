@@ -1,0 +1,17 @@
+{
+    "id": 3232,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Speed Cat Black White Shoe",
+    "price": 3999,
+    "description": "Look trendy and stay comfortable in these Speed cat lifestyle shoes from puma. This white and black combo is a stylish take on the motorsport shoes and looks cool on the track and off it.UpperLeather upper for comfort and protectionFormstripes on the sides in synthetic material for enhanced durabilityLace-ups for snug FitTextile lining for greater comfortLightly cushioned collar and tongueEmbroidered cat logo on the tongue, side and behind collarMidsoleCushioned insole for all day comfortPhylon midsole for comfort and stabilityOutsoleRubber outsole with tyre thread pattern for superior grip that continues to the heel counter",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/60491784fd418ebb45566cc65677d30e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9f1c11860e15719015e7226b6405a770_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 56882,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Red Heels",
+    "price": 1699,
+    "description": "Heel: 2.5\" Open toe heels with a forefoot and mid-foot strap with a strap connecting the forefoot and mid-foot regions Stone embellishments along the straps Soft foot-bed with a brand label at the heel Slim tapering heel with a plastic heel cap Non-slip sole with herringbone grooves along the mid-foot region",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Red-Sandals_e0ce1fee5e4242446e4ced236274d0af_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Red-Sandals_54b5863c0dc3e7a6bfe90a260a36c3ed_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 10021,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men As Woven Shor White Shorts",
+    "price": 995,
+    "description": "Composition White shorts made of 100% polyester, with in-built boxers and has an elastic waist with drawcord Fitting Comfort Wash care Machine wash cold at 30 degrees with like colours Do not bleach Tumble dry low Remove immediately/do not allow to lay on itself when wet Cool iron, but do not iron on design Do not dry clean Built with the breathability and zero-distraction Fit athletes demands for focus, these nike running shorts come in a front-to-back color-block design, including hi-vis features for night workouts. These high-performance shorts feature a supportive two-in-one cut built with fabric that rapidly moves sweat away from the body.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fa60079dd060f354663ef694283e9175_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ff982f60bae817a4cac52cf81960e72f_images.jpg"
+    }
+}

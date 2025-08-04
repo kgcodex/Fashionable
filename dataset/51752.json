@@ -1,0 +1,17 @@
+{
+    "id": 51752,
+    "brandName": "Catwalk",
+    "productDisplayName": "Catwalk Women Black Pumps",
+    "price": 1295,
+    "description": "Black round toed mary janesPanelled upper with dotted pattern Elasticated strap with velcro closures at the midfootPatch at heel collar with branding on lateral footMildly padded footbedTPU outsole with grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/043e7e8d35ae7432e853cdd94935a427_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/85833e008a856d1130e83294301c8290_images.jpg"
+    }
+}

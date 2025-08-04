@@ -1,0 +1,17 @@
+{
+    "id": 30247,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men Coffee Brown Flip Flop",
+    "price": 599,
+    "description": "Style Note Effortlessly comfortable and stylish, these flip flops from numero uno are all you need for a cool, casual look. Wear them with shorts or capris or even chinos for that perfected cool and casual look. Product Details Chocolate brown flip flops with dark brown fabric thong straps with patches Leather upper with a smooth feel to it and upraised at the big toe region Fabric toe separator to hold the foot in place TPU outsole with patterned grooves for grip Material and Care Leather, Rubber and Fabric Use a branded leather conditioner and polish or wax on the leather parts Use a damp and clean cloth to wipe the other parts when needed Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c82657d180143c284ed6ee3dfd2602f7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/95d9def36d5fb397d3205875abfafc7e_images.jpg"
+    }
+}

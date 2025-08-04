@@ -1,0 +1,17 @@
+{
+    "id": 4203,
+    "brandName": "Disney",
+    "productDisplayName": "Disney Kids Boy's Blue Regatta Annual Competition Kidswear",
+    "price": 649,
+    "description": "CompositionRound neck blue striped t-shirt in 100% cotton, with stitched numbers on chestFittingRegularWash care1. Machine wash separately in cold water2. Use mild detergent3. Do not bleach4. Avoid soaking and remove promptly5. Line dry inside out in shade.6. Warm iron only, do not iron directly on print/embroideryBring out the surfer and adventurous attitude of your little man with this blue striped t-shirt from disney. Summer is the perfect time to slip into this T-shirt when he is tired of camps and regular lessons. Suit his vacation mood with this summery tee this season. Pair it with denim or cargo shorts and cute shoes from crocs to give your boy that comfort touch.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/508b7d3e5e4f0df1b971abda3f644852_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9d775e40bfd382310b6e80148371d761_images.jpg"
+    }
+}

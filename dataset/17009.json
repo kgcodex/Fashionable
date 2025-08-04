@@ -1,0 +1,17 @@
+{
+    "id": 17009,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Black Ballerinas",
+    "price": 990,
+    "description": "Created for the woman of sophistication, this sandal from rocia is crafted with high quality material to offer unparalleled comfort and is uniquely designed to give your feet that urban touche.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bd16f281b9d89a4008109e47d72525c9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4ca46133f3d32b388e7f1ff172274830_images.jpg"
+    }
+}

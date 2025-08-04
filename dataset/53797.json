@@ -1,0 +1,17 @@
+{
+    "id": 53797,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Black T-shirt",
+    "price": 1899,
+    "description": "Black T-shirt, has a round ribbed neckline, short sleeves with puma branding on the right sleeve, red panel on the left side with ferrari branding on it and print at the back below the neckline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/67ed79b708963c4cff434d5a3112136e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/13b7dc6bc6cd0c0d5221053a450c3f11_images.jpg"
+    }
+}

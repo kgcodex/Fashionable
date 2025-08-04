@@ -1,0 +1,17 @@
+{
+    "id": 58240,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Black Wallet",
+    "price": 725,
+    "description": "Black wallet crafted from synthetic leather with a faux snake print A flap with a press button closure and a loop detail on the front Three slots, a zipped compartment, an insert pocket and twelve card holder slots Branding on the inside An external zipped pocket at the back",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Black-Wallet_9b05f027a0d965e78d09f077e4961907_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Black-Wallet_4e585b96d346112b4182ca9e52e9edd0_images.jpg"
+    }
+}

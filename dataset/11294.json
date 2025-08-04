@@ -1,0 +1,17 @@
+{
+    "id": 11294,
+    "brandName": "Wrangler",
+    "productDisplayName": "Wrangler Men Blue Floyd Jeans",
+    "price": 1995,
+    "description": "Dark blue jeans that has two insert pockets on the front with stud detailing, two patch pockets on the back with thread detailing, metal brand tab attached to the right pocket at the back and metal zipper and button closure on the front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/db0ac8cf84a71bc8e3eaa8aeb02f2d65_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9e1eeb0d1c680f8aa8cca6a9b399aec5_images.jpg"
+    }
+}

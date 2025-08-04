@@ -1,0 +1,17 @@
+{
+    "id": 28504,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Woven Reflective Black Shorts",
+    "price": 1595,
+    "description": "CompositionBlack shorts for men made of 100% polyester, with a 100% recycled polyester lining, engineered with Dri-Fit technology, has an in-built boxer inner, elasticated waist with a drawstring, side meshed panels in black with grey and white piping and printed nike swoosh on the left hemFitRegularWash careMachine wash cold at 30 degrees with like coloursDo not bleach, dry clean or ironLine dryStylish to a T, these polyester shorts from nike are designed with Dri-Fit technology to keep you fresh and comfortable while you sweat it out at the gym or on the trail. The broad waistband sits snugly, while you can further customise the fit with the drawstring. The in-built boxers offer greater comfort. Team it with Nike Sports tees and shoes for that smart, sporty look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a3799663501f851c4a2de6e635cf09a2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bad69790e5dbc4ca00ff5019dd740f21_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 40481,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men Grey Ultralite Sports Shoes",
+    "price": 2799,
+    "description": "Style NoteThis pair of shoes from fila is lightweight and sporty. The Ultralite, as the name implies, is featherlight and has grooves at the outsole for easy movement of the foot. It's good looking enough to wear with casual ensembles as well.&nbsp; Product DetailsGrey and red shoe with mesh upper and synthetic overlaysHas central lace-ups and a padded tongue and innerRubber outsole with grooves and waffle shaped lugsMaterial and CareSynthetic, meshWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/35913095b699cef42cf74e81af78aed6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d61008a323c2289de8dece36ab482571_images.jpg"
+    }
+}

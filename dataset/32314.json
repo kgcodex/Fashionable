@@ -1,0 +1,17 @@
+{
+    "id": 32314,
+    "brandName": "Q&Q",
+    "productDisplayName": "Q&Q Women Purple Dial Watch",
+    "price": 1145,
+    "description": "NA",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Women-Purple-Dial-Watch_e2f399da4b9da5ff9884f1fe4d761369_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Women-Purple-Dial-Watch_680daa9c45000d8552a15698a3209798_images.jpg"
+    }
+}

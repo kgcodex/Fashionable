@@ -1,0 +1,17 @@
+{
+    "id": 25035,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Boys Stripy Crew Blue T-shirt",
+    "price": 1095,
+    "description": "CompositionBlue striped T-shirt made of 100% cotton, has a round neck, short sleeves and printed nike swoosh on the left chestFitRegularWash careMachine wash cold with like colours using a mild detergentDo not dry clean or bleachTumble dry lowWarm iron; do not iron on decorationsCrafted from soft cotton fabric, this T-shirt from nike offers exemplary dry comfort, making it a great everyday choice for your Sports or casual kit. Team this tee with track pants and running shoes for a sporty look. Add on a hooded sweatshirt for exemplary comfort during the winter.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/97fd111798ad741bcb286c1350392226_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/671a8a764b9c1e6a9de6875bf3e3c6c7_images.jpg"
+    }
+}

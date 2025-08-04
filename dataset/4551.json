@@ -1,0 +1,17 @@
+{
+    "id": 4551,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's T-Lite 9 Leat Black Shoe",
+    "price": 3795,
+    "description": "The nike T-Lite 9 shoes is a great combination of support and durability. These training shoes offer all-around support, cushioning and durability to meet the demands of core performance. You can also team these with jeans and tees for a cool casual look.Upper Leather uppers for durability and comfort Perforations on the toe box, sides and heel counter for breathability Cushioned collar and tongue for plush comfort Lace-ups for snug Fit and to lock the foot in place Appliqued swoosh logo on the side to create a style statement Midsole Full-length Phylon midsole for lightweight cushioning Outsole Phylite and solid rubber outsole for excellent traction on a variety of surfaces Flex grooves for flexibility and natural movement of the feet Wash careDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a039960dc8bf89d4567357270c94d128_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fe866754d2103b0170017b6b9837edd6_images.jpg"
+    }
+}

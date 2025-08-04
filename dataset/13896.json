@@ -1,0 +1,17 @@
+{
+    "id": 13896,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Retaliate Black Sports Shoes",
+    "price": 3795,
+    "description": "shoe care Wipe surface with damp, clean cloth to remove dust Do not machine wash Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/60ca4b94258885cb4589610b36c95f8b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/754fa7c1f88eccddf55ea50d1318889e_images.jpg"
+    }
+}

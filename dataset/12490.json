@@ -1,0 +1,17 @@
+{
+    "id": 12490,
+    "brandName": "Genesis",
+    "productDisplayName": "Genesis Purple Casual Shirt",
+    "price": 1199,
+    "description": "Purple casual shirt, has a spread collar, full button placket on the front, long sleeves, curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/856636ddf6ee06e22e30dd15392ef3fb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5ed8f4619c92d0a04bbd91e08ba414bb_images.jpg"
+    }
+}

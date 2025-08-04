@@ -1,0 +1,17 @@
+{
+    "id": 26537,
+    "brandName": "ID",
+    "productDisplayName": "ID Men Blue Shoes",
+    "price": 1885,
+    "description": "High fashion styling and leather uppers up the style quotient of the humble sneaker, in these id shoes. Comes with a spare set of laces. Wear this with classic slim Fit denims and a tonal monochrome tee. Upper Leather upper for maximum durability and style Overlay at the heel collar and toe box Brabding embossed on the mifdoot area Lace-up system for a snug, customised fit Lightly padded tongue and collar for a great snug fit Mesh lining Stitch detailing to enhance shoe life Cushioned footbed for added comfort Midsole EVA midsole for comfort and support Outsole Lightweight, slip-resistant grooved rubber outsole for better shock absorption with an upraised heel Shoe care Wipe surface with dry, clean cloth to remove dust Use a nubuck brush to clean the upper Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a53583f115171ce05884920fb22761fc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1b853376542b8c3ab649917bfecda863_images.jpg"
+    }
+}

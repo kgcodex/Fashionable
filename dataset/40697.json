@@ -1,0 +1,17 @@
+{
+    "id": 40697,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men Grey Flip Flop",
+    "price": 549,
+    "description": "Style Note Effortlessly comfortable and stylish, these flip flops from numero uno are all you need for a cool, casual look. Wear them with shorts or capris or even chinos for that perfected cool and casual look. Product Details Dark grey and black flip flops with black fabric thong straps with a patch at the apex Textured upper with a velvet feel to it and upraised at the big toe region Fabric toe separator to hold the foot in place Rubber outsole with exaggerated herringbone grooves for grip Material and Care Synthetic Wipe surface with a damp, clean cloth to remove dust Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1bbb4f3392dbaca85650ec9fe45c03f6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c59e3cd3e1bad1976d0c29ea10b885ea_images.jpg"
+    }
+}

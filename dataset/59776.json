@@ -1,0 +1,17 @@
+{
+    "id": 59776,
+    "brandName": "Estelle",
+    "productDisplayName": "Estelle Women Gold Bracelet",
+    "price": 849,
+    "description": "Gold plated round bracelet with white stone embellishments in the centre Has a butterfly clasp Warranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Estelle-Women-Gold-Bracelet_15f81d08726814b15513d2432e25322e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Estelle-Women-Gold-Bracelet_015d9c963e6143cef6589ea8e59035ba_images.jpg"
+    }
+}

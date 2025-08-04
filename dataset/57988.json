@@ -1,0 +1,17 @@
+{
+    "id": 57988,
+    "brandName": "Latin Quarters",
+    "productDisplayName": "Latin Quarters Women Orange Dress",
+    "price": 1600,
+    "description": "Orange, grey and white woven, check dress, has a shirt collar with a deep V neckline, half buttoned placket, sleeveless, two patch pockets below the waist in front, back yoke and pleats at the back and sash tie at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Orange-Dress_2d71ee2e1025bcd5b73a7f13cf407626_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Orange-Dress_de03972587c6686c3f62c38b082f09e5_images.jpg"
+    }
+}

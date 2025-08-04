@@ -1,0 +1,17 @@
+{
+    "id": 3666,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men's Intercept Black Silver Shoe",
+    "price": 2399,
+    "description": "CompositionBlack and silver cross trainers made of high peel PU, padded textile lining, phylon midsoles and rubber outsolesshoe care1. Rub surface with clean, damp cloth to remove dust2. Do not machine washThis stylish pair of cross trainers from fila is anatomically designed to deliver superior performance and comfort. The synthetic uppers with mesh and perforated panel inserts give a snug Fit with ample breathability. The cushioned insole, collar and tongue give more support to the feet. The lightweight phylon midsole has a greater capacity for shock absorption and the outsole with mini lugs and wave patterned grooves enhances grip and support.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bf5643e76f6c933e56fbe61c1a978c25_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b8c78a7fb7e1f7c1471eecc94ecc2675_images.jpg"
+    }
+}

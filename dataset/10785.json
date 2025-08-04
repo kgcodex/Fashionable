@@ -1,0 +1,17 @@
+{
+    "id": 10785,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Runng Grey Caps",
+    "price": 895,
+    "description": "Composition Dark grey feather light cap made of nike Sphere Dry fabric to wick sweat away, has comfort bill for zero distractions and to keep out the sun, quick adjust closure at the back for enhanced, customised Fit and reflective stitching for enhanced visibility in low-light conditions Fitting Comfort Wash care Hand wash in warm water at 40 degrees Do not wring, bleach, iron or dry clean Line dry A design that circulates air to keep the head cool, the nike Daybreak running hat is made with an aerodynamic construction, large side mesh panels and a lightweight silhouette for a pinnacle performance.",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/17965deb8fbd12c89dc8f17334f686b2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6231243732d739f6fd096c51b97f7c32_images.jpg"
+    }
+}

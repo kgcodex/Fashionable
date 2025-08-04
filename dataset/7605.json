@@ -1,0 +1,17 @@
+{
+    "id": 7605,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women's Air Dict White Shoe",
+    "price": 3995,
+    "description": "Get more comfort and enjoyment out of your fitness training with the nike Air Dictate men's running shoes. Packed with performance features, the nike Air Dictate is a great choice for your daily runs.Upper Breathable sandwich mesh upper with synthetic overlays for breathabilty and support No-sew overlays in the midfoot offers a secure, irritation-free feel Extra heel support to lock the backfoot in place and potect it from injuries Padded lining for a comfortable step in feel Padded tongue and collar for added comfort Lace-ups for snug Fit and to lock the foot in place Mesh tongue for breathability Swoosh logo on the sides to create a style statement Midsole Air cushioning unit in the pylon midsole guarantees a smooth and responsive ride Medial and lateral Air-Sole midsole units deliver supreme cushioning Outsole BRS 1000 durable rubber outsole Waffle-pattern grip for excellent traction Heel crash pad helps reduce impacting shock and set the foot up for a smooth transition TPU shank adds extra support BRS 1000 rubber outsole for long-lasting wear shoe careDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/db649e92560612caf5103b9ffe4303e9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5534ff4d31ba82b8421b5ef3d442ec8e_images.jpg"
+    }
+}

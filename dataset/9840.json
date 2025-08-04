@@ -1,0 +1,17 @@
+{
+    "id": 9840,
+    "brandName": "SPYKAR",
+    "productDisplayName": "Spykar Men White Polo T-Shirts",
+    "price": 1149,
+    "description": "White polo neck t-shirt made of 100% cotton that has red and black stripes in varying widths, half sleeves, black and white striped ribbed collar with green tape detailing on the inseam, green ribbed cuffs, half buttoned rugged placket, red stitch detailing on the inseam of the sleeves and on the side seams, vented hems and embroidered brand detailing on the upper left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/007c8550f53eec1b5767ac2a5f9c94d1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8c506a60a0e8b15532357f29ba8e5215_images.jpg"
+    }
+}

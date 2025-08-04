@@ -1,0 +1,17 @@
+{
+    "id": 3581,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Black Cobalt Sandal",
+    "price": 2499,
+    "description": "CompositionSynthetic leather black and cobalt sandals with rubber outsoleLoaded with subtle and stylish embossing, this pair of sandals from adidas looks great with all kinds of clothing - from ethnic Indian wear to jeans.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/51a6d8e0580c4997f13e70b57145b6a1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/df30496cfe59c9893a4d7d33bb30bc7a_images.jpg"
+    }
+}

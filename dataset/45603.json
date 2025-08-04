@@ -1,0 +1,17 @@
+{
+    "id": 45603,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Black Formal Shoes",
+    "price": 2999,
+    "description": "Style NoteA derby shoe with mild brogueing to add a vintage twist, this pair is a closet essential. You might not want to wear this everyday, but for special occasions you've saved that special tie or shirt for!Product DetailsTapering toed black upper with brogueingHas four hole lace-ups upper adhered to the outsoleTPR outsole with a stacked heel and branded grooves on the forefootMaterial and CareLeatherUse a branded leather conditioner and brush to clean this product",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/534c8a723736b3eea015b0454d0ee475_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bdd9676260a20f9b117b530c9a9805dc_images.jpg"
+    }
+}

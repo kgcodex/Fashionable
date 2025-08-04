@@ -1,0 +1,17 @@
+{
+    "id": 33244,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Blue Slim Fit Shirt",
+    "price": 1999,
+    "description": "Blue shirt made of 100% cotton, has a spread collar, long sleeves with buttoned cuffs, a full buttoned placket, a patch pocket on the left chest and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Blue-Shirt_62a8bde9e05ad839aaf51117f092e31e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Blue-Shirt_0b6b63dca159bd3501cd523ac0d925f7_images.jpg"
+    }
+}

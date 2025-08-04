@@ -1,0 +1,17 @@
+{
+    "id": 46841,
+    "brandName": "Barbie",
+    "productDisplayName": "Barbie Girls Pink Shoes",
+    "price": 699,
+    "description": "Style NoteThis summer we bring to you a pair of canvas sneakers from barbie that your little princess will not want to take off! Featuring an attractive print and ribbon lacing, this pair is a unique blend of style and comfort. Team it with a frock and a matching hairband for a hot summer day.Product DetailsPink ankle length sneakers with canvas upper for flexibility and durabilityFun print and crystals all over the upper , barbie patch on lateral side of shoePU covering for toe-boxRibbon lacing and zipper for a custom FitPadded footbed with printed fabric lining for sweat-free comfort and heel patchDurable rubber outsole with diamond lugs and grooves for absolute grip and tractionMaterial and CareCanvas,PUWipe with a clean damp cloth to remove dustDo not store under sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Kids-Girls",
+    "gender": "Girls",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8ae87c6d4628b1c747a5ff885e37332e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a1b39bd88d12d84a384bd01ad10a2157_images.jpg"
+    }
+}

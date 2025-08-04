@@ -1,0 +1,17 @@
+{
+    "id": 51978,
+    "brandName": "Inaya",
+    "productDisplayName": "Inaya Women Black Lounge Pants",
+    "price": 1450,
+    "description": "Black pyjama bottoms, has a soft waistband which is elasticated and covered with satin at the back and has tape detail in front and a drawstring tie",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fc7caa4ba0e86c4c66dbfa847f5ca022_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a3cd978688a6877db6a315252e0f280b_images.jpg"
+    }
+}

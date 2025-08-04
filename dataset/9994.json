@@ -1,0 +1,17 @@
+{
+    "id": 9994,
+    "brandName": "Gini and Jony",
+    "productDisplayName": "Gini And Jony Girls Ac Arnia Skt Blue Skirts",
+    "price": 999,
+    "description": "Wash Care Machine Wash separately in cold water Use mild detergent Do not Bleach Avoid Soaking Remove promptly Line Dry inside out in shade Warm iron only Do Not Iron Directly on Print/embroidery",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Girls",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/af003d0fc01f45a6ef208f7f0e7fa96f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f5085ed068cfe39ae5a2aa45807c5ba4_images.jpg"
+    }
+}

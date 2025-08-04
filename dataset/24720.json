@@ -1,0 +1,17 @@
+{
+    "id": 24720,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men Zeta Brown Casual Shoes",
+    "price": 2999,
+    "description": "Sporty and stylish, the skechers Planfix-Zeta is perfect for those casual days. Team this sneaker with jeans and semi-formal t-shirts to work or simply wear it on casual occasions.UpperSmooth leather upper with overlay for durability, comfort and styleLeather overlays on front, sides and heelStitching accents with zig-zag stitch detailing on heel overlay for durability and styleContrast coloured side stripes with stitch detailing for added shoe structureEmbossed logo on heelLace-up system with metallic eyelets for snug FitPadded collar and tongue for in-step comfortSoft fabric shoe lining for all-day comfortMidsoleCushioned footbed for all-day comfortRelaxed step comfort insole for superior supportCushioned midsole with shock absorption technology for durability and impact protectionRetro vulcanised rubber midsole for a classic lookOutsoleFlexible rubber traction outsole with multi-directional grooves and lugs for stability and supportTextured toe bumper and midsole stripe for durabilityShoe careWipe surface with clean, damp cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/44b37d87d4f5f9f28140e18411e5210a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/430c8412754ec5082824d646c98a01d0_images.jpg"
+    }
+}

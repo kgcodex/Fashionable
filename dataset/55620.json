@@ -1,0 +1,17 @@
+{
+    "id": 55620,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men Brown Shoes",
+    "price": 2099,
+    "description": "Pointed toe, brown leather shoes with elasticated gussets on the sides Textured leather upper with mild padding and reinforced heel collar Top stitched overlays and a brand badge on the upper Mildly padded foot-bed TPU out-sole with textured pattern for grip and traction and branding in the middle",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Numero-Uno-Men-Brown-Shoes_2ee357e811b26128c558dcbf57c90f53_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Numero-Uno-Men-Brown-Shoes_3dbf7c97d5eb7d7bd413ab6959925435_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 49721,
+    "brandName": "Park Avenue",
+    "productDisplayName": "Park Avenue Men Maroon Tie",
+    "price": 899,
+    "description": "Maroon tie with leaf patterns all over A loop behind the broad tongue to tuck the smaller end in",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Park-Avenue-Men-Maroon-Tie_c6fdfb408f7ffd2eb7c15e1e8739f9a3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Park-Avenue-Men-Maroon-Tie_767918fc9ef8f26fb978b54d132f4888_images.jpg"
+    }
+}

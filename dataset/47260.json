@@ -1,0 +1,17 @@
+{
+    "id": 47260,
+    "brandName": "FCUK Underwear",
+    "productDisplayName": "FCUK Underwear Men White Brief",
+    "price": 299,
+    "description": "White briefs, has a low rise, soft elasticated waistband with branding on it, tagless comfort and double layered pouch",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/eff531927106c806c9549fd7fcc6767c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1acf0fda264d88b21c55fee280a5b67e_images.jpg"
+    }
+}

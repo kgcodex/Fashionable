@@ -1,0 +1,17 @@
+{
+    "id": 47301,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Purple Wallet",
+    "price": 800,
+    "description": "Purple wallet with fold over snap button closure &nbsp;One main zippered compartment with dual slots Twelve credit card slots and one insert pocket inside Has one back zip pocket Short handles for carrying ease Branding on the front",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/46739a6252d0786786bab0d16f8b69a5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8d63fadcb0ccff43ff9311d273626208_images.jpg"
+    }
+}

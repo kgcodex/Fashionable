@@ -1,0 +1,17 @@
+{
+    "id": 42024,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Navy Blue Sukoi Shoes",
+    "price": 2199,
+    "description": "Style NoteA versatile Sports shoe, the Sukoi from adidas is a great gym and running shoe. Has a mesh upper, synthetic overlays and a comfy outsole. Product DetailsMesh upper with synthetic overlaysPadded tongue and innerThick rubber midsole, upraised at the heelTPU outsole with a decoupled heel and circular nubsMaterial and CareMesh, syntheticRemove dirt with a clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/447aa6786d9a50e56faa6371bd340e57_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b276ccd1e1c4e4ab77b2d990a9fabb10_images.jpg"
+    }
+}

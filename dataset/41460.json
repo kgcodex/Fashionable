@@ -1,0 +1,17 @@
+{
+    "id": 41460,
+    "brandName": "Lee Cooper",
+    "productDisplayName": "Lee Cooper Men Black & Beige Sandals",
+    "price": 1385,
+    "description": "Style NoteA hard-wearing pair of sandals from lee cooper, with an arsenal of new design updates. Style this with a tonal monochrome tee and a fitted pair of shorts.Product DetailsBeige and black sandals with velcro straps across the forefoot and midfoot and around the ankle Lightweight, patterned footbedTPU outsole with multidirectional lugs and an arched midfootMaterial and CareSyntheticWipe with a clean dry cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d19bc50943103879e6f5da9bd6af6a8e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/12026bd8f47516ea7a9cb95c87fcb301_images.jpg"
+    }
+}

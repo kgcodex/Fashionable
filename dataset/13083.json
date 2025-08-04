@@ -1,0 +1,17 @@
+{
+    "id": 13083,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men Red Casual Shoes",
+    "price": 1699,
+    "description": "An absolutely cool casual shoe, this pair from numero uno is a great addition to your wardrobe. The all red uppers in a classic silhouette creates a strong impression. Team this with jeans and t-shirts for great urban style.UpperSynthetic leather upper for durability and comfortTape detailing on the sides for greater styleLace-ups for a snug FitCushioned collar and tongue for greater comfortTextile lining for added comfortBrand name printed on the sides and on the tongue MidsoleEVA midsole for better shock absorption and all day comfortOutsoleDurable rubber outsole in an uprasied wave pattern for maximum durability and tractionShoe careWipe synthetic leather surface with soft, clean cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/91a0bff0b0ca2f70fe8866c3a812dedb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cc4899a21988028bbeca3e8a10c85203_images.jpg"
+    }
+}

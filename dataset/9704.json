@@ -1,0 +1,17 @@
+{
+    "id": 9704,
+    "brandName": "Hush Puppies",
+    "productDisplayName": "Hush Puppies Men GT Black Formal Shoes",
+    "price": 3699,
+    "description": "If you want the ultimate sensation of comfort for your feet, then these shoes from hush puppies are made for you. These mocassins with the sporty outsole features patented Bounce&reg; technology.Team these with jeans and tees for a cool look. Upper Leather uppers for durability and comfort Stitch detailing for added style Elasticated inserts on the sides of the tongue for easy insertion and removal of the feet Sheepskin lining for a luxurious soft feel Midsole Sheepskin lined cushioned footbed for all day comfort EVA midsole for better shock absorption Outsole Modern sporty outsole features patented Bounce&reg; technology Bounce provides advanced shock absorption and energy return for all-day comfort Wash care Wipe surface with soft, clean, damp cloth to remove dust Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ec81230e30312786aca10ce42a7a6e43_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1b33303e84505c5e0b4fd68231aca539_images.jpg"
+    }
+}

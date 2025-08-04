@@ -1,0 +1,17 @@
+{
+    "id": 51255,
+    "brandName": "Park Avenue",
+    "productDisplayName": "Park Avenue Men Black Belt",
+    "price": 1150,
+    "description": "Textured black belt, has a tang clasp Single pronged buckle Holes to customise the Fit",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d2f14ae72a48e9c0fefdfeb8b0082750_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/39058bafafae3d42504708d880bc45c7_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 59454,
+    "brandName": "Arrow New York",
+    "productDisplayName": "Arrow New York Men Black Check Shirt",
+    "price": 1999,
+    "description": "Black shirt with grey and blue checks spread collar, yoke at the front and back, long sleeves with buttoned cuffs, full buttoned placket, patch pocket on the left chest and curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-New-York-Men-Black-Shirt_edb2f87ada55f6a190faf64735fd3e52_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-New-York-Men-Black-Shirt_d1c4a6811161d44c33bda15103fc5ac5_images.jpg"
+    }
+}

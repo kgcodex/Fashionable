@@ -1,0 +1,17 @@
+{
+    "id": 4120,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Unisex Lo Maroon Shoes",
+    "price": 1499,
+    "description": "The puma 917 LO series are named after the Porche 917 that was driven by Steve McQueen in the 1971 classic flick \"Le Mans\". This range of shoes was inspired by the original puma Speed cat and Puma Future Cat. In fact, the cylindrical heel shape and T-toe format of the 917 LO series is similar to the features employed in the Puma Speed Cat range. The Puma 917 LO is a great hit with motorsport enthusiasts as it is a low profile, comfortable sneaker. With its clean lines and modern styling, this pair of shoes is sure to make people wow-wow you when you pair it with casual outfits. Upper Canvas upper for extra durability and style Cotton knit tonal laces running through metallic eyelets for longer life and snug Fit Canvas stylish side strips in contrast colour Synthetic rubber toe box for extra durability and protection of the forefoot Paneled heel guard for added durability and comfort with Puma branding embroidered Midsole Comfort insole with canvas tongue to ensure a snug, comfortable fit Textile lining for added comfort Outsole Made of high traction gum rubber Rubber toe guard strip with tonal sidewall trip Textured to suit the anatomy of the feet for maximum grip Reinforced heel with dip in back collar line to prevent Achilles tendon irritation",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/33455a1f2a3902a2bc0c9b3701b29579_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c5b95e3d0284f88db9dda32a5f21d5cd_images.jpg"
+    }
+}

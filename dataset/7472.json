@@ -1,0 +1,17 @@
+{
+    "id": 7472,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men White & Purple Striped Polo T-shirt",
+    "price": 650,
+    "description": "White and purple striped polo T-shirt, has a polo collar, short button placket, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/447cf5fc56a3aef7ce4ba7da0ab5365b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d66632b6b742858d3bafcf15af872046_images.jpg"
+    }
+}

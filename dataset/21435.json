@@ -1,0 +1,17 @@
+{
+    "id": 21435,
+    "brandName": "roxy",
+    "productDisplayName": "Roxy Women Purple Backpack",
+    "price": 1895,
+    "description": "Style Note A casual backpack which you would want to carry on short trips, to college and on a day out from roxy, this one will become and instant favourite. Spacious and sturdy, this backpack comes in bright purple and will add a trendy touch to your entire outfit. Serving the purpose of utility, comfortable to carry and style, this one is a must have. Product Details Purple backpack with branding in front and on one of the straps Two adjustable padded shoulder straps and haul loop One main zipped compartment One small zipped compartment in front Size Height: 36 cm Width: 32 cm Depth: 20 cm",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/52ce6020ff5391d883adb2161a5ba14f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6eee098771a8e2eea65feb6481503c5c_images.jpg"
+    }
+}

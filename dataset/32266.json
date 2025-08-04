@@ -1,0 +1,17 @@
+{
+    "id": 32266,
+    "brandName": "2go ACTIVE GEAR USA",
+    "productDisplayName": "2go Active Gear USA Men Red Pele Track Pants",
+    "price": 655,
+    "description": "Red lounge pants, has an elasticated waistband with an internal drawstring, two insert pockets on the sides, coin pocket inside the right insert pocket, printed brand logo on left leg, blue contrast panel at sides and a wider waistband for a perfect grip",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2go-ACTIVE-GEAR-USA-Men-Red-Pele-Track-Pants_1e6323e874a97c51f4034d8b08953923_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2go-ACTIVE-GEAR-USA-Men-Red-Pele-Track-Pants_6897dc6be7b1fac9092c9482eed0dc43_images.jpg"
+    }
+}

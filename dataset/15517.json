@@ -1,0 +1,17 @@
+{
+    "id": 15517,
+    "brandName": "Rockport",
+    "productDisplayName": "Rockport Men LLandro Red Casual Shoes",
+    "price": 3499,
+    "description": "Designed for the man who never compromises on style and comfort, this Llandro casual shoe from rockport is inspired by Formula One racing and makes for a great addition to your wardrobe. UpperLeather upper with perforations on the sides of the forefoot for breathable comfortLacing system with a velcro strap on the midfoot for a snug, customised FitPadded collar and tongue with a fabric inner for a snug, customised fitPadded footbed for all-day comfortMidsolePU midsole for all day comfort and impact protectionOutsoleDurable rubber outsole with&nbsp; brand logo styled grooves for absolute grip and tractionShoe careWipe surface with a clean, dry cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d4e8675f38e4a5c474b7bd2d3de85f7e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5b34ee915d37e0272fbb2f20bbf64160_images.jpg"
+    }
+}

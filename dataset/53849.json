@@ -1,0 +1,17 @@
+{
+    "id": 53849,
+    "brandName": "Vishudh",
+    "productDisplayName": "Vishudh Women Black Printed Kurta",
+    "price": 549,
+    "description": "Black kurta with blue and light green print, has lime green trims with sequin details, a V-neckline, short sleeves and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vishudh-Women-Blue-Printed-Kurta_a10cf394ad8b13deccacda021ce5e1e4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vishudh-Women-Blue-Printed-Kurta_19cb5ce50fdf1efa0984fdb84b5c65a2_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 54385,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Yellow Sling Bag",
+    "price": 1400,
+    "description": "Yellow sling bag crafted from synthetic leather with multi-coloured zip details on the front for style One large main zipped compartment with three slots within. One zipped compartment in between, one slot that has three card slots and an inner zipped pocket and another open slot. An external zipped pocket and branding at the back A long yellow shoulder strap attached to a chain on one side to sling around the shoulder",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Yellow-Sling-Bag_30ddeec0fe60becb18eb8fa83078e232_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Yellow-Sling-Bag_2dd7bffe8f26a090e99d0ea9a7a90385_images.jpg"
+    }
+}

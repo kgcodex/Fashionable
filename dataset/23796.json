@@ -1,0 +1,17 @@
+{
+    "id": 23796,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Women Black Leather Ballerinas",
+    "price": 2499,
+    "description": "A pair of black ballerinasLeather upper with bow detailCushioned footbedTextured TPR&nbsp;outsole with patterned grooves, has a slightly upraised heelWarranty: 3 months",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7bcb315934b43480e96313dc5e31ba0d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8631727f9aab336e38c6f20680eca8b4_images.jpg"
+    }
+}

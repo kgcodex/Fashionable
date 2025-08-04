@@ -1,0 +1,17 @@
+{
+    "id": 8784,
+    "brandName": "Fastrack",
+    "productDisplayName": "Fastrack Unisex Brown Sunglasses",
+    "price": 1795,
+    "description": "Style NoteLife has never looked better now than through these brilliant fastrack sunglasses. This pair adds that hint of accessorized elegance to your everyday look. Wear them anywhere, anytime and watch some eyes pop!Product DetailsLens colour: BrownFrame colour: Olive green metal frame Frame type: Metal full frameHigh bridge and flexible nose pads made of rubberMaterial and CareRemove dust and grime by gently wiping the lens with the cloth providedRemove oil or tough stains with the help of a lens cleanerDo not use your fingers on such stainsDo not place glasses on uneven surfaces or heated areas like the dashboard of a car Warranty: 1 Year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/913a1328dad599d6e22848f8182f213e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dd7aac95d7672cf8e6502a2c3e50f85e_images.jpg"
+    }
+}

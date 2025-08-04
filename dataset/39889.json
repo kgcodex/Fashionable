@@ -1,0 +1,17 @@
+{
+    "id": 39889,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Desma White Sports Shoes",
+    "price": 1999,
+    "description": "Style NoteDesigned for runners who never compromise on style and comfort, the Desma shoe from adidas comes with a durable mesh upper and a grippy outsole that keeps you safe and stable on various surfaces.Product DetailsWhite and grey shoes with mesh upper, central lace-ups and overlaysPadded and meshed tongue and innerFoamy rubber midsoleTPU outsole with scooped heel, arched midfoot and circular nubs on the forefootMaterial and CareSynthetic, meshWipe surface with damp, clean cloth to remove dirtDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c97374580e727b8d5b87dd685bc37dec_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d3a870706880d8db8e7135353ded91d9_images.jpg"
+    }
+}

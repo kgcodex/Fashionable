@@ -1,0 +1,17 @@
+{
+    "id": 13204,
+    "brandName": "ASICS",
+    "productDisplayName": "ASICS Men Gel Pulse III Running Black Sports Shoes",
+    "price": 4999,
+    "description": "Well cushioned and comfortable, the GEL-Pulse III trainers from asics are high performance lightweight cross-trainers. These shoes are engineered to provide comfort and support, and enhance performance and Fit. Team these with jeans and tees for a cool casual look.UpperOpen mesh upper with synthetic overlays for superior breathability, added shoe structure and durability3M reflective elements allow visibility even in low lightLace-ups for snug fitSynthetic laces for enhanced durability and easy maintenanceCushioned collar and tongue for greater comfortMesh tongue for breathabilityBrand name on the tongue MidsoleSpEVA midsole for improved bounce back characteristics and to decrease midsole breakdownComforDry sockliner offers anti-microbial properties for a drier, healthier environmentRearfoot GEL Cushioning System to provide shock attenuation during impact phase, allowing for a smooth transition to midstanceOutsoleasics High Abrasion Rubber (AHAR) heel plug to enhance durability during impact phaseTrusstic System to reduce weight of the sole unit while retaining the structural integrity of the shoeMulti-directional pattern on outsole for greater gripFlex grooves on the outsole for greater flexibility of the feetSpEVA 45 Lasting utilizes 45 degree SpEVA lasting material to deliver a soft platform feelShoe careWipe surface with soft, clean, cloth or brush, cold water and mild detergent to remove dustDo not machine wash or use a drierAvoid storing shoes in extremely hot conditions or in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e87c670050414ed1bddabaf2de27dff5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a5864eab949e2a7c3fdc4e8c85e328b9_images.jpg"
+    }
+}

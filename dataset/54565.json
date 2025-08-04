@@ -1,0 +1,17 @@
+{
+    "id": 54565,
+    "brandName": "Sushilas",
+    "productDisplayName": "Sushilas Women Green Kurta",
+    "price": 1599,
+    "description": "Green, woven and printed kurta, v-neck with red and black tape detail on the neckline,cuffs and hem, three quarter sleeves, panel detail and an inner lining",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Sushilas-Women-Green-Kurta_34148a072bfe15f7e26ea85c545f9731_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Sushilas-Women-Green-Kurta_39fe38a4d2e18eaadfc05508aa24dc00_images.jpg"
+    }
+}

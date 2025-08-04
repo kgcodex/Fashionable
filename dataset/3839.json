@@ -1,0 +1,17 @@
+{
+    "id": 3839,
+    "brandName": "Crocs",
+    "productDisplayName": "Crocs Women Olivia Brown Sandal",
+    "price": 1195,
+    "description": "CompositionBrown sandals made of lightweight, form fitting, odour resistant EVAWash care1. Rub surface with clean, damp cloth to remove dust2. Do not machine washEnjoy summer with these simple, low slung pair of sandals in ballerina design. The croslite footbed provides ergonomic Fit and comfort, coupled with superior shock absorption. The ankle strap ensures a snug fit, while the white rhinestone adds a bit of sparkle to the footwear. The outsole has a leaf pattern to enhance grip, making it a perfect footwear for a day at the beach or for urban wear.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7627e7a7e1b29771e3c06074b0a69f45_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/69463a06b52298009fb6405b7fecaae7_images.jpg"
+    }
+}

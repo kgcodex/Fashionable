@@ -1,0 +1,17 @@
+{
+    "id": 20876,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men Casual Black Shoes",
+    "price": 3199,
+    "description": "With a sporty look and stylish design, this leather shoe from skechers doubles up as a perfect trainer and fashionable casual sport wear. Upper Leather upper with synthetic wraparound overlays that have slits to offer breathable comfort Padded tongue and collar for a snug Fit Lacing system for a snug, customised fit Padded footbed for all-day comfort Midsole EVA midsole for impact protection Outsole TPR outsole with lugs and flex grooves on the forefoot, and grooves on the heel for absolute grip and traction Shoe care Wipe surface with a clean, dry cloth to remove dust Use a branded leather conditioner if needed Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/eef6af56bdc9e2d2456c2ff0666fe500_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5848967772ec4121e212195e2f40cb32_images.jpg"
+    }
+}

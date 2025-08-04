@@ -1,0 +1,17 @@
+{
+    "id": 17795,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Jive Navy Blue Slippers",
+    "price": 749,
+    "description": "A perfect gift for your feet on those casual days, this slipper from puma is crafted from soft and durable material to offer exemplary comfort. With a sporty print across the footbed, this slipper looks great with all casual wear. &nbsp; Upper Printed synthetic leather with a toe separator PU footbed for cushioned comfort Print across the footbed for style &nbsp; Outsole Suction grooves throughout the durable rubber outsole for absolute grip even on smooth surfaces Outsole curved at the forefoot for enhanced protection to the toes &nbsp; Slipper care Wipe surface with a clean, damp cloth Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c52c620c2c26eb341143d104b822caa9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/15c1bed925753adf8dc1a8cfda6ab4f7_images.jpg"
+    }
+}

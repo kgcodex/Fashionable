@@ -1,0 +1,17 @@
+{
+    "id": 56216,
+    "brandName": "Estelle",
+    "productDisplayName": "Estelle Women Gold Earrings",
+    "price": 549,
+    "description": "Drop shaped earring with a circle shaped danglerEarring encrusted with white stones all overHas a post and back closureWarranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Estelle-Earrings_c2dd1acf31b8cb115a98ea65ae0e1e3d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Estelle-Earrings_8a4efc4adee9e416d63154cd8b1e4fbd_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 10723,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Trainng Men's tshirt White Tshirts",
+    "price": 795,
+    "description": "CompositionWhite round neck cotton t-shirt, with short sleeves, graphic print on the chest, branding on left sleeve and slogan on back neckFit ComfortWash careMachine wash separately in cold water using a mild detergentDo not bleachAvoid soaking/remove promptlyLine dry inside out in shadeWarm iron onlyDo not iron directly on print/embroideryFlaunt your craze for cricket and pride in the Indian cricket team's historic victory during the ICC 2011 World Cup with this nike t-shirt. The graphic of a crcket-crazy individuals is the best way to flaunt your support to the Indian cricket team. Team this t-shirt with smart casuals and wear it to all sporting arenas and casual outings.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3d4ca5d33091963126383a81dfe24ded_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dd14ff4c5141073995de4b79b2a2d2c8_images.jpg"
+    }
+}

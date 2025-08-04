@@ -1,0 +1,17 @@
+{
+    "id": 58724,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Blue & White T-shirt",
+    "price": 1399,
+    "description": "Blue and white horizontally striped polo T-shirt, has a ribbed cutaway collar, three buttoned placket, puma cat embroidered on the left sleeve, short sleeves and Puma branding appliqu&eacute; d on the left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Blue-T-shirt_aafa70ca5256d550139743d7d71e240f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Blue-T-shirt_3a8e4529dd2287de3ec314cb17fc9c05_images.jpg"
+    }
+}

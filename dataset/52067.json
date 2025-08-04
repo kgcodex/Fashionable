@@ -1,0 +1,17 @@
+{
+    "id": 52067,
+    "brandName": "Myntra",
+    "productDisplayName": "Myntra Men Grey Printed T-shirt",
+    "price": 499,
+    "description": "Grey knit t-shirt, has a round ribbed neckline, short sleeves and graphic print in front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Myntra-Men-Grey-Melange-T-shirt_d0d7e3765753f2745ee114219642f26f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Myntra-Men-Grey-Melange-T-shirt_82f5a00f61a5369c80e3721a8cfa8d69_images.jpg"
+    }
+}

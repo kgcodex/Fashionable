@@ -1,0 +1,17 @@
+{
+    "id": 2485,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Purple Blouson Top",
+    "price": 899,
+    "description": "Purple knit blouson top, has a round neck, sleeveless, placket like slit at front neck, embroidered branding at left chest , and body gathered into wide hem band.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Women-Purple-Blouson-Top_208b62eb2f1cfb0e3360bd716d772476_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Women-Purple-Blouson-Top_ba4aff2d5e247ad05b0fb361291a8b04_images.jpg"
+    }
+}

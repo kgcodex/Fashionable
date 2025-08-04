@@ -1,0 +1,17 @@
+{
+    "id": 22939,
+    "brandName": "Fastrack",
+    "productDisplayName": "Fastrack Women Grey Casual Watch",
+    "price": 650,
+    "description": "Style Note",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5ea2ab0941df77ca7d057a7e86030eee_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fd8fa2f425649f29203b52f37092583e_images.jpg"
+    }
+}

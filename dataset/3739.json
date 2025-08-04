@@ -1,0 +1,17 @@
+{
+    "id": 3739,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Delhi Daredevil Blue Cap",
+    "price": 799,
+    "description": "CompositionNavy blue and red polyester cap made of Clima Cool material with comfort Fit, crown made of breathable mesh and team graffiti in front with white stripes along the visorWash careHand washDare the opposition in this navy blue cap of the Delhi Daredevils. Made of Clima Cool material and breathable mesh along the crown, this cricket cap ensures you stay dry and comfortable while you cheer the team to victory. The buckle at the back allows you to adjust the fitting accordingly to allow the cap to stay snug around your head, while the stylish symbol of the Delhi IPL team adorns the front crown, giving it a stylish touch.",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2528662d9a2005c3d1f7874b1cbb7799_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/66953a26ad8271695de8a9f41d2390ca_images.jpg"
+    }
+}

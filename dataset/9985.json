@@ -1,0 +1,17 @@
+{
+    "id": 9985,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women As Jdi Pixels Blue T-Shirts",
+    "price": 995,
+    "description": "Composition Blue round neck t-shirt, made of 100% cotton, has short sleeves, interior neck taping for comfortable Fit and screen-print at front Fitting Slim Wash care Machine wash cold at 30 degrees with like colours Do not bleach Tumble dry low Remove immediately/do not allow to lay on itself when wet Cool iron, but do not iron on design Do not dry clean A slim fit and fun modern graphic team up in this nike Just Do It Pixel women's t-shirt with a classic, comfortable design.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/69c9140c124cd6c4147dcc63b65a4f93_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6c99a1f1109711e6b806cfdc884d9a8e_images.jpg"
+    }
+}

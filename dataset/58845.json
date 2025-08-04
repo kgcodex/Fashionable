@@ -1,0 +1,17 @@
+{
+    "id": 58845,
+    "brandName": "Hakashi",
+    "productDisplayName": "Hakashi Men Steel Cufflinks",
+    "price": 750,
+    "description": "Steel coloured and black enamelled pair of cuff-links, round with crystal detail Hinged back to hold cuff in place",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Steel-Cufflinks_8b30173ae5f7f586950f2ae15608bc36_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Steel-Cufflinks_1e081d3c589333a2c035c2b5f3c77e6c_images.jpg"
+    }
+}

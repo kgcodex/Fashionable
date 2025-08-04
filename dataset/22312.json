@@ -1,0 +1,17 @@
+{
+    "id": 22312,
+    "brandName": "Wildcraft",
+    "productDisplayName": "Wildcraft Men Solid Black Jacket",
+    "price": 1295,
+    "description": "Black jacket made of 100% polyester, has a mock neck with a zippered placket, one zippered pocket and embroidered branding on the left chest and two zippered pockets on the sidePlease note that the thread colour in the brand logo may vary from the image shown",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3ad5d7bddb96bd5d2e8d0a1bf6f90100_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c79a292f6eacf26d94f37250ce724434_images.jpg"
+    }
+}

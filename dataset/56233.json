@@ -1,0 +1,17 @@
+{
+    "id": 56233,
+    "brandName": "SDL by Sweet Dreams",
+    "productDisplayName": "SDL by Sweet Dreams Men Grey & Black Pyjama Set",
+    "price": 1299,
+    "description": "Grey two tone T-shirt, has a round neck, short sleeves, print on the chest Black pyjamas, has a drawstring waist, tape panelling at the sides, two insert pockets at the sides and a pocket at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/SDL-by-Sweet-Dreams-Men-Grey---Black-Pyjama-Set_a1765c63dddf89ce0d7dbb52e5e33331_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/SDL-by-Sweet-Dreams-Men-Grey---Black-Pyjama-Set_a0e5970329eb4212ba5318286935e8fb_images.jpg"
+    }
+}

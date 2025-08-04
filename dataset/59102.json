@@ -1,0 +1,17 @@
+{
+    "id": 59102,
+    "brandName": "Just Natural",
+    "productDisplayName": "Just Natural Men Black Rain Jacket",
+    "price": 1895,
+    "description": "Black hooded waterproof jacket with zipper and velcro closure on the front, long sleeves with velcro closure at the cuffs, two zippered pockets on the front and mesh lining inside",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Just-Natural-Men-Black-Rain-Jacket_e0a3589affa787f3365b560dc73c51ab_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Just-Natural-Men-Black-Rain-Jacket_af35ee266a0ba40a909f9175694b3a51_images.jpg"
+    }
+}

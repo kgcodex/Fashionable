@@ -1,0 +1,17 @@
+{
+    "id": 50325,
+    "brandName": "AURELIA",
+    "productDisplayName": "Aurelia Women Navy Blue Kurta",
+    "price": 399,
+    "description": "Navy blue with red print round neck kurta, woven, taping at centre front, three quarter sleeves with band at hem and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Aurelia-Women-Navy-Blue-Kurta_9be3ff5bbec3758694febf79bc10f9de_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Aurelia-Women-Navy-Blue-Kurta_a4d5a6ae893c76f1dcbf540cdb278f43_images.jpg"
+    }
+}

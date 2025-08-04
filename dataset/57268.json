@@ -1,0 +1,17 @@
+{
+    "id": 57268,
+    "brandName": "The Amazing Spiderman",
+    "productDisplayName": "The Amazing Spiderman Men Teal Printed T-shirt",
+    "price": 599,
+    "description": "Teal T-shirt, graphic print on the front, crew neck with rib knit binding, short sleeves, straight hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/The-Amazing-Spiderman-Men-Dark-Blue-Printed-T-shirt_2f49062142fe71b7f43629dc16ce171c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/The-Amazing-Spiderman-Men-Dark-Blue-Printed-T-shirt_5948e1c4bb92d45c7c778eab1ecc7d2c_images.jpg"
+    }
+}

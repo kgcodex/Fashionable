@@ -1,0 +1,17 @@
+{
+    "id": 54398,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Royal Blue Handbag",
+    "price": 1475,
+    "description": "Royal blue fabric handbag with two short handles for carrying ease and style Pull string attached main compartment for authentic hobo looks, has one internal zippered pocketTwo zippered external side compartmentsKnot detailing on the front and branding on the side",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Royal-Blue-Handbag_98c345d8807388a4e5d206fdc84cc924_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Royal-Blue-Handbag_c0e36e5de27de02ca16f188d0cbfa3b5_images.jpg"
+    }
+}

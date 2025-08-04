@@ -1,0 +1,17 @@
+{
+    "id": 5846,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Roller White Top",
+    "price": 999,
+    "description": "&amp;amp;nbsp;Wash CareRub surface with cleanDamp cloth to remove dustDo not machine wash Wash CareRub surface with cleanDamp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/542c0f234bb325b108d34495a2ff5b04_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cda605134504002b378896b86c761190_images.jpg"
+    }
+}

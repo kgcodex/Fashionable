@@ -1,0 +1,17 @@
+{
+    "id": 7803,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Teal Green Polo T-shirt",
+    "price": 499,
+    "description": "Teal green polo T-shirt, has a polo collar, short button placket, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/45505ba4add7c04be6f0fea6de4b2f96_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e60968b3fac7d6ec5c69526d9910bf9e_images.jpg"
+    }
+}

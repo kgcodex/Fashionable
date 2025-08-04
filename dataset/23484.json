@@ -1,0 +1,17 @@
+{
+    "id": 23484,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Black Striped Scarf",
+    "price": 1499,
+    "description": "This comfy patterned black and grey striped scarf from arrow is made of luxe blended fabric that offers exemplary warmth, making it a perfect addition to your winter wardrobe. Team it with a formal jacket or use it to smarten up a casual coat.Length: 167 cmWidth: 32 cmWash careDry clean onlyDo not bleachWarm iron",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Black-Striped-Scarffcd197722ee21eefa15a7e359dc54098_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Black-Striped-Scarfa7932d63d8d8e9af56061ff11c628468_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 53416,
+    "brandName": "Alma",
+    "productDisplayName": "Alma Women Navy Blue Printed Kurta",
+    "price": 499,
+    "description": "Woven navy blue printed kurta with beige print, has a round neck, short buttoned placket, three quarter sleeves and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Alma-Women-Printed-Black-Kurta_37cb3b4c5696a0de3d07ed21fc6b77f4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Alma-Women-Printed-Black-Kurta_2d28ba2aa41eb1ba67bc677aec4fdc5e_images.jpg"
+    }
+}

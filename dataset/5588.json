@@ -1,0 +1,17 @@
+{
+    "id": 5588,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Kestrel Navy Blue Shoe",
+    "price": 1399,
+    "description": "These lifestyle canvas shoes from adidas are great for casual wear. They give superior traction and protection to the feet while remaining comfortable and stylish. Team these with jeans and tees for a great casual look.UpperHeavy cotton uppers in black for snug Fit and protectionWhite cotton lace-ups for snug fitBreathable canvas and upper re-enforcement with rubber friction compound for strength and longevityEyelets near inner arch for ventilationThree stripes in white as stylish brand symbol representing durability and eleganceMidsoleShock-absorbing rubber midsole for added comfortOutsoleRubber outsole in herringbone pattern for superior gripAbrasion resistant foxing and toe-guard for additional protection and durabilityshoe careWipe surface with soft, clean, damp clothDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2c84abf58d073f053e255df8fefa7e79_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/652bbe797cc316f54d2c8c24f9735008_images.jpg"
+    }
+}

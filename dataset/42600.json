@@ -1,0 +1,17 @@
+{
+    "id": 42600,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Women Orange Top",
+    "price": 1899,
+    "description": "Orange printed sleeveless top, has a round neckline, flower appliqu&eacute; d on the right shoulder, tie up and cut out detail at the nape and gathers from the neckline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1659f4e7fb95885133972ec127d01038_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a46e6c7a1e8609d22c9ecfd9e07e91d8_images.jpg"
+    }
+}

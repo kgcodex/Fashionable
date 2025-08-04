@@ -1,0 +1,17 @@
+{
+    "id": 30234,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men Black Flip Flops",
+    "price": 599,
+    "description": "Effortlessly comfortable and stylish, these flip flops from numero uno are all you need for a cool, casual look. Perfect for pool side or beach wear, or for popping on your feet when you want the easiest footwear option!UpperFabric thong straps that are smooth for absolute comfortSmooth, curved upper with embossed brandingFabric toe separator to hold the foot in placeRubber branding on the strapsOustoleRubber outsole with patterned grooves for gripFlip flop careWipe surface with a damp, clean cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9a33521a731064d771fe567159726c50_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ea12687497c4cc092bbe3f3d4fb1f650_images.jpg"
+    }
+}

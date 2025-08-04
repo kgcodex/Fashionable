@@ -1,0 +1,17 @@
+{
+    "id": 59008,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Women White Sports Shoes",
+    "price": 4399,
+    "description": "Mesh upper with synthetic overlays for durability and style Velcro closure strap in the midfoot to customise the Fit Padded collar and inner lining for in-step comfort Anti-bacterial sockliner for moisture management and to provide a safe environment for the feet Haul loop for easy on/off and to hang shoes from a backpack Kinetic Wedge extending from the heel to toe for gradual heel to toe transition, wherein the softer lower layer provides superior cushioning creating natural instability High density rubber outsole to increase side-to-side stability",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Skechers-Women-White-Sports-Shoes_96f25e6fd866d263ffa85ab8b12ea44b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Skechers-Women-White-Sports-Shoes_c3b95258688d014480ef1da2ac7c6701_images.jpg"
+    }
+}

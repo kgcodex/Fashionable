@@ -1,0 +1,17 @@
+{
+    "id": 3579,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women White Turquoise Shoe",
+    "price": 2699,
+    "description": "An adidas bestseller, the Sparta Lea is a great shoe for those who love to walk and play. With a neat look and ample cushioning, this shoe is a great way to pamper your feet. Team it with jeans and polo neck t-shirts for those casual outings and picnics.UpperSynthetic leather upper for maximum durabilityadidas patented 3-Stripe overlays in synthetic leather on the midfoot region for enhanced support and to exude the brand&amp;rsquo s belief in performanceSynthetic overlay at the back heel collar for enhanced backfoot protection and supportPerforations on the forefoot, heel and midfoot for ventilationMeshed and plushly padded tongue and collar for absolute breathability and snug comfortLace-up system for a snug, customized FitMidsolePU midsole for absolute lightweight comfort and impact protectionPadded sockliner for in-step comfortOutsoleDurable rubber outsole with an impact guidance system for maximum traction during transition from heel strike to toe-offadiPRENE in the heel to absorb impact and provide superior cushioning and protectionScooped heel for absolute cushioned comfortFlex grooves in the forefoot for flexible foot moveMentTrusstic units on the sides of the inner arch for ergonomic comfortShoe careWipe surface with damp, clean cloth to remove dirtDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/580436653f6ab4e3fa2780e2c0ca80d1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4f8819af047601ac0894ff21f60b0835_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 24725,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Unisex Purple Backpack",
+    "price": 1199,
+    "description": "Purple backpack with white accents, branding in frontThe entire backpak can be folded and stored in a pouch attached to the bag, pouch acts as an internal pocket when the backpack is in useOne haul loop and two adjustable shoulder strapsOne main zipped compartment with an internal pocketOne zipped pocket in the frontWarranty: 3 months",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Unisex-Purple-Backpack_686449c6b4e40568473ca4cf17a282d1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Unisex-Purple-Backpack_138445bc203f12fceca05eeda3b200af_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 57056,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women White Shift Dress",
+    "price": 3400,
+    "description": "Cream lace dress, knee length, plunge neck with crocheted lace, empire line, elasticated at chest, thin adjustable shoulder straps, floral embroidery in the front, elasticated smocking at the back, frill near hem, attached lining",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-White-Dress_b50eeaa2698adc01a3c60b7c8f735ad5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-White-Dress_6713cbcf76d974fb0a1b73337cff0890_images.jpg"
+    }
+}

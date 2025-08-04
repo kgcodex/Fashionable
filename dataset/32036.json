@@ -1,0 +1,17 @@
+{
+    "id": 32036,
+    "brandName": "Playboy",
+    "productDisplayName": "Playboy Men Navy Socks",
+    "price": 135,
+    "description": "Navy blue and light blue socks, ribbed mouth with branding, padded footbed with branding, engineered heel and toes",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Playboy-Men-Navy-Socks_74c82e204556f58259a2aeed04cb624c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Playboy-Men-Navy-Socks_4b0b135cea31cd0bf35e7bc86d19b134_images.jpg"
+    }
+}

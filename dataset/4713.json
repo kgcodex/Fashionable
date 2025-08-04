@@ -1,0 +1,17 @@
+{
+    "id": 4713,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex Analogue Cambridge Black Watch",
+    "price": 2795,
+    "description": "Product descriptionUpgrade to a cool, modern look with the adidas Cambridge analogue wrist watch. The polished silver-tone logo applique on the black dial and adds to it an absolute fashionable edge. A great casual accessory, it's a versatile watch for everyday wear.Case diameter: 43 mmCase thickness: 12 mmDial shape: RoundBlack dial with textured grid pattern and polished silver-tone logo applique for added styleBlack polyurethane band with a glossy look and polished black stainless steel buckle for enhanced style and comfort FitGrey digital dial displaying hours, minutes, seconds and date Stainless steel case back for enhanced durability10 ATM water resistance tested using the equivalent static depth rating, with resistance&nbsp; at 50 meters or 165 feet",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a878271c9cec931471a7ab2bd6d2ff5e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cc4a8bcf849fc0620024c2e869e19b50_images.jpg"
+    }
+}

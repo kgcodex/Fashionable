@@ -1,0 +1,17 @@
+{
+    "id": 31817,
+    "brandName": "Titan",
+    "productDisplayName": "Titan Men Chronograph Black Dial Watch",
+    "price": 6995,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a75305abbf463fc34c553a822c91e401_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/24ff55799d6f2a1dd684e5e73a907a3c_images.jpg"
+    }
+}

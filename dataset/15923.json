@@ -1,0 +1,17 @@
+{
+    "id": 15923,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex ADP1810 Black Backpack",
+    "price": 999,
+    "description": "Combining sport, style and comfort, with an adidas logo emblazoned on the front, this Sports bag makes for a great buy.Height: 41.5cmWidth: 13cmDepth: 30cmMade of 100% polyester with a nylon lining for optimum performanceOne main zippered compartment with a laptop sleeveOne zippered compartment on the front with red pipingUtility pocket on the front with organizing pouches and a mobile pouchMesh pockets on the sides for carrying sipper and essentialsPadded and adjustable shoulder straps with the adidas logoSynthetic haul loop for handling easeCareWipe surface with a damp, clean cloth to remove dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c23f4d5c2f8cff33ae1aa5c2c925a8c6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5bd87c616306f3b616495b40a0924af9_images.jpg"
+    }
+}

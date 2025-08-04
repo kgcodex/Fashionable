@@ -1,0 +1,17 @@
+{
+    "id": 59294,
+    "brandName": "U.S. Polo Assn.",
+    "productDisplayName": "U.S. Polo Assn. Men Blue Shirt",
+    "price": 1899,
+    "description": "Blue and white checked shirt with spread collar, full buttoned placket, patch pocket on the left chest, box pleat on the back, branding on the left pocket, long sleeves with buttoned cuffs and curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/US-Polo-Assn-Men-Blue-Shirt_d1a2b949bc91470f68586be53b4379ec_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/US-Polo-Assn-Men-Blue-Shirt_b85e4d3b93bb97bab9b353ea1ca3e897_images.jpg"
+    }
+}

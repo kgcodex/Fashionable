@@ -1,0 +1,17 @@
+{
+    "id": 9407,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Court White Shoe",
+    "price": 2995,
+    "description": "Stylish and super comfortable, these nike Esquire sneakers add an extra bounce to your steps. Lightweight and good looking, you can wear them all day long to feel like you're walking on a bed of cotton. Look spectacular and wow in these comfy shoes.UpperSyntheitc leather upper for durability and styleStitch detailing for added structure and styleLace-up system with synthetic laces for a snug, customized FitWell padded tongue and lushly cushioned collar for in-step comfort and a secure fitBrand tab on tonguenike Swoosh appliqued on sides for branding and styleMidsoleEVA midsole for long-term durability and protection of feet against impactCushioned footbed for all-day comfortMesh lining for improved breathabilityOutsoleLightweight, slip-resistant rubber outsole for better shock absorptionHerringbone pattern all over for better traction on all surfacesshoe careWipe surface with soft, clean, dry cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/011d0fd86905e95880c221a1e8e9b2e4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/917d15c24efac3d4f825261e62cdaf03_images.jpg"
+    }
+}

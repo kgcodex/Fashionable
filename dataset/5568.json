@@ -1,0 +1,17 @@
+{
+    "id": 5568,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women's Free Everyday White Orange Shoe",
+    "price": 5900,
+    "description": "However way you choose to train, the women's Free XT Everyday Fit+ from nike delivers a perfect mix of flexibility and cushioned comfort that lasts all day long! nike Free XT technology uses full-length, multi-directional flex grooves to enhance flexibility and allow the foot to move more naturally while training, helping to strengthen it.Upper Combination no-sew synthetic and sandwich mesh upper for&nbsp; a lightweight, supportive, flexible fit and excellent ventilation Seam-free overlays for added support and durability Comfort collar material for an enhanced fit Textile lining with Fitsole sockliner that moulds to the shape of the foot offering a custom fit with great support Flywire technology for lightweight, dynamic support Lace-up system for a snug, comfort fit Reflectivity for enhanced visibility in low-light conditions Midsole Lightweight, dual density midsole for soft cushioning Lightweight midsole with soft cushioning under the foot for heel-to-toe-comfort, support and durability Outsole Full-length, hot-knife multi-directional flex grooves to enhance flexibility and more natural movement Rubber pods on the heel and forefoot for multi-directional traction and control on various surfaces shoe careDo not machine washRemove dust and dirt with damp clean clothDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6b770519c4c1055316533d281604667c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d8e1177760d2f9346edb4da59b627d7b_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 14029,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Solid Grey Track Pants",
+    "price": 2195,
+    "description": "CompositionGrey tracks made of 88% recycled polyester and 12% spandex Dri-Fit fabric, has a wide blue ribbed waistband with a printed swoosh logoFitSlimWash careMachine wash cold with like coloursDo not bleach Line dryDo not ironDo not dry clean Built with the breathability and zero-distraction fit that athletes demand, these nike training pants come in a slim fit design with a slight flare below the knees. This high-performance pant created from Dri-Fit fabric wicks sweat away and keeps you cool, dry and comfortable. Team it with tees and performance shoes.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2e391d9eb5e5c081579bce3ce4e1eec2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4adaf7993fecc472d6f93ceb3e8c62aa_images.jpg"
+    }
+}

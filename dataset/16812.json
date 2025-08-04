@@ -1,0 +1,17 @@
+{
+    "id": 16812,
+    "brandName": "LOCOMOTIVE",
+    "productDisplayName": "Locomotive Men Check Blue Shirt",
+    "price": 974,
+    "description": "Wash care Gentle machine wash in lukewarm water at 40 degrees Wash dark colours separately Do not bleach Tumble dry normal or line dry Warm iron",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/016e80050b8cea04857de14d4713e09f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8751db37ce2c9f09866acb5e8db040b6_images.jpg"
+    }
+}

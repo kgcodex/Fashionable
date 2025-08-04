@@ -1,0 +1,17 @@
+{
+    "id": 24659,
+    "brandName": "ADIDAS Originals",
+    "productDisplayName": "ADIDAS Originals Men Black Casual Socks",
+    "price": 249,
+    "description": "Wear these cute socks with trainers when you're working out. adidas ensures that all their products are designed to offer the best performance and these socks are no exception. Made of 72% cotton, 27% nylon and 1% elastane Small rib at opening to grip below ankle with narrow contrast stripe Three dimensional shaped heel and toe for best Fit Branding printed on the socks Sock care Machine wash in warm water below 40 degrees using a mild detergent Do not iron, bleach, tumble dry or dry clean",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c65ae564af935a3067c98dd7a7308428_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/be960e8594b0b590ddb983e0cbb17392_images.jpg"
+    }
+}

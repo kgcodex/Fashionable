@@ -1,0 +1,17 @@
+{
+    "id": 23256,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Formal Tan Shoe",
+    "price": 4999,
+    "description": "Classic men's five-hole lace-up shoe with detailed brogueing and a refined stacked flat heel, for the flamboyant cosmopolitan, from arrow. Build your shoe closet around these classic wingtip brogues. The pair references British heritage style with its two tone upper. These shoes look best worn with a trench coat, classic denims and an understated belt from peter england. Upper Genuine leather upper with detailed brogueing (perforations) on the toe box, midfoot and rearfoot Overlays on the midfoot and heel collar Five-hole central lace-ups Brand badge on the lateral side of the midfoot Midsole Shock absorbing EVA midsole Outsole TPR outsole with heel Branded grooves on the midfoot for grip and traction Wash care Wipe surface with soft, clean, damp cloth Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a991a2ee6ef209f4c9f9e224b4d3c462_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/623fcbae36d99abb27e511243d8f2ec1_images.jpg"
+    }
+}

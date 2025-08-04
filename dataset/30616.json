@@ -1,0 +1,17 @@
+{
+    "id": 30616,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Black Track Pants",
+    "price": 1595,
+    "description": "Composition Black track pants for women made of 61% cotton, 33% polyester and 6% spandex, with a broad elasticated waistband with drawstrings and nike swoosh embroidered on the left leg below the waistband Fit Low Rise Wash care Machine wash cold with like colours using a mild detergent Do not bleach iron or dry clean Line dry Stylish to a T, these blended fabric pants from nike are designed to keep you fresh and comfortable while you sweat it out at the gym or on the track. The broad waistband sits snugly, offering a comfort fit. Team it with Nike performance t-shirts and sports shoes for that smart, sporty look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/00dc0f4cd690cc59cdecfa968748bd22_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a619c5ee1c865cf6f96f074c23124977_images.jpg"
+    }
+}

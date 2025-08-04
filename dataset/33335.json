@@ -1,0 +1,17 @@
+{
+    "id": 33335,
+    "brandName": "Homme",
+    "productDisplayName": "Homme Men Black Semi Formal Shoes",
+    "price": 6890,
+    "description": "A semi formal essential for men from homme. This mid top pair is a must-have, with its innovative design details and classic style. Style this highly desirable pair from Homme with tonal accessories.UpperSlip-on styling on a mid-top shoe with a shiny, textured leather upperElasticated insert on one side of the tongue and a zipper on the otherPointed, curved toe cupReinforced overlay at the heel cupPadded footbedOutsole adhered to the upper for durabilityOutsoleTPU outsole with a stacked heel and textured patterning for gripShoe careWipe surface with soft, clean, damp cloth to remove dustUse a leather brush to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/77a7e707a27cf47c84e0f0d7e56674bb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a7a1574014762cb3d70510c50e6ea3bf_images.jpg"
+    }
+}

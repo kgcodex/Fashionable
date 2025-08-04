@@ -1,0 +1,17 @@
+{
+    "id": 40546,
+    "brandName": "Titan",
+    "productDisplayName": "Titan Raga Women Black Dial Watch",
+    "price": 3900,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/471fbb0126605994dcf7a495f6aa6d56_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7058119c9cbb19f3c3820e9ef1f1de40_images.jpg"
+    }
+}

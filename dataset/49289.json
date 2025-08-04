@@ -1,0 +1,17 @@
+{
+    "id": 49289,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Set of 3 Socks",
+    "price": 599,
+    "description": "Set of three pairs of socksThree pairs of black socks with woven patterning, branding at the sole region and elasticated cuffs",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Pack-of-Socks_da99170697c285ec3af064423082f067_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Pack-of-Socks_29173140368db438a6a559a4c98323db_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 3546,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men's Black Lifestyle Shoe",
+    "price": 2999,
+    "description": "Compositionblack shoes made of leather/synthetic upper, phylon midsole, carbon rubber outsole and comes with an additonal pair of lacesshoe care1. Rub surface with soft, clean cloth to remove dust2. Do not machine washEnhance your style quotient in these black sneakers from skechers. The retro vulcanised look is upgraded with a leather and synthetic upper ensuring ample ventilation for the feet. The multiple overlays and stitch detailing ensure greater protection and stability. The padded collar and tongue coupled with a cushioned insole ensure a firm but soft grip, while the lightweight, shock absorbing phylon midsole adds to the comfort level and protects feet from impact. The rubber outsole has a pitted design to improve grip and stability.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/18cc6e1f8f5990447396a790f707a7a6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f3089314132c1572dca2ae88e051d6f7_images.jpg"
+    }
+}

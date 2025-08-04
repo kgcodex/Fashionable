@@ -1,0 +1,17 @@
+{
+    "id": 9049,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Tip Off 2 White Sports Shoes",
+    "price": 3699,
+    "description": "Make those winning baskets in style with the Tip Off 2 Basketball shoes from adidas. Constructed for ultra-quick performance and with absolute lightweight comfort, these shoes are poised to set you soaring. Team these with jeans and tees for great urban style.UpperSynthetic leather upper for maximum durability and lightweight comfort adidas patented 3-Stripe overlays on the lateral side for enhanced support and to exude the brand&amp;rsquo s belief in performance Mid top design for snug support to the lower leg Synthetic overlay at the back heel for enhanced backfoot protection and support Perforations on the forefoot, heel and midfoot for ventilation Meshed and plushly padded tongue and collar for absolute breathability&nbsp; and comfortLace-up system for a snug, customized FitBrand name embossed on the tongue and printed on the collarMidsoleMolded EVA midsoles with TORSION&reg; inserts offer a supportive fitFoam footbed for all day cushioned comfortOutsoleDurable non-marking rubber outsole with herringbone pattern provides absolute grip and traction Torsion system in the midfoot to support the inner arch and improve forefoot motion control in both linear and lateral moveMentPivot point on the big toe mound enables better 180 degree movementshoe careWipe surface with damp, clean cloth to remove dirt Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a9387a69cd8f0ed5fa61daf8ac7f01b2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/192327da36a4d6b36e80b859027c242f_images.jpg"
+    }
+}

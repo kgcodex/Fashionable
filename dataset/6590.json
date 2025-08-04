@@ -1,0 +1,17 @@
+{
+    "id": 6590,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Team Poly White T-Shirt",
+    "price": 995,
+    "description": "CompositionWhite raglan sleeved jersey made of Dri-Fit polyester, with mesh side panels in black and white and nike heat transfer swooshFittingRegularWash care Machine wash cold with like colours Do not use softeners Remove immediately Do not allow to lay on itself when wet Do not bleach Tumble dry low Do not iron Do not dry clean At the gym, on the beach or simply enjoying those healthy runs, there's no better way to do it than in this nike jersey. Smart to look at and engineered with Dry-Fit technology to ensure you stay dry and fresh all day, there's nothing better an active man can ask for. The contoured panels add a dash of style to this tee. Pair it with track pants or shorts and sports shoes to complete that uber cool look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a8f0d1fd3aea9e73dae7d2d19c3020cc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b0331cff305e134ebdc93b589f5f2a02_images.jpg"
+    }
+}

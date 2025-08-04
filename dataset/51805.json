@@ -1,0 +1,17 @@
+{
+    "id": 51805,
+    "brandName": "Bwitch",
+    "productDisplayName": "Bwitch Light Pink Bra",
+    "price": 699,
+    "description": "Light pink lacy bra with underwired and padded cups that have scalloped edgesNetted elasticated side wings with a single hook closure adjustable up to three pointsAdjustable bra straps with lacing at the front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/37c8d264e03d1c4677448ce769c229ae_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2aaa53b9df7174a471998ace203e9057_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 13674,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Track Cat Basic Casual Shoes",
+    "price": 2999,
+    "description": "Wash care Wipe surface with soft, clean, damp cloth Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9c80b6bff30fb7a09df934647f9b1e7e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/14eecfa339cbe2fd951d169ec35567a4_images.jpg"
+    }
+}

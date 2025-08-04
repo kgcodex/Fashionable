@@ -1,0 +1,17 @@
+{
+    "id": 16647,
+    "brandName": "Facit",
+    "productDisplayName": "Facit Men Polo Tee Red Tshirt",
+    "price": 399,
+    "description": "Composition Red polo T-shirt made of 100% premium cotton, has a ribbed collar with a buttoned chest placket, short sleeves with ribbed hems, brand embroidery on the left chest and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5033c422a272db059f1eac62e2ab0cee_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d2da2e4ef1b9f14eeed78bf11ab3dd63_images.jpg"
+    }
+}

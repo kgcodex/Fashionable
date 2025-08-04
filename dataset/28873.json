@@ -1,0 +1,17 @@
+{
+    "id": 28873,
+    "brandName": "Biba",
+    "productDisplayName": "BIBA Women Bohemian Green Kurta",
+    "price": 799,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/602a91d91628e2599fc837bd9b51c72a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a6baab9f93d2c09273274bbb5646fcac_images.jpg"
+    }
+}

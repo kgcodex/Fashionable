@@ -1,0 +1,17 @@
+{
+    "id": 3550,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men's Brown Lifestyle Shoe",
+    "price": 3199,
+    "description": "CompositionBrown shoes made of leather upper, phylon midsole, carbon rubber soles, cushioned insole and comes with an additonal pair of lacesshoe care1. Rub surface With soft, clean cloth to remove dust2. Do not machine washLook cool and stylish in these comfortable shoes from skechers. The brown leather uppers with canvas strips and stud detailing up the style quotient while adding structure and durability, and enhancing breathability. The padded tongue, collar and cushioned footbed surround your foot in soft comfort. The shock-absorbing midsole and flexible super traction outsoles give greater stability, making it a perfect home for your feet.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/763b028b748460b859ea2c5f4d051973_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c00e2c8a436650a2409a6cda8ec8cb2d_images.jpg"
+    }
+}

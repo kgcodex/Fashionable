@@ -1,0 +1,17 @@
+{
+    "id": 12810,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Trainng Black Track Pants",
+    "price": 1795,
+    "description": "CompositionBlack track pants made of 61% cotton, 33% polyester and 6% spandex Dri Fit fabric, that has a wide waist band, swoosh logo embroidered in bright pink on the left of the band, bright pink panel detailing on the back and flared legsFittingComfortWash careMachine was coldWash separately with like coloursDo not use softenersRemove immediatelyDo not allow to lay on itself when wetDo not bleach, Cool iron Get more out of your work outs and yoga sessions with this flattering pair of tracks from nike. The wide waistband and flared legs flatter most body types while the Dri-Fit fabric wicks sweat away from the body and keeps you feeling fresh and comfortable all day long. Team this with tees and sports footwear for trips to the gym.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a6162ec8af5dd42ded80350e441ea91d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5d7ecf52b14d2c2789cb5fb9b075885f_images.jpg"
+    }
+}

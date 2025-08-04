@@ -1,0 +1,17 @@
+{
+    "id": 28612,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Grey Legend      Training  Tshirts",
+    "price": 1095,
+    "description": "Grey T-shirt with a Dri-Fit technology, knitted, ribbed round neck, short sleeves with stitch details at armholes, printed branding at the left chest, printed detail at the front near hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Grey-Training-T-shirt_3fa170dfd8c5adea517f3baf8bbe6552_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Grey-Training-T-shirt_b06bbad3b4b73f3e2562907d767c78fa_images.jpg"
+    }
+}

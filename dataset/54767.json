@@ -1,0 +1,17 @@
+{
+    "id": 54767,
+    "brandName": "Prafful",
+    "productDisplayName": "Prafful Women Green Printed Kurta",
+    "price": 699,
+    "description": "Green printed kurta with short puffed sleeves, mandarin collar with a split neckline, tape detailing on the front and sleeves, pin tucks on the front at the bustline and has side slits",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Prafful-Women-Green-Printed-Kurta_cfd38a392fecdbd1235590e849374bf1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Prafful-Women-Green-Printed-Kurta_fb04f46077331a08b3cfc7fd0f2a6e75_images.jpg"
+    }
+}

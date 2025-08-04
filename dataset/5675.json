@@ -1,0 +1,17 @@
+{
+    "id": 5675,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men's Ilets Resolute Black Shoe",
+    "price": 3599,
+    "description": "Stand out in style with the skechers Owlets-Resolute II leather shoe. Stylish with a laser cut dragon accent on the medial foot, this is a perfect slip on for the urban fashionista.Upper Full leather upper with perforations on the sides for breathability and comfort Side elastic fabric panels for easy wear and snug Fit Stud and mild stitch detailing for durability and style Padded collar for in-step comfort Midsole Cushioned footbed for all-day comfort Low profile wraparound midsole with shock absorption technology for durability and impact protection Outsole Split wraparound durable rubber traction outsole with lugs on four corners of the forefoot and heel Arched midfoot in leather for added style and ergonomic comfort shoe careRub surface with clean, damp cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/145fadb8b1fd882c4a0aa7dd1722e1d8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6d0ab5336959cbaf4b4d5c6195816bad_images.jpg"
+    }
+}

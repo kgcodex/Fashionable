@@ -1,0 +1,17 @@
+{
+    "id": 24940,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Kids Boys Black Printed T-shirt",
+    "price": 799,
+    "description": "Composition Black round neck T-shirt made of 100% cotton, has short sleeves and graphic print on the front Fit Regular Wash care Machine wash in cold water with like colours in a delicate cycle Do not bleach or iron on print Tumble dry low or lay flat to dry Warm iron when needed This united colors of benetton T-shirt is designed to make your little bundle of mischief look cute, while he stays comfortable all day in the soft cotton fabric. Pair it with a denim pants and floaters for unbridled comfort.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/44b4c0d1b87d68a23ff8657dfd5cea9c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d7e278e21f7280d004bc3790aa6ede6f_images.jpg"
+    }
+}

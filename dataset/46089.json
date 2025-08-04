@@ -1,0 +1,17 @@
+{
+    "id": 46089,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women White Galaxy Arriba Sports Shoes",
+    "price": 3699,
+    "description": "White shoes with synthetic upper, perforations on the toe region, overlays and central lace-upsPadded and meshed tongue and innerFoamy rubber midsoleTPU outsole with herringbone grooves, pivot point on the toe region and arched midfoot",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/233f18b2500016511db5f5db40e214d4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/96f4a80e63f659c6f3a880a8ecf50dfe_images.jpg"
+    }
+}

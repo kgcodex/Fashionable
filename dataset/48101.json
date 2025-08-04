@@ -1,0 +1,17 @@
+{
+    "id": 48101,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Women Grey Top",
+    "price": 2299,
+    "description": "Grey top with a multi coloured front, has a cowl neck and short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4e37a790d4b669269f5ba84ccd3c0db2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0c1f0147c807d46702813619d57f75fb_images.jpg"
+    }
+}

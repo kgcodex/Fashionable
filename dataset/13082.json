@@ -1,0 +1,17 @@
+{
+    "id": 13082,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men White Casual Shoes",
+    "price": 1699,
+    "description": "An absolutely cool casual shoe, this pair from numero uno is a great addition to your wardrobe. The all white uppers with black accents in a classic sneaker design creates a strong impression. Team this with jeans and t-shirts for great urban style.UpperCombination of leather and synthetic uppers for durability and comfortLeather uppers on the forefoot flowing into the tongue and synthetic uppers on the heel for durabilityBlack and grey tape detailing on the sides for greater styleLace-ups for a snug FitCushioned collar and tongue for greater comfortTextile lining for added comfortBrand name embroidered on the side of the heel and printed on the tongue MidsoleEVA midsole for better shock absorption and all day comfortOutsoleDurable rubber outsole in an wave pattern for maximum durability and tractionPivot point on the big toe mound for easy 180 degree movementBuilt up heel counter for greater protection to the heelShoe careWipe synthetic leather surface with soft, clean cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2ff958499027cdea81b292a3b8d5c75c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bc4cacba30f709c96b9e32f51950bd79_images.jpg"
+    }
+}

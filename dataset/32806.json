@@ -1,0 +1,17 @@
+{
+    "id": 32806,
+    "brandName": "iPanema",
+    "productDisplayName": "iPanema Women Ritmos Black Heels",
+    "price": 999,
+    "description": "-",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/61049f0983c2d5c133323c4cc021b4ab_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ad1b351b6328572a8f60cbc4f33800f3_images.jpg"
+    }
+}

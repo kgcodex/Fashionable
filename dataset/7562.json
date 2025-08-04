@@ -1,0 +1,17 @@
+{
+    "id": 7562,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's As T90 Ss Top T-Shirt",
+    "price": 1995,
+    "description": "CompositionBlack round neck t-shirt made of 100% polyester, engineered with Dri-Fit technology, has a blue border around the neck, fabric tape detailing on inseam of the neckline, short sleeves, nike swoosh embroidered on the right chest and T90 lettering on the left chest, blue mesh panels on the side and self coloured sublimated print on the backFittingRegularWash care Machine wash in cold water with like colours at 30 degree C Do not use softeners or bleach Remove immediately Do not allow to lay on itself when wet Tumble dry low Do not iron Do not dry clean Get ready to score goals in style in this lightweight nike T90 football training t-shirt. This high-performance tee from Nike made of Dri-Fit fabric wicks away sweat and offers superior ventilation, helping you play longer. Team this with tracks and Nike soccer cleats for superb action on the football field.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/696e9b01bb32198dc8ca0367eb57c4cc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7eb358ac83bc0f3319aaded629bc8657_images.jpg"
+    }
+}

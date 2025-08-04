@@ -1,0 +1,17 @@
+{
+    "id": 32621,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Woven Reflective Blue Shorts",
+    "price": 1595,
+    "description": "Composition Blue shorts for men made of 100% polyester, engineered with Dri-Fit technology, has an in-built brief, elasticated waistband with a drawstring, side meshed panels in bright yellow with black and metallic piping and printed nike swoosh on the left hem Fit Regular Wash care Machine wash cold at 30 degrees with like colours Do not bleach, dry clean or iron Line dry Stylish to a T, these polyester shorts from nike are designed with Dri-Fit technology to keep you fresh and comfortable while you sweat it out at the gym or on the trail. The broad waistband sits snugly, while you can further customise the fit with the drawstring and the in-built boxers offer greater comfort. Team it with Nike Sports tees and shoes for that smart, sporty look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ca8fb559a018e87701908c924177143c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0636ab61ac52f67db19624bbef7f3c05_images.jpg"
+    }
+}

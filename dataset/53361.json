@@ -1,0 +1,17 @@
+{
+    "id": 53361,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Pink & Grey Backpack",
+    "price": 1299,
+    "description": "Pink and grey backpack that has one main two way zipped compartment with an inner patch pocketOne smaller zipped compartment on the front with organiser sleevesOne haul loop for carrying easeTwo adjustable, padded shoulder straps for handling easeBranding embroidered on the front",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/17727336b8a0d3c86804fb16bfc8adaf_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f06effb8804df1dd55fba700e863dc3e_images.jpg"
+    }
+}

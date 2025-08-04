@@ -1,0 +1,17 @@
+{
+    "id": 2800,
+    "brandName": "ID",
+    "productDisplayName": "iD Men's Casual Strapped Leather Brown Shoe",
+    "price": 2485,
+    "description": "Composition:Brown leather with white stitches, swoosh straps, slip-onWash Care:Use a branded leather conditioner to keep it clean and shiny through all seasonsDo you love to wear trendy and fashionable sneakers but feel lazy to tie laces? Then id footwear has a solution. This pair of uber cool&nbsp;shoes are a great imitation of sneakers. Perfect for an outing with friends or for a slog out at work on a weekend,&nbsp;they look fab with any type of casual wear. Experiment with certain ethnic wear too to make that slick style statement. Either way, you'll look great!",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/683b47ee3a2ef3541d77b0a28029b968_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3cfe62fda41a576dfd6b3852256f9a75_images.jpg"
+    }
+}

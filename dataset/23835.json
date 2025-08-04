@@ -1,0 +1,17 @@
+{
+    "id": 23835,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Grey Portland Sports Shoes",
+    "price": 1399,
+    "description": "Modern and ultra comfortable, this pair of Portland shoes from adidas is the perfect running shoe. This iconic shoe comes with a fabulous running silhouette, artfully combining function and fashion. UpperSynthetic and suede upper with contrast-coloured adidas patented 3-Stripes on the midfoot sidesLacing system for a snug, customised FitSynthetic padded mesh tongue for breathable comfortLightly padded collar for optimum fitFabric inner lining with a cushioned foot-bed for all-day comfortMidsoleFoam midsole detailing for vintage style and impact protectionBrand logo on the heel for styleOutsoleTPU outsole with terraced grooves and triangular lugs for absolute durability, grip and tractionShoe careClean the upper using a suede brush and dry, clean clothDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9dcc4cf23bb4dd755d5cb458476cbf86_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d3e9689b8549033485dc5a604638617c_images.jpg"
+    }
+}

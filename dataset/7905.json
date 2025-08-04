@@ -1,0 +1,17 @@
+{
+    "id": 7905,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Green Polo T-shirt",
+    "price": 750,
+    "description": "Green polo T-shirt, has a polo collar, short button placket, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e0fe2b5f842446380f06a327eea9a100_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9b59ad8b55640f10c25a9a7e6330ff22_images.jpg"
+    }
+}

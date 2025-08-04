@@ -1,0 +1,17 @@
+{
+    "id": 2246,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Black Backpack",
+    "price": 1299,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cb7974ec930ea3297571b0d9b58ac08a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0bf42b719e9d32f8e36635361ae4b945_images.jpg"
+    }
+}

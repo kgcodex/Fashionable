@@ -1,0 +1,17 @@
+{
+    "id": 15338,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Solid Grey Capris",
+    "price": 1595,
+    "description": "CompositionGrey melange capris made of a cotton-polyester-spandex blend fabric, has a mid-rise waist for easy movement and embroidered brand logo on the waistband FittingRegularWash careMachine wash cold with like coloursUse mild detergentDo not bleachLine dry inside-out in shadeDo not iron directly on print/embroideryDo not dry cleanLightweight and stretchable, this blended training capris from nike is ideal when indulging in fitness or sporting activities as it allows for easy body movement. The breathable fabric helps you stay dry and comfortable even when you're sweating it out, while the mid-rise waist holds the pants in place. The nike swoosh near the left hip adds that sense of unique style to the outfit.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7cc6857cb8d1e57c1b841781f1c3422a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/109698c44690ddaf5abd69c0e426fe1e_images.jpg"
+    }
+}

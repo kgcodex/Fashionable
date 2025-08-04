@@ -1,0 +1,17 @@
+{
+    "id": 7830,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Osu NM Black Green Shoe",
+    "price": 3999,
+    "description": "Let the modern look of the puma Osu NM help bring you closer to that clean and simple style you've been looking for. Stylish and comfortable, it makes for a great casula wear.Upper Synthetic suede and mesh upper with embroidered logo Bootie construction and hook-and-loop closure for easy wear and removal Lushly padded collar to avoid shoe bite Midsole has an Eco-Ortholite footbed, an environmentally friendly foam insole that retains its shape over time, offering a consistent Fit Flexible CM-EVA midsole for cushioned comfort Outsole Carbon rubber outsole for durability and grip Deep flex grooves for optimal flexibility",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4997c86e68bb3a186009584fc1586c6e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1d5112531c188092abd2f89fce70d649_images.jpg"
+    }
+}

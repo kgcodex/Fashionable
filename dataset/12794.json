@@ -1,0 +1,17 @@
+{
+    "id": 12794,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women White Print Pink Tshirts",
+    "price": 1095,
+    "description": "CompositionBright red round neck T-shirt made of 60% cotton and 40% polyester Dri-Fit fabric, that has a ribbed round neckline with tape detailing on the inseam, short sleeves and graphic print on the frontFittingComfortWash careMachine was warmWash separately with like coloursDo not use softenersRemove immediatelyDo not allow to lay on itself when wetDo not bleach, iron Dry cleanableLine dryUpdate your casual style with this round neck T-shirt from nike. The Dri-Fit fabric keeps you feeling fresh and comofrtable all day by wicking sweat away from the body, while the graphic print with the words \"tennis begins, with love\" gives you an added edge. Team this with jeans and sneakers for a casual look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d7eb6b331a916010e254354f2dcda6e4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/852b7a2ccbdd7c82a856306c7c860c2e_images.jpg"
+    }
+}

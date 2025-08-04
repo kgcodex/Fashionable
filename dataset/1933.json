@@ -1,0 +1,17 @@
+{
+    "id": 1933,
+    "brandName": "Quechua",
+    "productDisplayName": "Quechua Arpenaz 20L Dark Grey Bag",
+    "price": 1699,
+    "description": "1. 2 outer, organiser, 1 back pocket for easy storage2. Ventilated mesh back and straps 3. Tensioners 4. Chest strap 5. Hand rests6. Pre-equipped for water bladder 7. Capacity 20L",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fd0218dd6a17a880eae64adcb029808e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4093e34586c1483fd0ceabc111950083_images.jpg"
+    }
+}

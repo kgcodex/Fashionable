@@ -1,0 +1,17 @@
+{
+    "id": 49666,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Men Sunglass",
+    "price": 3000,
+    "description": "Lens colour: Graduated brownLens type: Glare reduction lenses",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Men-Brown-Sunglass_ece06c00e9749a0cf43003675f73a147_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Men-Brown-Sunglass_af5d528277cec7369dd88b256c923398_images.jpg"
+    }
+}

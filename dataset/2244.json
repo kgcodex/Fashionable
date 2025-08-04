@@ -1,0 +1,17 @@
+{
+    "id": 2244,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women's Black T-shirt",
+    "price": 1199,
+    "description": "CompositionPolo shirt with placket sleevesWash CareHand wash or machine washFittingComfort FitTailored to suit both casual and formal wear, this black, slim-fit t-shirt from adidas gives you that added edge to wear it as you like. You can either let the tee fall over your hips or tuck it and pair it with a stylish belt for that semi-formal look. Model's statistics1. The model wears size M in t-shirts 2. Height-5.7\", Chest-33\", Waist-25\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0003e53e813883aab08f82480940b298_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/08f2a33b3564453250647afe580bab9a_images.jpg"
+    }
+}

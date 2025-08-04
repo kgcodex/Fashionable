@@ -1,0 +1,17 @@
+{
+    "id": 46264,
+    "brandName": "109F",
+    "productDisplayName": "109F Women Black Printed Kaftan Tunic",
+    "price": 1499,
+    "description": "Black printed kaftan top, has a round neck, short kaftan sleeves, tie-up detail along the waist",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7944dc13f018479a491c44e5a7e509e3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b4abb28db39e032652b8fdda26a5279c_images.jpg"
+    }
+}

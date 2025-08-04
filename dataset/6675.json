@@ -1,0 +1,17 @@
+{
+    "id": 6675,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Free White Grey Shoe",
+    "price": 5995,
+    "description": "Train better with these Free TR shoes from nike. These shoes combine a barefoot feel with added support to deliver durability and flexibility for a serious training session.Upper Open mesh upper with synthetic overlays for maximum breathability and protection Flywire panels around the forefoot for strong lockdown and lightweight support Lace-ups for snug Fit Cushioned collar and tongue for greater comfort Swoosh logo appliqued on the sides and brand tab on the tongue Brand name printed on the back of collar Midsole Cushioned footbed for all-day comfort Phylon midsole for maximum impact protection and superior lightweight cushioning Outsole Rubber outsole with multi-directional pattern and pivot points for greater 180 degree movements DiamondFLX traction for multi-directional support and flexibility Deep flex grooves for bending, twisting and changing direction shoe careWipe surface with soft, clean, damp cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/81cc35a97030824e64cc6512a9085c84_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/077c815f8cf2e9e73f164371cddccdd8_images.jpg"
+    }
+}

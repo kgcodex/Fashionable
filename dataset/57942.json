@@ -1,0 +1,17 @@
+{
+    "id": 57942,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Men Brown Shoes",
+    "price": 2999,
+    "description": "Brown leather slip ons with top stitched overlays on the upperPerforations for breathability Cording at sidePadded tongue and heel collar with elasticated gussets at midfootReinforced heel collar and upper adhered to outsoleSemi cushioned footbed with brandingTwo piece TPR outsole with grooves and branding",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Clarks-Men-Brown-Shoes_b072d08774ad2718a26e613523b7aeee_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Clarks-Men-Brown-Shoes_0a142378a5a09755ccb8623691db599c_images.jpg"
+    }
+}

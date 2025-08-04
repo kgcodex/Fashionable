@@ -1,0 +1,17 @@
+{
+    "id": 46503,
+    "brandName": "Timex",
+    "productDisplayName": "Timex Men White Dial Watch",
+    "price": 2995,
+    "description": "Case style: Analogue watch with steel rectangular case Dial style: White and silver dial with golden coloured hands and golden rim around the dial Strap style: Stainless steel straps with golden accents and a butterfly clasp Features: Date aperture at the 6 hour mark and day of the week aperture at the 12 hour mark Water resistant Warranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Timex-Men-Steel-Watch_db6afaed8c9c944d901df10d663ad344_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Timex-Men-Steel-Watch_a5b38fab442c065d237393f3cdec7e9a_images.jpg"
+    }
+}

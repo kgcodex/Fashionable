@@ -1,0 +1,17 @@
+{
+    "id": 6515,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Medium Blue Backpack",
+    "price": 1195,
+    "description": "A great bag for everyday use, this nike backpack is copiously spacious and is made of durable material to last for years.Height: 17.5\" Width: 13\" Depth: 9\" Capacity: 33 litres Made of polyester and nylon, with a nylon lining for durability and easy cleaning Branded zippers and sliders for easy use and longer life of the bag One main copiously spaced zippered compartment with a velcroed separator to hold the laptop and accessories One front zippered compartment with organizer pouches, a dog loop, one zippered pouch and nike swoosh print for style Synthetic haul loop for handling ease Wide, adjustable and padded handles with an ergonomically designed and padded back for carrying ease and to protect the shoulders and back from injuries Nike swoosh printed on right handle, with embroidered swoosh silhouette on the back for style Care Hand washClean with a damp cloth when necessary Do not dry clean or machine washDo not bleach Do not tumble dryDo not wringLine dry Do not iron",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0579d2397b7984423b42abd10088275b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/165f66dc0f48a3862138a28c7a31b969_images.jpg"
+    }
+}

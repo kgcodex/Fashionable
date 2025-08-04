@@ -1,0 +1,17 @@
+{
+    "id": 25472,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Liteforce Navy Blue Casual Shoes",
+    "price": 1995,
+    "description": "Combining the style and flair of canvas shoes with the durability and comfort of running shoes, the nike Liteforce puts the groove back in your style.UpperCanvas upper with synthetic leather overlays and an ankle bandnike swoosh overlay near the midfoot region for added shoe structurePadded collar with a mesh liningFootbed with fabric lining for breathabilityLacing system for all-day comfortMidsolePhylon midsole with PU foxingOutsoleHerringbone grooves on the outsole for added traction and absolute gripWash careMake a paste using 1 tbsp of baking soda, 1 tbsp white vinegar and 1 tbsp hot waterRub this paste onto the canvas and the sole using a brushWash off with lukewarm water",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/df53769bc8630eb17ce9299b670c7ca2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/93d5f0a6bc7e99db0acebfcb50a3071d_images.jpg"
+    }
+}

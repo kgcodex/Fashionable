@@ -1,0 +1,17 @@
+{
+    "id": 29240,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men White Elite Speed Sports Shoes",
+    "price": 3499,
+    "description": "adidas Elite Speed white shoe is an aggressive tennis shoe designed for stability, support and great grip of your feet. This shoe is well loved because it lasts out so long on the tennis courts. The dynamic shoe construction helps in keeping your feet in the right position and can stand up to the regular wear and tear which most other tennis shoes fail to beat.UpperSynthetic leather upper for light weight and durabilityLace-up for snug FitMeshed and padded collar and tonguePatented adidas three stripes on the sides for styleBrand name embossed on the tongueMidsoleRubber/EVA midsole for comfortOutsoleEngineered with Adiprene technology to provide ample cushioning to the feet and protect them from impactHerringbone patterned grooves for traction and durabilityShoe careWipe surface with a damp, clean cloth to remove dust and dirtDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/08f09ef8a439bcbca72c4e6998deb9c0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/643be33a5f17477d3429353030a18827_images.jpg"
+    }
+}

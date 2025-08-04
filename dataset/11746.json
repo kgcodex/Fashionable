@@ -1,0 +1,17 @@
+{
+    "id": 11746,
+    "brandName": "Lee",
+    "productDisplayName": "Lee Men Yellow Polo T-shirt",
+    "price": 1299,
+    "description": "Pastel yellow polo neck t-shirt made of 100% cotton, has a white collar that has a striped backing, tape detailing on the inseam of the collar, light yellow tipped white ribbed cuffs, buttoned chest placket that has tape detailing on the inner side, vented hems, embroidered logo on the left chest and left sleeve, and printed branding on the back near the right side seam",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/87abc3a882191565dacd24b79b6ef71f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/82195c7d163a49f816e86f808553f3d6_images.jpg"
+    }
+}

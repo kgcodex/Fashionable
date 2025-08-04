@@ -1,0 +1,17 @@
+{
+    "id": 28513,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Premier Knit Grey Shorts",
+    "price": 1695,
+    "description": "CompositionGrey shorts for men made of 100% polyester, with a 100% recycled polyester lining, engineered with Dri-Fit technology, has an in-built boxer inner, elasticated waist with a drawstring, side meshed panels at the sides, back and crotch area and printed nike swoosh on the left hemFitRegularWash careMachine wash cold at 30 degrees with like coloursDo not bleach, dry clean or ironLine dryStylish to a T, these polyester shorts from nike are designed with Dri-Fit technology to keep you fresh and comfortable while you sweat it out at the gym or on the trail. The broad waistband sits snugly, while you can further customise the fit with the drawstring. The in-built boxers offer greater comfort. Team it with Nike Sports tees and shoes for that smart, sporty look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7eead8706fb5b57d084367a8af95d7da_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/24577271a6938e6740e7a8e9dee7b83a_images.jpg"
+    }
+}

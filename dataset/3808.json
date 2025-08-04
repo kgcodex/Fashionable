@@ -1,0 +1,17 @@
+{
+    "id": 3808,
+    "brandName": "Converse",
+    "productDisplayName": "Converse Men Navy Chuck Taylor All Star Canvas Shoes",
+    "price": 1499,
+    "description": "A pair of round-toed, navy blue casual shoes with central lace-ups and high top stylingCanvas upper with metallic eyelets, overlay and stitched detail, branding on one side and a reinforced heel collarSoft tongue and textile liningCushioned footbed with branding on the heel, has a comfort insoleThick midsole with foxing on the forefoot and branding on the backfootTextured, rubber outsole with patterned groovesWarranty: 3 months for manufacturing defectsWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Converse-Men-Navy-Chuck-Taylor-All-Star-Canvas-Shoes_56fe6788d49ca1aea77e387534e07dee_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Converse-Men-Navy-Chuck-Taylor-All-Star-Canvas-Shoes_0dd0b018519789625cbc165e3cc3d46b_images.jpg"
+    }
+}

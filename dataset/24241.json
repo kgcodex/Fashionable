@@ -1,0 +1,17 @@
+{
+    "id": 24241,
+    "brandName": "LA-EMOTIO",
+    "productDisplayName": "La-Emotio Women Blue Kurta",
+    "price": 2499,
+    "description": "Blue sleeveless V-neck kurta, has sequins along the neckline, armholes and chest, bead and stone work to create an empire waist, lining on the inside and gathered from the waist down",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a15d97ecf58c2a5a1df8e9b31f00e8f8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c4247c1df0b38182aece2090a547c2be_images.jpg"
+    }
+}

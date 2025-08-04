@@ -1,0 +1,17 @@
+{
+    "id": 45420,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Bronze & Brown Sandals",
+    "price": 590,
+    "description": "Style NoteGive a fashion forward edge to your office wardrobe with these simple and elegant heels from rocia. Braid detailing on the straps add to their design value. A striped semi-forma",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c3f124672575308458ed58bbb80d656c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a93f8d556bdc05e57073a7f83bf10f7c_images.jpg"
+    }
+}

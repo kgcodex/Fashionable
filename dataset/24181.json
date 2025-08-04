@@ -1,0 +1,17 @@
+{
+    "id": 24181,
+    "brandName": "Converse",
+    "productDisplayName": "Converse Unisex Black Casual Shoes",
+    "price": 1790,
+    "description": "converse's reinterpretation of the classic boat shoe is perfect for a warm-weather cool, especially for the tropics. This nautical-inspired piece adds an interesting dimension to your off-duty staples. Style this sockless with rolled up denims, a T-shirt and a fedora or with tailored shorts, an understated belt and a shirt for a dressed-down vibe. UpperCanvas upper for easy maintenance and durabilityCanvas tongue for added comfort and snug FitTwo-hole criss-crossing lace upsLace detail on the sides of the mouthStitch detail on the seams of the toe boxMidsolePU midsole for impact protectionOutsoleRubber outsole with waffle patterned grooves on the forefoot and midfootDiagonal patterning all overShoe careMake a paste using 1 tbsp of baking soda, 1 tbsp white vinegar and 1 tbsp hot water Rub this paste onto the canvas and the sole using a brush Wash off with lukewarm water",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9f7fb79a4837f116cccca3f20e5b9346_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/51c5113d2ee31175d3d6d578dfc3256b_images.jpg"
+    }
+}

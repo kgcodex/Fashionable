@@ -1,0 +1,17 @@
+{
+    "id": 56936,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Golden Flats",
+    "price": 899,
+    "description": "Open toed flats with a toe holder and a midfoot strap Soft footbed with a heel patch TPU sole with a short upraised heel and herringbone grooves at the midfoot region",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Golden-Sandals_2e3b2558176c3c93bd81dfc292315293_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Golden-Sandals_aa994c609acc3f9c99a6c686f58b7473_images.jpg"
+    }
+}

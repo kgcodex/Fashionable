@@ -1,0 +1,17 @@
+{
+    "id": 30650,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Printed Black T-shirt",
+    "price": 1595,
+    "description": "Composition Black T-shirt for men made of 100% cotton, has a round ribbed, short sleeves and graphic on the chest Fit Regular Wash care Machine wash cold with like colours using a mild detergent Do not dry clean or bleach Tumble dry low Warm iron; do not iron on decorations A summer staple from nike for the urban male, this piece is sure to become an off-duty favourite in your fashion focused sportswear collection. Crafted for sport and fashioned to look great, nike gets it right with this versatile piece. Style this with sport shoes and track pants when you're out for an early morning run, or with your favourite jeans and slip-on shoes for a casual look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0f396190cf7f93a3680f6d3a29ea16da_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/05984e96e4976ebd84f4262622e85573_images.jpg"
+    }
+}

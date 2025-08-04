@@ -1,0 +1,17 @@
+{
+    "id": 52121,
+    "brandName": "Doodle",
+    "productDisplayName": "Doodle Boys Navy Blue Printed T-Shirt",
+    "price": 849,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f9724a8ab38fa831836aac8bfb7c645a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3b8594627fc487706ac9d12b1adecc49_images.jpg"
+    }
+}

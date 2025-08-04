@@ -1,0 +1,17 @@
+{
+    "id": 53676,
+    "brandName": "KIARA",
+    "productDisplayName": "Kiara Women Black Handbag",
+    "price": 750,
+    "description": "Black handbag that has a textured, embossed floral print One large zipped compartment with an inner zipped pocket and a mobile pouch Two short handles with a floral detail tied to one strap",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Kiara-Women-Black-Handbag_4a1c2e17bb41565070f619c09319a88d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Kiara-Women-Black-Handbag_a457a2e813ef3f872938f082829e96fe_images.jpg"
+    }
+}

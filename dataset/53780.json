@@ -1,0 +1,17 @@
+{
+    "id": 53780,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Black T-shirt",
+    "price": 1299,
+    "description": "&iuml;&raquo;&iquest;&iuml;&raquo;&iquest;&iuml;&raquo;&iquest;Black sleeveless T-shirt, has a round neckline, puma cat branding in front and back and fluorescent panels on the right and left side in front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a9319de3cfb611058c41b05042234363_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/96f07bc606eb37c92633874ae2ea6bb0_images.jpg"
+    }
+}

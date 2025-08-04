@@ -1,0 +1,17 @@
+{
+    "id": 3672,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men's Speed Up Black Silver Shoe",
+    "price": 1999,
+    "description": "CompositionBlack and silver lace-up shoes made of PU/nylon mesh uppers, phylon midsole and rubber otusole shoe care1. Rub surface with clean, damp cloth to remove dust2. Do not machine washLook great while going for a jog in this pair of black and silver running shoes from fila. The nylon mesh uppers with the black panel strips give a snug Fit with superior breathability. The cushioned insole, collar and tongue give more comfort to the feet. The overall design of the uppers promote stability. The lightweignt Phylon midsoles have a greater capacity for shock absorption and the black and red outsoles with the aggressive multi-directioanl pattern gives superior grip.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f4518afb10010d133050fafc809004b1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4289f29d0d54d47f110188adbbbaac8c_images.jpg"
+    }
+}

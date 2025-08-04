@@ -1,0 +1,17 @@
+{
+    "id": 49763,
+    "brandName": "Vishudh",
+    "productDisplayName": "Vishudh Grey Leggings",
+    "price": 449,
+    "description": "Dark knitted grey leggings with a soft elastic waistband",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cd9104345b48deccfada59ea80a98e52_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d779479f9095736ea241e3b11c981593_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 39628,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Transform Grey Sports Shoes",
+    "price": 1875,
+    "description": "Style Note The nike Transform III shoe offers outstanding comfort and support for the demanding athlete. This lightweight shoe is for the runner who wants to make a bold statement without sacrificing comfort and performance. Product Details Canvas upper with synthetic overlays for enhanced durability Perforations on the forefoot for breathability Lace up system for a snug, customised Fit Padded tongue, collar and footbed for all-day comfort Removable footbed to accommodate an orthotic Phylon midsole for lightweight comfort and impact protection TPR outsole with flex grooves on the forefoot for ease of movement Waffle-pattern lugs for grip and traction Scooped heel for extra cushioning to the backfoot Material and Care Synthetic Wipe with a clean, dry cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b21c5d7af37cbcce7166d49f5be88628_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4a03ff8eaf806e19a003599217ebdfab_images.jpg"
+    }
+}

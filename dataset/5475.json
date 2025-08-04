@@ -1,0 +1,17 @@
+{
+    "id": 5475,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Celso City Thong Brown Flip Flops",
+    "price": 2095,
+    "description": "Leather thong straps with hand-stitched details for durability and comfortToe separator made of leather for maximum comfortFootbed in pentagon shape for maximum styleLeather footbed with phylon midsole for lightweight cushioning and comfortFootbed stitched to midsole for added durabilityTextured rubber outsole for ample impact protection and maximum traction Warranty for manufacturing defects: 6 months (not valid on products with more than 20% discount)",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Mens-Celso-City-Thong-Brown-Flip-Flops_99cf6ad4bcdefed8df7fc76bd8490044_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Mens-Celso-City-Thong-Brown-Flip-Flops_6e611dd6dbbbb0b16bdc98b2180b390f_images.jpg"
+    }
+}

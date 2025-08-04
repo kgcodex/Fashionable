@@ -1,0 +1,17 @@
+{
+    "id": 44191,
+    "brandName": "iPanema",
+    "productDisplayName": "iPanema Women Gold Flip Flops",
+    "price": 699,
+    "description": "Gold flip flops, has a thong style upper with textured patterns and branding on itCushioned beige footbed with contrast floral print patterns on itRubber outsole with grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e3155d06eb89c77e09647596a441b297_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e2eb108c5bd7bef743fca5a7a92eb44c_images.jpg"
+    }
+}

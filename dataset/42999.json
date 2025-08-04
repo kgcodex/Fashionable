@@ -1,0 +1,17 @@
+{
+    "id": 42999,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Grey Air Dictate Sports Shoes",
+    "price": 4495,
+    "description": "Style note Get more comfort and enjoyment out of your fitness training with the nike Air Dictate running shoes. Packed with performance features, the Nike Air Dictate is a great choice for your daily runs. These attractive light-as-air shoes are the perfect blend of style and comfort, designed to up your performance. Product Details Breathable sandwich mesh upper with synthetic overlays for breathabilty and support Extra heel support to lock the backfoot in place and potect it from injuries Padded lining for a comfortable step in feel and a padded tongue and collar for added comfort Lace-ups for snug Fit and to lock the foot in place Mesh tongue for breathability Swoosh logo on the sides to create a style statement Air cushioning unit in the pylon midsole guarantees a smooth and responsive ride Medial and lateral Air-Sole midsole units deliver supreme cushioning BRS 1000 durable rubber outsole for long-lasting wear Waffle-pattern grip for excellent traction Heel crash pad helps reduce impacting shock and set the foot up for a smooth transition TPU shank adds extra support Material and Care Mesh, synthetic Do not machine wash Remove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f5cbb6b8016f869bd760dc53fd09a704_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c6fd184848b9fd160940cefd4f0173fa_images.jpg"
+    }
+}

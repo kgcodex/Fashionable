@@ -1,0 +1,17 @@
+{
+    "id": 39525,
+    "brandName": "Peter England",
+    "productDisplayName": "Peter England Unisex Black Laptop Bag",
+    "price": 1999,
+    "description": "Black padded laptop bag with two short handles, one detachable shoulder strapOne main compartment with a padded laptop holder, organizer slots and a zipped pocketOne zipped pocket at the front and back",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Peter-England-Unisex-Black-Laptop-Bag_cae80c7641bbe0f9a3a3b1131eb295ff_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Peter-England-Unisex-Black-Laptop-Bag_c3cce2fbedaf43819a249c203e48e892_images.jpg"
+    }
+}

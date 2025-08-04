@@ -1,0 +1,16 @@
+{
+    "id": 2306,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Cuffed Black Capris",
+    "price": 995,
+    "description": "Composition:Snug Fit cotton black jersey material caprisWash Care:Handwash/Machine washFitting:Comfort fitIts a perfect pair capri for fitness purpose, wear them while gymming, running, or while going on a walk.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/948505a9be0a9ca7f8b758d7a4e62e35_images.jpg"
+    }
+}

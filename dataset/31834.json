@@ -1,0 +1,17 @@
+{
+    "id": 31834,
+    "brandName": "Titan",
+    "productDisplayName": "Titan Men White Dial Watch",
+    "price": 5500,
+    "description": "Style Description",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/79ffb49b1929c33b72e57e1c3d94cd23_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e2594389278a9dc9630f5f0febbe8a44_images.jpg"
+    }
+}

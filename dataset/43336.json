@@ -1,0 +1,17 @@
+{
+    "id": 43336,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men White Turbo Sports Shoes",
+    "price": 3999,
+    "description": "Synthetic overlays on a mesh upper, has print at the midfoot region Heavily padded inner and tongue, has a pull tab at the heel collar Has a thick foamy midsole, upraised at the heel, has DMX foam cushioning technology Has a TPU outsole with grooves at the periphery, arched midfoot and is decoupled at the heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0d4e03f9a21f5fd855dc7f729344c88e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8a26899e890e7c98d7a0afab4b132d9f_images.jpg"
+    }
+}

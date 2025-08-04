@@ -1,0 +1,17 @@
+{
+    "id": 4517,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Tazon II Black Sports Shoes",
+    "price": 3999,
+    "description": "Round toed sneakers, has a textured, synthetic upper with overlays,&nbsp; foam stripes on the sides, branding on the upper and reinforced overlay at the heel collarCentral lace-up fasteningPadded inner and tongue with branding on itCushioned footbed&nbsp; Durable TPU outsole with honeycomb patterned lugs on the forefoot, curved midfoot, decoupled heel and herringbone patterned lugs on the heelWarranty: 3 months for manufacturing defect only",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Sports-Shoes_b1f6c797e979a199c9841fcfc2b4b1f4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Sports-Shoes_fd0eaa48fe154bae5b28028ad73232c9_images.jpg"
+    }
+}

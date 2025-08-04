@@ -1,0 +1,17 @@
+{
+    "id": 29798,
+    "brandName": "Basics",
+    "productDisplayName": "Basics Men White Striped Shirt",
+    "price": 1299,
+    "description": "Composition Purple and white striped shirt, made of 100% cotton, has long sleeves with buttoned cuffs and mid arm button tabs, spread collar, half concealed buttoned front placket, branding on the placket, stitch detailing and a",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ee3a54e6d42faf51f4d2005e79c0eee8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1de63482963f3b094c40472b90f4b11a_images.jpg"
+    }
+}

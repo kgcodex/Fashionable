@@ -1,0 +1,17 @@
+{
+    "id": 54945,
+    "brandName": "Do u speak green",
+    "productDisplayName": "Do u speak green Men Cream T-Shirt",
+    "price": 590,
+    "description": "Cream coloured T-shirt with a round neck, tiger print on the front, short sleeves, flat locked stitch at shoulder, sleeves and bottom hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Do-u-speak-green-Men-Cream-T-Shirt_d509986b658c03e85ce5d47a3cc3fe66_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Do-u-speak-green-Men-Cream-T-Shirt_30b6cf8ef33430c4f2986dcac4c4b49a_images.jpg"
+    }
+}

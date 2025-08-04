@@ -1,0 +1,17 @@
+{
+    "id": 58468,
+    "brandName": "Fossil",
+    "productDisplayName": "Fossil Men Black Belt",
+    "price": 1495,
+    "description": "Black belt that has a braided design, tang clasp with a fixed loop to offer a snug Fit and to hold the belt in placeHoles to customise fitBranding embossed below the buckle",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fossil-Men-Black-Belt_4425483775d40d44f51a140ca0cd52bb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fossil-Men-Black-Belt_2453ed8e34bee61059f3371227eb3674_images.jpg"
+    }
+}

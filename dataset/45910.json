@@ -1,0 +1,17 @@
+{
+    "id": 45910,
+    "brandName": "maxima",
+    "productDisplayName": "Maxima Men Sliver Dial Chronograph Watch",
+    "price": 3150,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/897517d5a4cf21d20afa0f8271643873_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5966bf42098a9b83f3a0c1db1bc66ded_images.jpg"
+    }
+}

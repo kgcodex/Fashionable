@@ -1,0 +1,17 @@
+{
+    "id": 50614,
+    "brandName": "Chromozome",
+    "productDisplayName": "Chromozome Men Charcoal Grey Brief",
+    "price": 155,
+    "description": "Dark grey briefs with elasticated waistband that has branding, double layered front pouch, elasticated leg holes, full back coverage",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2d5701dd8ee5584bcf799c9f9e58cfac_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7a10a6f491e00f04882feef89fca671b_images.jpg"
+    }
+}

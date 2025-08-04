@@ -1,0 +1,17 @@
+{
+    "id": 33195,
+    "brandName": "Sepia",
+    "productDisplayName": "Sepia Women Pink Tunic",
+    "price": 1199,
+    "description": "Pink tunic made of knitted, blended viscose fabric, has adjustable shoulder straps, half mock placket with flower shaped buttons and lace around the neckline and at the hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/02ef8ab2463edd551bbfe59ba6d850df_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/86cf171a2e074cdab7fb9dc03473712a_images.jpg"
+    }
+}

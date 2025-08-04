@@ -1,0 +1,17 @@
+{
+    "id": 16768,
+    "brandName": "Spice Art",
+    "productDisplayName": "Spice Art Women Black Handbag",
+    "price": 1695,
+    "description": "Black handbag with patent overlays, has two short handles, branding on the frontOne main buttoned compartment with fabric lining and a zipped separatorTwo zipped compartmentsHas a firm base",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Spice-Art-Women-Spacious-Black-Handbag_5dcfce93b48bab4f607d19ad2e6a8513_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Spice-Art-Women-Spacious-Black-Handbag_615e9bd5e72787449a086e4cadebdbf5_images.jpg"
+    }
+}

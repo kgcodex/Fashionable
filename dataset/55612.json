@@ -1,0 +1,17 @@
+{
+    "id": 55612,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men Black Shoes",
+    "price": 2099,
+    "description": "Square toed, black derby shoes Leather upper with top stitched overlays Mild padding and reinforced heel collar Central lace ups and a mildly padded tongue Padded foot-bed for instep comfort Metal branding on the lateral side TPR out-sole with grooves on the forefoot and heel for grip and traction and branding in the middle",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Numero-Uno-Men-Black-Shoes_eefde97ed300c86e0b3b28b416d3fc08_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Numero-Uno-Men-Black-Shoes_f9b39a7a2ecca09abb536ea1fbc07316_images.jpg"
+    }
+}

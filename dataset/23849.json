@@ -1,0 +1,17 @@
+{
+    "id": 23849,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Black Anzo Breeze Casual Shoes",
+    "price": 2799,
+    "description": "The Fit and feel of high-performance footwear is all combined in the adidas Anzo Breeze shoes that is a comfortable, all-purpose, mid-cut nubuck shoe. Outdoor-inspired detailing, felt effect and interior comfort is all for the taking and surely makes for a perfect buy. Pair it with rugged jeans and t-shirts for an adventure of a life time.UpperNubuck with synthetic leather overlays for durability and styleSlip-on style for ease of wearElasticated sides on the midfoot for a snug and customised fitPull tabs on the heel for easy on/offOutsoleTextured TPU outsole with terraced lugs for absolute grip and tractionShoe careWipe surface with damp, clean cloth to remove dirt Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dbfa4834e2777c149dda624305560909_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5c928293178cc7a609f1983c8070ad7b_images.jpg"
+    }
+}

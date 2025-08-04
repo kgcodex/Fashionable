@@ -1,0 +1,17 @@
+{
+    "id": 47659,
+    "brandName": "Femella",
+    "productDisplayName": "Femella Women Black Tunic",
+    "price": 890,
+    "description": "Black woven tunic, has a round neckline, full buttoned placket, patch pockets with a pleat and buttoned flap closures, back yoke, three quarter sleeves with mid arm buttoned tabs for a folded look and loops on the waist for a sash",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-Black-Tunic_122c2fb135db8e4db85304d4840fa412_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-Black-Tunic_a405a4ac87cd22c16e7863b6f8250ac3_images.jpg"
+    }
+}

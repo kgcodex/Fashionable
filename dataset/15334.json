@@ -1,0 +1,17 @@
+{
+    "id": 15334,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Solid Black Shorts",
+    "price": 1995,
+    "description": "CompositionBlack shorts made of polyester and spandex blend Dri-Fit fabric, has an elasticated waist with a drawcord, built in briefs, mesh panels on the side seams, zippered pocket on the back and brand logo on the left legFittingComfortWash careMachine wash cold with like coloursDo not bleachLine dryDo not ironDo not dry cleanBuilt with the breathability and zero-distraction fit that athletes demand, this nike running shorts comes in a body-friendly design. This high-performance shorts features Dri-Fit technology that wicks sweat away from the skin and keeps you dry and comfortable. Team it with t-shirts and track jackets.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2d04fe89e4a2b412a78651097b260f8b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/380308026b562d63acc5769297e0f6e9_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 58540,
+    "brandName": "Miami Blues",
+    "productDisplayName": "Miami Blues Men Sunglasses",
+    "price": 2315,
+    "description": "Lens colour: Graduated grey Lens type: High optical grade lenses with glare control, 100% distortion free vision and 100% UV 400 protection Frame colour: Gun metal Frame type: Oval, full thin frame and arms made of superior, corrosion resistant material High bridge and flexible ergonomically shaped nose-holder The glasses come in a signature miami blues case Warranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Miami-Blues-Men-Sunglasses_a75f87931a0f711f2a54d26214f16d10_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Miami-Blues-Men-Sunglasses_0d859f0ad5809e9800f50cbdf8437c62_images.jpg"
+    }
+}

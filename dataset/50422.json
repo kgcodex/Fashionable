@@ -1,0 +1,17 @@
+{
+    "id": 50422,
+    "brandName": "U.S. Polo Assn.",
+    "productDisplayName": "U.S. Polo Assn. Men Brown Ankle Shoes",
+    "price": 3499,
+    "description": "Style NoteCasual mid-top styling on a formal cut, this shoe from U.S. Polo Association showcases the brand's commitment to quality and innovation. This shoe can either be worn with your casual ensembles - style it with a plaid shirt, a monochrome tee and denims, or dress it up for semi-formal occasions with fitted, clean-look denims, a crisp shirt and a blazer!Product DetailsBrown derby shoe with central lace-ups Upper stitched to the outsoleTextured TPU outsole with branded groove on the midfoot and a stacked heelMaterial and CareLeatherWipe with a clean dry cloth to remove dustUse a leather conditioner and a brush for added shine",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d5ad416568d6af1cfb1341620e95ab71_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7352bb02d7832db7e51eb8c524ce7b3d_images.jpg"
+    }
+}

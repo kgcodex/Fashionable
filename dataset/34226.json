@@ -1,0 +1,17 @@
+{
+    "id": 34226,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Black T-shirt",
+    "price": 499,
+    "description": "Black pique knit polo T-shirt, has a polo collar, short button placket, short sleeves, a chest pocket, a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/725f04ae937a4d3aaa605059adbfafce_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/939a7e12559a711bcce63fb734ae4ce6_images.jpg"
+    }
+}

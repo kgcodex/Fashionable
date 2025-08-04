@@ -1,0 +1,17 @@
+{
+    "id": 36515,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Men Blue Polyester Belts",
+    "price": 799,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2b7aa9be0519d7078826e86edf813cd7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d35df40b5c75d22f46a17392bb65b74d_images.jpg"
+    }
+}

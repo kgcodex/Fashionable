@@ -1,0 +1,17 @@
+{
+    "id": 1544,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Basket Bump Sneaker",
+    "price": 3499,
+    "description": "Look trendy and stay comfortable in these Basket II Bumper lifestyle shoes from puma. This white and black combo is a fresh take on the classic design and looks cool on the court and off it.Upper Leather upper for comfort and protection Perforated sides, tongue and front uppers for greater breathability Formstripes on the sides in stitched panels Lace-ups for snug Fit Textile lining for greater comfort Cushioned collar and tongue for greater comfort Logo name on the side, appliqued logo on the tongue and behind collar Midsole Cushioned insole for all day comfort Cushioned EVA midsole for comfort and stability Outsole Rubber outsole with diamond pattern for greater traction",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5d61295b433a99b3e2f76b87b9519750_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/93059189b6ffc32eeaa2968fa333e6a8_images.jpg"
+    }
+}

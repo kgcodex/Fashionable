@@ -1,0 +1,17 @@
+{
+    "id": 26268,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Purple Polo T-Shirt",
+    "price": 599,
+    "description": "Purple polo T-shirt, has a polo collar, short button placket, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/afea66c2c50479cf080d2da9e330ef6c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/875de99b7a537bea6347073beed2cc0f_images.jpg"
+    }
+}

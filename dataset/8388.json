@@ -1,0 +1,17 @@
+{
+    "id": 8388,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Wo Basic Black Track Pants",
+    "price": 1399,
+    "description": "Black track pants with an elasticated waistband that has a drawstring on the inside, purple piping below the waistband and embroidered brand name over the left leg",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/45dbeed2c6a5a2af670492b6b327a311_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c1df554b21c8bf9079f6435147c78e12_images.jpg"
+    }
+}

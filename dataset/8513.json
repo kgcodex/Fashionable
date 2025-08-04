@@ -1,0 +1,17 @@
+{
+    "id": 8513,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Nike Graphic Red Backpacks",
+    "price": 1695,
+    "description": "If you want a bag that is funky, stylish, super cool and comfortable to carry around all day, check out this neon pink and red backpack from nike. Carry it to college or on a casual day out with your friends. A stunningly good looking bag with loads of space, it can become your best buddy in no time. Be prepared to be swept off your feet by this awesome backpack! Measurement Height: 45 cm Width: 30 cm Depth: 25 cm Capacity: 30 litres Made of 75% polyester and 25% nylon for enhanced durability and style Nylon lining for increased durability One large zippered roomy main compartment with small pouches for stowing essentials A smaller zippered compartment on the front for storing items Brand name printed on the front compartment in bold lettering for branding and added attraction nike Swoosh printed on the front Haul loop for handling ease Padded, adjustable shoulder straps that distribute weight evenly and protect the shoulders and back from injuries Brand name embroidered on the back in large letters Brand tab on strap Branded zippers and sliders for easy use Care Do not machine wash Rub surface with dry clean cloth to remove dust and dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d9db3c0716442cb6fe7311c8dc27f24d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/522e9cc690f2d85e60e05fcec02aadd0_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 11143,
+    "brandName": "SCULLERS",
+    "productDisplayName": "Scullers Men Price Catch Black Shirts",
+    "price": 999,
+    "description": "Wash care Wash dark colours separately Hand wash or machine wash cold using mild detergent Do not wring or bleach Flat dry in shade Do not iron on print",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3d8f5493eb5667903e91f1361b2a6386_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f4d751d4a33bdaa5ccdc980be56e7baf_images.jpg"
+    }
+}

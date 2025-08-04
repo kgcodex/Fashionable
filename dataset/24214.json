@@ -1,0 +1,17 @@
+{
+    "id": 24214,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Black T-shirt",
+    "price": 2795,
+    "description": "CompositionBlack crew neck T-shirt made of 100% polyester, engineered with Dri-Fit technology, has short sleeves, perforations on the sides, nike swoosh on right chest and brand badge on the left hemFitRegularWash careMachine wash cold with like coloursDo not dry clean or bleachTumble dry lowCool iron; do not iron on decorationsCrafted from soft polyester and engineered with Dri-Fit technology, this tee from Nike offers exemplary dry comfort, making it a great everyday choice for your football games or casual days. Team this tee with shorts and cleats and add on a hooded sweatshirt for exemplary comfort during the winter.Model statisticsThe product is a size M on a model of shoulders 18&rdquo;",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/eb8a8516c69dd6ea13465e772655bcbd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3eaec30a90e2271a0086e3b2b7b9e3e1_images.jpg"
+    }
+}

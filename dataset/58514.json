@@ -1,0 +1,17 @@
+{
+    "id": 58514,
+    "brandName": "Tonga",
+    "productDisplayName": "Tonga Women Grey Top",
+    "price": 1450,
+    "description": "Grey knitted top, has a round neck with yoke in the front, short, lace sleeves with gathers at the shoulders, lace panel above the bust, waistband with elasticated gathers",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Women-Grey-Top_ccd03cdca98b9b08601891b783f49a4b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Women-Grey-Top_f121dc1ede1e0ffd66324a3b1bd3f55e_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 47256,
+    "brandName": "FCUK Underwear",
+    "productDisplayName": "FCUK Underwear Men Black Brief",
+    "price": 299,
+    "description": "Black briefs, has a low rise, soft elasticated waistband with branding on it, tagless comfort and double layered pouch",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f0c636801fdc8accb84194003f521fd7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e9b8ee8e4131e410ab1b034bd61f2841_images.jpg"
+    }
+}

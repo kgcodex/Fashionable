@@ -1,0 +1,17 @@
+{
+    "id": 2377,
+    "brandName": "Red Tape",
+    "productDisplayName": "Red Tape Black Men's Shoe",
+    "price": 2295,
+    "description": "-",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Tape-Black-Mens-Shoe_02918900c679354a20d222a8d296e103_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Tape-Black-Mens-Shoe_9b63d608b94e526b17e9e28d23436e5d_images.jpg"
+    }
+}

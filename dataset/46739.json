@@ -1,0 +1,17 @@
+{
+    "id": 46739,
+    "brandName": "Timex",
+    "productDisplayName": "Timex Men Black Dial Watch",
+    "price": 2995,
+    "description": "Case style: Analogue watch with steel round case Dial style: Black dial with steel coloured hands Strap style: Black leather straps with a tang clasp Features: Date and day of the week aperture at the 3 hour mark Water resistant up to 50 m Warranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Timex-Men-Black-Watch_cf0f047ee2b7841c92004767922dee46_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Timex-Men-Black-Watch_144e7c000dce1868f41c2b77a0b4c312_images.JPG"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 14004,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men India Football Jersey",
+    "price": 1995,
+    "description": "CompositionBlue T-shirt made of 100% recycled polyester Dri-Fit fabric, has a V-neck, short sleeves with orange and turquoise blue panels, mesh panels on the sides, appliqued AIFF seal on the upper left chest, embroidered swoosh logo on the upper right chest, club tab towards the left hemline and printed strip on the back below collarFittingRegularWash careMachine wash cold with like coloursDo not dry cleanDo not bleach Tumble dry on lowCool iron onlyDo not iron on print or embroideryCheer the Indian football team on and off the fields with this blue T-shirt from nike. The mesh Dri-Fit fabric created from recyled material wicks sweat away from the skin and the mesh panels keep you well ventilated, while the sporty design gives an added edge. Team this with track pants and football cleats for an aggressive game.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/57f9a6c7980a5ec86eff8d3aa5a48bd0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/647bda1791982cf21b40e8a2e3ece26b_images.jpg"
+    }
+}

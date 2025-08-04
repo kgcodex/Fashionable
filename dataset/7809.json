@@ -1,0 +1,17 @@
+{
+    "id": 7809,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Mid Evo Leather Black Shoe",
+    "price": 4499,
+    "description": "If you're looking for a way to enhance your sneaker-wear to a more classic, old-school appeal, kicks from the puma Mid Evo leather shoe are a great way to make a start!Upper Crinkled-leather upper for style and comfort Padded collar and tongue for enhanced comfort and a snug Fit Suede formstripe detail in self colour Upper stitched to the outsole for extra durability Mid ankle support for comfort Brand name embossed on the heel guard Midsole Breathable fabric lining and a cushioned footbed for all-day comfort. TPU and EVA midsole combined to offer support and ample cushioning Outsole Durable rubber outsole for absolute grip and traction Pivot points below the heel and forefoot for extra flexibility",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/318a34483d1279e3cd4ff9ce5e0d30ab_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f640666bf7fb39dbe2ff0d28db4b5411_images.jpg"
+    }
+}

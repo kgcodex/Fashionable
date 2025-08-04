@@ -1,0 +1,17 @@
+{
+    "id": 8420,
+    "brandName": "Doodle",
+    "productDisplayName": "Doodle Girl's Crazy And Funny Pink Kidswear",
+    "price": 479,
+    "description": "CompositionBubblegum pink round neck top made of 100% cotton, with elasticated ruffled sleeves and chest print that has metal embellishmentsFittingRegularWash careMachine wash in cold water with like colours in a delicate cycleDo not bleachTumble dry low or lay flat to dryWarm iron when neededDo not iron on printTransform your little darling into a princess with this top from doodle. The elasticated ruffled sleeves and chest print add an element of sweetness, while the cotton fabric keeps her fresh and comfortable all day. Pair this top with a tiny skirt and colourful slippers to complete her princess look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Girls",
+    "gender": "Girls",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dbfb53339e7312a0769c667496b39de9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8f75bbeca87b2b8d53807b880e3fe499_images.jpg"
+    }
+}

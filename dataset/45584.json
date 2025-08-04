@@ -1,0 +1,17 @@
+{
+    "id": 45584,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Black Formal Shoes",
+    "price": 4699,
+    "description": "Style Description",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/206ec56ca8d9ad1cea3ce4d5fc6fe613_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c0baee31405de8b5f3c9d32a03a0b249_images.jpg"
+    }
+}

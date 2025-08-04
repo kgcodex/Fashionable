@@ -1,0 +1,17 @@
+{
+    "id": 58565,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Black T-shirt",
+    "price": 2499,
+    "description": "Black polo T-shirt, has a ribbed cutaway collar, three buttoned placket, short sleeves, ferrari branding embroidered on the left chest, back yoke, black panel down centre back and a vented hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Black-T-shirt_047356411ef77348bf4448ac33ede2e8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Black-T-shirt_cc0d4ee947c4602cfa8f45ace6234ef2_images.jpg"
+    }
+}

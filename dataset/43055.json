@@ -1,0 +1,17 @@
+{
+    "id": 43055,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men White FFF Football T-shirt",
+    "price": 2895,
+    "description": "White T-shirt with a asymmetric v-neck, has graphic print on front and back, short sleeves, nike swoosh on the chest, French Football Federation logo at the nape and front, branding appliqued above the left hem and rubber print on the shoulders and armholes",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3bb8cfb8caff9d3c5366f8b45cbee981_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a5bcfbc61f50080f762ed67fa0356057_images.jpg"
+    }
+}

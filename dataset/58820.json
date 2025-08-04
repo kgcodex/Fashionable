@@ -1,0 +1,17 @@
+{
+    "id": 58820,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men Brown Sandals",
+    "price": 3099,
+    "description": "Mesh upper with synthetic overlays in a criss-cross pattern covering the forefoot and midfoot for durability and style Stitch detailing for added style Ankle strap with Velcro closures on the side for a snug Fit Smooth footbed Rubber outsole with textured pattern for greater grip",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Skechers-Men-Brown-Sandals_f2850ad97772603bdaa2565774d49970_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Skechers-Men-Brown-Sandals_5aa5a41675da3577b5fae019bcb424c6_images.jpg"
+    }
+}

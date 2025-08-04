@@ -1,0 +1,17 @@
+{
+    "id": 57036,
+    "brandName": "Forever New",
+    "productDisplayName": "Forever New Women Printed Black Dress",
+    "price": 2000,
+    "description": "Printed black maxi dress with a sweetheart neckline embellished with sequins along the edge, thin adjustable shoulder straps, empire line with gathers, panel below the waist with gathers, flared panel below the knee, elasticated smocking at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Forever-New-Women-Black-Dress_9d47f40469d4acd0617dd91aad828acb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Forever-New-Women-Black-Dress_e6db152da6ff957d24daa36cf59acc8f_images.jpg"
+    }
+}

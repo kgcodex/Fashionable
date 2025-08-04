@@ -1,0 +1,17 @@
+{
+    "id": 29079,
+    "brandName": "Fastrack",
+    "productDisplayName": "Fastrack Unisex Leather Black Belt",
+    "price": 895,
+    "description": "Black leather belt with stylised detailSecured with a tang claspHas holes for a customised fit",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/19b311cc65c9c6af45e799bdcec7cad4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cd3f8c241884286176140e02de36c578_images.jpg"
+    }
+}

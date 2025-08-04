@@ -1,0 +1,17 @@
+{
+    "id": 36222,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men T90 Shoot IV HG-B Grey Sports Shoes",
+    "price": 4295,
+    "description": "Get ready to score those fantastic goals in these nike Total90 Shoot IV HG-B men's soccer cleats. Designed to provide you with superior traction, support and ball control, these soccer shoes are a hot favourite.UpperSynthetic leather upper for lightweight comfort with uniform surface to facilitate shot accuracy at instepTextured screen on the upper to help spin the ball for swerve shotAsymmetric lacing system for a snug FitAppliqu&eacute;d swoosh logo on the sideLightly cushioned collar for comfort and supportMidsoleEVA sockliner for lightweight cushioning and to reduce cleat pressureOutsoleLightweight outsole with optimized cleat placement for traction and stabilityHard Ground cleats for enhanced support on hard courtsshoe careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e88e36bbbfff93f60d02ce9265b4d11b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8dbb6840adfee95b5cd2ae1c6992e288_images.jpg"
+    }
+}

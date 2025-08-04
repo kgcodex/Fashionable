@@ -1,0 +1,17 @@
+{
+    "id": 45134,
+    "brandName": "CASIO",
+    "productDisplayName": "Casio Enticer Men Silver-Gold Analogue Watch MTP-1235SG-7ADF(A359)",
+    "price": 3095,
+    "description": "Case style: Small dial Analogue watch with a rectangular case and a stainless steel backDial style: Silver-toned dialFeatures: A screw to reset the timeStrap style: Steel-toned metallic bracelet-style strap secured by a butterfly claspWater-resistantComes in a signature CASIO caseWarranty: 2 years from the date of purchase against all manufacturing defects",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Casio-Men-Silver-Dial-Watch_e04ee6c785c82a820fb0dfdd4a3240ad_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Casio-Men-Silver-Dial-Watch_917b3fb4532982ea5849131f601afc96_images.jpg"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "id": 36704,
+    "brandName": "Burberry",
+    "productDisplayName": "Burberry London Men Special Edition Perfume",
+    "price": 3800,
+    "description": "Burberry London Men Special Edition Perfume, comes in a glass container",
+    "masterCategoryId": 11,
+    "masterCategoryType": "Personal Care",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Burberry-Men-BURBERRY-LONDON-MEN-EDT-100ML-Beige-Perfumes_59610c2bd7d2c337e94875b66333c119_images.jpg"
+    }
+}

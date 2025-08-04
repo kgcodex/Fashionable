@@ -1,0 +1,17 @@
+{
+    "id": 35214,
+    "brandName": "Wildcraft",
+    "productDisplayName": "Wildcraft Unisex Reflex Grey Backpack",
+    "price": 1395,
+    "description": "Style Note",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Wildcraft-Unisex-Reflex-Grey-Backpack_22a2ad925b1728c549f00be0ec535ef5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Wildcraft-Unisex-Reflex-Grey-Backpack_5f9af6672fce276757946bce7e047896_images.jpg"
+    }
+}

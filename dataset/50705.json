@@ -1,0 +1,17 @@
+{
+    "id": 50705,
+    "brandName": "Latin Quarters",
+    "productDisplayName": "Latin Quarters Women Cream Printed Top",
+    "price": 1100,
+    "description": "Cream knitted top, has a round neck, is sleeveless and has floral print on the front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Cream-Printed-Top_830ec464402927182df67b2608d5df89_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Cream-Printed-Top_9638e0e5994983ff42f3b2e40e64de31_images.jpg"
+    }
+}

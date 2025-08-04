@@ -1,0 +1,17 @@
+{
+    "id": 40395,
+    "brandName": "Tonga",
+    "productDisplayName": "Tonga Women White & Grey Striped Top",
+    "price": 1350,
+    "description": "White and grey long knitted top, has alternate mauve and white horizontal stripes, glitter on mauve sections, diagonal laced yoke extending to the right sleeve with a ribbed cuff",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fa42fe3f0436f378ec0ec646b08a87a6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/14273e4b0580fdd036217b7415fc5927_images.jpg"
+    }
+}

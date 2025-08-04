@@ -1,0 +1,17 @@
+{
+    "id": 28658,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Alphaballer  Black Casual Shoes",
+    "price": 4500,
+    "description": "Designed for absolute comfort, the nike Alphaballer Mid shoe is absolutely stylish and versatile for those who love a comfortable shoe. Its stylish look means it makes a great lifestyle footwear. Upper Velvetty rubber upper with perforations on the toe box for ventilation High ankle Mesh inner Central lacing Synthetic overlays Padded inner and tongue Midsole PU midsole Outsole TPU outsole with concentric circle patterning Shoe care Wipe surface with a dry, clean cloth to remove dust Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Women-Alphaballer-Black-Casual-Shoes_bf1ba966c7135f6df196aba8aae26545_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Women-Alphaballer-Black-Casual-Shoes_5859983b7dcd59b4703e0a0411eccf46_images.jpg"
+    }
+}

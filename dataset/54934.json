@@ -1,0 +1,17 @@
+{
+    "id": 54934,
+    "brandName": "Do u speak green",
+    "productDisplayName": "Do u speak green Women Peach T-shirt",
+    "price": 580,
+    "description": "Peach knit T-shirt, has a round, double layered neckline, cap sleeves with double layered cuffs, graphic print on the front with stitched detail, print at the back and double layered hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Do-u-speak-green-Women-Peach-T-shirt_d969375803146e5b9c737b2713cb4b93_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Do-u-speak-green-Women-Peach-T-shirt_2d09017e0e888a9790b65e38c6a330af_images.jpg"
+    }
+}

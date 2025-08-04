@@ -1,0 +1,17 @@
+{
+    "id": 7806,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Basket Classic White Shoe",
+    "price": 3999,
+    "description": "First launched in 1971, the Basketball Classic in an all-time retro-style that will never go out of fashion. The leather upper offers great comfort and durability, while the rubber outsole provides absolute grip.Upper Leather upper for great style with suede formstripe Upper stitched to the outsole for added durability Central lacing system for snug, customised Fit Lightly padded collar for snug fit Perforation on the medial side for breathability Midsole Lightly padded insole for added comfort. EVA midsole for lightweight comfort Outsole Textured rubber outsole for durability and absolute grip and traction on various surfaces",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/251df54449f0a141a348ebeeb0a5fd68_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c9c540187e89da7097715063504c4c47_images.jpg"
+    }
+}

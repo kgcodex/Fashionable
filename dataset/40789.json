@@ -1,0 +1,17 @@
+{
+    "id": 40789,
+    "brandName": "Quiksilver",
+    "productDisplayName": "Quiksilver Men Green Shoes",
+    "price": 5495,
+    "description": "Style NoteWe're tired of all the colour pop denims around town. That's why quiksilver comes up with this bright pair of sneakers with a high&nbsp; fashion sartorial attitude. Inspired from it's sporty counterparts this pair adds a definite down-town cool with an upscale look. Style this with minimalist ensembles for maximum effect. Product DetailsGreen round toed shoes with central lace-ups and perforationsHas a padded tongue and inner with a fabric footbedPU midsole with foxingPatterned TPU outsoleMaterial and CareNubuck leatherUse a leather brush to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b2f9b7c2c7b3d221c64907187e5a1032_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1f911977994dc50b0884586aaa8304ef_images.jpg"
+    }
+}

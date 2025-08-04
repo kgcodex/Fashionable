@@ -1,0 +1,17 @@
+{
+    "id": 4447,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Extra Wilderness Black Orange Sandal",
+    "price": 1895,
+    "description": "Perfect for casual wear, the footwear being from nike is guaranteed to be comfortable. Long walks or short trip, the footwear will keep you on your feet all the time.Upper Synthetic upper for durability and easy maintenance Cloth lining for snug and comfortable Fit on the foot Velcro straps for snug fit Midsole Ridges in wave pattern for to allow air flow and support accupressure EVA midsole for lightweight feel and shock absorption Outsole Lugs in reverse leaf patterns for firm grip of the terrain Wash careDo not machine washRub with wet cloth to remove dirt",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2e42f1ed4bada64c837f964aaca6f1c4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2b658ae05c5a6c40a6627951fa0f9360_images.jpg"
+    }
+}

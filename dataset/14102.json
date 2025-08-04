@@ -1,0 +1,17 @@
+{
+    "id": 14102,
+    "brandName": "Flying Machine",
+    "productDisplayName": "Flying Machine Women Solid Brown Tops",
+    "price": 999,
+    "description": "Brown top made, has a keyhole neck with a tie up tassle, empire waist with embroidery on the chest, mildly pleated, and has long sleeves with ruching",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/82bd67ae6f4995b4adba78c679f4903a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/73eff50042cc239300ff07cdea8935aa_images.jpg"
+    }
+}

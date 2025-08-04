@@ -1,0 +1,17 @@
+{
+    "id": 5494,
+    "brandName": "Mr. Men Little Miss",
+    "productDisplayName": "Mr.Men Men's Charcoal Polo T-shirt",
+    "price": 549,
+    "description": "Charcoal grey round neck t-shirt made of 100% cotton, with short sleeves, ribbed collar, and bold graphic and flock print on chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9c7c7fa5458c9f27c9db4d024215893d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ae86c7fafe1927f014a489ad7bf7f6a6_images.jpg"
+    }
+}

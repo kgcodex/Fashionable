@@ -1,0 +1,17 @@
+{
+    "id": 52569,
+    "brandName": "Mod-acc",
+    "productDisplayName": "Mod'acc Women White Clutch",
+    "price": 995,
+    "description": "White textured clutch, double flaps with metal rim and magnetic closure, two detachable silver chains &ndash; one long and one short for carrying ease, two slots - each beneath a flap with a card slot in the first one",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Modacc-Women-White-Clutch_90213fc61b3f9ed62f3814c9574903e8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Modacc-Women-White-Clutch_2f705ea47e996d21a79e9217ae999471_images.jpg"
+    }
+}

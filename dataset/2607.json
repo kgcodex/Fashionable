@@ -1,0 +1,16 @@
+{
+    "id": 2607,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Black Stripe T-shirt",
+    "price": 899,
+    "description": "CompositionCotton round neck t-shirt in black with white stripe detailing along the shoulders and minimalist seam detailing on the sidesFittingComfortWash careHandwash or machine washThis bold black t-shirt from adidas is infused with sporty energy. The classic white stripes detailing along the shoulders gives it a bold energetic vibe. The minimalist seam detailing on the sides towards the back gives it a cool edge. Wear it when you go out with friends or for any sporting activity and you will surely stand out from the rest.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e713eaf4af762c5f7136d04df56b2d19_images.jpg"
+    }
+}

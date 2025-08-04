@@ -1,0 +1,16 @@
+{
+    "id": 2286,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Black Sweatshirt",
+    "price": 1995,
+    "description": "Composition:Black, round neck, full arm cotton blend t-shirtWash Care:It can either be hand washed or machine washedFitting:Comfort FitAction:Full arms during summer may be unheard of. But here's your chance to wear such tees and still stay dry and cool in this collection from nike. This round neck, black tee is made of unique heat absorption technology, keeping you fresh through summer.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/71d8d44517f8a8f471d715f0a8e2ebdf_images.jpg"
+    }
+}

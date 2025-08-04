@@ -1,0 +1,17 @@
+{
+    "id": 7845,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Allegra Mid Black Silver Shoe",
+    "price": 4499,
+    "description": "The Allegra is a vibrant mid top action shoe from puma. Street styled to the max with high lacing and extra large touch fastening for a secure Fit, this shoe is also engineered with a breathable AirMesh upper and idCELL midsole, topped off with a low profile rubber sole to make your feet have the best of comfort.Upper Premium leather upper combined with mesh for breathability Synthetic leather formstripe with a shimmery border Central lacing for a customised, snug fit High ankle support with&nbsp; additional buckled strap for grip Outsole embedded onto the toe box for better shock absorption Midsole Innovative puma midsole in a combination of phylon and EVA that provides better lightweight comfort and cushioning idCell in the heel for added impact protection Outsole Textured non-marking rubber outsole with a pivot point below&nbsp; the big toe mound for easay 180 degree movement",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e45045537bc253f708bacc0778693505_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7fcb11c2738682e19b6c6a92a05b1eab_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 28526,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Manu Core Red T-shirt",
+    "price": 1195,
+    "description": "CompositionRed T-shirt for men made of 100% cotton, has a round ribbed neckline, short sleeves with graphic print on the front and nike swoosh on the left hemFitStandardWash careMachine wash cold at 30 degrees with like coloursDo not bleach or dry cleanTumble dry lowWarm iron; do not iron on decorationsGet casual with utmost comfort and ease in this authentic manchester united T-shirt from nike. The cotton wicks sweat away and keeps you fresh and comfortable during fun times with friends, while the fashionable graphic print adds style. Pair this tee with your favourite denims and sports shoes.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2b22838dd4fab7d450c7edac330432ac_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f74f278ab3a54cd00046e09e9563eb15_images.jpg"
+    }
+}

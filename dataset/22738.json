@@ -1,0 +1,17 @@
+{
+    "id": 22738,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Black Backpack",
+    "price": 1395,
+    "description": "Fun, style and comfort are the highlights of this nike backpack. Carry it to college, office or on a casual day out with your friends. It will also prove to be handy for your workout sessions and other sport endeavours. The perfect sturdy, good looking bag has arrived! MeasurementHeight: 47 cmWidth: 41 cmDepth: 26 cmCapacity: 24 litresMade of coated water-resistant polyester for enhanced durability and styleOne main roomy zippered compartmentA zippered compartment on the front nike Swoosh printed on the frontHaul loop for ease of carryingOne mesh pocket with an elasticated mouthPadded, adjustable shoulders straps with mesh lining, to absorb shock, cushion the shoulder and distribute loads more evenlyMesh panels on the back for improved comfort and ventilation Ergonomic design to Fit along the torso comfortablyBranded zippers and sliders for easy useCareDo not machine washRub surface with dry clean cloth to remove dust and dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e662ac5c13f0f4594fcaa19ae4b348ff_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7a519c8ea0023894228e673a5464c3ff_images.jpg"
+    }
+}

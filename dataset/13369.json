@@ -1,0 +1,17 @@
+{
+    "id": 13369,
+    "brandName": "Timberland",
+    "productDisplayName": "Timberland Men Toddler Brown Casual Shoes",
+    "price": 2790,
+    "description": "Dress your growing up kids in absolute comfort in the timberland Powerplay H&amp; L Oxford and watch them enjoy in stylish comfort. Designed with a nubuck, suede and mesh upper, this shoe is sure to keep your young one's feet fresh and comfortable all day long.UpperNubuck and suede upper with strap and mesh detailing on the forefoot Velcro closure straps on the midfoot to offer a customised FitComplete padded fabric inner lining for all-day comfortCushioned foam footbed with a fabric lining for sweat-free all-day comfortMidsoleEVA midsole for impact protection and all-day comfortOutsoleNon-marking rubber outsole with leaf lugs on the periphery of the forefoot and heel, and hexagonal lugs on the mid forefoot for absolute grip and tractionCurved midfoot for inner arch supportOutsole embeded onto the upper as a toe guard and heel guardShoe careWipe dust with a clean and dry clothUse a nubuck and suede brushDo not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Kids-Boys",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/252ac1b18d3619e67f50e349aa08f8c2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/124b1daddf643cdee9a394c84d10c2d2_images.jpg"
+    }
+}

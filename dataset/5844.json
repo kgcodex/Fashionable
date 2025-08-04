@@ -1,0 +1,17 @@
+{
+    "id": 5844,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Woven Pink Top",
+    "price": 1499,
+    "description": "&amp;nbsp;Wash CareRub surface with cleanDamp cloth to remove dustDo not machine wash Wash CareRub surface with cleanDamp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ee1b02ceb6e3b7943ce69c6a3256361a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fc0e32e8a6d44960246d001893121115_images.jpg"
+    }
+}

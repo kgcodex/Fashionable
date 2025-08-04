@@ -1,0 +1,17 @@
+{
+    "id": 9382,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Sweet Classic White Casual Shoes",
+    "price": 3195,
+    "description": "Get retro, return to the old school style with this nike Sweet Classic shoe. With absolute breathable comfort combined with style, it&rsquo;s a must-have in your footwear collection. Having evolved from the tennis court into a streetwear, it&rsquo;s a vintage design you can vouch for.UpperSynthetic leather upper with perforations for breathability and durabilityLong tongue for comfortnike swoosh overlays for enhanced style and midfoot supportPadded tongue and collar for snug comfortLace-up system for snug, customized FitMidsoleFull length EVA midsole for superior cushioning and lightweight comfortMildly padded sockliner for all-day comfort OutsoleDurable rubber outsole in herringbone pattern for superior grip and tractionShoe careDo not machine washRemove dust and dirt with damp clean clothDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/89069f856e4b8b7c5e8dd49d0034564b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f5a7f7bedc076e0b06aedd22d1670a03_images.jpg"
+    }
+}

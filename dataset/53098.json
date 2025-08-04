@@ -1,0 +1,17 @@
+{
+    "id": 53098,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Maroon & Green Earrings",
+    "price": 490,
+    "description": "A green diamond shaped base with a post and back closureHas maroon bead drops",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Green-Earrings_09c0b8ab9516a60925d21c32343e9aca_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Green-Earrings_b5d20e38ea9353845a83abc03598effd_images.jpg"
+    }
+}

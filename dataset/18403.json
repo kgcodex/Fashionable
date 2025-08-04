@@ -1,0 +1,17 @@
+{
+    "id": 18403,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men Tone-Ups Black Shoe",
+    "price": 3799,
+    "description": "Run less, get more with the skechers Tone-Ups Trainer. Fab to look and a great gift for the feet, this pair of shoe is designed with the best of technologies to offer exemplary comfort and health quicker. This shoe is built with Kinetic Core Tri-Density technology that has a progressive suspendion system to naturally maneuver, comfort and cushion the foot, bettering the body's natural gait. This pair comes with a CD and a booklet that provides complete information about the shoe and fun exercise regimes. Upper Meshed upper with an inner meshed bootie for absolute comfort and breathability Strategically placed synthetic leather overlays for absolute comfort, support and style Padded and meshed collar and tongue Lace-up system for a snug, customised Fit Midsole High durometer cradle progressive suspension midsole that disperses weight and offers a stabilising platform for high-density activities Low durometer Kinetic Core midsole in the heel to amplify roll effect and create natural instability to intensify muscle activity Resalyte for cushioned comfort and enhanced impact protection Outsole High density rubber outsole with flex groove technology to increase flexibility Shoe care Wipe surface with a dry, clean cloth to remove dust Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/08d30b5b465a73f088bae79617d17775_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e066c4c299da2374488db75c103aa5b2_images.jpg"
+    }
+}

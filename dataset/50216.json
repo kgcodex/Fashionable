@@ -1,0 +1,17 @@
+{
+    "id": 50216,
+    "brandName": "Stoln",
+    "productDisplayName": "Stoln Women Grey Belt",
+    "price": 425,
+    "description": "Wide, grey belt that is elasticated with a leather patch that has a metallic design and hook clasp",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/75a2f180f5760576a4ae2938179c6fee_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0e2f81914ed13472b5386f0a137b9550_images.jpg"
+    }
+}

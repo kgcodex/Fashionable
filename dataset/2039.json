@@ -1,0 +1,16 @@
+{
+    "id": 2039,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's White Polo T-shirt",
+    "price": 949,
+    "description": "Look good in this stylish polo t-shirt and keep it simple yet stylish!",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/21651a8d68de953497b283bee2a934e7_images.jpg"
+    }
+}

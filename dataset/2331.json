@@ -1,0 +1,17 @@
+{
+    "id": 2331,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men Heather Grey T-shirt",
+    "price": 999,
+    "description": "CompositionCottonFittingComfortWash CareHand wash or machine wash A grey slim Fit crew neck reebok t-shirt to make you look good without you having to try. This t-shirt is ideal for use at the gym, Sports club. It is just right for a day out with friends or for Friday dressing at office. A cool buy that's a hot favorite here at myntra.Model statisticsThe model wears size M in t-shirtsHeight-5.11\", Shoulders-17.5\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/28008bf39f75d3ce867167137ad2f634_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0a7db4120c2a0025ecf0a399aec0011a_images.jpg"
+    }
+}

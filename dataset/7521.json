@@ -1,0 +1,17 @@
+{
+    "id": 7521,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's As Challen Black T-shirt",
+    "price": 1395,
+    "description": "CompositionBlack round neck t-shirt made of 100% recycled polyester, engineered with Dri-Fit technology, has short sleeves and chest print with branding in silver print on left chest FittingComfortWash care Machine wash cold at 30 degrees with like colours Do not use softeners or bleach Tumble dry low Remove immediately/do not allow fabric to lie on itself when wet Cool iron, but do not iron on design Do not dry clean Designed for that absolute running experience, this nike t-shirt is replete with Dri-Fit comfort to make your sporting experience all the more comfortable and fun. The Dri-Fit technology wicks away sweat, allowing you to concentrate on your running. Team this with performance shorts and running shoes for that complete running comfort.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d8cb297f13f2ee8dba3a9ec2d7ce653d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/41b87f032c7c41130da611388a0be529_images.jpg"
+    }
+}

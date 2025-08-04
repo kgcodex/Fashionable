@@ -1,0 +1,17 @@
+{
+    "id": 22494,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men  Adistar Salvation 3 White Sports Shoes",
+    "price": 8999,
+    "description": "Designed for those want a shoe to support their foot and make sure they are getting the best performance during those healthy morning runs, the AdiStar Salvation 3 combines lightweight comfort and ease of wear that makes running all the more pleasurable.&nbsp; adidas have used their own Formotion technology which means your shoe will adapt to the ground every step of the way.UpperSuede and mesh upper for maximum breathable comfort and styleadidas Patented 3-Stripes in reflective blue plus reflective features on the midfoot for enhanced shoe structure and styleMeshed and padded collar and tongue with fabric inner for all-day snug comfortLace-up system for a snug, customised FitSoft footbed for all-day comfortMidsoleAdiPrene midsole for an absolutely cushioned ride, lightweight comfort and enhanced impact protectionHeel stabilizer in the heel for absolute impact protection for the backfoot and anklesTORSION midfoot&nbsp;OutsoleDurable rubber outsole with flex grooves and lugs for absolute grip and tractionFormotion heel for total shock absorption and support3D Pro-Moderator on inner side to counterbalance over pronationShoe careWipe surface with a damp, clean cloth to remove dust and dirtDo not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ee8d3c9c114ce93a33f93b445ccb7cb0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cb5bc3aa3011f30a6dc6d9b6cf7acaf6_images.jpg"
+    }
+}

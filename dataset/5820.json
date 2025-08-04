@@ -1,0 +1,17 @@
+{
+    "id": 5820,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women's Prt Yellow T-shirt",
+    "price": 899,
+    "description": "&nbsp;Wash CareRub surface with cleanDamp cloth to remove dustDo not machine wash Wash CareRub surface with cleanDamp cloth to remove dustDo not machine wash&nbsp;",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0259d038358ce4979c733d7b595f760e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/78f747e98d3e4084f983d959d3506893_images.jpg"
+    }
+}

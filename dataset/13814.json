@@ -1,0 +1,17 @@
+{
+    "id": 13814,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Pack of 3 Printed T-shirts",
+    "price": 899,
+    "description": "Pack of three printed T-shirts in grey, brown and blue, each has a round neck, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/96449c2b3a836351a7033be260a2676a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7087c51ecae08c5659df77d52b9fbb71_images.jpg"
+    }
+}

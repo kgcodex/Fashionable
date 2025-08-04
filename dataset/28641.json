@@ -1,0 +1,17 @@
+{
+    "id": 28641,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Baller Beats Black T-shirt",
+    "price": 1295,
+    "description": "CompositionBlack T-shirt for men made of 100% cotton, has a round ribbed neckline, short sleeves, stitch detailing on the shoulders and graphic print on the frontFitRegularWash careMachine wash cold at 30 degrees with like coloursDo not bleach or dry cleanTumble dry lowWarm iron; do not iron on decorationsGet casual with comfort in this T-shirt from nike. The cotton wicks sweat away and keeps you fresh and comfortable during fun times with friends, while the brand logo adds style. Pair this tee with your favourite denims and sports shoes.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7169fac5b9e3496f5db357d9f02835c3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b2ca8d1f70ce324cfe87cb31c7db097f_images.jpg"
+    }
+}

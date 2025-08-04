@@ -1,0 +1,17 @@
+{
+    "id": 24780,
+    "brandName": "Lino Perros",
+    "productDisplayName": "Lino Perros Women Ladies Belts Black Black Belts",
+    "price": 0.1,
+    "description": "Mismatch of Brand Name- Shabnam on 23/01/2012",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/55b5f44c4251f4d05dd6e70c83c9a125_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/20ad3209c741fbfbdc9ce7e22a214777_images.jpg"
+    }
+}

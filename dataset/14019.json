@@ -1,0 +1,17 @@
+{
+    "id": 14019,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Stripes White Tshirts",
+    "price": 1195,
+    "description": "CompositionWhite pique polo neck T-shirt made of 100% cotton, has thin blue stripes, ribbed collar and cuffs, tape detailing on the inseam of the collar, buttoned chest placket, swoosh logo embroidered on the upper left chest and a vented hemFittingRegularWash careMachine wash cold with like coloursDo not bleach Tumble dry on lowWarm iron onlyDo not dry cleanDo not iron on print or embroideryUpdate your sophisticated style with this white pique polo neck T-shirt from nike. The thin blue lines provide minimalist style, while the cotton fabric keeps you feeling fresh and comfortable all day long. Team this with chinos and leather slip-ons shoes for a well groomed look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/036797c19982ed2c995687ee9ec939bc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c3a7339fae3728f7456567028cefc1bc_images.jpg"
+    }
+}

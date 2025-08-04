@@ -1,0 +1,17 @@
+{
+    "id": 21592,
+    "brandName": "Decathlon",
+    "productDisplayName": "Artengo Men Solid Grey Short",
+    "price": 499,
+    "description": "Composition Grey shorts made of 100% polyester, has two insert pockets on the sides, woven tape detailing along the sides and an elasticated waist with drawstrings inside Fit Regular Wash care Hand wash in cold water Use mild detergent Line dry inside out in shade Cool iron This pair of artengo training shorts comes in a sophisticated body-friendly design. This piece is created with the equarea technology to wick away sweat from the body. Wear this with a sweatshirts for a comfortable work-out session.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c7e0685016cfa0507aa8852ed71565cd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/633563786faa5a1d939f471d7a27b6ef_images.jpg"
+    }
+}

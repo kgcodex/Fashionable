@@ -1,0 +1,17 @@
+{
+    "id": 59938,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Black Casual Shoes",
+    "price": 1999,
+    "description": "Black casual shoes with fabric upper and textile lining, cushioned footbed, PU midsole, rubber outsole with reverse waffle pattern",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Black-Casual-Shoes_06f01a8479b84e4a1aa863a5bfbec3dc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Black-Casual-Shoes_0320e5575cd3d0639a28ae905fdb6f81_images.jpg"
+    }
+}

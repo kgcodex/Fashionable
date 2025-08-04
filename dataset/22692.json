@@ -1,0 +1,17 @@
+{
+    "id": 22692,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Egoli FG White Sports Shoes",
+    "price": 2195,
+    "description": "Built to move in a lightweight, streamlined profile, the nike Egoli Soccer Cleat features superior traction and ball control to overpower foes on harder natural surfaces. This football shoe has firm-ground cleats for use on short-grass fields that may be slightly wet but rarely muddy Upper Synthetic leather upper for comfort Heel counter helps lock down the heel for a secure Fit and also helps to stabilize the planting foot when kicking the ball Midsole Instep pods deliver even pressure on the ball at impact for optimal precision at high speeds High-density EVA sockliner provides contoured heel and arch support and reduces cleat pressure Outsole Lightweight plastic outsole with cleats for excellent traction and structural reinforcement Forefoot flex groove enhances flexibility for a more natural, efficient range of motion Shoe care Wipe surface with damp, clean cloth to remove dust Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5f22deb84aab22493f27ac47f38033cf_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/880eed643345b2f5042db04692a13265_images.jpg"
+    }
+}

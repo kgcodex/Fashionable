@@ -1,0 +1,17 @@
+{
+    "id": 59833,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Men Green Shirt",
+    "price": 1499,
+    "description": "Green shirt, spread collar, full length buttoned placket, long sleeves with buttoned cuff, patch pocket at chest with branding, yoke at back and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Men-Green-Shirt_7b3b0f04ae40e8c5ab904e10d245d6c5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Men-Green-Shirt_4d737c3d579e00ecede1ad1c1c2c5b33_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 2615,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Black Bleed Blue T-shirt",
+    "price": 795,
+    "description": "Composition:Black knit t-shirtWash care:Machine wash separately in cold water. Use mild detergent. Do not bleach. Avoid soaking. Line dry inside-out in shade. Warm iron only. Do not iron directly on print/embroidery.Fitting:Comfort FitThe cricket fever is high, and what best way to celebrate the season than going bold. Radiant, colourful electric energy radiating out of a black t-shirt is what nike offers cricket fans. This energetic design by Gautam Gajbar has all that one needs to charge up the atmosphere. So up the energy with this nike t-shirt, teaming it up with smart casuals.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fa2329392cf3ae858714d3c3d7003134_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7a1440c989385a0ebd726124569348df_images.jpg"
+    }
+}

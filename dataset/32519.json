@@ -1,0 +1,17 @@
+{
+    "id": 32519,
+    "brandName": "Franco Leone",
+    "productDisplayName": "Franco Leone Men Boot Brown Formal Shoes",
+    "price": 2495,
+    "description": "Pointy toed, brown, mid top shoes with slip on styling Has a buckled midfoot strap, zipped sides for easy foot insertion Tough sole with a stacked heel Warranty: 3 monthsWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9522d9da5f4fcb4b20a54ea47784424e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cc6b168a7559e950c426cebfb6d5edb5_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 50027,
+    "brandName": "Hanes",
+    "productDisplayName": "Hanes Women Brown ComfortSoft Waistband Cotton Stretch Full Leggings",
+    "price": 449,
+    "description": "Brown full length leggings which has a stretchable, elasticated waistband for a comfortable fit, branding on the left side below the waistband",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hanes-Women-Brown-Leggings_1432101e05af41d5aa73f9ece024169d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hanes-Women-Brown-Leggings_7bd26e76213dc178fd40720d3491af0a_images.jpg"
+    }
+}

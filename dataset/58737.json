@@ -1,0 +1,17 @@
+{
+    "id": 58737,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Black T-shirt",
+    "price": 1099,
+    "description": "Black T-shirt, has a boat neckline, short sleeves, puma branding printed in front and curved hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Women-Black-T-shirt_f7476ae7eaa39afe59e6037a8bd47e02_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Women-Black-T-shirt_984a7acc6e31fce99a196e8fdab96299_images.jpg"
+    }
+}

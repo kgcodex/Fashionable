@@ -1,0 +1,17 @@
+{
+    "id": 47732,
+    "brandName": "Murcia",
+    "productDisplayName": "Murcia Women Brown Handbag",
+    "price": 1350,
+    "description": "Brown bag crafted from synthetic leather with press buttons on the top on both sides for a compact look Two shoulder straps to sling around the shoulder An external zipped pocket on the side with a tassel Two main zippered slots with an insert pocket and zipped pocket on the side in one, and a mobile pouch in the other",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Murcia-Women-Brown-Handbag_70a684608c9c068e5f602388c6774ccd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Murcia-Women-Brown-Handbag_df83f8654ac454890e41d77ee930e52e_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 6109,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's The Game White Tshirt",
+    "price": 899,
+    "description": "Composition 100% Cotton Wash Care Do not machine wash.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/252a02a8cdf9fa1d5512c12ee72c614c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e387b63d362f1cba8b9c2026447d9787_images.jpg"
+    }
+}

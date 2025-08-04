@@ -1,0 +1,17 @@
+{
+    "id": 28538,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Challenger Charcoal T-shirt",
+    "price": 1495,
+    "description": "CompositionCharcoal grey short sleeved T-shirt for men made of 100% polyester, with graphic print on the chest and nike swoosh printed on the left sleeveFitRegularWash careMachine wash cold with like coloursDo not bleach or dry cleanTumble dry lowCool iron; do not iron on decorationsAt the gym, on the beach or simply enjoying those healthy runs, there's no better way to do it than in this nike T-shirt. Smart to look at and engineered with Dry-Fit technology to ensure you stay dry and fresh all day, there's nothing better an active man can ask for. The contoured panels add a dash of style to this tee. Pair it with track pants or shorts and sports shoes to complete that uber cool look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ad0f750ad3a6afaec434cf8d5d3bfc8c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ce40737a14c4ccbb0f5813862dab6075_images.jpg"
+    }
+}

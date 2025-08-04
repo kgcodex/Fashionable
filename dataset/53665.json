@@ -1,0 +1,17 @@
+{
+    "id": 53665,
+    "brandName": "KIARA",
+    "productDisplayName": "Kiara Women Yellow Handbag",
+    "price": 950,
+    "description": "Yellow and cream handbag that has stitch detailing all over the bagOne magnetic buttoned flap over the mouth of the bagOne main zipped compartment that has an inner zipped pocket and an organiser sleeveOne zipped pocket on the front and an insert pocket at the back",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Kiara-Women-Yellow-Handbag_6912c24964ebfba3905dae3b352b36af_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Kiara-Women-Yellow-Handbag_ee88d792b79770c7225fa078bb5718a4_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 10182,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Style Cat White Casual Shoes",
+    "price": 3499,
+    "description": "The Style cat draws inspiration from race cars to fuse lightweight comfort, style and speed. This stylish sneaker combines simplicity and minimalistic design to make it an absolutely perfect footwear. Upper Leather and synthetic leather upper fur durability, comfort and style puma cat logo detail and formstripe for style Central lacing system for a snug, customised Fit Lightly padded tongue and collar for in-step comfort Midsole Cushioned textile footbed for all-day comfort Full length phylon midsole for lightweight support Outsole Textured outsole made of durable rubber with brand name for absolute grip and traction",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c276945a60082c6411769c944a1a2e22_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/42ac5ce418d387ae15b54e26b3a05c6f_images.jpg"
+    }
+}

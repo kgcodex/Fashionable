@@ -1,0 +1,17 @@
+{
+    "id": 52504,
+    "brandName": "Red Rose",
+    "productDisplayName": "Red Rose Women Cream and Purple Bath Robes",
+    "price": 1049,
+    "description": "Style Note",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Rose-Women-White---Purple-Bath-Robe_7954152756ca8a92d8bd2e7e53064051_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Rose-Women-White---Purple-Bath-Robe_a0153bfc4e6478139842d5e46d77a241_images.jpg"
+    }
+}

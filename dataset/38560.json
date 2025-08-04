@@ -1,0 +1,17 @@
+{
+    "id": 38560,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Black Cap",
+    "price": 1495,
+    "description": "Style NoteThe Roger Federer Hybrid Classic Swoosh men's cap by nike combines grand slam good looks with the progressive performance of Dri-Fit fabric for supreme breathability and perspiration management. This Nike cap is an ideal choice as a cool sportswear accessory and a classy leisurewear option.Product DetailsBlack cap engineered with Dri-Fit technology to keep your head cool (literally)Eyelets and mesh to control moistureVelcro strap to adjust fitRF embroidered on the front and trademark swoosh design embroidered on the left sideWarranty for manufacturing defects: 6 months (not valid on products with more than 20% discount)Material and Care52% cotton, 42% polyester Wipe with a clean cloth to remove dust",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/66f6d628b302eb1789585a813c459a08_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/412cfbc147c11c1429972a19fb63ae35_images.jpg"
+    }
+}

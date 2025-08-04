@@ -1,0 +1,17 @@
+{
+    "id": 23474,
+    "brandName": "Lino Perros",
+    "productDisplayName": "Lino Perros Men Grey Check Scarf",
+    "price": 995,
+    "description": "This comfy checked scarf from lino perros in grey and red is made of luxe blended fabric that offers exemplary warmth, making it a perfect addition to your winter wardrobe. Team it with a formal jacket or use it to smarten up a casual coat.Length: 162 cmWidth: 32 cmWash careDry clean onlyDo not bleachWarm iron",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Men-Grey-Check-Scarfe7441b62d3d8eeb868f6bf411a0efcfe_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Men-Grey-Check-Scarfb191f6ade0d17b1e90203b6b7b277bd3_images.jpg"
+    }
+}

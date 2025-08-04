@@ -1,0 +1,17 @@
+{
+    "id": 1547,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Ducati Sneaker",
+    "price": 3999,
+    "description": "1. Cool cushy mid-sole for comfort and support 2. Rubber out-sole for maximum grip 3. Unisex style 4. Leather upper for long wear and good looks&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5. Chocolate brown silver metallic colour&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Just think of this: You, your gang of friends, these exclusive Ducati-puma shoes! Need we say more? These Ducati sneakers up the style quotient when you and your stylish friends decide to paint the town red.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0f7d83d0318cb9699a121652891ca1bf_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1edf389c24b6a0192389f95d6c4006fd_images.jpg"
+    }
+}

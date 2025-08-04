@@ -1,0 +1,17 @@
+{
+    "id": 11275,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Crickt Black Track Pants",
+    "price": 1245,
+    "description": "Composition Midnight blue track pants made of 65% cotton and 35% polyester, has Dri-Fit fabric to wick sweat away and help keep you dry and comfortable, has an elastic waist with drawcord, mesh-lined side pockets and mesh inserts at side seams Fitting Regular Wash care Machine wash separately in cold water Do not use softeners or bleach Do not allow to lay on itself when wet Do not line dry Do not dry clean Do not iron Add some speed to your stride in the nike men's Woven Track Pants, an ultra-lightweight design that's ready to go that distance with you. With hard-working fabric and ventilation where you need it most, these running pants keep you fresh and comfortable, and help you focused on the finish.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d30ace1f85d65a75556f8ff27a3ba483_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ed33717f5a30113ae34e3477615c8f1b_images.jpg"
+    }
+}

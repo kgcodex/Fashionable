@@ -1,0 +1,17 @@
+{
+    "id": 45349,
+    "brandName": "Cobblerz",
+    "productDisplayName": "Cobblerz Women Pink Sandals",
+    "price": 1999,
+    "description": "A pair of pink&nbsp;peep-toed sandals, has a buckle closure and mid-top stylingSynthetic upper with cut-out detail, strap across the forefoot, ankle loop on the backfootSoft footbed with branding on the heelTPU outsole with branding, has a cone heel with a plastic heel cap",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2d90bd1b39c26999ba7c3f56f6ee79c7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/456e04793a517b6911119fdeb9beabe7_images.jpg"
+    }
+}

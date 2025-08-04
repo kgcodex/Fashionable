@@ -1,0 +1,17 @@
+{
+    "id": 48259,
+    "brandName": "The Amazing Spiderman",
+    "productDisplayName": "The Amazing Spiderman Boys Black T-shirt",
+    "price": 399,
+    "description": "Black round neck t-shirt, has short sleeves, graphic print on the front, rib knit binding at neck, printed branding for tagless comfort, profile stitch at sleeve and bottom hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/The-Amazing-Spiderman-Boys-Black-T-shirt_0dbb57b394c4c7c68b9ed1c08f207338_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/The-Amazing-Spiderman-Boys-Black-T-shirt_12149d2ba159ac1d01933a17b2569bd0_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 12811,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Dri-Fit Black Track Pants",
+    "price": 1995,
+    "description": "CompositionBlack track pants made of 100% polyester Dri-Fit fabric, that has a mesh lining, wide elasticated waist with drawstrings, swoosh logo embroidered on the left leg and zippered openings towards the leg hemsFittingComfortWash careMachine was coldWash separately with like coloursDo not use softenersRemove immediatelyDo not allow to lay on itself when wetDo not bleach, iron or dry cleanLine dryScorers and defenders alike require maximum range of motion to lead their teams to victory, and he'll have plenty of it in the nike tracks. The Dri-Fit fabric wicks sweat away fromt he body, while the mesh lining keeps the body cool allowing for better and more extended training and performance. Team these with Dri-Fit tees and performance footwear for gym sessions and high energy Sports.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b8a85386998dadb2be1a07f4b9711fcd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ca8f5e206308ef3631cdce71d2848048_images.jpg"
+    }
+}

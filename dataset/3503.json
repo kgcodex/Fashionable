@@ -1,0 +1,17 @@
+{
+    "id": 3503,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Navy Blue Sandals",
+    "price": 1899,
+    "description": "Navy blue sandalsSynthetic upper with dark grey overlaysForefoot strap has top contrast coloured top stitch detailing with design and a velcro closureMidfoot strap has brand print and adjustable velcro closureBackfoot strap has an yellow pull loop and dotted designsTextured, soft EVA footbed with massaging nubsRubber outsole with branching grooves, grooves along the periphery for natural foot movement and extends in front to function as a toe guard",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-Spry-Navy-Yellow-Sandal_c1f3565f9e2b5eeb2294eb3d2bf60b31_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-Spry-Navy-Yellow-Sandal_2253b570d5459ba59627f93a9beaa8ea_images.jpg"
+    }
+}

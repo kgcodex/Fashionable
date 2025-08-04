@@ -1,0 +1,17 @@
+{
+    "id": 53445,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Red Neo Tread Flip Flops",
+    "price": 399,
+    "description": "Red flip-flops&nbsp; Footbed with brandingGrooved outsole that offers a great grip",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Women-Red-Neo-Tread-Flip-Flops_8e10d2498f9ea8ec8e96e192c6664847_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Women-Red-Neo-Tread-Flip-Flops_a569e580132e9de2b7e07a1c590ce85b_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 6741,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Air Pegasus Black White Shoe",
+    "price": 6995,
+    "description": "With legendry cushioning and absolute support, the nike Air Pegasus+ 28 running shoe works great for mild underpronators and overpronators. Replete with low-profile cushioning and ample ventilation, the nike Air Pegasus+ 28 also features a Nike+ option that allows you to use Nike+ compatible iPods, Stop watches and much more to clock your fitness regime.Upper Meshed upper for maximum ventilation Bootie that wraps around the foot offering a snug, breathable, comfort Fit Strategically placed synthetic overlays with added TPU skeleton at the back foot for better shoe structure, full range of motion and secure fit Flywire technology for premium, lightweight support External heel counter to wrap the heel for a snug, secure fit Lace-up system and padded mesh sockliner for snug, breathable fit Cushioned sockliner that moulds to the foot, offering a custom fit and great support Reflective elements for enhanced visibility in low light conditions Midsole Premium Cushlon foam midsole for soft, responsive cushioning and support Nike Zoom unit in the heel for low-profile, responsive cushioning Segmented crash pad for shock absorption, delivering a smooth ride Outsole Durable rubber outsole with waffle pattern lugs for maximum traction and stability Heel pad made of BRS 1000 rubber for abrasion resistance Toe guard reinforced for forefoot protection Shoe careWipe surface with damp, clean cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/54bdae1ed18f8666f6eec598d82f3afa_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/51af6a6286ea479a47fbc4f4f3b2c5ed_images.jpg"
+    }
+}

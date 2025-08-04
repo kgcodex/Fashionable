@@ -1,0 +1,17 @@
+{
+    "id": 32191,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Phantom Blue Sports Shoes",
+    "price": 4599,
+    "description": "The Phantom from adidas is a plush high mileage training shoe for neutral runners. adidas continues to deliver ultimate comfort and a smooth ride in one package with this shoe. Choose this for a comfortable, durable option when you're running every day and need a shoe that can keep up with your training schedule. Upper Complete mesh upper for breathability with synthetic overlays for added durability Three rubber overlays across the sides of the upper for added structure and style Synthetic central lacing for snug Fit Mesh cut-out on the heel cap with Adidas logo to enable heat transfer Luxuriously padded collar to prevent the ankle from twisting Padded tongue for snug fit Overlays of glossy synthetic for styling effect Midsole Lightly cushioned insole for ergonomic fit EVA-injected adiPrene midsole for lightweight comfort Outsole AdiWear outsole with multi-directional flex grooves for added traction Multiple rubber lugs all over the outsole for increased grip on any ground Arched for ergonomic comfort Shoe care Wipe surface with soft, clean, damp cloth Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/be27634b38e73008a86ebfc897a92268_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4211b49c91d5c4899f64adbb9bfd589b_images.jpg"
+    }
+}

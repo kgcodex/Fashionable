@@ -1,0 +1,17 @@
+{
+    "id": 20953,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Spring Green Flip Flops",
+    "price": 399,
+    "description": "The Spring flip flop from adidas features dandelions on its footbed, and is created for the whimsical at heart. Pait it with your favourite T-shirt and washed denims Upper Textured rubber straps in a thong style, with rubber toe separator and adidas 3-Stripes PU footbed for cushioned comfort Printed footbed for style Outsole TPR outsole with geametrical lugs for maximum traction flip flops care Wipe off dirt with a moist cloth Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/24d13f6d96849b33043562e20caa4c2f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f5202830d73d330a10acef6928730dfb_images.jpg"
+    }
+}

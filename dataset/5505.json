@@ -1,0 +1,17 @@
+{
+    "id": 5505,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Grey Printed Handheld Bag",
+    "price": 995,
+    "description": "Grey printed handheld bag, has a zip closure1 main compartment, 1 inner pocketTablet sleeve: NoTwo HandlesWarranty: No Warranty",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c4287a4f55a67ce61cdae80a74907dd8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c25bab5d87250540ea3b547e9ac32f4c_images.jpg"
+    }
+}

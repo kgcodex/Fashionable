@@ -1,0 +1,17 @@
+{
+    "id": 10339,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Women Black Polo T-shirt",
+    "price": 899,
+    "description": "Black t-shirt made of 100% cotton, with short sleeves that have ribbed hems, ribbed and tipped collar, buttoned chest placket, embroidered Big Ben logo and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8b9a821ed50338698c783caa7a9335f9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b892bccc506eeb68fb62406ba1634459_images.jpg"
+    }
+}

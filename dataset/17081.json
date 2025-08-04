@@ -1,0 +1,17 @@
+{
+    "id": 17081,
+    "brandName": "Lino Perros",
+    "productDisplayName": "Lino Perros Women Denim Blue Wallet",
+    "price": 695,
+    "description": "Crafted for the urban style maven, this wallet from lino perros is a must have for those who love organizing their wallet space. Dimensions : 9 cm X 19 cm Three fold denim upper with stitch detailing A magnetic button flap to hold the wallet together Five pockets and a card holder space in each of the three folds One buttoned compartment on the side of the flap Care Wipe with clean, damp cloth to remove dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4fc9cf510142ad2aee8d4784ea91ea4c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ccb20da999b186509b9d6df467d86b0d_images.jpg"
+    }
+}

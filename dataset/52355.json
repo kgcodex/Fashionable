@@ -1,0 +1,17 @@
+{
+    "id": 52355,
+    "brandName": "Red Rose",
+    "productDisplayName": "Red Rose Women Peach Nightdress",
+    "price": 689,
+    "description": "Peach nightdress with a V-neckline, cap sleeves, panel stitch around the neckline, paneling at the yoke, tie-up detail at the waist and a patch pocket on the right front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Rose-Women-Peach-Nightdress_5793289c438a9e9b610eb93b0b251167_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Rose-Women-Peach-Nightdress_405458250f998179dcc303ba9cd9c261_images.jpg"
+    }
+}

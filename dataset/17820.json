@@ -1,0 +1,17 @@
+{
+    "id": 17820,
+    "brandName": "Lee Cooper",
+    "productDisplayName": "Lee Cooper Men  Brown Sandal",
+    "price": 1485,
+    "description": "A perfect casual footwear for the man of style, this sandal from lee cooper is crafted from a combination of leathers to offer exemplary comfort. Upper Wide midfoot leather straps with a padded fabric inner lining for sweat-free and abrasion-free comfort Suede lined padded footbed ergonomically raised to offer a massage feel Outsole TPR outsole with strategically placed textured waffle pattern lugs for absolute grip and traction Flex grooves for ease of movement Curved midfoot for ergonomic comfort Sandal care Wipe away dust with a clean and dry cloth Use a branded leather conditioner when needed Dust the footbed using a suede brush Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/008616f381c81e44d589ca2cbac97ef8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3bdd5b1e72ffa860e68ad7eaee704af9_images.jpg"
+    }
+}

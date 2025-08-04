@@ -1,0 +1,17 @@
+{
+    "id": 15608,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Navy Blue Team Woven     Training  Track Pants",
+    "price": 1995,
+    "description": "CompositionNavy blue trackpants made of 100% polyester shell and mesh, is engineered with Dri-Fit and thermal technology, has an elasticated waist with drawcords, two side pockets and printed nike swoosh logo on the left thighWarranty for manufacturing defects: 6 months (not valid on products with more than 20% discount)FittingComfortWash careMachine wash cold with like coloursDo not dry clean, bleach or lay on itself when wetTumble dry lowDo not ironDesigned for the man who never compromises on comfort and style, this trackpant from nike is crafted from a polyester fabric to offer exemplary comfort and a flattering fit. The Dri-Fit technology ensures you enjoy your training sessions and casual outings in sweat-free comfort, while the thermal qualities traps your body heat and keeps you warm and comfortable. Add on sporty t-shirts and sneakers.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b1ec30839f6993041178b77d03e484dd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/95195516a140e095ef7d91d5b6acbd61_images.jpg"
+    }
+}

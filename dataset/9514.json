@@ -1,0 +1,17 @@
+{
+    "id": 9514,
+    "brandName": "Classic Polo",
+    "productDisplayName": "Classic Polo Men Brown Polo Tshirts",
+    "price": 765,
+    "description": "Brown polo neck t-shirt with light brown stripes, made of 100% cotton with ribbed collar and short buttoned placket, tape detailing on the inseam of the collar, vented hems and pocket with embroidered logo on left side of the chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/01eabb6e70a04a4000aa2578eabe7916_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b11b114fff6cdbeec581dec231a92361_images.jpg"
+    }
+}

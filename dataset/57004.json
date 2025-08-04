@@ -1,0 +1,17 @@
+{
+    "id": 57004,
+    "brandName": "HM",
+    "productDisplayName": "HM Women White Sandals",
+    "price": 899,
+    "description": "Open toed flats with a toe holder ans a midfoot strap with cut-outs Mildly padded footbed with a brand label at the heel Rubber sole with a grooved, upraised heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-White-Sandals_a7ea8d32e105548ddfe75cfbbcdfa757_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-White-Sandals_1bf6db5c987e3c21e323fad83016d5b7_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 6746,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's OverPlay VI Black Shoe",
+    "price": 3500,
+    "description": "Here's the Overplay VI from nike&mdash;the ideal hoops shoe for the beginner baller! Upper Combination full-grain leather and synthetic upper provides great Fit, support and durability Perforated collar, midfoot and forefoot enhance ventilation to keep your feet cool and comfortable Mesh tongue for added breathability Internal heel counter for lateral support and stability during quick cuts Additional cushioning in the heel collar for enhanced comfort Midsole Full-length Phylon midsole provide lightweight cushioning and comfort. TPU shank plate in the midfoot for torsional rigidity Outsole Lateral-side outrigger provides stability for quick, change-of-direction movements Solid rubber outsole with traditional herringbone pattern for excellent traction on the court Shoe careDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9ce744f4e0b3619dc44b0e062425af22_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d7fa0f19bbd10ea784bd4049ca3f2871_images.jpg"
+    }
+}

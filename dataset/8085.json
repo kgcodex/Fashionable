@@ -1,0 +1,17 @@
+{
+    "id": 8085,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Vanquish5 Silver Sports Shoes",
+    "price": 3099,
+    "description": "Absolutely sporty in style, the adidas Vanquish5 running shoe is heavily meshed to ensure your feet breathe while you burn those unwanted calories. Lightweight and with superior grip and cushioning, these shoes make running an absolute pleasure. Upper Heavily meshed upper for absolute breathability Strategically placed synthetic overlays for added shoe structure and support Inner bootie for wrap-around comfort adidas patented 3-Stripe overlays in synthetic leather on the midfoot region for enhanced support and to exude the brand&rsquo;s belief in performance Lace-up system for a snug, customized Fit Meshed and plushly padded tongue and collar for absolute breathability and snug comfort Midsole PU midsole for lightweight comfort and impact protection Padded footbed for all-day comfort Outsole Durable, non-marking rubber outsole Circular lugs with modified waffle pattern lugs on the medial forefoot back heel for absolute grip and traction Impact guidance system for a more responsive ride from heel-strike to toe-off Flex grooves in the forefoot for easy moveMent Scooped heel for absolute cushioned comfort Shoe care Wipe surface with damp, clean cloth to remove dirt Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/41cb809019cd022776714e468d351d4d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/37ceefbc1b240084c252043de8667c9c_images.jpg"
+    }
+}

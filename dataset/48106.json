@@ -1,0 +1,17 @@
+{
+    "id": 48106,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Women White T-shirt",
+    "price": 1999,
+    "description": "&iuml;&raquo;&iquest;&iuml;&raquo;&iquest;White top, has a round neckline, cap sleeves and a graphic print in front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a0e188b406fd5b7a53d1bb86a2939f79_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/989e99f53a5363c03660f591c936afaf_images.jpg"
+    }
+}

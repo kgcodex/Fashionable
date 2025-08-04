@@ -1,0 +1,17 @@
+{
+    "id": 42138,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Black Air Dictate Sports Shoes",
+    "price": 4495,
+    "description": "Style NoteGet more comfort and enjoyment out of your fitness training with the nike Air Dictate running shoes. Packed with performance features, the Nike Air Dictate is a great choice for your daily runs. These attractive light-as-air shoes are the perfect blend of style and comfort, designed to up your performance.Product DetailsBreathable sandwich mesh upper with synthetic overlays for breathabilty and supportNo-sew overlays in the midfoot offers a secure, irritation-free feelExtra heel support to lock the backfoot in place and potect it from injuriesPadded lining for a comfortable step in feelPadded tongue and collar for added comfortLace-ups for snug Fit and to lock the foot in placeMesh tongue for breathabilitySwoosh logo on the sides to create a style statementAir cushioning unit in the phylon midsole guarantees a smooth and responsive rideMedial and lateral Air-Sole midsole units deliver supreme cushioningBRS 1000 durable rubber outsole for long-lasting wearWaffle-pattern grip for excellent tractionHeel crash pad helps reduce impacting shock and set the foot up for a smooth transitionTPU shank adds extra supportMaterial and CareMesh, syntheticDo not machine washRemove dust and dirt with dry clean clothDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/21167b75fd35b3972b4184714c660033_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b9544dea4c83c738310e77a8df5b6e05_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 25033,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Grey Track Pant",
+    "price": 1795,
+    "description": "CompositionGrey track pants made of 100% polyester, engineered with Dri-Fit fabric, broad elasticated waistband with drawstrings, two insert pockets on the sides, panel detailing and nike swoosh embroidered on the left legFitRegularWash careMachine wash in cold water with like colours at 30 degrees using a mild detergentDo not bleach, dry clean or ironTumble dry lowAdd some speed to your stride in these nike cricket track pants. An ultra-lightweight design that's ready to go the distance with you and gives ventilation where you need it most, these fabulous track pants will keep you fresh and comfortable and help you focus on winning the game.Model StatisticsProduct is a size M on a model of height 6' and waist 32\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8620d3526428487fa34f9356af084af2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4779b13c09284c39b4b1444c7ca6a19b_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 54536,
+    "brandName": "F Sports",
+    "productDisplayName": "F Sports Men Grey Deen Sports Shoes",
+    "price": 1595,
+    "description": "Metallic grey shoes with central lace-ups Synthetic upper and perforations for ventilation Has a padded tongue and inner and brand name on the tongueLightweight TPR outsole with concentrated circular grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/F-Sports-Men-Red-Deen-Sports-Shoes_5fbdeb429f4ddafff88bb9a34dc51887_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/F-Sports-Men-Red-Deen-Sports-Shoes_d1e4e1f178dc875cf699a72caf508f34_images.jpg"
+    }
+}

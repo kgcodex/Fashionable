@@ -1,0 +1,17 @@
+{
+    "id": 12481,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Men Leather Black Formal Shoes",
+    "price": 5499,
+    "description": "Designed in smooth aniline leather, these Un Step shoes from clarks have that depth and character that a stylish, classic slip-on formal shoe should have. What makes this pair even better is that it is engineered with Unstructured technology that ensures your feet are offered a constant massage, keeping you energised all day long.This Unstructured technology of Clarks combines supple leather upper and glove-soft leather linings to provide an ultimate soft-feel Fit. Constructed to bend naturally with no rigid insole boards, this softly-padded style is enabled to move with, rather than against, the foot&amp; rsquo s natural movement. Perforations allow warm air out and cool air in, keeping the feet fresh and dry, while the soft tumbled leather creates a casual look.UpperFull smooth leather upper in a slip-on style for absolute comfortComplete inner lining in leather for breathable comfortElasticated gores on the sides for easy wear and removalStitch detailing to maximise durabilityMidsoleEVA midsole for lightweight comfortSoft leather footbed with Atsu technology for massaged, all-day comfortOutsoleTPU and TPR outsole with horizontal grooves on the forefoot and heel for absolute grip and tractionFlex grooves in the forefoot for flexible movementShoe careWipe surface with dry, clean cloth to remove dustBrush using a branded leather conditioner to restore shoe shineDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1409d3b5c753dd56369038ed5989063b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/34569a6b78e4baf5ced0c8509d3d1399_images.jpg"
+    }
+}

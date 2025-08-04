@@ -1,0 +1,16 @@
+{
+    "id": 2283,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Poly Black T-shirt",
+    "price": 1095,
+    "description": "Composition:This t-shirt is composed with dry-Fit polyester materialWash Care:It can either be hand washed or machine washedFitting:Comfort FitAction:Beat the heat in this dry fit, black, round neck tee from nike. Couple it with denims or tracks and take on the world.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9c0ecb3b837248e7aac04f9ba7ae28c7_images.jpg"
+    }
+}

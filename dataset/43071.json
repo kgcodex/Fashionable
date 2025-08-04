@@ -1,0 +1,17 @@
+{
+    "id": 43071,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Blue FFF Cap",
+    "price": 995,
+    "description": "Style NoteCreated by nike for the ardent football fan, sport this blue cap featuring the French Football Federation logo to express your support as well as to beat the scorching sun during a match. Available to you at a price that does not burn a hole in your pocket, this cap is a must buy.Product DetailsBlue cap, French Football Federation logo embroidered on the left panel in front, eyelets on the crown, Nike swoosh on left side panel, curved visor with black taping, adjustable back strap with velcro and embroideryMaterial and Care100% polyesterHand wash cold waterDo not dry cleanLine dry",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/67ba0b5de05e66bd9e4c5bb8773425f1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b2692316eed988f9a546740e7f83c999_images.jpg"
+    }
+}

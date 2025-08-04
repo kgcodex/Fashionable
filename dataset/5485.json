@@ -1,0 +1,17 @@
+{
+    "id": 5485,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Fligh Showup White Shoe",
+    "price": 4200,
+    "description": "If what you want is increadible speed and quickness to win that soccer match in style, ensure your feet are well seated in the speed machine called nike Air Flight Showup. Stylish constructed for the footballed of speed and style, this shoe is all set to provide you with optimal results from the word \"Go\".Upper Synthetic leather upper for supportive lightweight comfort Lace-up system for snug Fit Athletic collar for maximum ankle support and protection Perforated toe box and side mouth with meshed tongue for breathable comfort Swoosh overlays on the side for added shoe structure and style Cushioned sockliner for in-step comfort Midsole Full-length phylon midsole for responsive cushioning, durability and stability when making quick cuts Encapsulated Air Sole unit in the heel for protection from impact Removable sockliner to accommodate an orthotic Outsole Solid rubber outsole for durability and comfort Herringbone tread pattern with rectangular lugs on lateral forefoot edge for maximum traction and grip Flex grooves for better flexibility Shoe careDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5fae3ed53e5417756cf208a6336f7f68_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d0bd6e51c139b3c577e8a1d1d4626c10_images.jpg"
+    }
+}

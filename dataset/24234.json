@@ -1,0 +1,17 @@
+{
+    "id": 24234,
+    "brandName": "LA-EMOTIO",
+    "productDisplayName": "La-Emotio Women Brown Kurta",
+    "price": 2399,
+    "description": "Brown round kurta with a shaped neck, has a yoke on the upper chest with bead, sequins and thread detailing, tape detailing around the neck to form a Y and a lace design on the chest, box pleats from the chest down, transparent long sleeves with lace on the cuffs, lining inside and lace on the hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ed0f307b4aa3d262ed0f3f4935bb0403_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/039eaec9e978568e1ea87d2b03f30567_images.jpg"
+    }
+}

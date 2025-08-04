@@ -1,0 +1,17 @@
+{
+    "id": 54981,
+    "brandName": "Femella",
+    "productDisplayName": "Femella Women Multi Coloured Shirt",
+    "price": 850,
+    "description": "All over multicoloured print shirt, woven, full length buttoned placket in front, full length sleeves with buttoned cuffs, buttoned tabs at sleeve, spread collar, curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-Multi-Coloured-Shirt_0949460176fd63121fd4335a635d3085_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-Multi-Coloured-Shirt_40c46761fbf7cc1475381f5cc39cbf66_images.jpg"
+    }
+}

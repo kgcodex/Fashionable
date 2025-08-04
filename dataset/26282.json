@@ -1,0 +1,17 @@
+{
+    "id": 26282,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Cream-Coloured Printed T-shirt",
+    "price": 350,
+    "description": "Cream-coloured T-shirt with printed detail, has a round neck, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/874dc52ddbedd2d5b99cc2b9f40fa7ad_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2ca4fa5a9ab04f63f0e79e12558fdc1d_images.jpg"
+    }
+}

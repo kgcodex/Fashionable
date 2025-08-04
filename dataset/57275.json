@@ -1,0 +1,17 @@
+{
+    "id": 57275,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Men Blue & White Check Shirt",
+    "price": 2699,
+    "description": "Blue , black and white check shirt, has a spread, buttoned down collar, long sleeves with buttoned cuffs, centre back seam, full buttoned placket, patch pocket on the left chest with a buttoned closure and curved hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-Multi-Coloured-Shirt_1532dc39efa6adcdcab47df96d85e726_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-Multi-Coloured-Shirt_ed037fd15fff908fea4c1c681709f6f0_images.jpg"
+    }
+}

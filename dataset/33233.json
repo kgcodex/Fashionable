@@ -1,0 +1,17 @@
+{
+    "id": 33233,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men White Shirt",
+    "price": 1499,
+    "description": "\u00c3?\u00c2?\u00c3?\u00c2?\u00c3?\u00c2?\u00c3?\u00c2\u00af\u00c3?\u00c2?\u00c3?\u00c2?\u00c3?\u00c2?\u00c3?\u00c2\u00bb\u00c3?\u00c2?\u00c3?\u00c2?\u00c3?\u00c2?\u00c3?\u00c2\u00bf\u00c3?\u00c2?\u00c3?\u00c2?\u00c3?\u00c2?\u00c3?\u00c2\u00af\u00c3?\u00c2?\u00c3?\u00c2?\u00c3?\u00c2?\u00c3?\u00c2\u00bb\u00c3?\u00c2?\u00c3?\u00c2?\u00c3?\u00c2?\u00c3?\u00c2\u00bfWhite shirt, has a spread collar, full buttoned placket, long sleeves with buttoned cuffs, back yoke and a curved hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6617ca885c245acea4ca0022282fe5ce_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6ed447ef6f41ba84aa71e949fde2c93f_images.jpg"
+    }
+}

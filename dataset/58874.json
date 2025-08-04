@@ -1,0 +1,17 @@
+{
+    "id": 58874,
+    "brandName": "Hakashi",
+    "productDisplayName": "Hakashi Men Navy Blue Tie",
+    "price": 550,
+    "description": "Navy blue striped tie with orange diagonal stripes A loop at the back of the broader tie end to tuck the smaller end in",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Navy-Blue-Tie_2b780139036d5593dd25f5e14b90b139_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Navy-Blue-Tie_71cb79aa1f36d7d781796fab1692726d_images.jpg"
+    }
+}

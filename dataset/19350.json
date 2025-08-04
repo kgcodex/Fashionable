@@ -1,0 +1,17 @@
+{
+    "id": 19350,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men White Shoes",
+    "price": 1799,
+    "description": "White synthetic leather shoes from numero uno, referenced from the all-sport lifestyle. These versatile shoes can be worn with jeans and tees on a casual day, or to shoot a few hoops with your friends. Upper Synthetic leather upper with aggressive stitch detailing on the midfoot and forefoot Reinforced overlay on the toe box and heel cup for absrasion free comfort Central lacing system for a customised Fit Padded tongue and collar for instep comfort Mesh lining for breathability Honeycomb print on the on the sides of the heel for style Branding on the side, tongue and collar Midsole EVA midsole for shock absorption and all day comfort Outsole TPU outsole reinforced to the upper for durability Geometric grooves on the outsole for grip and traction shoe care Wipe synthetic leather surface with soft, clean cloth to remove dust Do not machine wash Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/051adb61f7284af8e039353b3565180f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fffedd923703723771c1a9722067833d_images.jpg"
+    }
+}

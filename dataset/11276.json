@@ -1,0 +1,17 @@
+{
+    "id": 11276,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Running Maroon Sweatshirt",
+    "price": 3295,
+    "description": "CompositionMaroon high collared t-shirt made of 100% polyester, has a half-length zipper, raglan sleeves with flat-seam design for range of motion and reduced irritation, and a reflective loop on the centre-back neck to keep media-player cords out of the wayFittingComfortWash careMachine wash cold at 30 degrees with like coloursDo not bleachTumble dry lowRemove immediately/do not allow to lay on itself when wetCool iron, but do not iron on designDo not dry cleanThis cold-weather running shirt is made of soft, suede Dri-Fit fabric that wicks sweat away from the body to the fabric's surface, where it quickly evaporates. Spandex fibres allow it to stretch for better mobility and a comfortable, athletic fit. The Element Half-Zip features a fitted design that stays out of your way as you run. Ergonomic seams map the natural contours of your body to help reduce friction and chaffing while providing great range of motion. The stand-up collar delivers extra warmth and protection when you need it, and the mesh under arm vents increase airflow in this high-heat area to help you stay dry and comfortable. Rough on the weather, soft on you, the nike Element Half-Zip running t-shirt helps you stay dry, comfortable and distraction-free from the first mile to the last.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/50ca0c7d9ae976952d72b0d1778809b0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/eaa31990b2c6f4f6f5bfd1d06487bb96_images.jpg"
+    }
+}

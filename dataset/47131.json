@@ -1,0 +1,17 @@
+{
+    "id": 47131,
+    "brandName": "Be For Bag",
+    "productDisplayName": "Be For Bag Women Pink Bag",
+    "price": 499,
+    "description": "Pink canvas jhola bag, printed all over with a brand badge in frontOne main compartment with a press button closure, fabric lining with two insert pockets inside Braided rope handles for carrying ease",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Be-For-Bag-Women-Pink-Bag_8eefd9bf74b5fe69301f77c80ef45ad8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Be-For-Bag-Women-Pink-Bag_a3346bc1a42791f81a4924ac806022a7_images.jpg"
+    }
+}

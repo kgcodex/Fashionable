@@ -1,0 +1,17 @@
+{
+    "id": 49481,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Black 106 Vulcanized Italian Leather Shoes",
+    "price": 3599,
+    "description": "Black, round toed shoes with central lace up fastening which has metal eyelets Leather upper with reinforced overlay at the heel collar Padded mouth, soft tongue and padded footbed Thick rubber midsole with foxing Vulcanised rubber signature waffle outsole with scooped out diamond shaped grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Black-Casual-Shoes_e88675b63d08d12fec84e979446dc8c4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Black-Casual-Shoes_e2b5d88d424a0cbb3d4881f65c44ec36_images.jpg"
+    }
+}

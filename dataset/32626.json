@@ -1,0 +1,17 @@
+{
+    "id": 32626,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Miler Blue T-shirt",
+    "price": 1295,
+    "description": "Blue round neck T-shirt for women made of 100% recycled polyester, has short raglan sleeves and nike swoosh printed on the left chest and left sleeve",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1e963d2e15ff7e782677fff815716cc0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/529651ca9fc00157b72e8332a80b6031_images.jpg"
+    }
+}

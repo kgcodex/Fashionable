@@ -1,0 +1,17 @@
+{
+    "id": 33374,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Maroon Wallet",
+    "price": 650,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bd68fd9682c738a7cd55d93996759d09_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5fe22712c3e68f209f4bc4a05c4c6e89_images.jpg"
+    }
+}

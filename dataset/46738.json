@@ -1,0 +1,17 @@
+{
+    "id": 46738,
+    "brandName": "Timex",
+    "productDisplayName": "Timex Men Cream Dial Watch",
+    "price": 2995,
+    "description": "Case style: Analog watch with steel round caseDial style: Cream dial with silver handsStrap style: Leather strap with a tang claspFeatures: Date aperture at the three-hour mark, water resistant upto 50 metresWarranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Timex-Men-Cream-Dial-Watch_25c57dca17644afc57bf0458ca4b9956_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Timex-Men-Cream-Dial-Watch_211fcaba7bee0e5c8eb91b93e60f06b2_images.jpg"
+    }
+}

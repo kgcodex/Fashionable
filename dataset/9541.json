@@ -1,0 +1,17 @@
+{
+    "id": 9541,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Manu Auth Graphic Black T-Shirts",
+    "price": 1295,
+    "description": "CompositionBlack round neck t-shirt made of 100% organic cotton and engineered with DriFit comfort, has short sleeves, ribbed neckline and team graphic print across the front and emblem on back neckFittingComfortWash careMachine wash or hand wash at 30 degreesDo not bleachDry inside out in shadeWarm iron, but do not iron on printSport the menacing mascot of the brilliant soccer team, manchester united, and spark fear in your competition on the field in style in this nike t-shirt. Made of pure organic cotton, you are assured of fresh, sweat-free comfort while you win those goals for your team in style. Pair this with football shorts and football shoes when on the field, or with jeans and floaters on a casual day.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6dccf50e47125f8c593db7303c759795_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/07bb173fb6379e25a13ab3d15b35ae10_images.jpg"
+    }
+}

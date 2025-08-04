@@ -1,0 +1,17 @@
+{
+    "id": 58189,
+    "brandName": "Rocky S",
+    "productDisplayName": "Rocky S Women Grey Handbag",
+    "price": 3150,
+    "description": "Grey handbag with quiltingFlap with magnetic button closure and metal brandingOne main zippered compartment, a slip pocket, a mobile slot and a zippered pocket built into the liningAll over printed branding on the liningOne short handle for carrying easeLegs at base",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocky-S-Women-Grey-Handbag_8632258fd9582f22ece6322909ec6234_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocky-S-Women-Grey-Handbag_6868fec464999d8c132a7de3371a1513_images.jpg"
+    }
+}

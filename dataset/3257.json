@@ -1,0 +1,17 @@
+{
+    "id": 3257,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Royal Hi Evo White Shoe",
+    "price": 4999,
+    "description": "CompositionWhite and black shoes made of leather uppers with rubber outsolesThese uber cool mid cut sneakers from puma feature suede tonal uppers, velcro strap ankle closures and lightly padded tongue. The rubber outsoles with the dual pivot points are perfect for movement and balance.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3ce45c6d1e3887206195a9d2ad9270e5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7067a0acad9f65459424d2a558b11235_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 57164,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women Black T-shirt",
+    "price": 800,
+    "description": "Black knit T-shirt, has a round neckline, short sleeves and ruffle detail on the shoulders and at the arm holes",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Black-Top_31851533c5866a575847784e0d9c6204_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Black-Top_11a5b8ab914de9925552bc7afff81c37_images.jpg"
+    }
+}

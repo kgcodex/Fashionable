@@ -1,0 +1,17 @@
+{
+    "id": 57522,
+    "brandName": "Provogue",
+    "productDisplayName": "Provogue Men Black Shoes",
+    "price": 2585,
+    "description": "Black suede shoes with a round-toe styling, stitches at the seams of the toe box Central lace-ups, padded inner, upper adhered to the sole TPU sole with an upraised heel and grooves all over",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Provogue-Men-Black-Casual-Shoes_f27c13e6bfc70c70e1eb7aa6661964a8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Provogue-Men-Black-Casual-Shoes_5de89a7c510dc8822524809fb100d5b6_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 18271,
+    "brandName": "Aneri",
+    "productDisplayName": "Aneri Women Blue Kurta",
+    "price": 1799,
+    "description": "Blue printed kurta, has a round neck with black and gold embellishments and beads, and has broad armholes",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8bf547e8f79fcd9b62dadca25a46746a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0a112fae7f669c39da892d06173e712c_images.jpg"
+    }
+}

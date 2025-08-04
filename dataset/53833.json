@@ -1,0 +1,17 @@
+{
+    "id": 53833,
+    "brandName": "Vishudh",
+    "productDisplayName": "Vishudh Women Yellow Printed Kurta",
+    "price": 549,
+    "description": "Yellow printed kurta, has a round neckline with a square shaped split, short sleeves with binding at the cuffs, mock chest placket with piping around it and side slits",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vishudh-Women-Printed-Yellow-Kurta_897b4415e686388b7a2ae27f444e6a2f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vishudh-Women-Printed-Yellow-Kurta_c87b14ef702fa193fe826e4471cc7e85_images.jpg"
+    }
+}

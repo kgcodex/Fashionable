@@ -1,0 +1,17 @@
+{
+    "id": 14481,
+    "brandName": "Flying Machine",
+    "productDisplayName": "Flying Machine Men Beige Casual Shoes",
+    "price": 2400,
+    "description": "An eclectic fusion of hot style and cutting edge design, this shoe from flying machine is a great way to attain a cult status. Made with a canvas and leather upper, and a high-ankle cut, this is one great must-have in your casual wardrobe.UpperCanvas upper with a perforated leather patch on the forefoot and leather panels on the sides of the midfoot for absolute breathable comfort Suede backfoot patch for enhanced shoe structureHigh-ankle with a padded tongue and fabric inner lining for sweat-free comfortCushioned footbed with a fabric lining for sweat-free comfort and impact-protectionLace-up system for a snug, customised FitMidsoleEVA midsole for absolute impact protectionOutsoleDurable rubber outsole with waffle pattern lugs throughout, and rudges along the upper midfoot for absolute grip and tractionShoe careClean the nubuck patch using a nubuck brushTo clean the canvas, make a paste using 1 tbsp of baking soda, 1 tbsp white vinegar and 1 tbsp hot water. Rub this paste onto the canvas and the sole using a brush. Wash off with lukewarm water.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/88f2277febd52360cd1138d0a0729fa6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2763752ab2b8e62704da8aa92ecabe78_images.jpg"
+    }
+}

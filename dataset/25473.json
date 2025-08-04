@@ -1,0 +1,17 @@
+{
+    "id": 25473,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Red Shoes",
+    "price": 1995,
+    "description": "Combining the style and flair of canvas shoes with the durability and comfort of running shoes, the nike Liteforce puts the groove back in your style.UpperCanvas upper with synthetic leather overlays and an ankle bandnike swoosh overlay near the midfoot region for added shoe structure Padded collar with a mesh liningFootbed with fabric lining for breathabilityLacing system for all-day comfortMidsolePhylon midsole with PU foxingOutsoleHerringbone grooves on the outsole for added traction and absolute gripWarranty for manufacturing defects: 6 months (not valid on products with more than 20% discount)Wash careMake a paste using 1 tbsp of baking soda, 1 tbsp white vinegar and 1 tbsp hot water Rub this paste onto the canvas and the sole using a brush Wash off with lukewarm waterWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d95fb44c40a4800ffefca652b27cae83_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fd2097dcbde72649e9340dd1213ef221_images.jpg"
+    }
+}

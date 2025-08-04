@@ -1,0 +1,17 @@
+{
+    "id": 5903,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Faas 300 Red Shoe",
+    "price": 3999,
+    "description": "Style Note puma will teach you how to breeze through life looking absolutely brilliant with this pair of shoes. Great for casual wear with a pair of jeans or shorts or perhaps a workout at the gym, these shoes are just right to revolutionise your wardrobe.Product Details Mesh upper with synthetic suede overlays for structure and breathabilityFormstripe on both sidesCushioned collar and tongue for plush comfortLace-ups for snug&nbsp; FitFull-length lateral groove in the midsole to reinforce stability throughout the gait cycleOrthoLite sockliner for superior comfort, material regeneration, air circulation and anti-microbial functionEverRide technology to reduce weight and improve forefoot cushioningEverTrack in the outsole for greater durability in high-wear areasRocker shape of outsole allows for natural stride with an effortless toe-offFlex grooves built across the waffle patterned outsole to enhance flexibilityMaterial and Care MeshWipe surface with soft, clean, damp cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/759cf70025afc58889a3b4358252e853_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5745d7ee2480becccf72acb2b37bc1f1_images.jpg"
+    }
+}

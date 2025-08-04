@@ -1,0 +1,17 @@
+{
+    "id": 42871,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Women Red Clutch",
+    "price": 2999,
+    "description": "Red animal print clutch with a one main zipped compartment Wrist loop on one side and brand tab on the front",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c01710988de0737df14b9352ef5eb32b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d39968eb6bef8a895f8b6b532e0df753_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 29190,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Men Black Laptop Bag",
+    "price": 3299,
+    "description": "Carry your laptop in style with this bag from united colors of benetton. With ample space for office accessories as well as your laptop, the bag is best suited for office and general heavy duty use. Width: 45 cmLength: 30 cmDepth: 17 cmMade of polyesterTwo pockets on the front with magnetic button closureFabric handles One main compartment with a zippered pocket and two pouchesA zippered compartment at the backA detachable, adjustable shoulder strapCare Clean with a damp cloth when necessary Do not bleach, tumble dry or wring",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ae84770d582f9c8e4a454665cd6f9615_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/65551fd29a72a6264bd75fd633e37f52_images.jpg"
+    }
+}

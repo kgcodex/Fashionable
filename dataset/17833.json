@@ -1,0 +1,17 @@
+{
+    "id": 17833,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Black Air Endurance Sports Shoes",
+    "price": 3500,
+    "description": "Durable synthetic upper with stitch detailing and perforations at forefootNike branding embroidered at forefootEmbossed detailing at midfoot with the Nike swoosh on one sideReinforced heel collar with perforations and a tape detailingCentral lace up closureSoft and padded footbed for comfortEmbroidered detailing at the heel areaTextured outsole with a perforated feel for tractionWarranty: 6 months warranty for manufacturing defects (not valid on products with more than 20% discount)&nbsp;",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Sports-Shoes_a974a407a67e9205ef83b1625ede15f3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Sports-Shoes_472f2842e00348ddf7f4b8835203daf3_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 51174,
+    "brandName": "Raymond",
+    "productDisplayName": "Raymond Men Brown Socks",
+    "price": 290,
+    "description": "Light brown coloured knitted socks with elasticated cuffs, has branding embroidered below the cuff",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/429e92a114d561c6f17e54c219bddbcb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d0c2896e51e6af9ae482de965317d607_images.jpg"
+    }
+}

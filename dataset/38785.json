@@ -1,0 +1,17 @@
+{
+    "id": 38785,
+    "brandName": "Woodland",
+    "productDisplayName": "Woodland Men Brown Shoes",
+    "price": 2995,
+    "description": "Style NoteThese shoes from woodland celebrate the true spirit of adventure and are designed for comfort under extreme conditions.Product Detailscasual shoes with stitch detailing at the seams of the toe boxThree-hole lace up systemTPU outsole with grooves, curved midfoot and a raised heelMaterial and CareNubuckUse a branded leather conditioner and polish on leather partsUse a suede brush to remove dist from suede partsDo not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/facf00bde8938bbf0de26c55acc30454_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/14ae713536856c0713d0ce24f4adf707_images.jpg"
+    }
+}

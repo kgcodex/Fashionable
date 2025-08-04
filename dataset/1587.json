@@ -1,0 +1,17 @@
+{
+    "id": 1587,
+    "brandName": "Kipsta",
+    "productDisplayName": "Kipsta Men Superfit Football White Shoe",
+    "price": 2099,
+    "description": "1. Cushioned soles with rubber outsole, EVA midsole, synthetic upper 2. Reinforced heel, sides and front to support and protect the foot3. Outsole with strategically-placed studs for optimum grip and stability4. Flexible upper and strategically-placed seams for better ball feel Designed for adult sportsmen who regularly play football on hard surfaces (Up to 3 matches a week). Hurry, grab these limited edition football shoes in time for your next match.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c000af72a1aad11fa0c40f2672335b78_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9c6fd82799c1e6d255a1004c1ce37626_images.jpg"
+    }
+}

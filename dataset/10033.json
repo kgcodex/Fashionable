@@ -1,0 +1,17 @@
+{
+    "id": 10033,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men As Ad Breakli Navy Blue Shorts",
+    "price": 1195,
+    "description": "Composition Black shorts made of 100% cotton, with blue stitch detailing on the sides, elastic waist with a drawcord, a discreet pocket at the back and two side pockets Fitting Comfort Wash care Machine wash cold at 30 degrees with like colours Do not bleach Tumble dry low Remove immediately/do not allow to lay on itself when wet Cool iron, but do not iron on design Do not dry clean Built with the breathability and zero-distraction Fit athletes demand for focus, this nike running shorts comes in a front-to-back color-block design, including hi-vis features for night workouts. This high-performance shorts features a supportive two-in-one cut built with fabric that rapidly moves sweat away from the body.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3de9453c4765e8b9824786d5cf29acb9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f5e5673de0646f6ef10bdaea7f20e6e5_images.jpg"
+    }
+}

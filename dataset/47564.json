@@ -1,0 +1,17 @@
+{
+    "id": 47564,
+    "brandName": "Portia",
+    "productDisplayName": "Portia Women Brown Sandals",
+    "price": 599,
+    "description": "Chocolate brown thong style straps with a dotted pattern Tan semi-cushioned foot-bed with top stitch at the mid-foot regionHeel patch with brandingGrooved TPU out-soleUpraised heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Portia-Women-Brown-Sandals_f74e60bfe514d1298c7b522cb8542bc8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Portia-Women-Brown-Sandals_2b0efeb64c7cedcf2dc50ad0772abef2_images.jpg"
+    }
+}

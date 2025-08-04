@@ -1,0 +1,17 @@
+{
+    "id": 44996,
+    "brandName": "maxima",
+    "productDisplayName": "Maxima Men White Dial Watch",
+    "price": 599,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e340e123db75e754547b3d7a1b7e949d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cf53534a11622dfd6b5c0808bba4005c_images.jpg"
+    }
+}

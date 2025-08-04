@@ -1,0 +1,17 @@
+{
+    "id": 58191,
+    "brandName": "Rocky S",
+    "productDisplayName": "Rocky S Women Olive Green Handbag",
+    "price": 3895,
+    "description": "Olive green handbag with quilting detailsMetal brand badge on the front; pleats at mouthOne main zippered compartment with a slip pocket, a mobile slot and a zippered pocket built into the liningAll over printed branding on the liningTwo short handles, and one long detachable strap for carrying ease",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocky-S-Women-Grey-Handbag_fc384b35369794dcb744fe955e7a3cbb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocky-S-Women-Grey-Handbag_7d87295706c7ba381ab46b7a9a5e18ec_images.jpg"
+    }
+}

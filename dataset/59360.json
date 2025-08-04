@@ -1,0 +1,17 @@
+{
+    "id": 59360,
+    "brandName": "Vishudh",
+    "productDisplayName": "Vishudh Women White Printed Kurta",
+    "price": 499,
+    "description": "White printed kurta, has a mandarin collar and a slit V neckline, tape detail around the neckline and collar, panel around the neckline, short sleeves with tape detail at the cuffs, darts at the back for better Fit and side slits",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vishudh-Women-White-Kurta_73dce2548942da96a724db05793f5a98_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vishudh-Women-White-Kurta_572ff6e4636c908449f48309ac0c95ab_images.jpg"
+    }
+}

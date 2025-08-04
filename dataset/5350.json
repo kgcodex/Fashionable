@@ -1,0 +1,17 @@
+{
+    "id": 5350,
+    "brandName": "Decathlon",
+    "productDisplayName": "Artengo Artengo 522c Man Synthe",
+    "price": 1999,
+    "description": "Designed for : tennis BEGINNERS (men) who play REGULARLY on all types of surfaces.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/db6ba058a23c29894800bd65717f18be_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cf471f117440ed77b50bd538ce834e3e_images.jpg"
+    }
+}

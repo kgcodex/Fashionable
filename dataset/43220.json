@@ -1,0 +1,17 @@
+{
+    "id": 43220,
+    "brandName": "Converse",
+    "productDisplayName": "Converse Unisex White Shoes",
+    "price": 1499,
+    "description": "Style NoteThe Chuck Taylor All Star is a symbol of originality and self-expression the world over. The pioneers that put the lsquo;squeakrsquo; in Basketball have been an off-the-court favourite of rock stars and rebels for the past 60 years. Created using canvas and rubber, this range of sneakers from converse was initially designed to capture the basketball market, but soon enough turned into a hot casual footwear favourite.Product Details Printed white canvas upper with lace-ups and carbon rubber covered toe boxSoft footbedPU midsole with foxingTPU outsole with reverse waffle pattern all overMaterial and CareCanvasWipe with a clean cloth to remove dust, grime or dirtDo not store in direct sunlightWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/068d2c025632b650d2370f965f8c418b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ba32afdab744b19c8f7bb39f1598f97c_images.jpg"
+    }
+}

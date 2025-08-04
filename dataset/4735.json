@@ -1,0 +1,17 @@
+{
+    "id": 4735,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men's Brown Funk Shoe",
+    "price": 1899,
+    "description": "The simple design of these numero uno shoes have an understated elegance. The comfortable design takes you through the day in style. Team these up with jeans and long sleeved white tees for a simple, striking look. Upper Suede uppers for protection and durability Simple slip on design for easy insertion and removal of the feet Logo initials on flap Stitch detailing in lighter thread as design detail Midsole Soft cushioned insole for all day comfort Outsole Rubber outsole with combination of circular and scooped out lugs for durability, traction and suction shoe careRub surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Numero-Uno-Mens-Brown-Funk-Shoe_ab808b30d075c0bedfeef7ca48f93bce_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Numero-Uno-Mens-Brown-Funk-Shoe_da2d6a45db019bfdae1d0ad224d65e56_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 54725,
+    "brandName": "Shree",
+    "productDisplayName": "Shree Women Coral Coloured Printed Kurta",
+    "price": 499,
+    "description": "Coral paisley printed kurta, woven, green mandarin collar, green with yellow corded short placket, three quarter sleeves, green and yellow band at sleeve and bottom hem, vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Shree-Women-Coral-Coloured-Printed-Kurta_24f944ac04a0c7dbf4098f8182266ef1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Shree-Women-Coral-Coloured-Printed-Kurta_3f44ec9d496505949b66a83a6d24cb34_images.jpg"
+    }
+}

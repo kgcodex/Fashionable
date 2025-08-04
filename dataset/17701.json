@@ -1,0 +1,17 @@
+{
+    "id": 17701,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Chauffeur Navy Blue Casual Shoes",
+    "price": 3499,
+    "description": "Go for a jaunty nautical look with this stylish shoe from vans. Deck shoes are a fashion must-have and Vans has come up with a simple, classic version which captures the laid-back, preppy style. Imagine wearing these while you relax aboard your own private yacht! The brown leather looks great alongside dark navy canvas and the laces which wrap round the back of the shoe are essential in a nautical Deck shoe. Uppers Canvas and leather uppers for durability and comfort Lace-ups for a snug Fit Brand tab on the forefoot seam and brand name on the back, on the lasting Cushioned footbed for all day comfort Midsole EVA midsole for better shock absorption Outsole Rubber outsole for durability Reverse waffle pattern for better grip Shoe care Wipe surface with soft, clean cloth or use a brush to remove dust Do not use a drier or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/738f5012520aed036c07e9cae0cadadc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/62b37c179ec7dacbfb05db0e23b565dd_images.jpg"
+    }
+}

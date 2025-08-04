@@ -1,0 +1,17 @@
+{
+    "id": 22468,
+    "brandName": "Timberland",
+    "productDisplayName": "Timberland Men White Claremont Plaid Shirt",
+    "price": 3790,
+    "description": "wash careMachine wash at 40 degrees Wash dark colours separately Do not bleach Tumble dry normal or line dry warm iron",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e4af7e1b9dfd401daa1c6f152890e16a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/41cd81adb50831d50fd2f4dfe9dc9c3b_images.jpg"
+    }
+}

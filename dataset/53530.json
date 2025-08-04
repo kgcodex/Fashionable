@@ -1,0 +1,17 @@
+{
+    "id": 53530,
+    "brandName": "Amante",
+    "productDisplayName": "Amante Women Black Bikini Briefs PCLR02",
+    "price": 175,
+    "description": "Black low-rise bikini&nbsp;briefs with an&nbsp;elasticated waistband",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/53530/Amante-Women-Black-Briefs_2_12b2cf7ed187e472182575af2998425f.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/53530/Amante-Women-Black-Briefs_3_26b247147ee8e39285516fd802b20ac1.jpg"
+    }
+}

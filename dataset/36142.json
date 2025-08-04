@@ -1,0 +1,17 @@
+{
+    "id": 36142,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Free 4.0 V2 Black Sports Shoes",
+    "price": 5795,
+    "description": "If it's unending speed you're looking for, there's no better running shoe than the nike Free 3 V4 for men. A perfect cross-country shoe, the Free Run+ 3 is employed with DriFit technology that allows water to drain away, keeping your feet dry and comfortable even in wet conditions.UpperOne-piece, single-layer fabric upper for lightweight comfort and breathability with mesh inlaysPrint on the upperTongue stitched to the upperAllows water to drain away keeping the feet dry and fresh even in wet conditionsInternal arch bandage locks down the foot offering a snug, secure Fit and optimal power transferCollar lobes provide a snug fit for ultimate heel lock downNo-sew construction and eyestays limit internal stitching to reduce friction and foot irritationMidsoleRemovable cushioned footbed to accommodate an orthoticEVA injected midsole for lightweight feelOutsoleUnique tip to heel nike Free TPU outsole with multi-directional lugs for optimal traction on various surfaces Vertical and horizontal flex grooves and waffle patterned lugs for added cushioning and flexibility while runningShoe careWipe surface with a soft, clean, damp cloth to remove dustDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a79ca93d3b6521cd2a4dc29ec4b3d93b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b1aeab9f614b9c5e4b8311cb597973ed_images.jpg"
+    }
+}

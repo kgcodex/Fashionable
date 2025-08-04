@@ -1,0 +1,17 @@
+{
+    "id": 38153,
+    "brandName": "Wildcraft",
+    "productDisplayName": "Wildcraft Men Grey Polo T-Shirt",
+    "price": 645,
+    "description": "Grey polo T-shirt, pique knit, ribbed spread collar, short sleeves with ribbed cuffs, short chest placket, branding embroidered on the upper left chest and vented hemPlease note that the thread colour in the brand logo may vary from the image shown",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Wildcraft-Men-Grey-Polo-Tshirt_6e0fe11e4ac4fecf817dd0483455e28d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Wildcraft-Men-Grey-Polo-Tshirt_4571ec29e517dc72b4d4ebecc9fad0cc_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 57992,
+    "brandName": "Latin Quarters",
+    "productDisplayName": "Latin Quarters Women Purple Shirt",
+    "price": 1650,
+    "description": "Purple checked, woven shirt, has a mandarin collar with a split V neckline, full buttoned placket, pint tucks from the shoulder on either side of the neckline, three quarter sleeves with buttoned cuffs, drawstring tie at the waist, back yoke and curved hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Purple-Dress_fb3dbbd97d5138e9f977ce7adfc229dc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Purple-Dress_0370a46b034a083da091288249e3925f_images.jpg"
+    }
+}

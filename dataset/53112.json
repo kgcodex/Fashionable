@@ -1,0 +1,17 @@
+{
+    "id": 53112,
+    "brandName": "Myntra",
+    "productDisplayName": "Myntra Men Yellow T-shirt",
+    "price": 499,
+    "description": "Yellow T-shirt, has a round ribbed neckline, short sleeves and graphic print in front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Myntra-Men-Yellow-T-shirt_220aed7c5323092508017b668a5ded86_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Myntra-Men-Yellow-T-shirt_f342af0b74ff6696f37e905c9aa60a6b_images.jpg"
+    }
+}

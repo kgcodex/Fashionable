@@ -1,0 +1,17 @@
+{
+    "id": 30190,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Nylon Red Backpack",
+    "price": 995,
+    "description": "nike has brought fitness and style to one basic level - all resulting in this great gym bag.MeasurementHeight: 47cmWidth:&nbsp; 36cmCapacity: 12 litresMade of 96% nylon and 4% polyester outer and 100% nylon lining for enhanced durability and waterproofingRoomy inner compartment with a small zippered compartment for essentialsDrawstring closure with adjustable twill tape handlesBrand tag on the side of the bagCare Do not machine wash Rub surface with damp clean cloth to remove dust and dirt Do not bleach, line dry, iron or dry clean",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8a784a208e8511efd22b1e50f7af2eeb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5d4f059f257dda5ec5072587e71ba2ff_images.jpg"
+    }
+}

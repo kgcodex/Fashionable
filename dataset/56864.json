@@ -1,0 +1,17 @@
+{
+    "id": 56864,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Golden Heels",
+    "price": 1399,
+    "description": "Heel: 1.75\" Wide gold forefoot strap with a soft gold footbed Has a slim heel in gold with a plastic heel cap Non-slip sole with herringbone grooves at the midfoot region",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Golden-Sandals_b33dfc31cd79a75b5ece44aa1e5d91e5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Golden-Sandals_c514bd06761c63c3413e0062c5fb29f7_images.jpg"
+    }
+}

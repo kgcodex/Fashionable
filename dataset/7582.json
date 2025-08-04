@@ -1,0 +1,17 @@
+{
+    "id": 7582,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's As Stacked White T-shirt",
+    "price": 945,
+    "description": "CompositionWhite&nbsp; round neck short sleeved t-shirt made of 100% cotton, with a graphic print on the front and grey fabric tape on inseam of the neckline FittingRegularWash care Machine wash cold with like colors Do not bleach Remove immediately/do not allow to lay on itself when wet Tumble dry low Cool iron, but do not iron directly on print/embroidery Do not dry clean Get ready to play hard in this white Athletic Department&nbsp; t-shirt from nike. The colourful graphic lettering on the front saying \" Just Do It\" infuses this tee with mad energy. Team this with jeans and canvas shoes for a casual look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/31f86a71a52701ad931a95e6190cec66_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c88b5dfe0206bd0b1fba49d2bcbd337b_images.jpg"
+    }
+}

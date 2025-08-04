@@ -1,0 +1,17 @@
+{
+    "id": 18865,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Red Sports Heritage Sweatshirt",
+    "price": 1799,
+    "description": "Red sweatshirt, has a round ribbed neck, full sleeves with ribbed cuffs, ribbed hem and distressed graphic print on the front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2e6ef1ee091bb4871e7b5f630d4ab7ca_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0b3c1e3374d4e6f14c26b152fabf1e51_images.jpg"
+    }
+}

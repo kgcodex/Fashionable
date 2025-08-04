@@ -1,0 +1,17 @@
+{
+    "id": 13474,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Gold Toned Flats",
+    "price": 890,
+    "description": "&nbsp;It's all about redefining feminity when you slip into a rocia. These slippers from Rocia come in a simple design, creating an absolutely comfortable and stylish",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2818b3480d261b724354ed42c8d8027f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2bcff43d44fb4e0bc8b040100f240383_images.jpg"
+    }
+}

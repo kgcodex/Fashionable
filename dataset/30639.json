@@ -1,0 +1,17 @@
+{
+    "id": 30639,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Tempo Purple Shorts",
+    "price": 1195,
+    "description": "Composition Purple shorts for women made of 100% polyester, engineered with Dri-Fit technology, has an in-built brief, elasticated waist with a drawstring, side meshed panels in lavender with white piping, a small pocket on the inside at the back and embroidered nike swoosh on the left hem Fit Regular Wash care Machine wash cold at 30 degrees with like colours using a mild detergent Do not bleach, dry clean or iron Line dry Stylish to a T, these polyester shorts from nike are designed with Dri-Fit technology to keep you fresh and comfortable while you sweat it out at the gym or on the trail. The broad waistband sits snugly, while you can further customise the fit with the drawstring and the in-built brief offers better comfort. Team it with Nike Sports tees and shoes for that smart, sporty look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ceb349b74759b2115af8c43d9c4250e3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9cc15a23ad15d58342d5ce6ab7ee2155_images.jpg"
+    }
+}

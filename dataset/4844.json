@@ -1,0 +1,17 @@
+{
+    "id": 4844,
+    "brandName": "Sher Singh",
+    "productDisplayName": "Sher Singh Women Navy Blue Polo T-shirt",
+    "price": 1199,
+    "description": "Navy blue polo -shirt made of 100% cotton, with front buttoned placket, embroidered logo on the chest and right sleeve, and cut-out at the hems",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1018dc33f2ca78fd15f2816a398967fc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/aa1be22330f5d6a9b61fc10eb4004019_images.jpg"
+    }
+}

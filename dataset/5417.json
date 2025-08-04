@@ -1,0 +1,17 @@
+{
+    "id": 5417,
+    "brandName": "Ant",
+    "productDisplayName": "Ant Kids Girls Blue T-shirt",
+    "price": 425,
+    "description": "Blue t-shirt, has a round neck, floral prints with glitter and metallic stud detailing on the front and short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Girls",
+    "gender": "Girls",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Ant-Kids-Girls-Pink-Humming-Birds-Kidswear_2955f218ed27df06376bf0e726126c1f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Ant-Kids-Girls-Pink-Humming-Birds-Kidswear_07daf74eb3d202058ccef877bd5cd73f_images.jpg"
+    }
+}

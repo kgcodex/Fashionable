@@ -1,0 +1,17 @@
+{
+    "id": 35708,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Ralston Mid Lite Black Shoes",
+    "price": 6995,
+    "description": "nike sportswear introduced this modern sneaker/boot makeup, dubbed the Air Ralston Mid Lite for its Fall 2011 collection. With the nike Air unit in the heel and the vintage appeal of perforated premium raw suede upper, this Air Ralston Mid Lite is a classic piece showcasing the brand's commitment to modernising classic footwear with a twist.UpperPerforated suede upper for maximum breathability and styleReinforced overlay for the heelCentral lacing systemHigh on the ankle for a snug Fit and styleMidsoleLight weight midsoleOutsoleTextured TPU outsole with flex grooves and lugsshoe careWipe surface with a dry, clean clothUse a suede brush to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4a448b50f2417fa7e0fd6901a54e71d3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3674501c4c638394447352d40410c830_images.jpg"
+    }
+}

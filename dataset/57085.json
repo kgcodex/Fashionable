@@ -1,0 +1,17 @@
+{
+    "id": 57085,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women Off-White & Orange Floral Print Tulip Skirt",
+    "price": 1800,
+    "description": "Off-white, orange and red floral print tulip skirt, woven, waistband with inverted box pleats below, welt pockets on front, brand tag at left welt pocket, invisible zip fastening at left side",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Off-White---Orange-Floral-Print-Tulip-Skirt_5f4eac742aa862c94475ada5a7dc4aa0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Off-White---Orange-Floral-Print-Tulip-Skirt_5a138dcee646a3f1c1ef7bea0e275c08_images.jpg"
+    }
+}

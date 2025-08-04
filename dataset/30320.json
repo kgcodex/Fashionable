@@ -1,0 +1,17 @@
+{
+    "id": 30320,
+    "brandName": "Myntra",
+    "productDisplayName": "Myntra Men Teal T-shirt",
+    "price": 399,
+    "description": "Light teal round neck T-shirt made of 100% cotton, has short sleeves and graphic print on the chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Myntra-Men-Teal-T-shirt_80110eb5dfb57708097ff8431c99b76a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Myntra-Men-Teal-T-shirt_a1c4240c08e5c8156239b22ed9f922cc_images.jpg"
+    }
+}

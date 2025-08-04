@@ -1,0 +1,17 @@
+{
+    "id": 50682,
+    "brandName": "Chromozome",
+    "productDisplayName": "Chromozome Men Black Trunks",
+    "price": 179,
+    "description": "Black college trunks that have a broad, elasticated waistband, stitch detailing, printed branding on the waistband and slightly elasticated at the legs for enhanced comfort The final product delivered might vary in colour and prints from the display here.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a99705f11759a67ae662673323815f54_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d674bc5cd3b237c341affa3a4879b34f_images.jpg"
+    }
+}

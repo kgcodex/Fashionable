@@ -1,0 +1,17 @@
+{
+    "id": 56689,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Men Blue Kurta",
+    "price": 760,
+    "description": "Blue striped nizam long kurta, has a mandarin collar, chest button placket, long sleeves, a patch pocket on the left chest, side pockets and side slits",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Men-Blue-Kurta_a218ea06324b14b5a2be95144bf676c1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Men-Blue-Kurta_27a2a462a152c9ccc0c7d4cfebaf2259_images.jpg"
+    }
+}

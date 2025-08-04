@@ -1,0 +1,17 @@
+{
+    "id": 47599,
+    "brandName": "Portia",
+    "productDisplayName": "Portia Women Black Flats",
+    "price": 599,
+    "description": "Black thong style upper with a midfoot strap and an ankle loopSoft, brown footbedTough outsole with an upraised heel and grooves all over",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/758ca9fbde49b54813aa11477cf0e351_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8b4365f442e6b87a97c8e61a0a510d6e_images.jpg"
+    }
+}

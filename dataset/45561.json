@@ -1,0 +1,17 @@
+{
+    "id": 45561,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Women Pink Printed Top",
+    "price": 549,
+    "description": "Pink top with a round neck with frills and tie up detailing in front, short sleeves, graphic print on the chest and branding on the hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FILA-Women-Pink-Printed-Top_8c49d443cd9637a2fd04ace240efcc4f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FILA-Women-Pink-Printed-Top_fc392562578a85bf38173ccb66596d15_images.jpg"
+    }
+}

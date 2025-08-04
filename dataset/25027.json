@@ -1,0 +1,17 @@
+{
+    "id": 25027,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Challenger Blue Jersey",
+    "price": 2395,
+    "description": "CompositionBlue polo jersey made of 90% polyester and 10% spandex, engineered with Dri-Fit technology, has a spread collar and short sleeves, buttoned chest placket and appliqu&eacute;d branding on the left chestFitRegularWash careMachine wash cold with like colours using a mild detergentDo not dry clean or bleachTumble dry lowCool iron; do not iron on decorationsCrafted from soft polyester/spandex blended fabric, this jersey from nike offers exemplary dry comfort, making it a great everyday choice to wear for your tennis practice or on casual days. Team it with trackpants or shorts and tennis shoes for a sporty look. Add on a hooded sweatshirt for exemplary comfort during the winter.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8cf50f15c67b7ef6f98bfccd406b2fe0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4dedce96e97925c3221537003a2c5b10_images.jpg"
+    }
+}

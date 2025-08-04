@@ -1,0 +1,17 @@
+{
+    "id": 49745,
+    "brandName": "Park Avenue",
+    "productDisplayName": "Park Avenue Men Red Tie",
+    "price": 899,
+    "description": "Red tie with diagonal stripes all over A loop behind the broad tongue to tuck the smaller end in",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/98abb9c7da092eb9ea6e171000a2da7e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fa0f045926a234cec64e995652a8858f_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 46326,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men Charcoal Realflex Breeze Sports Shoes",
+    "price": 5999,
+    "description": "Grey and orange blunt toed running shoes with a pull loop at the backMesh upper with reinforced overlay at the heel collar, low cut Fit for easy mobilitySoft and padded inner, tongue and footbed with a removable sock liner, minimum fold over tongue for modern and lightweight stylingUpper adhered to the outsoleRubber outsole with multi - directional flex nodes which allow natural motion and carbon rubber heel strike for durable traction",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3930a1fef371a8e4cfcbff06d4813784_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f8a3756d01aa4e101ef7357f66eeccfe_images.jpg"
+    }
+}

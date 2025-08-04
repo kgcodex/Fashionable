@@ -1,0 +1,17 @@
+{
+    "id": 23242,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Formal Black Shoes",
+    "price": 3299,
+    "description": "This three-hole, refined stack heel shoe for men is an edgy reinvention of the classic derby shoe. With raised seams leading to the toe box, this twist on the classic Derby still has its sartorial authority. Wear this with natty blazers, or with shirt and trousers. Upper Leather upper with upraised seams on the forefoot Reinforced overlay on the low-cut heel for support to the ankle Three-hole lace up system Leather lining Padded tongue Soft sockliner for instep comfort Midsole Shock absorbing EVA midsole Outsole TPR outsole with a stacked heel Branded grooves on the midfoot for grip and traction Wash care Wipe surface with soft, clean, damp cloth Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3de9a6bfb13b4bb788529b1548233a61_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d5070e664d0520420f62f47be15ed0e9_images.jpg"
+    }
+}

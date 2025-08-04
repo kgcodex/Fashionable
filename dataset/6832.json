@@ -1,0 +1,17 @@
+{
+    "id": 6832,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Air Compete Black Shoe",
+    "price": 3500,
+    "description": "Upper Meshed upper for ample ventilation Synthetic overlay on the forefoot for style and added shoe structure Perforated synthetic overlays on the sides for midfoot support and breathability Synthetic overlays at the back foot with reinforced heel cup for enhanced durability and back foot support Lace-up system for snug, customised Fit Padded and meshed tongue and sockliner for snug comfort and breathability Midsole Dynamic Support in the heel for better impact protection during heel-strike and toe-off Fitsole footbed for a customised fit, ample cushioning and support Removable footbed to accommodate an orthotic Outsole Durable rubber outsole with waffle pattern for enhanced grip and traction on various terrain Flex grooves for ample flexibility of the feet nike+ unit to use compatible devices Shoe careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4a3191bfd56b42c76d2226dbfc76e5a1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5ca4190139a4416ec63b7eaa830f49a4_images.jpg"
+    }
+}

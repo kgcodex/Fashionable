@@ -1,0 +1,17 @@
+{
+    "id": 56348,
+    "brandName": "Fastrack",
+    "productDisplayName": "Fastrack Men Navy Blue Watch",
+    "price": 1995,
+    "description": "Case style: Analog watch with steel square case Dial style: Black dial with blue and black handsStrap style: Blue genuine leather strap with a tang claspFeatures: Water resistant 50 M that can be used around sinks and rain splashesWarranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fastrack-Men-Black-Dial-Watch_9e4e2959a2c67e2d4c49a0cfafd28f04_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fastrack-Men-Black-Dial-Watch_343960f83601b66f6dbd71c5cf5a53a3_images.jpg"
+    }
+}

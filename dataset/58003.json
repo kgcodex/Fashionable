@@ -1,0 +1,17 @@
+{
+    "id": 58003,
+    "brandName": "Latin Quarters",
+    "productDisplayName": "Latin Quarters Women Blue Dress",
+    "price": 1990,
+    "description": "Blue printed dress,square neck, sleeveless, pink piping detail, panel at waist",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Blue-Dress_c47eb05cb1dd3502a00c03af810da385_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Blue-Dress_5d8157fdc219fd3b5b0bd9778ac69efe_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 58801,
+    "brandName": "HIGHLANDER",
+    "productDisplayName": "Highlander Men Green & Navy Blue Check Shirt",
+    "price": 1039,
+    "description": "Green and navy blue, herringbone weave, check shirt with top stitch detailing, spread collar, yoke at the back, full buttoned placket, long sleeves with buttoned cuffs, patch pocket on the left chest side with embroidered branding, and curved hem with web detailing on the sides",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Highlander-Men-Green---Navy-Blue-Check-Shirt_29fad5b16ebcf91c53cd8542108c47bd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Highlander-Men-Green---Navy-Blue-Check-Shirt_540f41482c44bdefd6b2f082a9922fcf_images.jpg"
+    }
+}

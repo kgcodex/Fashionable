@@ -1,0 +1,17 @@
+{
+    "id": 44862,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Black & White T-shirt",
+    "price": 1299,
+    "description": "Black and white polo neck t-shirt with a spread collar, chest button placket, short sleeves with ribbed cuffs and grey and white paneling, grey paneling below the yoke, embroidered branding on the left chest, brand tab appliqued on the left hem and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dce66925893c6b14ac7e4d079c98ab67_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/01c46ce25a3cc1cd1b0467f77cf34b18_images.jpg"
+    }
+}

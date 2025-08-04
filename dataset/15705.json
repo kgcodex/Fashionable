@@ -1,0 +1,17 @@
+{
+    "id": 15705,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Tennis Black Track Pants",
+    "price": 2995,
+    "description": "Style NoteBuilt with the breathability and zero-distraction Fit that athletes demand, these Nike track pants come in a body-friendly design and keep you sweat-free and fresh all day. Team it with t-shirts and track jackets for superior style.Product DetailsBlack full-length track pants, has an elasticated waist with drawstrings, two side pockets with zipped closures, one back pocket with a zipped closure, zipped closures at the hem, branding embroidered on the left thigh and brand tag on the right pocketMaterial and Care100% polyesterMachine wash cold with like coloursDo not bleach or dry cleanTumble dry lowCool iron; do not iron on decorations",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a0792c4f585e9843f736d84a6c0ad834_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2616324cb790daa31979c486d8351a9b_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 32472,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex White Socks",
+    "price": 199,
+    "description": "Style NoteWear these socks with trainers when you're working out. adidas ensures that all their products are designed to offer the best performance and these socks are no exception.Product DetailsWhite ankle socks with black trimsSmall rib at opening to grip below ankle with branding under it3-Stripe across the foot regionMaterial and CareBlended cottonMachine wash in cold water or hand wash separatelyDo not tumble dry, use softeners or bleachLine dry",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b0c0e569b89cb2610790f736eb1cc29a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/87d66c40149cd966c2e226e868abe844_images.jpg"
+    }
+}

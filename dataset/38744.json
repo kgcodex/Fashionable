@@ -1,0 +1,17 @@
+{
+    "id": 38744,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Green All Access Fullfare Backpack",
+    "price": 1995,
+    "description": "Style Note A backpack easily distributes the weight across your shoulders and back, making loads easy to carry while keeping you looking cool and confident. Fill this trendy nike backpacks with your sportswear when you're heading to the field or gym, with laptop and office gear on weekdays or use it on a trek in the great outdoors, and enjoy the ample storing space for all your gear. Product Details A military print camouflage backpack with a brand patch applique Two padded curved shoulder straps with one short handle on top and padded back Two adjustable straps on the sides One main zippered compartment with an elasticised internal compartment for the laptop Two open and two zippered compartments on the side One easily accessible zippered pocket in front and one pocket in front with a velcro closure Material and Care 100% polyester exterior, 95% nylon and 5% polyester lining Do not machine wash or dry clean Do not bleach or iron Wipe with a damp cloth when necessary and line dry Size Height: 47 cm Width: 30 cm Depth: 14 cm",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b04e1d76aab77f33a4c1ab3b63c2d1f0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/57f7939ac8cd2fa95e2e3318f087cee8_images.jpg"
+    }
+}

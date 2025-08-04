@@ -1,0 +1,17 @@
+{
+    "id": 59976,
+    "brandName": "Avirate",
+    "productDisplayName": "Avirate Black Dress",
+    "price": 4100,
+    "description": "Black woven dress, V neck, sleeveless, empire line, Fit and flare, concealed zipper at side, gathered panels criss-crossing at front and back and attached lining",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Party",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-Black-Dress_5e0e1dac5df554481715467473db8d48_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-Black-Dress_97d1a216e80a6d72adfb329aa6d744ac_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 3654,
+    "brandName": "FILA",
+    "productDisplayName": "FILA Men Batec White Casual Shoes",
+    "price": 1999,
+    "description": "A perfect blend of style and comfort, the fila Batec shoe comes in a sleek design, making this a great buy.UpperSynthetic leather upper with perforations on the forefoot Inner bootie to offer a better FitStylised panels on the sides of the midfoot with a printed wraparound heel overlay and heel cup for enhanced shoe structureLacing system for a snug, customised fitPadded collar and tongue with a textile inner lining for optimum fit and comfortPadded footbed for all-day comfort, which is removable to accommodate an orthoticMidsoleEVA midsole for comfort and impact protectionOutsoleDurable rubber outsole with branding styled lugs and ergonomically designed grooves for absolute grip and tractionShoe careWipe surface with a dry, clean cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/710bfd66b20b5cc41be7c84c719eb697_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1e07b4ca0c4c8e0e3a56dc0c52f2d4a9_images.jpg"
+    }
+}

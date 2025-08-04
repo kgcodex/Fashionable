@@ -1,0 +1,17 @@
+{
+    "id": 40689,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men Brown Shoes",
+    "price": 1999,
+    "description": "Style Note The simple design of these numero uno shoes have an understated elegance. The comfortable design takes you through the day in style. Team these up with jeans and long sleeved grey or black tees for a simple, striking look. Product Details Square toe, brown shoe with slip on styling Leather upper with stitched details around the seams of the toe, reinforced overlay at the heel collar Mildly padded collar, footbed and tongue with fabric lining TPU outsole with circular nubs all over and reinforced at the heel to act as a heel guard Material and Care Leather Use branded leather conditioner and polish or wax on leather parts Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0e81fd597813e782bcf3dbec8c4a94bb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5555f78bbfaab4a7d2c0f02f9eaef7ef_images.jpg"
+    }
+}

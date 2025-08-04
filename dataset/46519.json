@@ -1,0 +1,17 @@
+{
+    "id": 46519,
+    "brandName": "Timex",
+    "productDisplayName": "Timex Men Cream Toned Dial Watch",
+    "price": 7495,
+    "description": "Case style: Analogue watch with a stainless steel circular caseDial style: Cream toned dial with branding below the 12 hour mark, has black hands with white inlay, and black markingsFeatures: Three chronograph displays on the dial and screw to reset timeStrap style: Brown, textured leather strap with a tang claspWater resistant upto 50 mComes in a signature Timex caseWarranty: 1 year from the date of purchase",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Timex-Men-Watches_307011213167e5fdbd6d4e9a33ff484e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Timex-Men-Watches_4aff8e3d3bf3d228c21a58e51ba6f104_images.jpg"
+    }
+}

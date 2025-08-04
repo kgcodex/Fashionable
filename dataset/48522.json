@@ -1,0 +1,17 @@
+{
+    "id": 48522,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Women Blue Jumpsuit",
+    "price": 4999,
+    "description": "Blue jumpsuit with prints, round neck, sleeveless, buttoned placket till the waist, fabric belt at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Women-Blue-Jumpsuit_0e4543e05cf53cf1082abf69c2daf7ce_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Women-Blue-Jumpsuit_7bdd4df7c3a75312d33b4f1f07df38a6_images.jpg"
+    }
+}

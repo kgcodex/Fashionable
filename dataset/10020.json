@@ -1,0 +1,17 @@
+{
+    "id": 10020,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Black & White Reversible Shorts",
+    "price": 1395,
+    "description": "Composition Black and white reversible shorts made of 100% polyester, has an elastic waist with interior drawcord, mesh panel at back waist and sides, and a vented hem Fitting Comfort Wash care Machine wash cold at 30 degrees with like colours Do not bleach Tumble dry low Remove immediately/do not allow to lay on itself when wet Cool iron, but do not iron on design Do not dry clean Scorers and defenders alike require maximum range of motion to lead their teams to victory, and you will have plenty of it in these nike shorts. This garmet can be fully reversed for the versatality of two garments in one. Even more, this shorts has strategic ventilation and the DRI-Fit technology wicks away sweat. Concentrate on your big win while these Sports shorts focus on keeping you dry, stylish and comfortable.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7f7c1104b7271b889aaa77efc75921c1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d07f1c0ace8966f347f35e43585bbee0_images.jpg"
+    }
+}

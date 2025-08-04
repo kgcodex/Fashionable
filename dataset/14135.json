@@ -1,0 +1,17 @@
+{
+    "id": 14135,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Checks Blue Handbags",
+    "price": 2195,
+    "description": "If you want to make a style statement effortlessly, this blue printed tote from nike will come in handy! Look trendy and chic as you pair it with your casual outfits. MeasurementHeight: 40 cmWidth: 44 cmDepth: 16 cmCapacity: 26 litresMade of 55% nylon, 35% polyurethane and 10% polyester for enhanced durability and styleNylon lining for enhanced durabilityWater-resistant tarpaulin bottomOne main roomy zippered compartment with a small fabric-lined zippered pocket to hold essentialsShoulder straps for carrying easeCushioned handle construction with synthetic panels for added comfortBranded zippers and sliders for easy usenike Swoosh appliqued on the front for branding and added attractionCareDo not machine washRub surface with dry clean cloth to remove dust and dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5fe065ce6b51c6e61344471a1d72e41d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a41cfa4725c6917f1f289cb73e74672f_images.jpg"
+    }
+}

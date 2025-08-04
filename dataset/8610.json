@@ -1,0 +1,17 @@
+{
+    "id": 8610,
+    "brandName": "SCULLERS",
+    "productDisplayName": "Scullers Men Black Polo T-Shirts",
+    "price": 1499,
+    "description": "Black and white striped jersey knit t-shirt in 100% cotton, with half buttoned placket, half sleeves and a fitted hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1a7188ff2f449a66dadb18a26c2c7b46_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2678a49eb9209be11f6e202af9354ea7_images.jpg"
+    }
+}

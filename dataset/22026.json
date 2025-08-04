@@ -1,0 +1,17 @@
+{
+    "id": 22026,
+    "brandName": "Vishudh",
+    "productDisplayName": "Vishudh Women White Floral Printed Kurta",
+    "price": 649,
+    "description": "White kurta with floral print, has a V neck with brown binding, short sleeves with binding at cuffs, vented hem with binding",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/24f0b60907845da8384a4ced5ee860ee_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e594af7d4cbdc8bc3cc30a1f2c6d729c_images.jpg"
+    }
+}

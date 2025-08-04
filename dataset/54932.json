@@ -1,0 +1,17 @@
+{
+    "id": 54932,
+    "brandName": "Do u speak green",
+    "productDisplayName": "Do u speak green Boys Blue T-shirt",
+    "price": 540,
+    "description": "Blue T-shirt, has a hood, short sleeves, graphic print on the front, two connected pockets in front and print at the back with stitched detail",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Do-u-speak-green-Boys-Blue-T-shirt_7cdcd46fb799e491bfcc8b980ea34f23_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Do-u-speak-green-Boys-Blue-T-shirt_d03f632da28af3d9d3888aaa91ef1eca_images.jpg"
+    }
+}

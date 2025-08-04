@@ -1,0 +1,17 @@
+{
+    "id": 51163,
+    "brandName": "Raymond",
+    "productDisplayName": "Raymond Men Beige Socks",
+    "price": 290,
+    "description": "Light brownish beige knitted socks with elasticated cuffs, has self patterning all over",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8f9c40a7a199d2b7c04a6726e05fc0e9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fd6eabd4f04b79fd43cd5d7660b23ea7_images.jpg"
+    }
+}

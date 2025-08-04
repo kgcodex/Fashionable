@@ -1,0 +1,17 @@
+{
+    "id": 32656,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Value Running Blue T-shirt",
+    "price": 1295,
+    "description": "Composition Blue round neck T-shirt for men made of 100% recycled polyester, has short raglan sleeves, panel on the shoulders and under the arm regions and printed nike swoosh on the left chest Fit Regular Wash care Machine wash cold with like colours Do not dry clean or bleach Tumble dry low Warm iron; do not iron on decorations A summer staple from nike for the urban male, this piece is sure to become an off-duty favourite in your sport fashion collection. Crafted for sport and fashioned to look great, Nike gets it right with this versatile piece. Style this with tonal sport or casual shoes and track pants or your favourite jeans.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/09fcc443652e3c676a8563f4b7dbeb54_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3ab26cd12370be586b59907426da99a7_images.jpg"
+    }
+}

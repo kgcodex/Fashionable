@@ -1,0 +1,17 @@
+{
+    "id": 13999,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Solid Black Jackets",
+    "price": 3595,
+    "description": "CompositionBlack hooded jacket made of 79% cotton and 21% polyester, has ribbing made of 96% cotton and 4% spandex on the sleeve cuffs, side panels and hemline, has a hood with drawstring and grey fabric lining, long sleeves with T90 logo on the left sleeve, zippered closure on the front, two patch pockets on the front with assymetric openings, rubber print swoosh logo on the upper right chest and T90 transfer on the upper left chestFittingRegularWash careMachine wash cold with like coloursDo not bleach Tumble dry on lowWarm iron onlyDo not dry cleanDo not iron on print or embroideryEnjoy the winter in style in this T90 football training jacket from nike. The ribbed panels on the sides are a refreshing addition to this winter staple, while the thick fabric provides lightweight comfort and warmth. The white swoosh logo and T90 logo gives you a strong sporty edge. Team this with long sleeved tees, jeans or tracks and sports shoes.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/306bc1d2d9ebe5c3a4aa52abf3ef1c2b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4d5e13c7589145afb881b2f5a7311806_images.jpg"
+    }
+}

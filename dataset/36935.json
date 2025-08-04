@@ -1,0 +1,16 @@
+{
+    "id": 36935,
+    "brandName": "Ralph Lauren",
+    "productDisplayName": "Ralph Lauren Men Perfume",
+    "price": 4800,
+    "description": "1 from ralph lauren is encased in a delectable blue flacon",
+    "masterCategoryId": 11,
+    "masterCategoryType": "Personal Care",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Ralph-Lauren-Men-Perfume_de25cc4c7db1dbff3e945939c7ff6be2_images.jpg"
+    }
+}

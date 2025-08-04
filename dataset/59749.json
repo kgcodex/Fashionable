@@ -1,0 +1,17 @@
+{
+    "id": 59749,
+    "brandName": "Avirate",
+    "productDisplayName": "Avirate White Nightdress",
+    "price": 2800,
+    "description": "White full length nightdress made of stretchy net fabric, has a V-neckline, adjustable shoulder straps, golden embellishment with a bow detail on the left shoulder strap, lace trims at the bust region and hem, has a cut-out detail at the back and side slit",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-White-Nightdress_db41ed510084175abc166ee6c0a17497_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-White-Nightdress_701e519591b31eb16ddaf86f878c0c80_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 45331,
+    "brandName": "Cobblerz",
+    "productDisplayName": "Cobblerz Women Blue Heels",
+    "price": 1699,
+    "description": "A pair of open-toed, blue sandals, has mid top stylingLeather upper with braided straps across the forefoot and the midfoot regionAnkle loop with a zip closurePadded footbed with branding on the heelTPR outsole with kitten heel and a heel cap",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/58dd8ad4ee00b6e41da3b70ed979f064_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1a056e25fedf76ccd5df4275c213232e_images.jpg"
+    }
+}

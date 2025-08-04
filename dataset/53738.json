@@ -1,0 +1,17 @@
+{
+    "id": 53738,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men White Track Pant",
+    "price": 1599,
+    "description": "White track pants, has mesh panelling, red piping, elasticated waist, has two side pockets",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-White-Track-Pant_e163ecc476daecd4111e2a3d3ea3a569_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-White-Track-Pant_0ef3af8d05b345540feed6f15b050215_images.jpg"
+    }
+}

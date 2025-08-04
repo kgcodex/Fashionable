@@ -1,0 +1,17 @@
+{
+    "id": 44697,
+    "brandName": "Wills Lifestyle",
+    "productDisplayName": "Wills Lifestyle Red & White Checked Top",
+    "price": 1799,
+    "description": "Red and white checked woven top, has a V-neckline with taping and ruffled panelling on sides, a short button-and-loop placket on the front, short puff sleeves with smocking at cuffs, elasticated hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/44697/Wills-Lifestyle-Red--White-Checked-Top_2_a75173d97cbcd9561804e56947fb96fc.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/44697/Wills-Lifestyle-Red--White-Checked-Top_3_d16a762e27ff09faab6c6ec0e9125feb.jpg"
+    }
+}

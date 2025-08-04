@@ -1,0 +1,17 @@
+{
+    "id": 57166,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women Lavender Top",
+    "price": 1600,
+    "description": "Lavender knit T-shirt with rounded V neck and short extended sleeves, gathers at shoulder with buttoned tabs, synthetic panels overlayed in front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Lavender-T-shirt_bb74ffacddfb4cbf9939bab028dbcede_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Lavender-T-shirt_b6f4d2bc64d37e9072d0d9390dccc15b_images.jpg"
+    }
+}

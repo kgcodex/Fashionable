@@ -1,0 +1,17 @@
+{
+    "id": 46115,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Olive Court Evo Shoes",
+    "price": 3599,
+    "description": "Synthetic upper with stitch detail at the seams of the toe box and fabric inlaysadidas 3-Stripe embossing at the midfoot region with perforated details on itPadded fabric innerReinforced overlay at the heel collarCentral lace-upsPadded tongue with brandingRubber midsoleTPU outsole with patterned grooves and a suction point at the big toe region in the outsole",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/70e077e4b888ccef68c20e2e4fc1a505_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8159f1f75a0095b335fa615bee604f1b_images.jpg"
+    }
+}

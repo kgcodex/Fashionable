@@ -1,0 +1,17 @@
+{
+    "id": 12042,
+    "brandName": "Mark Taylor",
+    "productDisplayName": "Mark Taylor Men Blue Striped Shirts",
+    "price": 519,
+    "description": "Wash care Wash separately with mild detergent Do not bleach Drip dry Warm iron",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f0752768f09885a4d34fc9abee6beefd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3515dcdcec1e3425ea178c0751a82f3b_images.jpg"
+    }
+}

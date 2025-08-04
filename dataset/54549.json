@@ -1,0 +1,17 @@
+{
+    "id": 54549,
+    "brandName": "Global Desi",
+    "productDisplayName": "Global Desi Women Multi Coloured Tunic",
+    "price": 1095,
+    "description": "Multi coloured printed tunic, has a round neckline, short sleeves with blue binding and buttoned tab, mock buttoned placket and pin tucks on either side of the placket",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Global-Desi-Women-Multi-Coloured-Tunic_e18b086408d4b2b92f6a2c76c94413f1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Global-Desi-Women-Multi-Coloured-Tunic_2c9c1e9c90f5105de75d775fdc5346a6_images.jpg"
+    }
+}

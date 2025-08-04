@@ -1,0 +1,17 @@
+{
+    "id": 10620,
+    "brandName": "Carlton London",
+    "productDisplayName": "Carlton London Women Casual Gold Slippers",
+    "price": 795,
+    "description": "The perfect way to complement your ethnic wear is to slip into these beautifully crafted slippers from carlton london. The V-shaped straps grooved straps enhnace Fit and add that extra spark to your personality. Team it with jeans, salwars or sarees, and it'll complement every outfit with ease.UpperLeather midfoot straps with a toe separator to lock the foot in placeturtle shell-styled grooves on the straps for styleSoft footbed for all-day comfort and styleOutsoleTextured durable rubber outsole with a floral groove on the forefoot for absolute grip and tractionSlipper careWipe surface with a damp, clean cloth to remove dirtDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a35add6799deb0aed474a6cb546b29fb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/004c5cb5578a188250f5e94c4c7c40e8_images.jpg"
+    }
+}

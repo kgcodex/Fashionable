@@ -1,0 +1,17 @@
+{
+    "id": 59440,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Grey Check Slim Fit Shirt",
+    "price": 1999,
+    "description": "Grey shirt with lavender and white checks, spread collar, yoke at the front and back, short sleeves, full buttoned placket patch pocket on the left chest and curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Grey-Shirt_59bf7c685c907ea47378ffde7f26f938_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Grey-Shirt_841726accee83fd8a5b0c034591f898c_images.jpg"
+    }
+}

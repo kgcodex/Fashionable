@@ -1,0 +1,17 @@
+{
+    "id": 59342,
+    "brandName": "Gliders",
+    "productDisplayName": "Gliders Men Brown Shoes",
+    "price": 399,
+    "description": "Round toed, brown, slip-on shoes with velcro fastening Synthetic fabric textured upper with reinforced overlay at the heel collar Upper adhered to the outsole Rubber outsole with multi directional lugs and nubs Comes with a shoe bag",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Gliders-Men-Brown-Shoes_1c79069ef5cccbd3d7395d01b2b0c968_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Gliders-Men-Brown-Shoes_e8a2dceb4d891585b452507aba5c1a28_images.jpg"
+    }
+}

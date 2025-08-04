@@ -1,0 +1,17 @@
+{
+    "id": 7586,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Air Moc Vent Black Shoe",
+    "price": 3995,
+    "description": "Take casual dressing to the next level with these nike Air Moc Vent shoes.&nbsp; These shoes combine high quality materials and a sturdy design to deliver a fresh take on the climbing-shoe. Team these with jeans and tees for a cool casual look.Uppers Synthetic uppers in strappy design for durability Elastic laces fastened with a toggle at the tongue for a snug Fit Swoosh on the side of the heel Rubber toe box for greater comfort Wide tongue for snug fit Lightly cushioned lining for greater comfort Midsole Cushioned footbed for all day comfort and protection Cushioned midsole offers better shock absorption Outsole Durable rubber outsole in diamond patterned grooves for better multidirection traction Shoe careWipe surface with damp, clean cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0f8251c7200fc7d160c1d5124421fa7b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c4a5603e894b79e299f336c18c5fd00d_images.jpg"
+    }
+}

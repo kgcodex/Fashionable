@@ -1,0 +1,17 @@
+{
+    "id": 49506,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Grey Casual Shoes",
+    "price": 4499,
+    "description": "Grey, round toed shoes with central lace fastening and high top construction Suede upper with reinforced overlay at the heel collar Smooth and soft inner with a padded footbed EVA midsole with foxing Rubber signature waffle outsole with scooped out diamon",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Grey-Casual-Shoes_9c15b841fe66ed307f515647fdc34d18_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Grey-Casual-Shoes_0f8a030d28cfd6043b3d9735e399ed6b_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 2316,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Mens Athletic Green T-shirt",
+    "price": 595,
+    "description": "Composition:Green, round neck cotton t-shirtWash Care:Handwash/Machine washFitting:Comfort FitGo green in this smart casual wear t-shirt with its bold print. screaming out your support for Sports. Look all the more stylish by teaming this with well fitting denims.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7b23da4c34301310e7fa7a7564c9ba48_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5875479dc231094b7a317b6eb7d29805_images.jpg"
+    }
+}

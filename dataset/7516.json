@@ -1,0 +1,17 @@
+{
+    "id": 7516,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women's Class Pink T-shirt",
+    "price": 1195,
+    "description": "CompositionHot pink round neck t-shirt&nbsp; made of 100% polyester, with short sleeves made of 80% polyester, 20% spandex, engineered with Dri-Fit technology, fabric tape detailing on inseam of the neckline, nike swoosh printed on the left chest and vented hemFittingRegularWash care Machine wash in cold water with like colours at 30 degree C Do not use softeners or bleach Remove immediately Do not allow to lay on itself when wet Tumble dry low Do not iron Do not dry clean If you want to train in style, this hot pink t-shirt from nike will give you all the style your heart desires, coupled with great comfort. The mesh sleeves provide excellent ventilation, apart from making the tee look even more smart. Engineered with Nike's Dri-Fit technology, it wicks away sweat to keep you dry and comfy at all times. Team it with tracks or shorts to work out in style, or team it with jeans for a casual day out with your pals.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f848930822e0363279eaaed9c45814dc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/77c2c46e749c2efee512b97914ac9f28_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 30637,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Printed Tempo Red Shorts",
+    "price": 1295,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1ac4275f09055221020afcba785a22f9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/513b7db8545c01c25b38d834f4011a5b_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 49420,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Blue 106 Vulcanized Shoes",
+    "price": 3299,
+    "description": "Check patterned fabric upper in a low top round-toed style and central lace-ups EVA midsole with foxing at the toe region TPU sole with reverse waffle grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Blue-106-Vulcanized-Shoes_4058b2b050430279e10cf8369b6f9d7f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Blue-106-Vulcanized-Shoes_2c263d66415c2d3a0df9279d7deda32f_images.jpg"
+    }
+}

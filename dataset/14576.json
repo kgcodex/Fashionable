@@ -1,0 +1,17 @@
+{
+    "id": 14576,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Half Cab Black Casual Shoes",
+    "price": 4499,
+    "description": "vans brings you footwear for the urban youth. Inspired by skate boarders, Half Cab shoes offer the sturdy support of a high cut and flexibility of a low profile shoe. Team these with cargos or jeans and graphic tees. Upper Suede uppers for durability and comfort Padded collar, well cushioned tongue and textile lining for extra comfort Lace-ups for a snug Fit Brand tab on the side and brand name on the back, on the lasting Cushioned footbed for all day comfort Midsole EVA midsole for better shock absorption Outsole Rubber outsole for durability Reverse waffle pattern for better grip Lasting with toe counter for extra protection to the toes Shoe care Wipe surface with soft, clean cloth to remove dust Do not use a drier or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/23ebb0b3730ffcc1863dd388357c9248_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/301174a93da7d838385b687130828a2b_images.jpg"
+    }
+}

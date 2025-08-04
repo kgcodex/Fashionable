@@ -1,0 +1,17 @@
+{
+    "id": 22487,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Onix Casual Sandals",
+    "price": 3299,
+    "description": "Get ready to float in comfort and style with these floaters from adidas. Comfortable and sturdy, these sandals are great for a stroll in the park or a walk on a trekking trail.UpperSynthetic straps on the forefoot, collar and ankle, with velcro fasteners and clip-lock buckle to attain a snug FitElasticated portion on back strap for perfect fitPadded inner lining on straps for greater comfortPrinted logo on the midfoot and ankle strapsFirm footbed with slightly elevated pattern for a massage feel and all-day comfortOutsoleTPR outsole with heavy-duty multi-directional lugs for durability, grip and tractionFlex grooves for natural movement of the feetCurved midfoot for ergonomic comfortWash careRub surface with a clean, damp cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8f40d06db213a451893a57b92cf27912_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/098534b27e3ed61b0d544e36037d36aa_images.jpg"
+    }
+}

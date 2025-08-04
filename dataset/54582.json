@@ -1,0 +1,17 @@
+{
+    "id": 54582,
+    "brandName": "Sushilas",
+    "productDisplayName": "Sushilas Women Printed Blue Kurta",
+    "price": 999,
+    "description": "Blue woven, printed kurta that has a round neck with a split neckline, pink and white printed yoke with sequins, tape and stitch detailing on either sides of the yoke, cuffs and hem and three quarter sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Sushilas-Women-Printed-Blue-Kurta_93699fc921b4f80ecdc28760eadf3ddb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Sushilas-Women-Printed-Blue-Kurta_98d2d8a400d57959bd86cfc4c5836ef0_images.jpg"
+    }
+}

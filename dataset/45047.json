@@ -1,0 +1,17 @@
+{
+    "id": 45047,
+    "brandName": "maxima",
+    "productDisplayName": "Maxima Men Black Attivo Watch",
+    "price": 1925,
+    "description": "Style Note",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/90dff9a81daf39888ae37ea7544ec0ef_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a4e772ab56c81235ea3efaa4f5d2165d_images.jpg"
+    }
+}

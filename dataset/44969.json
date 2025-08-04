@@ -1,0 +1,17 @@
+{
+    "id": 44969,
+    "brandName": "maxima",
+    "productDisplayName": "Maxima Men Gold Dial Watch",
+    "price": 525,
+    "description": "-",
+    "masterCategoryId": 190,
+    "masterCategoryType": "Free Items",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5d2ab96033d6778b814f2e0a44da78d8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bfdb25b7f007166e4b5c7d54581c3f8e_images.jpg"
+    }
+}

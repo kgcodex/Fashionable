@@ -1,0 +1,17 @@
+{
+    "id": 26484,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men White T-shirt",
+    "price": 1099,
+    "description": "White round neck T-shirt made of 100% cotton, has short sleeves with a brand patch appliqued on the right sleeve, red fabric tape detailing on in-seam of the neckline and graphic and rubber print on the chest and print on the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/be6f8052f048f585ad2a99db488b2f4d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/83c7e8bbfbc2e610371af9e2ebd11349_images.jpg"
+    }
+}

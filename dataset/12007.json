@@ -1,0 +1,17 @@
+{
+    "id": 12007,
+    "brandName": "Mark Taylor",
+    "productDisplayName": "Mark Taylor Men Purple Striped Shirt",
+    "price": 519,
+    "description": "Wash care Wash separately with mild detergent Do not bleach Drip dry Warm iron",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/907ac2a104e1fb132c8de7b95d77b70f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1147a3662e755742993b5a1c49b68e8d_images.jpg"
+    }
+}

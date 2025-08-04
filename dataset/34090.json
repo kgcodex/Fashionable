@@ -1,0 +1,17 @@
+{
+    "id": 34090,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men Navy Leather Shoes",
+    "price": 2699,
+    "description": "Round toed, navy blue shoes with central lace-ups and mid top stylingSmooth leather upper, stitched detail at the midfoot, brand tag at the bottom of lace-up, cushioned tongue with branding, stitch detailed overlay along the heel with branding at the outer side, haul loop above the heelReinforced heel collar, cushioned along the mouth of the shoe, lightly cushioned insole with branding at the heelDurable rubber outsole with lugs at the forefoot, stacked heel with lugsWarranty: 3 months warranty against manufacturing defects onlyWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Numero-Uno-Men-Casual-Shoes-SRB-8-BLU-Blue-Casual-Shoes_02e7f6f3650ab20cdac711a725ae33a5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Numero-Uno-Men-Casual-Shoes-SRB-8-BLU-Blue-Casual-Shoes_4f345fbd142560e6a26be875491990fb_images.jpg"
+    }
+}

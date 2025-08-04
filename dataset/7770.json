@@ -1,0 +1,17 @@
+{
+    "id": 7770,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Beige Socks",
+    "price": 125,
+    "description": "CompositionBeige ankle length socks made of a 70% cotton and 30% nylon, with nike swoosh in black at the shin LengthCrew lengthWash care Machine wash warm in not more than 40 degrees Use non-chlorine bleach if needed Tumble dry low Do not dry clean Do not iron Gear up and enhance your performance in these nike socks. Offering a dry, fresh Fit and ample padding, this pair is all that you need to make that difference in your game. Team this with sports shoes when on the field or gym, or with lifestyle shoes and denims or skirts for that cool look.&nbsp;",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b7cb452e788f096ebe7e782fbc4470ea_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8136b3f8a809097301e8af3f8126fea5_images.jpg"
+    }
+}

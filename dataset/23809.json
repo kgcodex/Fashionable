@@ -1,0 +1,17 @@
+{
+    "id": 23809,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Men Black Leather Boots",
+    "price": 6499,
+    "description": "A pair of black bootsnbsp;with high-top styling and central lace-upsLeather upper, has a reinforced heel collarCushioned footbedTextured TPR outsole with patterned groovesWarranty: 3 months from the date of purchase against manufacturing defects onlyWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8e330badd1f6158c52b5f73fe6480c1d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e15abb34db567f757c987235b93c54c8_images.jpg"
+    }
+}

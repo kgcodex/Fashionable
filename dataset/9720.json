@@ -1,0 +1,17 @@
+{
+    "id": 9720,
+    "brandName": "Lotto",
+    "productDisplayName": "Lotto Men Lima Black Sports Shoes",
+    "price": 1799,
+    "description": "Wash care Wipe surface with soft, clean, damp cloth Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/547ea203c0bac472af672bd74d9a5c46_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8fec3042f0c452e970dc31ce65d6def8_images.jpg"
+    }
+}

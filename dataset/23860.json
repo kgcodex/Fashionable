@@ -1,0 +1,17 @@
+{
+    "id": 23860,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Brown Adiwind Flip Flops",
+    "price": 999,
+    "description": "These bright Adi Wind flip flops from adidas are perfect for casual occasions. While the textured footbed massages your feet whenever you walk, the fabric and synthetic thong straps sit comfortably on the upper of your foot, pampering your feet.UpperSynthetic and fabric thong straps with stitch detailing for snug Fit and protection from abrasionFabric toe separator to support the footadidas patented 3-Stripes on the separator for styleFoam footbed with graphics and brand mark for cushioned all-day comfort and styleOutsoleTPU outsole with geometric textured lugs for greater grip and stabilitySlipper careWipe off dirt with a moist clothDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/892983a38800e88d78c66d376de31260_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bc94b540a356f952974596acdf19e203_images.jpg"
+    }
+}

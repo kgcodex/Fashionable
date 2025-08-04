@@ -1,0 +1,17 @@
+{
+    "id": 12468,
+    "brandName": "Basics",
+    "productDisplayName": "Basics Men White T-shirt",
+    "price": 899,
+    "description": "Wash care Machine wash separately in cold water using mild detergent Do not bleach or soak Line dry inside-out in shade Warm iron only Do not iron directly on print/embroidery",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/53c6337f550438abbe2d0be81240f32d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ae83020033e28a2f4e60d3c0f0686a15_images.jpg"
+    }
+}

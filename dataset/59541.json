@@ -1,0 +1,17 @@
+{
+    "id": 59541,
+    "brandName": "Lucera",
+    "productDisplayName": "Lucera Silver Earrings",
+    "price": 1250,
+    "description": "Silver coloured earrings Loop shaped base with a CZ diamond cluster drop Push back closure",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lucera-Silver-Earrings_d23ab415df604ea54de12372db4defae_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lucera-Silver-Earrings_21ea4b18edb960c1236b11298195bda3_images.jpg"
+    }
+}

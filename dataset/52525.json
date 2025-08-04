@@ -1,0 +1,17 @@
+{
+    "id": 52525,
+    "brandName": "Pepe Jeans",
+    "productDisplayName": "Pepe Jeans Women Dark Red Jeggings",
+    "price": 3499,
+    "description": "Dark red jeggings, has loops at the waist band, a buttoned waist and a zipper fly, two front pockets (has a smaller pocket at the right pocket) and two patch pockets at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/033a260f78c3bb626abcedd3bd77e9b7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2566082e08f226b9b29242bee7a59479_images.jpg"
+    }
+}

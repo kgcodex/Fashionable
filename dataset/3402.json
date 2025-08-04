@@ -1,0 +1,17 @@
+{
+    "id": 3402,
+    "brandName": "Murcia",
+    "productDisplayName": "Murcia Women Yellow Hobo Handbag",
+    "price": 499,
+    "description": "CompositionPure leather tote bag in yellow with same colour zippers and stitch detailingBag careRub surface with dry clean cloth to remove dust and dirt Use a mild leather cleanerThis big tote bag is the ultimate piece of style. With ample space for all that you want to carry, including a spare set of clothes, you are all set to go on that special date or on an evening out with friends. Available in attractive colours like blood red, teal blue, moody grey, in-fashion turquoise blue, sober beige, black and neutral brown, the stitch detailing enhances its subtle style.",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6c5dd44b6da7c7cab16dd0082aedfa6f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bb087664f685352826a07fffd9388043_images.jpg"
+    }
+}

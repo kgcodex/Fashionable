@@ -1,0 +1,17 @@
+{
+    "id": 5471,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Air Force Red Shoe",
+    "price": 4500,
+    "description": "Replete with a low-cut silhouette and a versatile look, the nike Air Force 1 '07 has been crafted on the lines of the iconic AF1, blending classic style, innovative technology and fresh detailing in a Basketball shoe. With an extra pair of laces to give you a new look every time, and exceeding all standards of performance, functionality and excellence, the nike Air Force 1 '07 has been a celebrated sneaker for over 25 years now. Upper Synthetic leather upper with crisp edges for maximum durability and a cleaner look Perforated toe box and sides for ample ventilation Low cut silhouette for a low-to-ground feel Cotton twill lace-up system with lightly padded tongue for snug Fit Metal tag on lace to honour the shoe Mildly cushioned sockliner for in-step comfort&nbsp; Midsole Phylon midsole with an encapsulated Nike Air unit for lightweight cushioning and shock absorption Massive midsole for soft, springy cushioning&nbsp; Outsole Non-marking rubber outsole for better traction and durability Pivot points on the big toe mound and heel, coupled with circular lugs for smooth transition in all directions&nbsp; Shoe care Do not machine wash Remove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9bcbdcd937d58a56d9d9baa693a831a8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3c783aef4eed4f3866cfee9ec7978837_images.jpg"
+    }
+}

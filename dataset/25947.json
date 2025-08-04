@@ -1,0 +1,17 @@
+{
+    "id": 25947,
+    "brandName": "Femella",
+    "productDisplayName": "Femella Women Brown Scarf",
+    "price": 390,
+    "description": "This soft printed scarf from femella in brown is made of a blended fabric and has tassels at the ends. This scarf offers exemplary comfort, making it an outfit essential and a perfect addition to your wardrobe. Wear it over a jacket or use it to smarten up a casual ensemble. Length: 178 cm Width: 67 cm Wash care Dry clean only",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8fdf7c6b935417b1b6e44769cd869c2f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/84882517fec23df01ddaea5b01294250_images.jpg"
+    }
+}

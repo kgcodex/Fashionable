@@ -1,0 +1,17 @@
+{
+    "id": 36451,
+    "brandName": "Spinn",
+    "productDisplayName": "Spinn Men Swift Black Sports Shoes",
+    "price": 799,
+    "description": "Style NoteCreated for today's generation, this spinn Swift shoe embodies the brand's motto - combining technology and high-octane fashion. We think these are just right, both for Sports and for braving the urban jungle, thanks to their nonchalantly sturdy aesthetic. An all-weather staple, the style perfectly suits the cosmopolitan vibe you love!Product DetailsRound toed casual shoe with an upraised heel and lace-up fasteningWell padded innerFoamy rubber midsoleTPU outsole with multidirectional lugs Outsole reinforced onto the upper at the forefoot to act as a toe guardMaterial and CareSyntheticDo not machine wash or store in direct sunlightRemove dust with a dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/236c104464a8238c2a47fdeb914ff7cc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2a3e8ccf27c2ec4690c6aaffda16d347_images.jpg"
+    }
+}

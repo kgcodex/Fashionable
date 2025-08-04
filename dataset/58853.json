@@ -1,0 +1,17 @@
+{
+    "id": 58853,
+    "brandName": "Hakashi",
+    "productDisplayName": "Hakashi Men Black Cufflinks",
+    "price": 650,
+    "description": "Silver and black coloured pair of cuff-links, round, crystal detail Shaped post at back to hold cuff in place",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Black-Cufflinks_38f36c2a478f93318ce095aca3ec3e57_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Black-Cufflinks_5b58824cef0bdb58669c86a3f0a1e413_images.jpg"
+    }
+}

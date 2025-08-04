@@ -1,0 +1,17 @@
+{
+    "id": 15726,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Max+ 2011 Grey Sports Shoes",
+    "price": 11995,
+    "description": "The nike Air Max+ 2011 shoe is a take off on the popular Air Max shoe. What makes this version even better is the Hyperfuse upper, which combines several materials that together offer an absolutely lightweight, breathable comfort, durability and a seamless Fit.UpperHyperfuse upper for absolute lightweight, breathable and durable comfortInner bootie that wraps around the foot offering breathable, snug comfortMeshed and padded tongue and inner sleeve with a lace-up system for snug fit and comfortCushioned sockliner for in-step comfortSwoosh overlays on the sides for enhanced shoe structureReflective material on the toe and heel region for easy visibility in low light conditionsMidsoleFull length Cushlon midsole for lightweight responsive cushioning and shock absorptionMax Air technology for maximum impact protectionMoulded collar around the ankle to lock the heel in place and reduce slippage OutsoleDurable rubber outsole with waffle pattern and lugs around the perimeter for absolute grip and tractionColoured Air Max unit with a translucent perimeter on the outsole for styleFlex grooves for smooth flexibility and an efficient transition from heel to toenike+ Ready which makes it compatible with various Nike+ productsShoe careRemove dust and dirt with dry clean clothDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/58eb47e1ad512db5114dd6bc68b6a567_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/74db112cce593b0d6bba63064bf49ef1_images.jpg"
+    }
+}

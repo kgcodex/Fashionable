@@ -1,0 +1,17 @@
+{
+    "id": 57174,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women Dark Pink T-shirt",
+    "price": 1800,
+    "description": "Dark pink knit top, has a round neckline, crochet detail appliqued around the neckline and short sleeves with fold over cuffs",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Red-T-shirt_1c59e016fbfbcd839b850d8f114fe975_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Red-T-shirt_de399cb3512f7af804984db16239020c_images.jpg"
+    }
+}

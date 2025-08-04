@@ -1,0 +1,17 @@
+{
+    "id": 54399,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Teal Wallet",
+    "price": 925,
+    "description": "Teal wallet with single fold crafted from synthetic leather with stitch overlays and branding on the front A zipped pocket on the front A press button closure on the folds Two insert pockets, twelve card holders and an id holder One external zipped pocket at the back",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Blue-Wallet_8771c185ae98920082514fbf4b4d79e4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Blue-Wallet_add18393a05fe12b18b72a84ea34178b_images.jpg"
+    }
+}

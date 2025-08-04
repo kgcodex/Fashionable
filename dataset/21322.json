@@ -1,0 +1,17 @@
+{
+    "id": 21322,
+    "brandName": "Louis Philippe",
+    "productDisplayName": "Louis Philippe Men Sunglasses LP045-C3",
+    "price": 2750,
+    "description": "Lens colour: BrownLens type: Distortion-free lensFrame colour: RedFrame type: Plastic frameHigh bridge and fixed nose holdersComes in a case",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8def67bbd48624102fe33faced825154_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bc6d3d7ce77ba7c5924f4040277e41cb_images.jpg"
+    }
+}

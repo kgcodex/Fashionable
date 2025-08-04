@@ -1,0 +1,17 @@
+{
+    "id": 2640,
+    "brandName": "Carlton London",
+    "productDisplayName": "Carlton London Men Brown Formal Shoes",
+    "price": 3495,
+    "description": "Square toed, low top derby shoes in brown, has central lace-upsHas a leather upper with stitched overlays and reptilian textureCushioned foot bed with branding at heelTPU outsole with upraised heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Carlton-London-Men-Brown-Formal-Shoes_3c92e573a0685ebafcb0f56aff4c7219_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Carlton-London-Men-Brown-Formal-Shoes_2a9cf32036c72d24913d828b1cf8d200_images.jpg"
+    }
+}

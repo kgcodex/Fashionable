@@ -1,0 +1,17 @@
+{
+    "id": 44659,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Black Shoes",
+    "price": 4499,
+    "description": "Black, round toed shoes with central lace fasteningLeather upper with overlays, reinforced overlay at the heel collar, foxing around the toe boxPadded inner and tongue with soft footbedCo-Molded PU3 footbed with ImpactsorbDual density foams tuned to support and lessen shock, eliminates heel bruisingRubber midsoleRubber outsole with grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Black-Shoes_ce270790c85a3322dd4df9c31ca4f212_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Black-Shoes_283c029ebbd82d24240f5748709c63d9_images.jpg"
+    }
+}

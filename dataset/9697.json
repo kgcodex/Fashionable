@@ -1,0 +1,17 @@
+{
+    "id": 9697,
+    "brandName": "Hush Puppies",
+    "productDisplayName": "Hush Puppies Men Jungle Black Formal Shoes",
+    "price": 2499,
+    "description": "If you want the ultimate sensation of comfort for your feet, then these shoes from hush puppies are made for you. The lace-up oxford design of these shoes makes it a great wardrobe staple.Team these with jeans or chinos and tees for a cool look. Upper Leather uppers for durability and comfort Stitch detailing for added style Square toe box for greater comfort Lace-ups for a snug Fit Lightly padded collar for greater comfort Midsole Cushioned footbed that has a leather lining for all day comfort EVA midsole for better shock absorption Outsole Outsole that has elevated bumps on the forefoot and heel for better grip Heel for ergonomic comfort Wash care Wipe surface with soft, clean cloth to remove dust Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bc885972bcb06b4611c3824486e110c0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bde74526f9fe26fbf023cbe29a76d160_images.jpg"
+    }
+}

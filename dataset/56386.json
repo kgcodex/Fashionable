@@ -1,0 +1,16 @@
+{
+    "id": 56386,
+    "brandName": "Estee Lauder",
+    "productDisplayName": "Estee Lauder Women Pure White Linen 100 ml Perfume",
+    "price": 5150,
+    "description": "A surprise of red tulips and rosebloom, snow-white flowers and sparkling raspberry. A feeling of fresh greens and just-opened florals",
+    "masterCategoryId": 11,
+    "masterCategoryType": "Personal Care",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Estee-Lauder-Women-Pure-White-Linen-100-ml-Perfume_0c788f2a85fdbc6d44fc974ed9e27ecf_images.jpg"
+    }
+}

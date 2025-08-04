@@ -1,0 +1,17 @@
+{
+    "id": 4752,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Red Polo T-shirt",
+    "price": 899,
+    "description": "Red, polo t-shirt made of 100% cotton, with ribbed collar, embroidered logo on left chest and slanting subliminal graphic print along the lower half",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ee5109269c4eab1e0584a54309f853f7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/870d4eadac52a47bd6775cb384e468d5_images.jpg"
+    }
+}

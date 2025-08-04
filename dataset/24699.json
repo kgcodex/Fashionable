@@ -1,0 +1,17 @@
+{
+    "id": 24699,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Cell Tolero Black Sports Shoes",
+    "price": 4499,
+    "description": "Cell Tolero running shoes form puma for men. Without fussy bells and whistles this shoe is light as it looks. Typically an athletic shoe, this piece also goes perfectly with casual wear. UpperTextured synthetic upper with perforations at the midfoot Padded mesh tongueCentral lace upsForm stripe overlay at the lateral side of the footPrinted branding on the toe boxOverlay at the heelMidsoleRubber midsoleOutsoleRubber traction outsole with waffle patterned lugs and groovesCurved mifdoottenCELL heel cushioning technology",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e2613cf71c8f422d04a3d3add2089041_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4057aa5b7498d9c47b8a3bc4eefcad47_images.jpg"
+    }
+}

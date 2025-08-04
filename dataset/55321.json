@@ -1,0 +1,16 @@
+{
+    "id": 55321,
+    "brandName": "Revlon",
+    "productDisplayName": "Revlon Touch & Glow Advanced Sun Care Daily Moisturising Lotion",
+    "price": 235,
+    "description": "Infused with sunscreen agents and SPF30 that blocks harmful UV rays from penetrating into the skin, thereby prevents tanning, formation of black pigment spots &amp; premature agingContains Aloe Vera, Fucogel, Vitamins A, E, C and B5 which deeply moisturises the skin, leaving it soft and revitalised",
+    "masterCategoryId": 11,
+    "masterCategoryType": "Personal Care",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Revlon-Touch---Glow-Advanced-Sun-Care-Daily-Moisturising-Lotion_b01e6257035680bf6742f71a68f40ddb_images.jpg"
+    }
+}

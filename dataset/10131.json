@@ -1,0 +1,17 @@
+{
+    "id": 10131,
+    "brandName": "ESPRIT",
+    "productDisplayName": "Esprit Women Romain Brown Steel Watches",
+    "price": 4495,
+    "description": "Taking traditional designs and giving it modern twist is what makes esprit watches timeless timepieces. This classic Romain analog wrist watch from esprit is no exception.",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d43e1ce643c6112be662502dd1c25425_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e6e8d257a694855c3257ddf4dfbf280a_images.jpg"
+    }
+}

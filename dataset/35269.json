@@ -1,0 +1,17 @@
+{
+    "id": 35269,
+    "brandName": "Lee",
+    "productDisplayName": "Lee Women Flower Mint Green Printed T-shirt",
+    "price": 649,
+    "description": "CompositionMint green, round neck T-shirt, has short sleeves and flower splash print on the front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/04d3cd119cd5feb0e37b7123b735de27_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a070ba51eb33aaf34b7464c7382b175b_images.jpg"
+    }
+}

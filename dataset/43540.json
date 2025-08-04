@@ -1,0 +1,17 @@
+{
+    "id": 43540,
+    "brandName": "Timex",
+    "productDisplayName": "Timex Men White Dial Watch",
+    "price": 1995,
+    "description": "-",
+    "masterCategoryId": 190,
+    "masterCategoryType": "Free Items",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8b59fcc65d598ee43422db2cdaa2df39_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d397bf0e7c64a3fca227ba8386cdcb05_images.jpg"
+    }
+}

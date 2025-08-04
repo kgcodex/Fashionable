@@ -1,0 +1,17 @@
+{
+    "id": 43688,
+    "brandName": "Doodle",
+    "productDisplayName": "Doodle Girls Pink Top",
+    "price": 449,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Girls",
+    "gender": "Girls",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/afe65d5fcb73c575846ce0cd10c7c621_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e62d2720e5223cc09c3d2235092eab1f_images.jpg"
+    }
+}

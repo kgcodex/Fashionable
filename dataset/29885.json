@@ -1,0 +1,17 @@
+{
+    "id": 29885,
+    "brandName": "Mayhem",
+    "productDisplayName": "Mayhem Women Sunglasses 1018-103",
+    "price": 1730,
+    "description": "Lens colour: BrownLens type:&nbsp;Optical class 1&nbsp;shatterproof polycarbonate&nbsp;lenses&nbsp;that filter out 100% UVA and UVB raysFrame colour: BrownFrame type: Plastic full frameHigh bridge with fixed nose holders",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bef8fd2e0df2634b024bf85f1f2ac103_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/614abf95a126e2ad227cf17eb2382ad4_images.jpg"
+    }
+}

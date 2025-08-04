@@ -1,0 +1,17 @@
+{
+    "id": 43046,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Black & Blue Energy Jersey",
+    "price": 1595,
+    "description": "Style NoteDesigned for your training needs, this nike T-shirt is made of polyester fabric with Dri-Fit technology to offer absolute sweat-free, fresh comfort. Such properties make it ideal not just for training, but playing any sport even on a hot day. Team this with performance shorts and sports shoes, or tracks and floaters for an unparalleled cool look.Product DetailsBlue and black jersey, round neck, short sleeves and nike swoosh on right chestMaterial and Care100% polyesterMachine wash separately in cold water using a mild detergentDo not bleachTumble dry lowCool iron do not iron on decorationsSize and fitRegular fit",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e6c7222550acf7b7fb311b5ddce6c8c7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bcecc382870a0068180aea492e280dfe_images.jpg"
+    }
+}

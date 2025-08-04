@@ -1,0 +1,17 @@
+{
+    "id": 29890,
+    "brandName": "Mayhem",
+    "productDisplayName": "Mayhem Women Sunglasses 1015-162",
+    "price": 1730,
+    "description": "Lens colour: Graduated pinkLens type:&nbsp;Optical class 1&nbsp;shatterproof polycarbonate&nbsp;lenses&nbsp;that filter out 100% UVA and UVB raysFrame colour: PinkFrame type: Plastic full frameHigh bridge with fixed nose holders",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b4709a290f4098501765413049bddfab_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e993aa6465958f348073ab5b136c805c_images.jpg"
+    }
+}

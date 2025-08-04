@@ -1,0 +1,17 @@
+{
+    "id": 38594,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women White Scoop T-shirt",
+    "price": 895,
+    "description": "Style NoteStay fresh and stylish this summer in this nike T-shirt. Team this with training pants and training shoes for complete benefit during your Sports sessions or simply wear it with jeans and sports shoes and flaunt your sporty attitude.Product Details White t-shirt with a round ribbed neckline, short sleeves, graphic print on the chest Material and Care 100% cottonMachine wash cold with like coloursDo not dry clean or bleachTumble dry lowWarm iron do not iron on print/decoration",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/25954bae01d6e7b6d00ff3e75ab1124c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/11f5a5b78b0de4862e46bae81672bd17_images.jpg"
+    }
+}

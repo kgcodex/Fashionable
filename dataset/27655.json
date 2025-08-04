@@ -1,0 +1,17 @@
+{
+    "id": 27655,
+    "brandName": "Music",
+    "productDisplayName": "Pink Floyd Men White Printed Tshirt",
+    "price": 649,
+    "description": "White printed t-shirt, round neck, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Pink-Floyd-Men-White-Printed-Tshirt_92db40198b80815947dd1baf4899e866_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Pink-Floyd-Men-White-Printed-Tshirt_7e04762b850870a8463470a961b540c0_images.jpg"
+    }
+}

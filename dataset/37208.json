@@ -1,0 +1,17 @@
+{
+    "id": 37208,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Women Black Skirt",
+    "price": 2299,
+    "description": "Black short skirt with pleats in front, has buttoned closures down centre front from the waist to the hemline, two insert pockets on the sides in front with decorative buttoned flaps, belt loops around the waist, single welt pockets at the back and a side slit in centre front as a result of buttoned closures",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Women-Black-Skirt_bdd28428b4c5cf4789ad409964780508_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Women-Black-Skirt_9ecda697d039b88d24cc4de8424d51f4_images.jpg"
+    }
+}

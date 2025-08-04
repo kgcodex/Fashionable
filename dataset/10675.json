@@ -1,0 +1,17 @@
+{
+    "id": 10675,
+    "brandName": "Doodle",
+    "productDisplayName": "Doodle Girl Princess Black Tops",
+    "price": 299,
+    "description": "Composition Black round neck t-shirt made of 100% cotton, with short sleeves and graphic print on the front Fitting Regular Wash care Machine wash in cold water with like colours in a delicate cycle Do not bleach Tumble dry low or lay flat to dry Warm iron when needed Do not iron on print dress your little princess in this black t-shirt from doodle and let her flaunt her beautiful hair in style with this tee. The short sleeves and graphic print add an element of sweetness, while the cotton fabric keeps her fresh and comfortable all day. Pair this top with a capris and sandals to complete her look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Girls",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8f4a792a79fc305512dafcd18acc7583_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3ee5da8810435ed9e3cd6338c008f041_images.jpg"
+    }
+}

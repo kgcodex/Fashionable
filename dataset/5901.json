@@ -1,0 +1,17 @@
+{
+    "id": 5901,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women's Corsica Tribal Black Shoe",
+    "price": 3999,
+    "description": "Classic&nbsp;footwear&nbsp;from&nbsp;puma&nbsp;gets a fresh twist with Corsica Tribal&nbsp;shoes. Aesthetically designed upper with a technologically advanced structure, the shoes are all set to invade into your style zone.UpperLeather upper with bright stitch detailing for styleCentral lacing system for customised&nbsp;FitLightly padded tongue and collar for snug fitFabric formstripe for maximum styleMidsoleLight, foamy footbedPhylon midsole for maximum lightweight comfortOutsoleDurable rubber outsole with brand name all over crating small traction grooves for great hold",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/09d5d03bde7d716f64387cd929c71683_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b985ed61539bd1d37e21c58e7cf41069_images.jpg"
+    }
+}

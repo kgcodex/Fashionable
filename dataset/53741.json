@@ -1,0 +1,17 @@
+{
+    "id": 53741,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Black Track Pant",
+    "price": 1399,
+    "description": "Black track pants, broad elasticated waistband for comfort, pink piping below the waistband and at the side seams for style, embroidered brand logo on the left",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Women-Black-Track-Pant_f237b1470c582d05c5dfdc810062d258_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Women-Black-Track-Pant_f46216e83428d31499561ebb0248a431_images.jpg"
+    }
+}

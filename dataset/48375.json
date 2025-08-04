@@ -1,0 +1,17 @@
+{
+    "id": 48375,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Men Black & Grey Shirt",
+    "price": 2499,
+    "description": "Black and greyish beige checked shirt with a slim button-down collar, has a buttoned patch pocket on the left chest, a buttoned placket, long sleeves with double buttoned cuffs and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4607a74292cd222dac7d721b1b8d5138_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e016fb05dc958b7075ac51604dcebbf6_images.jpg"
+    }
+}

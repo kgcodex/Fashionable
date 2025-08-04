@@ -1,0 +1,17 @@
+{
+    "id": 12800,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Basketball Jersey Grey Jerseys",
+    "price": 1395,
+    "description": "CompositionGrey sleeveless reversible T-shirt made of 100% polyester Dri-Fit with a navy blue mesh lining made of 100% polyester, that has a swoosh logo near the base of the round neckline and vertical mesh strips on the side seamsFittingComfortWash careMachine was coldWash separately with like coloursDo not use softenersRemove immediatelyDo not allow to lay on itself when wetDo not bleachCool iron Do not dry cleanLine dryGet two for the price of opne with this Dri-fit sleeveless T-shirt from nike. The Dri-fit fabric wicks sweat away from the body and keeps you fresh and comfortable through long work out sessions and the mesh panels on the sides allow for excellent ventilation. Team this with tracks and performance footwear for going to the gym or other sporting activities.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/084063bc2bcf71aa3426e20faf2e3109_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/26a632df9d7ae39b72556381bb92a3aa_images.jpg"
+    }
+}

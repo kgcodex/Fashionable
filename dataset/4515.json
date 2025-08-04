@@ -1,0 +1,17 @@
+{
+    "id": 4515,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Tarun White Silver Red Shoe",
+    "price": 4699,
+    "description": "Created with the latest DuoCell technology, the Tarun range of shoes from puma are designed for superior running performance. With sleek, stylish looks and a streamlined design, this shoe looks great when paired with casual wear too.UpperSynthetic upper for protection and durabilityPerforated panels on the upper for breathabilityTonal stitch details throughout for added styleMesh panels around the ankles for enhanced ventilation and dry, fresh comfort for the feetFormstripe on the sides for added structureLace-ups for snug FitCushioned collar and tongue for plush comfortLogo on the tongue to create a fashion statementMidsoleFull-length CMEVA midsole for cushioning and shock absorptionOutsoleDuoCELL technology in the heel for cushioning and shock absorptionOutsole with aggressive multi-directional grooves and circular lugs for better grip and stability when running",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/59259d2c2feef5503b33decafa9ecf8b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/78e13007873d88954ea0c746b72ee107_images.jpg"
+    }
+}

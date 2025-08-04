@@ -1,0 +1,17 @@
+{
+    "id": 10035,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men Runtone Action Brown Sports Shoes",
+    "price": 7999,
+    "description": "The reebok RunTone fitness shoe is engineered with strategically built-in balance pods that transfer air in response to your stride. A great hit with men and women alike this season, the reebok RunTone sneaker has a vast array of pods fitted in the outsole that helps you burn more calories easily. UpperMesh upper with synthetic overlays for enhanced breathabilityLace-ups for a snug FitCushioned collar, tongue and footbed for extra comfortMesh tongue for greater breathabilityBreathable mesh lining and a removable insert MidsoleEVA midsole for cushioned support and shock absorptionOutsoleBalance ball-inspired pods with Moving Air Technology that transfers air in response to your stride Forefoot flex-grooves provide flexibility through footstrike and toe-off Multi-surface rubber outsole for traction and durabilityWash careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/27add916fbd8603510acdc9ff7f48474_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b1774d68210e0754121d66e88b5f5a7a_images.jpg"
+    }
+}

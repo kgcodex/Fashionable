@@ -1,0 +1,17 @@
+{
+    "id": 47204,
+    "brandName": "Franco Leone",
+    "productDisplayName": "Franco Leone Men Brown Formal Shoes",
+    "price": 2195,
+    "description": "Brown slip-on with a leather upper, overlays and stitched detailing at the seams of the toe box Elasticated inserts on the sides of the tongueSoft sockliner for instep comfortPadded tongueOutsole adhered to the upperTextured TPU outsole with a stacked heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/40b785cdf28be896e882069a5c45b640_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/00dacb947612d2b3f64bbee0114ed422_images.jpg"
+    }
+}

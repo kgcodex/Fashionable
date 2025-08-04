@@ -1,0 +1,17 @@
+{
+    "id": 3313,
+    "brandName": "ADIDAS",
+    "productDisplayName": "Mumbai Indians Men Premium Jersey",
+    "price": 2999,
+    "description": "Blue cricket jersey has a polo neck ribbed collar, short zippered placket, short sleeves with printed branding on the left and right sleeves, Adidas branding on the right chest and Mumbai Indians logo on the left chest and blue and gold panelling on the sides, full mesh back with gold and blue panel work",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/04c19b0662dbd2857b7c0371c58594f6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e69043096d9635b85164ecc7bed43e98_images.jpg"
+    }
+}

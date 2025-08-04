@@ -1,0 +1,17 @@
+{
+    "id": 9213,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Speeder Black Casual Shoes",
+    "price": 2199,
+    "description": "A low profile jogging sneaker, the puma Speeder shoes live up to its name, offering great speed and traction with maximum comfort and grip on various terrain. Simple and style but great to look at, these shoes team well with jeans and tees for casual occasions too.UpperSynthetic leather upper with a back wrap around overlay for durability and supportLace-up system with a tongue loop for snug, customised FitMeshed and padded fabric tongue and collar for in-step, snug comfortMidsoleTPU midsole for lightweight comfort, impact protection and durabilityMildly padded footbed for all-day comfortOutsoleTPR outsole for durabilityProtruding nubs with Suction lugs in the forefoot and puma branding as lugs in midfoot for absolute cushioning and gripOutsole reinforced onto the upper as toe guard and heel guard for protection, greater traction and durability",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/042fff9c3821bba91ce0e36670373e32_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8c1c5592cb420a5ece0be935d8a7e896_images.jpg"
+    }
+}

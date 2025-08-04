@@ -1,0 +1,17 @@
+{
+    "id": 11212,
+    "brandName": "ESPRIT",
+    "productDisplayName": "ESPRIT Men Corso Silver Watch",
+    "price": 6495,
+    "description": "Case style: Stainless steel case with a fixed bezel for added durability, durable, scratch-resistant mineral crystal glassDial style: Silver dial with embossed numbers in silver, embossed lines marking 3, 6 and 9 o'clock markings, brand name below 12 hour marking, seconds chronograph above 6 o'clock marking and has a textured centreStrap style: Stainless steel strap with press clasp closureFeatures: Chronograph display for seconds, screw to reset timeWater resistance: Upto 50 meters that allows you to use it when swimming, but not for divingWarranty: 2 years",
+    "masterCategoryId": 190,
+    "masterCategoryType": "Free Items",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ESPRIT-Men-Corso-Silver-Steel-Watch_2cfb8acab4da0291d87c8034a65e7f98_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ESPRIT-Men-Corso-Silver-Steel-Watch_52e26b16462b45c990752cac7dd3d232_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 45586,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Black Formal Shoes",
+    "price": 3899,
+    "description": "Pointy toed black Derby formal shoes, low tops, central lace-ups Brand tab on the upper Textured, tough sole with a stacked heel Warranty: 3 monthsWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3bbc20ce968b63f538d2b984b1f975ad_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2c2fb36bfb619d4ff2ea7c9ec12cb2d2_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 38979,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Grey Check Shirt",
+    "price": 1799,
+    "description": "Grey and white checked half sleeved formal shirt with a full buttoned placket with a spread collar, has a patch pocket with a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2344fd38b47f6b94bfe58ebda1a3d2eb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/93ceccc689a8a140bdcb7f2e9532524e_images.jpg"
+    }
+}

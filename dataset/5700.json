@@ -1,0 +1,17 @@
+{
+    "id": 5700,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men's Casual Black Taupe Shoe",
+    "price": 2999,
+    "description": "Designed for the man of style, the skechers Seguae shoe is truely a striking creation. Perfect for those casual occasions, team it with jeans and semi-formal shirts to make that style statement of your own.Upper Smooth, full grain leather upper with contrast stitch detailing Canvas side stripe accents for midfoot support Leather overlays in the front, sides and heel for durability Perforations on the toe box and sides for breathability Contrast coloured leather stripes on the sides Brand logo accent on the tongue and heel cup Lace-up system for a snug Fit, with metal eyelets on the top for durability Top elastic panels for easy fit Padded tongue and sockliner with a fabric inner lining for snug fit Midsole Shock absorbing midsole for durability and impact protection Cushioned footbed for all-day comfort Outsole Durable rubber outsole with suction grooves along the forefoot and heel for maximum protection from impact Arched midfoot for ergonomic comfort Textured periphery for maximum traction Shoe careRub surface with clean, damp cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b6dbf4209324fe00c1726e13e50f7296_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0fa5a9e4c3c5a3e8860543e6fec73cb0_images.jpg"
+    }
+}

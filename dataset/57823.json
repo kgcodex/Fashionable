@@ -1,0 +1,17 @@
+{
+    "id": 57823,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Women White T-shirt",
+    "price": 899,
+    "description": "Knitted white T-shirt with a round neck, extended sleeve with raglan styling in front with placket on the left side, button with branding on the bottom left for style",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Women-White-T-shirt_96f5596a4876470856f396ed9e5cd4b1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Women-White-T-shirt_e9915fa2f8d9ff2f89df05599bfac94f_images.jpg"
+    }
+}

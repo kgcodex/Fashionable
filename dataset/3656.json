@@ -1,0 +1,17 @@
+{
+    "id": 3656,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men's Emotion Black Shoe",
+    "price": 2099,
+    "description": "Compositionblack shoes with synthetic and fibre upper, cushioned insole, fabric lining along heel counter, comfort sockliner and carbon and synthetic mix outsoleshoe care1. Rub surface with soft, clean, damp cloth to remove dust2. Do not machine washThe Emotion line of fila shoes is a tribute to all those who are passionate about their life. The synthetic and fibre upper ensures ample ventilation for the feet, while the fibre sole with strong rubber patches enhances grip and support even on rough terraine. With a fabric lining along the heel counter and comfort sockliner, the feet are well protected with a snug Fit, making this a great urban footwear.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cdf4cf210f8e5868a504005d997ffa81_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8cbfa5ce45e1d11f28d7b5885d33cc56_images.jpg"
+    }
+}

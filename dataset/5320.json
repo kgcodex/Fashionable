@@ -1,0 +1,17 @@
+{
+    "id": 5320,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men's Montello Grey Black Red Shoe",
+    "price": 1890,
+    "description": "fila Montello, a part of the FilaTiva collection, combines the traditional athletic running shoe style with fashionable designs. With its textured outsole and smooth silky upper, it looks best when paired with slim jeans.Upper Smooth finish synthetic upper with nubuck leather stitched overlays for extended durability Central lacing system with rimmed nubuck for snug ft Padded tongue and sockliner for in-step comfort Midsole EVA midsole for lightweight comfort and better shock absorption Removable footbed to accommodate an orthotic Outsole Textured rubber outsole in honeycomb pattern for greater grip Brand mark on the sole to enhance grip and style shoe careRub surface with clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3301e6fd28b7cb397ad31b55a129bc7d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/61341a735fdaab94f3b49226c35a3ec6_images.jpg"
+    }
+}

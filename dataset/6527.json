@@ -1,0 +1,17 @@
+{
+    "id": 6527,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Woven White Short",
+    "price": 1495,
+    "description": "CompositionWhite shorts made of Dri-Fit polyester with welt pockets in mesh, strips of black polyester running down the sides, soft elastane waistband with a concealed drawstring and heat transfer swoosh logoFittingSlimWash care Machine wash cold with like colours Use mild detergent Do not bleach Avoid soaking Remove immediately Do not allow to lay on itself when wet Line dry inside-out in shade Cool iron only Do not iron directly on print/embroidery Do not dry clean Make your training sessions all the more peaceful and comfortable in these shorts from nike. The soft and wide waistband sits perfectly on your waist without irritating your skin, while the drawstring lets you customise the fit. Engineered with Dri-fit technology, these shorts will keep you dry and fresh even after a gruelling session of yoga or gym, while theside mesh panels enhance ventilation. And when you are not at the gym, pair it with a light and bright tee and chill it out.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/de6fd6413555b4909e0721b0206fe32b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f0df8c75883c74247d15720c1ba9b74b_images.jpg"
+    }
+}

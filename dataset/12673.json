@@ -1,0 +1,17 @@
+{
+    "id": 12673,
+    "brandName": "Probase",
+    "productDisplayName": "Probase Men Solid Beige Cargos",
+    "price": 1599,
+    "description": "Wash care Machine wash/hand wash separately in mild detergent Do not bleach or wring Dry in shade Medium iron",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/982e743adc1f2adcf1c9e2da02c5aa8d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/93e9b27fe5c6e628a61d83841879be3d_images.jpg"
+    }
+}

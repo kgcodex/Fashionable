@@ -1,0 +1,17 @@
+{
+    "id": 16149,
+    "brandName": "Tokyo Talkies",
+    "productDisplayName": "Tokyo Talkies Women Printed White T-shirt",
+    "price": 311,
+    "description": "White T-shirt, has a round neck, short sleeves and grunge look graphic print on the front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/95d8d88c850ba483c0e24773ddb49a1e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6621b8779300fd4eea45c0e9acde65d9_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 8785,
+    "brandName": "Lotto",
+    "productDisplayName": "Lotto Women Cathy Pink Jacket",
+    "price": 1399,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6ed07c03b1252426e59698a2652a608b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e3bb8c8658c7fe2aafba4c7591a5ca19_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 6622,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Ridley White Silver Blue Shoe",
+    "price": 2999,
+    "description": "Make your runs easier and lighter with Ridley from adidas. With its extreme lightweight features, your tourney is guaranteed to be a fast and comfortable one.UpperMesh upper with synthetic overlays for lightweight durabilityMesh tongue and collar with lush padding for snug FitGilly lacing for comfortable customized fitThree rubber overlays across the sides of the upper for enhnaced structure to the shoe and signifying brand motto of performance, perseverance and achievementPerforations above the toe box area for breathabilityOutsole extended onto the toe box and embedded onto itMidsoleSoft, cushy footbed for all day step-in comfortFull length phylon midsole for lightweight feelOutsoleCarbon rubber outsole with circular lugs below the forefoot and ridges below the heel cupToe guard for longer shoe life and protection to the forefootMulti-directional textured outsole for superior grip and maximum tractionShoe careWipe surface with soft, clean, damp clothDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dc8a524df015ac18bc634d87bf31d0d4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/008d27a5cdea7f59af18d9e33ce01cee_images.jpg"
+    }
+}

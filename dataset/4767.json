@@ -1,0 +1,17 @@
+{
+    "id": 4767,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Peach Polo T-shirt",
+    "price": 1299,
+    "description": "Peach polo neck matted t-shirt, made of 100% polyester, has a ribbed collar with black hemline, and printed logo on left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0e121c131bd0850b59c6e67231d60ebf_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f907f93e4e3c280813cc0ed1be87762b_images.jpg"
+    }
+}

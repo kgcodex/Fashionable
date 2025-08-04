@@ -1,0 +1,17 @@
+{
+    "id": 57047,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women Black Dress",
+    "price": 3200,
+    "description": "Black sleeveless dress with a round neck, gathers at the front, yoke at the shoulder, double buttoned keyhole detailing at the back below the neckline, has lining",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Black-Dress_8fc88146e3c512058f2ceecbfd55ccf3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Black-Dress_c7ebc8181354bbec108bf82bed7b978e_images.jpg"
+    }
+}

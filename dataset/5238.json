@@ -1,0 +1,17 @@
+{
+    "id": 5238,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men's Lazor Brown Flip Flop",
+    "price": 999,
+    "description": "With a soft&nbsp; footbed and cool zipper straps, these Lazor slippers from reebok add an extra edge to your style with its sassy look.UpperWide fabric&nbsp; straps with zipper detailing for added styleTwill fabric toe separators for&nbsp; greater comfort MidsoleLightweight phylon midsole for cushioning comfortFoam footbed with fabric layer for soft feel and stylish lookOutsoleTPR outsole with herringbone pattern for good gripshoe careRub surface with clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1a6725c15ffe1a041449b832c4995878_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8329a3471e6b234af9930b2dfc7f6ffa_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 49543,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Rust Handbag",
+    "price": 1790,
+    "description": "Style NoteOne glance at this stylish handbag from rocia and you are sure to go weak in the knees! This rust coloured bag with its spacious interiors is enough to make it a bag worth taking its place on the",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/72525a187125c8f4be2fadc4af4f3180_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/65f701ce3ba61c920068be485c2f87dc_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 24417,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men KX TR Black Sports Shoes",
+    "price": 5299,
+    "description": "Tear up your all-terrain running in these men's adidas KX Trail shoes. They maximise your overland training with TRAXION&reg; , which provides grip without excessive pressure points on the foot. Upper Air mesh upper for maximum breathability Synthetic overlays for support and durability Asymmetric lace-up system with high-grip cord laces to provide a customised Fit Comfortable textile lining Anatomically engineered footbed which is removable to accommodate an orthotic Midsole Injected EVA midsole for long-term, lightweight cushioning adiPRENE&reg; under the heel for superior cushioning at impact Outsole adiWEAR&reg; outsole offers the ultimate in high-wear durability TRAXION&reg; outsole for maximum grip in all directions Mud release surface made up of lugs which act as cleats &amp;ndash gripping the ground without getting clogged with mud shoe care Wipe surface with a damp, clean cloth to remove dust and dirt Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1debb3153a923b284603b107d1d2972b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/93e805397020873afbcb9716cf715ae9_images.jpg"
+    }
+}

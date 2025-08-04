@@ -1,0 +1,17 @@
+{
+    "id": 9856,
+    "brandName": "Status Quo",
+    "productDisplayName": "Status Quo Men Red Polo Tshirts",
+    "price": 899,
+    "description": "Red polo tshirt.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6986b0521bfc77e713aff406301a5a70_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7256c2e931d5b8a85a8c34fe67f0fbff_images.jpg"
+    }
+}

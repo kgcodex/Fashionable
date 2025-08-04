@@ -1,0 +1,17 @@
+{
+    "id": 7544,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Classic Grey Capri",
+    "price": 1295,
+    "description": "CompositionGrey pedal pushers made of 92% cotton and 8% spandex, with a mildly elasticated broad waistband that has a drawstring below it, a broad ribbed and stretchable hem at the leg and nike Athletic Department logo embroidered near the right waistFittingComfortWash careMachine wash cold inside out with like coloursUse a mild detergentDo not bleachLine dryWarm ironDo not dry cleanStylish to the T, these grey cotton pedal pushers from nike are designed to keep you fresh and comfortable while you sweat it out at the gym or on the trail. The broad waistband sits snugly, and you can further customise the Fit using the drawstring. The broad ribbed leg hem fits around your calves perfectly, offering an absolutely comfortable fit. Team it with Nike Athletic Department tees and sports shoes for that smart, sporty look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/99f1057117c54e5941f0c0080536be20_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fd80e4567a87680798d007844dd6967e_images.jpg"
+    }
+}

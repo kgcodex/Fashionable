@@ -1,0 +1,17 @@
+{
+    "id": 50232,
+    "brandName": "Stoln",
+    "productDisplayName": "Stoln Women Black Sunglasses",
+    "price": 445,
+    "description": "Tinted lens which provide protection against harmful UV rays in normal daylightPlastic frame in a aerodynamic design Rounded square lens for absolute style and protection from elementsFlexible hinges for durability with a metallic design on the corners of the frameFixed nose holder which is part of the frame to hold the glasses in place, ensuring there is no friction with the skin",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a5bb659c49030f4bebcf47d077475cf7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9b16c729890b3851bf92a415a129f349_images.jpg"
+    }
+}

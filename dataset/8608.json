@@ -1,0 +1,17 @@
+{
+    "id": 8608,
+    "brandName": "SCULLERS",
+    "productDisplayName": "Scullers Men Navy Blue Polo T-Shirts",
+    "price": 1499,
+    "description": "Navy blue t-shirt with thin light blue stripes, made of 100% cotton with a ribbed collar, short sleeves with ribbed hems, buttoned chest placket, embroidered brand logo on left chest and ribbed hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/83cf923166ee47d156e071a6daffccb9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3eac3e7a8a0edf1de72cea3f813e6c0a_images.jpg"
+    }
+}

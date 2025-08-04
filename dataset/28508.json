@@ -1,0 +1,17 @@
+{
+    "id": 28508,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Training White T-shirt",
+    "price": 1295,
+    "description": "CompositionWhite T-shirt for men with a V-neck, made of 100% polyester, has short sleeves with black mesh cuffs, black meshed panels on the sides, mesh panel on the back above the hem and nike swoosh appliqu&eacute;d on the right chestFitRegularWash careMachine wash separately in cold water using a mild detergentDo not bleachTumble dry lowCool iron; do not iron on decorationsDesigned for training needs, this nike T-shirt is made of polyester fabric with Dri-Fit technology to offer absolute sweat-free, fresh comfort. Such properties make it ideal not just for training, but playing any sport even on a hot day. Team this with performance shorts and sports shoes, or tracks and floaters for unparalleled cool.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/34a2630cc558e455c0a648e175ae445b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ee13a68d2be7967397e8d807d12c6a46_images.jpg"
+    }
+}

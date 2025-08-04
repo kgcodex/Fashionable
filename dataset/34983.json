@@ -1,0 +1,17 @@
+{
+    "id": 34983,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia H& Printed Black Cotton Sari",
+    "price": 1130,
+    "description": "Black mull boja hand printed sari with contrast black details",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Printed-Red-Cotton-Sari_71a9a71eef0b6f08e8f7f44338d1615a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Printed-Red-Cotton-Sari_a664e5257bb01a0500254cbcae14be57_images.jpg"
+    }
+}

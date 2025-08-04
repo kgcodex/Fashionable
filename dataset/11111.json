@@ -1,0 +1,17 @@
+{
+    "id": 11111,
+    "brandName": "Indigo Nation",
+    "productDisplayName": "Indigo Nation Men Check White Shirts",
+    "price": 1249,
+    "description": "Wash care Wash dark colours separately Hand wash or machine wash cold Use mild detergent Do not wring Flat dry in shade Do not bleach Do not iron on print",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c41f64fe42202367abae8212a8d567dd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f27293428819dd27d7d96c4ca9e86a48_images.jpg"
+    }
+}

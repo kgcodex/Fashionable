@@ -1,0 +1,17 @@
+{
+    "id": 15710,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Drifter Cat II White Flip Flops",
+    "price": 999,
+    "description": "Walk through your everyday casual hours in perfect comfort in this pair of slippers from puma. With an ergonomically curved and padded footbed, and a grippy outsole, stay safe and comfortable on all kinds of smooth surfaces.UpperWide synthetic leather straps with a toe separator and inner lining in twill tapeErgonomically padded footbed for all day comfortpuma branding on the forefoot and heelOutsoleTPR outsole with diagonal grooves for absolute grip and tractionCareWipe surface with a clean, damp clothDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7127d8615c93e5a003cd984665807ba2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ae2a007606f04667d7fc0a1f3df007f6_images.jpg"
+    }
+}

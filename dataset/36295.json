@@ -1,0 +1,17 @@
+{
+    "id": 36295,
+    "brandName": "Inc 5",
+    "productDisplayName": "Inc 5 Women Pink & Tan Sandals",
+    "price": 1390,
+    "description": "Pink slip on sandals Thong style upper with flat plastic bead embellishment, synthetic toe separator Soft footbed Tough footbed with a textured, upraised heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Inc-5-Women-Pink---Tan-Sandals_0cde42e50838e99c81827ccf4da4a409_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Inc-5-Women-Pink---Tan-Sandals_c74726d46dc189820a4218e6e6741f7a_images.jpg"
+    }
+}

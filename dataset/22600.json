@@ -1,0 +1,17 @@
+{
+    "id": 22600,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men White T-shirt",
+    "price": 1895,
+    "description": "CompositionWhite nike Pro Combat t-shirt made of 100% polyester, is engineered with Dri-Fit technology, has a round neck, long sleeves and printed nike swoosh on the left chestFitRegularWash careMachine wash cold with like coloursDo not dry clean or bleachTumble dry lowWarm ironCrafted from soft cotton-polyester fabric and engineered with Dri-Fit technology, this t-shirt from Nike offers exemplary dry comfort, making it a great everyday choice for your healthy runs and casual days. Team this tee with jeans and running shoes for a sporty look. Add on a hooded sweatshirt for exemplary comfort during winters.Model statisticsThe product is a size M on a model of height 6' and shoulders 18\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/580ebc51f8967a44b5e24fb5a0aa5ed5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/798408e851f6bb1c82ae03531638cd81_images.jpg"
+    }
+}

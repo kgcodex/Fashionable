@@ -1,0 +1,17 @@
+{
+    "id": 58815,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Women Black Casual Shoes",
+    "price": 2599,
+    "description": "Mesh upper with overlays and straps at the midfoot Smooth footbed with perforations Thick rubber outsole, arched at the midfoot and has powerful lugs",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Skechers-Women-Black-Casual-Shoes_741df4c24b5655aa4c1fe5e4c05e09c5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Skechers-Women-Black-Casual-Shoes_e2cc9d386d9375cb1a4a2939d0f5f241_images.jpg"
+    }
+}

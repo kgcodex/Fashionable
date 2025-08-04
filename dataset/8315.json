@@ -1,0 +1,17 @@
+{
+    "id": 8315,
+    "brandName": "Wildcraft",
+    "productDisplayName": "Wildcraft Men Organic Cotton Blue T-shirt",
+    "price": 595,
+    "description": "Blue round neck T-shirt, has short sleeves, print on the frontPlease note that the thread colour in the brand logo may vary from the image shown",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4f83315570c3f53a1747abd2ec78cb6b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/917c25651f706c8df2db0e2e9d2822bc_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 7635,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Black Track Pant",
+    "price": 1299,
+    "description": "Black solid track pants, has an elasticated waistband, two insert pockets",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d4301189b2c0a8ada47aec7a416dd892_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e4113ec4ff7e5d49a13004cb2aea66ac_images.jpg"
+    }
+}

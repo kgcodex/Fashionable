@@ -1,0 +1,17 @@
+{
+    "id": 12253,
+    "brandName": "Genesis",
+    "productDisplayName": "Genesis Pink Striped Formal Shirt",
+    "price": 999,
+    "description": "Pink striped formal shirt, has a spread collar, full button placket on the front, long sleeves, a patch pocket, curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1755b34c4e6502dafcd8c3cf8ca6b0a6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5ebf51d1cd1f7590806b027f164b5fdd_images.jpg"
+    }
+}

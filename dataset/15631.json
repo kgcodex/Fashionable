@@ -1,0 +1,17 @@
+{
+    "id": 15631,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Navy Cricket Track Pants",
+    "price": 1695,
+    "description": "A pair of navy blue knitted track pants engineered with Dri-Fit and Stay Cool technologies that keep you dry, sweat-free and cool, has an elasticated waistband with drawstrings on the front, an insert pocket with a trim on either side of the waist on the front, branding on the left thigh, printed detail on the back below the waistband, stitched detail throughoutWarranty: 6 months against manufacturing defects (not valid on products with more than 20% discount)",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Navy-Cricket-Track-Pants_d97e5e84387fd3f2d432733471e47b78_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Navy-Cricket-Track-Pants_bcaf492ac7b2ec8bda3cef46003f67cc_images.jpg"
+    }
+}

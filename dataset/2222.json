@@ -1,0 +1,17 @@
+{
+    "id": 2222,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Black Sandal",
+    "price": 1199,
+    "description": "Composition:Black floaters with synthetic upper and mesh with foam padded lining, phylon cushioned footbed, forefoot, midfoot and back strap for snug fitting Action:Sheek and stylish, these black floaters from puma make them an ideal casual footwear. Their durable rubber outsole and water resistant characteristic give that added edge to footwear comfort.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9dcd53a4cded6b9fb054c1e85d59c1f0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a473476b610bee3708409420f788f610_images.jpg"
+    }
+}

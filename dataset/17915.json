@@ -1,0 +1,17 @@
+{
+    "id": 17915,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Purple Polo Tshirt",
+    "price": 1595,
+    "description": "Purple polo T-shirt made of 100% cotton, has a ribbed collar, short sleeves with ribbed cuffs, buttoned chest placket, embroidered brand logo on the left chest and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6e405bd86dbfc3779f2bb5a0dc28d296_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c2d31885bf06d2aa57d6a27d6c20a0b2_images.jpg"
+    }
+}

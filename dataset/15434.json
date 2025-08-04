@@ -1,0 +1,17 @@
+{
+    "id": 15434,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Unisex Black Backpack",
+    "price": 1375,
+    "description": "Spacious, trendy and useful - these three elements combine perfectly to create this backpack from fila. Made of superior polyester and unmatched standard of stitching, this bag is sure to last you long and take you places.MeasurementHeight: 32 cmWidth:&nbsp; 47 cmMade of 100% polyester for enhanced durability and waterproofingRoomy inner compartment with a zippered chamber in the frontNylon bonded thread for long lifeHaul loop for handling easePadded, adjustable shoulder straps that distribute weight evenly and protect the shoulders and back from injuriesCareDo not machine washRub surface with dry clean cloth to remove dust and dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fila-Unisex-Black-Backpack9912b667f58358eac9f98749b2ef17fe_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fila-Unisex-Black-Backpack7bfe0fb0069343bc69c5159d2b01d5a2_images.jpg"
+    }
+}

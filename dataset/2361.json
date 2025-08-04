@@ -1,0 +1,16 @@
+{
+    "id": 2361,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Black Men Cap",
+    "price": 699,
+    "description": "CompositionThis black cap has canvas. Made for liverpool fanWash CareHandwash/Machine washFittingRegularThis black adidas cap is a basic cap with a logo and three stripes in front. The red detailing on the shade of this black adidas cap gives one that edge of fashion.",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/18dde6a186275d2b6f50d7b78d7979f7_images.jpg"
+    }
+}

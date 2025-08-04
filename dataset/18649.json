@@ -1,0 +1,17 @@
+{
+    "id": 18649,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men Ocassion Grey Slippers",
+    "price": 499,
+    "description": "fila specialises in high-quality footwear. This pair of flip flops from fila showcases the brand's versatility, the styling of the pair pays tribute to the Op Art trend. Pair these with denims rolled at the cuffs and a casual shirt or a polo collar tee. Upper Velveteen thong straps with stitch detailing Straps with fabric lining for a snug Fit Fabric toe separator for comfort Branding on the strap and footbed Outsole Soft, cushioned footbed in rubber Rubber outsole for good grip Herringbone patterned grooves with branding for enhanced grip shoe care Rub surface with clean, damp cloth to remove dust Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d1024c6dbbf01cfa761c6fc3f2f34300_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f86b1dcbdb30783aafa76b29c497c2dc_images.jpg"
+    }
+}

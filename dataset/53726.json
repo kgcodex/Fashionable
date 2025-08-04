@@ -1,0 +1,17 @@
+{
+    "id": 53726,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Black Flip Flops",
+    "price": 399,
+    "description": "Black and orange flip flops with a orange thong style upper and polka dot on the footbed Soft and textured footbed Rubber outsole with grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Women-Black-Flip-Flops_7aadbcacbacd72d637d270f353ae258d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Women-Black-Flip-Flops_fa2ac25f9ce0cdf7ab4a5a113bd3b5df_images.jpg"
+    }
+}

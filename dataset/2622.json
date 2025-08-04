@@ -1,0 +1,17 @@
+{
+    "id": 2622,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Mens Bleed Blue Team India T-shirt",
+    "price": 795,
+    "description": "Composition:White knit t-shirt Wash care:Machine wash separately in cold water. Use mild detergent. Do not bleach. Avoid soaking. Remove promptly. Line dry inside out in shade. Warm iron only. Do not iron directly on print/embroidery.Fitting: Comfort FitThis white nike t-shirt is all about fun and is sure to create double takes. The graphic by Gautam Gajbar titled \"Belief is stronger than hope\" rings true on this tee. What first looks like a staple Indian nazar battoo is actually a collection of bats and the globe - the spirit of playing for joy. What better way to show our fun cricket spirit to the world. Team it up with smart casuals and wear it to all sporting arenas and casual outings.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1dcdfd28cf7c8f6f7ccde233cf2f98a5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/94fb47893e57c47240ee629a60a59eef_images.jpg"
+    }
+}

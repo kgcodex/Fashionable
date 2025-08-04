@@ -1,0 +1,17 @@
+{
+    "id": 22615,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Grey T-shirt",
+    "price": 2095,
+    "description": "CompositionGrey round neck t-shirt made of 100% polyester, engineered with Dri-Fit technology, has short raglan sleeves, panel on the sides and shoulder and printed branding on the left chestFitRegularWash careMachine wash cold with like coloursDo not dry clean or bleachTumble dry lowWarm ironCrafted from soft fabric, this t-shirt from nike offers exemplary dry comfort, making it a great everyday choice for your healthy runs and casual days. Team this tee with jeans and running shoes for a sporty look. Add on a hooded sweatshirt for exemplary comfort during winters.Model statisticsThe product is a size M on a model of height 6' and shoulders 18\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d627d1427d449acdbe429e6eff6b5895_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0cefd4724a4b57dff5dab24840a04892_images.jpg"
+    }
+}

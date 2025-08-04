@@ -1,0 +1,17 @@
+{
+    "id": 24700,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Yugorun Black Casual Shoes",
+    "price": 3499,
+    "description": "The classic heritage look of puma is applied in modern lightweight tooling to offer an uber cool sporty-chic look in the form of these Yugorun shoes. The nylon and suede uppers offer maximum protection and support, while the textured rubber outsoles provide greater grip and stability.UpperCombination nylon and suede upper for durability and comfortPadded collar and tongue for snug comfortSuede form-stripe and nylon logoContrast lace ups for a snug and customised FitMidsoleIDcell midsole that provide added cushioning and reduces weightOutsoleEverTrack rubber outsole compound with high abrasion-wear characteristics for durability",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/58b37204bdb887d0c92e4956c0405950_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8bd8833308a4b81bf047987094909adc_images.jpg"
+    }
+}

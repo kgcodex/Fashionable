@@ -1,0 +1,17 @@
+{
+    "id": 59981,
+    "brandName": "Avirate",
+    "productDisplayName": "Avirate  Black & Purple Women Dress",
+    "price": 3100,
+    "description": "Abstract printed woven dress with black, purple, brown and white, asymmetric, empire line, sleeveless, pleats at chest and at left side, slit at back concealed zipper at side and half lining",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Party",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-Black---Purple-Women-Dress_3964fc75010b4440044a7ff64717c414_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-Black---Purple-Women-Dress_63cfe0fff389a8a3d97a9ab5235379f7_images.jpg"
+    }
+}

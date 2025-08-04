@@ -1,0 +1,17 @@
+{
+    "id": 42034,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Egoli FG Blue Sports Shoes",
+    "price": 2295,
+    "description": "Style NotePerfect for any soccer player, the nike Egoli Firm Ground cleat is designed to be light weight to allow great speed while the engineered studs on the outsole deliver excellent traction for ball control. The Nike Egoli FG has a sleek, predatory look that will make sure you turn heads when you're on the pitch! Product DetailsTrophy synthetic, knit laces across the centre, invert foldable tongue for funky look, stitch detailing across the toe box and high density recycled material sockliner Padded collarEVA injected and full phylon midsole with TPU shank for stabilityCarbon rubber outsole with TPU cleats for optimum use on firm ground Material and CareSyntheticWipe surface with a dry, clean cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/70810ffb31e9828d1c450b804216dd5b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/383f8749e4bb4829f78f275aa9a02eb7_images.jpg"
+    }
+}

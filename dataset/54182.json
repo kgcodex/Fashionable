@@ -1,0 +1,17 @@
+{
+    "id": 54182,
+    "brandName": "KIARA",
+    "productDisplayName": "Kiara Women Green Handbag",
+    "price": 1250,
+    "description": "Green leather bag with two small handles woven into metallic loops A flap with a twist clasp over the mouth One large zipped compartment divided into two by an inner zipped pocket in-between, a zipped pocket on one side and an organiser sleeve on the other One zipped pocket at the back Press buttoned closures on the sides to give a compact look",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Kiara-Women-Green-Handbag_120b173bbe5d9edbb6df145c462703fa_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Kiara-Women-Green-Handbag_616e68e58d2fd9dab06ad69bad2fad33_images.jpg"
+    }
+}

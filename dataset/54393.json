@@ -1,0 +1,17 @@
+{
+    "id": 54393,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Navy Blue Handbag",
+    "price": 1725,
+    "description": "Navy blue handbag with velvet finish and bead detailing on the front Two short handles for carrying ease and style Has one main zippered compartment and an interior zip pocketOne zippered compartment on the back with a mobile slot Stitch detailing on the edges",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Grand-Tower-Blue-Handbag_b6f03bd42259fbd965045817d04e2479_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Grand-Tower-Blue-Handbag_13ead40bc9aad6994211536bebdaae63_images.jpg"
+    }
+}

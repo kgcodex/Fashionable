@@ -1,0 +1,17 @@
+{
+    "id": 12904,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Future Cat M1 Engine Red Sports Shoes",
+    "price": 4999,
+    "description": "Designed to be worn outside the racetrack, the Future cat M1 Engine II sneakers from puma's ferrari range embody all the excitement and energy of the race. The Scudera Ferrari pair comes with the iconic badge and great motor sport styling. The outsoles with horizontal grips make these shoes ultra comfortable and durable while providing excellent grip, making it a perfect urban wear.UpperFeatures a low-profile design made for the avid motor-Sports enthusiast Premium synthetic leather upper for longer wear Bold, contrasting formstripe logo outlining Asymmetrical lacing system alleviates pressure points Textile lining with cushioned footbed for enhanced comfort Rubber outsole embedded onto the heel counter for shock absorptionMidsoleCushioned midsole for comfort and stability Scuderia Ferrari logo shieldOutsoleDurable rubber outsole in waffle and herringbone pattern and has strategically placed grooves for enhanced grip and traction",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/774aa11aabb780beb320b38dc3cd5b9d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/735b51e0b11b173edd140bd6225fcc49_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 12897,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Game Point White Casual Shoes",
+    "price": 2999,
+    "description": "You can never lose a game if you are playing with these puma Game Point sneakers. With style and comfort rolled into one, this is one fab shoe you can depend on.UpperSynthetic leather upper with perforations in puma Formstripe style on the sides for absolute durability, breathability and comfortMeshed and cushioned tongue for enhanced breathabilityLace-up system for a snug, customised FitCushioned and meshed tongue and collar for breathable comfortPadded and moulded sockliner for superior cushioning and supportMidsolePhylon midsole for lightweight comfort and impact protectionOutsoleDurable rubber outsole with diamond shaped grooves for enhanced grip and traction",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f73431edbadac3b46ea69d32d74992a0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a5a3bb2c8ff5835948152dbd66a62f99_images.jpg"
+    }
+}

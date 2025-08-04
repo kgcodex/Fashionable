@@ -1,0 +1,17 @@
+{
+    "id": 48218,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Women Black Sunglasses",
+    "price": 3450,
+    "description": "Lens colour: Black and grey shadedFrame colour: Black and grey shadedFrame type: Plastic full frame lens, wide coverageFixed nose holdersThe glasses come in a caseBranding at the sides",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Women-Black-Sunglass_db91a54ec339b4ec6e7ba2972fa1c940_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Women-Black-Sunglass_ddda409177126613df72da7dbb7506a6_images.jpg"
+    }
+}

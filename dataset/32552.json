@@ -1,0 +1,17 @@
+{
+    "id": 32552,
+    "brandName": "Playboy",
+    "productDisplayName": "Playboy Men Black Shoes",
+    "price": 2795,
+    "description": "Designed for cool and casual thinkers, this shoe from playboy oozes confidence, style and comfort. Slip into these shoes and seize the day with much ease, while the stylish design enhances your fashion statement. Upper Leather upper with overlays and leather inner for enhanced breathability Patent leather overlays on the side panels and two straps over the midfoot with velcro closures for a snug and customised Fit Padded tongue and collar for all-day comfort Midsole Mildly padded leather footbed for all-day comfort Outsole TPU outsole with upraised lugs and branding on the fore-foot and heel for durability, grip and traction Outsole stuck onto the upper Shoe care Wipe surface with a dry, clean cloth to remove dust and dirt Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a8116882813b048f422561bb880881c2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/775ff3cf285b424bd9fc228b4d4ca177_images.jpg"
+    }
+}

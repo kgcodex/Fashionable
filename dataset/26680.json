@@ -1,0 +1,17 @@
+{
+    "id": 26680,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Cross Black Flats",
+    "price": 999,
+    "description": "Synthetic leather criss cross straps with a toe separator for durability and comfortSmooth and glossy foot-bed for absolute comfortTPU outsole with branding engraved for greater gripSlight heel for style",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/57f41b0e5542c61e3220e39554531467_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1b9aa42ea4b579e35a4e01ce9730f188_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 18950,
+    "brandName": "Levis",
+    "productDisplayName": "Levis Women White Set of 3 Trainer Socks",
+    "price": 349,
+    "description": "Set of three Levi's socksWhite ankle length trainer socks with a spandex in welt for better grip, branding at the welt, arch support for better grip and fit and a breathable mesh sole",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Levis-Men-Socks_e59728663381f5cd06618e2d6a610333_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Levis-Men-Socks_aa2dcc1528efb9e997ebbe19df38f552_images.jpg"
+    }
+}

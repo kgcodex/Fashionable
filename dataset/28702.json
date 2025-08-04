@@ -1,0 +1,17 @@
+{
+    "id": 28702,
+    "brandName": "W",
+    "productDisplayName": "W Women Printed Grey Kurta",
+    "price": 1099,
+    "description": "Grey sleeveless kurta with purple and green floral print, made of 100% cotton, has a V-neck and slit side seams",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b27c22d3d14b298adeac6a6333ac7afa_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0cf5717b3646362e60e96c7acd9bbbb0_images.jpg"
+    }
+}

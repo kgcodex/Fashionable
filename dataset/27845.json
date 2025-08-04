@@ -1,0 +1,17 @@
+{
+    "id": 27845,
+    "brandName": "SCULLERS FOR HER",
+    "productDisplayName": "Scullers For Her Black Blazer",
+    "price": 3399,
+    "description": "Black jacket, long sleeves, notched lapel, two button front, two front flap pockets, fully lined",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Scullers-For-Her-Black-Blazer_f00e082af3bacd8dae247bb40e85b756_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Scullers-For-Her-Black-Blazer_c5b3bf64399506fd5ee0c8acc2fefe2f_images.jpg"
+    }
+}

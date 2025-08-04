@@ -1,0 +1,17 @@
+{
+    "id": 28656,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Quick Handle White Shoes",
+    "price": 4295,
+    "description": "Dominate the game with this nike Air Quick Handle shoes that are designed for optimal performances on all terrains. These shoes are sure to intimidate any opponent with their custom Fit and air capsule cushioning!UpperSynthetic leather upper with mesh and overlaysPerforations in the forefoot area and toward the heelnike swoosh overlay the midfoot regionLacing system with a padded and mesh fabric tongue and collar for optimal comfort and custom fitPadded sockliner for all-day comfortMidsolePhylon midsole for superior lightweight comfort and shock absorptionFull length air unit for impact protectionOutsoleSolid rubber outsole with herringbone grooves for enhanced traction and gripshoe careWipe surface with soft, clean, damp cloth to remove dirtDo not store under direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d47fe51807d7db3991ffd64b84ba014f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/548a2d73e1e4651fd1d7daec9962be4d_images.jpg"
+    }
+}

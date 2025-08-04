@@ -1,0 +1,17 @@
+{
+    "id": 58685,
+    "brandName": "Alayna",
+    "productDisplayName": "ALayna Women Black Kurta",
+    "price": 699,
+    "description": "Black printed woven kurta, has a mandarin collar with a V-neckline, is sleeveless, embroidery, paneling and dobby weave on the front and side slits",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ALayna-Women-Black-Kurta_91cadffff4a802e83a31ca53b0e6ea74_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ALayna-Women-Black-Kurta_9d5c6e5116173d939da48507fa31cc21_images.jpg"
+    }
+}

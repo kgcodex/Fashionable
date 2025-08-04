@@ -1,0 +1,17 @@
+{
+    "id": 21450,
+    "brandName": "roxy",
+    "productDisplayName": "Roxy Women Wild at Heart Grey Top",
+    "price": 1995,
+    "description": "Grey top with round neck, print in front with sequin detailing, sleeveless and a straight hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/roxy-Women-WILD-AT-HEART-GREEN-BACKBEAT-Grey-Tshirts_9776cd0828b8d4ab7108d2bdc87496e1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/roxy-Women-WILD-AT-HEART-GREEN-BACKBEAT-Grey-Tshirts_1b8b16e5b589f2e1ecaa76ba18d2c400_images.jpg"
+    }
+}

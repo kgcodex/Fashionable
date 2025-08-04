@@ -1,0 +1,17 @@
+{
+    "id": 7482,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women's Miler White Blue T-shirt",
+    "price": 1095,
+    "description": "CompositionWhite and baby blue round neck t-shirt made of 100% recycled polyester and has mesh made of 100% polyester, with short sleeves, engineered with Dry-Fit technology and strategically placed ports to hold earphone cords, coupled with range badge on left sleeve and nike swoosh in silver on left chestFittingComfortWash care Dry clean or machine wash warm at 40 degrees with like colours Do not bleach Tumble dry low Warm iron, but do not iron on design Designed for that absolute running experience, this nike t-shirt from the Miler collection is replete with Dri-Fit comfort to make your sporting experience all the more comfortable and fun. The Dri-Fit technology wicks away sweat, allowing you to run the fast lane, while the strategically placed ports enable a hassle-free management of earphone cords. Team this with performance shorts and running shoes for that complete running comfort.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9e6394bcc2fdd0af476ae8c929ee6c11_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5e6213e9cafef082e705ee03d3838ec6_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 40749,
+    "brandName": "roxy",
+    "productDisplayName": "Roxy Women Blue Flip Flops",
+    "price": 1195,
+    "description": "Blue flip flops, has thong style strapsCushioned blue footbed with textured patterns and branding on itRubber outsole with patterned grooves all over",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Roxy-Women-Blue-Flip-Flops_07be0589805c587ccb31481ee6af0df4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Roxy-Women-Blue-Flip-Flops_9fcb3068b9cdf69a666e9a21d445ede9_images.jpg"
+    }
+}

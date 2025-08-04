@@ -1,0 +1,17 @@
+{
+    "id": 8004,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men's Round Neck Black Grey T-shirt",
+    "price": 699,
+    "description": "CompositionBlack round neck t-shirt made of 60% cotton and 40% polyester, with short sleeves, a ribbed neck, high density brand on the front in rubber print and a brand badge on the left hemFitRegularWash careMachine wash coldWarm ironDo not tumble dryDo not bleachWash dark colours separatelyDry in shadeDo not iron on printStylish to the hilt, this t-shirt from fila is designed for the youth icon in you. Made of a cotton and polyester blend fabric, it is designed to keep you fresh and comfortable all day, while the graphic print across the chest enhances your style quotient. Team this tee with jeans and sports shoes for that cool look.Model statisticsThe model wears size M in t-shirtsHeight-6', Shoulders-18\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6830b696e364ba0538768844166fd120_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d778db076b6d4d09c0eaa1e1ddcc1ea5_images.jpg"
+    }
+}

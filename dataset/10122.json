@@ -1,0 +1,17 @@
+{
+    "id": 10122,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men Run Sheer White Sports Shoes",
+    "price": 3599,
+    "description": "The reebok Run Sheer is a versatile running shoe that features ample ventilation and offers lightweight comfort, keeping your feet fresh and comfortable all day. Added to this is the DMX Shear system that minimizes stress on impact, making it an all the more comfortable, smooth and flexible ride. Wear them when you want to run or jog or use them as casual wear. Upper Breathable mesh upper for ample ventilation and reduced irritation Synthetic overlays for added shoe structure, durability and style Lace-up system with synthetic laces for a snug, customized Fit Lushly padded tongue and well-cushioned collar for in-step comfort Mesh tongue for maximum ventilation Brand logo appliqued on both sides Brand name on embossed on the tongue and printed behind collar Midsole Injection Moulded EVA midsole for lightweight responsive cushioning and shock absorption Cushioned footbed for all-day comfort Mesh lining for increased ventilation and comfort Outsole TPR outsole for better shock absorption and durability DMX Shear vertical panels for greater comfort DMX Shear vertical and horizontal heel cushioning to minimize stress on impact Scooped heel for extra cushioning and comfort Shoe care Do not machine wash Remove dust and dirt with damp clean cloth Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b746bc63cd6b4580d7be977bb1a012e2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/092794c1557e53bd8286bcdcd56567f8_images.jpg"
+    }
+}

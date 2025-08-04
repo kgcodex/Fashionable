@@ -1,0 +1,17 @@
+{
+    "id": 6614,
+    "brandName": "SPYKAR",
+    "productDisplayName": "Spykar Men's Beige Polo T-shirt",
+    "price": 999,
+    "description": "Red, blue and beige striped polo t-shirt in 100% cotton, with buttoned placket, brand name appliqued on left chest, inner rib around the collar, stitch detailing across the shoulders",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a7178862354fcb5a4ca239d3481a7806_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/aace57892b7976f86f9e5b7895da48be_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 44985,
+    "brandName": "maxima",
+    "productDisplayName": "Maxima Women Black Dial Watch",
+    "price": 1325,
+    "description": "Style Note",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d3bf5aca9115ebdd4c78704d6d5d05cd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c71e43bf32c5395283fc5e001b27b743_images.jpg"
+    }
+}

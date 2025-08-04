@@ -1,0 +1,17 @@
+{
+    "id": 30661,
+    "brandName": "Park Avenue",
+    "productDisplayName": "Park Avenue Men Black Sunglasses",
+    "price": 2750,
+    "description": "park avenue provides the stylish man-about-town with all the essentials he needs to look his best. Wear these park avenue sunglasses to look stylish while out and about in the sunshine.The glasses come in a leather-look case with branding on the front and a zip fastening, cloth included to clean the lenses.Lens width: 60 mmLens colour: BlackFrame colour: Black and greyUV protectionStylish shaped metal frameTextured rubber arm socks provide a comfortable FitFlexible hinges for fitRubber pads to hold the glasses in place, ensuring there is no friction with the skinCarePolish with cloth to remove dustDo not put your sunglasses face down on a table or on heated areas like the dashboard of a carKeep in the original case in a dry place at a temperature between -10&deg; C and +35&deg; C",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1c660dc7806e4c3094d39071204d0f69_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/218d7f7bd30e977a5f867158b65fea7b_images.jpg"
+    }
+}

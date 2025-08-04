@@ -1,0 +1,17 @@
+{
+    "id": 39174,
+    "brandName": "Aneri",
+    "productDisplayName": "Aneri Women Blue Printed Kurta",
+    "price": 1799,
+    "description": "Blue printed kurta, has a mandarin collar and a V-neckline, embellishments around the neckline, short sleeves and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a6945881d34cb7046afe46bd3c6ebf7a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9ded3ecdceb72273d14a11670a5ff97c_images.jpg"
+    }
+}

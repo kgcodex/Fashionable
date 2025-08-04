@@ -1,0 +1,17 @@
+{
+    "id": 4686,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Multi Black Unisex Backpack",
+    "price": 1999,
+    "description": "Product SpecificationMade of 100% polyester for enhanced durability and waterproofingRoomy inner compartment to hold laptopFront pocket to hold all essentialsMesh side pockets to hold bottles and other essentialsSeparate bottom zippered compartment to hold footwear or soiled clothesNylon bonded thread for long lifeHaul loop for handling easePadded, adjustable shoulder straps that distribute weight evenly and protect the shoulders and back from injuriesErgonomic design to Fit along the torso comfortablyWash careDo not machine washRub surface with dry clean cloth to remove dust and dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/33b77478718854dc9b4a21e31873e847_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/70a4c03a760fd8e5dd69098f94cebc89_images.jpg"
+    }
+}

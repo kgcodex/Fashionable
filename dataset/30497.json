@@ -1,0 +1,16 @@
+{
+    "id": 30497,
+    "brandName": "Lovable",
+    "productDisplayName": "Lovable Women Fiona Rose Pink Bra",
+    "price": 850,
+    "description": "Pink, micro-padded bra, has removable, transparent straps, small embellishment at the centre, single row of adjustable hook closures at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4f97ed5aacfc638d219564414ccf89b0_images.jpg"
+    }
+}

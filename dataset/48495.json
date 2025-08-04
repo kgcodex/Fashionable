@@ -1,0 +1,17 @@
+{
+    "id": 48495,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Women Olive Trousers",
+    "price": 3999,
+    "description": "Keara linen combat trousers with button and zipped closure, belt loops around the waist, two insert pockets in the front on the sides, two patch pockets in the back, two cargo pockets on the side of the knees",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-Olive-Trousers_d80ad182522a96cd72119462cc189eb5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-Olive-Trousers_052deb392a72c20585b6679612372fd4_images.jpg"
+    }
+}

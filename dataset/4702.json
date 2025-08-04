@@ -1,0 +1,17 @@
+{
+    "id": 4702,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex Toronto 3-Hand Black Watch",
+    "price": 3495,
+    "description": "Product descriptionStyled for a rugged look, the adidas Toronto 3-Hand is is the first matte-finished analog wrist watch of the adidas originals series. Featuring a classic design, it makes for a great everyday wear.Case diameter: 50 mmCase thickness: 13 mmDial shape: Square with rounded edgesBlack plastic case with a black polyurethane bracelet for enhanced style, durability and comfortFixed black plastic bezel for added durabilityBlack dial with black hands and index hour markersMinute markers around the outer rim and numbers marked on the dialadidas logo in polished silver colour near 3 o'clock positionDate display at the 3 o'clock positionChronograph displays of 60 seconds, 30 minutes and 1/10th of a secondQuartz movement of time display using a paper-thin piece of synthetic quartz to ensure accurate time measurement Scratch resistant mineral crystal to keep your watch safe and well protected for years to comeTextured steel crown for added lookStainless steel case back for longer watch lifeTang clasp to keep the watch firm in place as a belt buckle10 ATM water resistance tested using the equivalent static depth rating, with resistance&nbsp; at 50 meters or 165 feet, allowing you to use it even when snorkelling, skin-diving, and swimmingSolid case back for enhanced durability",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/aef62bd508820bfb00bd238f97e77800_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f17048cfd3c7afe699f458567f368c2b_images.jpg"
+    }
+}

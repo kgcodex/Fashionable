@@ -1,0 +1,17 @@
+{
+    "id": 46243,
+    "brandName": "Fusion Beats",
+    "productDisplayName": "Fusion Beats Women White & Green Tunic",
+    "price": 1399,
+    "description": "White tunic, has a round neck, cap sleeves, green embroidery around the neckline, arm holes and cuffs, embroidery on the front, tie at the back on the waist and embroidery on the front hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e8b999ec5c507c83e9f8acfaddd1ef22_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f23a180c4606e13b9cf31b6ada6b8055_images.jpg"
+    }
+}

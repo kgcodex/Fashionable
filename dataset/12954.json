@@ -1,0 +1,17 @@
+{
+    "id": 12954,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Sports White Sports Shoes",
+    "price": 2699,
+    "description": "Designed for those who love those healthy runs, the adidas Sparta LEA combines lightweight comfort and ease of wear that makes running all the more pleasurable.UpperSynthetic leather upper with perforations on the toe box for maximum breathable comfort and styleadidas Patented 3-Stripes on the midfoot for enhanced shoe structure and styleMeshed and padded collar and tongue with fabric inner for all-day snug comfortLace-up system for a snug, customised FitSoft footbed for all-day comfortMidsolePU midsole for an absolutely cushioned ride, lightweight comfort and enhanced impact protectionadiPRENE inserts in the heel for absolute impact protection for the backfoot and anklesOutsoleDurable rubber outsole with flex grooves and lugs for absolute grip and tractionadiWEAR technology in the heel for durability in high-wear areasScooped heel for enhanced cushioning for the heelShoe careWipe surface with a damp, clean cloth to remove dust and dirtDo not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d62f7b450e5de36ad29b6dd7c3659c20_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/49a8c3d80f9ced84e9ef5a0089999e2f_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 1635,
+    "brandName": "Newfeel",
+    "productDisplayName": "Newfeel Unisex Red Comfy Shoes",
+    "price": 599,
+    "description": "1. A thin sole to facilitate the foot's natural roll through2. Mesh upper, rubber out-sole3. Ample ventilationThese easy-to-maintain as well as comfortable pair of shoes make sure that you can work on all walks of life with these as companions! Be sure to be relaxed on your feet as its thin sole facilitates the natural movements of the feet, so that you stay comfortable all day.Care Instructions: Machine Washable",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ac841e8c656309f3dfd391c3525b1ef8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5bdcea231d6ccc6a4b9db682c229a4a9_images.jpg"
+    }
+}

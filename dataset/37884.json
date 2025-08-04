@@ -1,0 +1,16 @@
+{
+    "id": 37884,
+    "brandName": "Happy Socks",
+    "productDisplayName": "Happy Socks Unisex Black Socks",
+    "price": 799,
+    "description": "Black socks with an elasticated cuff, blue stripes, branding at the sole region and has reinforced toe and heel region for durability",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/416d91c905be760a4172c16787905c18_images.jpg"
+    }
+}

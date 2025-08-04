@@ -1,0 +1,17 @@
+{
+    "id": 3162,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Downshifter White Blue Shoe",
+    "price": 2995,
+    "description": "Composition:women's lightweight running shoes with open mesh upper, leather overlays and extrenal heel counterWash Care:1. Brush surface with damp, clean cloth to remove dust2. Do not machine wash Stylish and sheek, this pair of Downshifter shoes for women from nike are sporty and trendy. The open mesh upper offers ample breathability to the feet, while the leather overlays deliver durable, targetted support. The external heel counter secures the foot ensuring a shock-proof, comfort Fit.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ae7402315361e9d633f4d176658bfd8d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c88b095314f513881ed3faa2a71e8ab1_images.jpg"
+    }
+}

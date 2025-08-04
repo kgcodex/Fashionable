@@ -1,0 +1,17 @@
+{
+    "id": 43005,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Olive Sandals",
+    "price": 2595,
+    "description": "Olive and orange floaters with synthetic leather forefoot and midfoot straps and an ankle loop The straps have triangular cut- out detailing and are fastened by velcro closures Elasticated gussets on the heel collar strap for snug Fit Padded and textured footbed TPU outsole with rectangular lugsWarranty for manufacturing defects: 6 months (not valid on products with more than 20% discount)&nbsp;",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Olive-Sandals_3492fc6a0ec79106308acec8c2d389ce_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Olive-Sandals_476df96b7737a28ec17a8bb3e784cac2_images.jpg"
+    }
+}

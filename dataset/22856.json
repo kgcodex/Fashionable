@@ -1,0 +1,17 @@
+{
+    "id": 22856,
+    "brandName": "Woodland",
+    "productDisplayName": "Woodland Men Brown Casual Shoes",
+    "price": 3095,
+    "description": "Blending rustic suede with plush two-tone leather, these ankle boots are designed for comfort under extreme conditions. High top styling with stitch seams at the toe box is a sartorial reference to the spirit of adventure. Wear these with form fitting denims and a dark formal shirt. Upper High-top leather upper with strategically placed overlays Three-hole lace ups with metal eyelets Padded tongue Pull loop at the heel Padded insole for in-step comfort Removable sockliner to accommodate an orthotic Outsole reinforced onto the upper at the toe box Midsole Rubber midsole Outsole Dual density TPU outsole with geometric lugs for grip and traction, a curved midfoot and a raised heel shoe care Wipe surface with soft, clean, damp cloth to remove dust Use a suede brush to remove dust from suede parts Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0c3eddbb49cdb4d845ac4f322d95025a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f711d10a40d29dfa51ed0663e8a28c6a_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 49064,
+    "brandName": "Lino Perros",
+    "productDisplayName": "Lino Perros Women Red Handbag",
+    "price": 795,
+    "description": "Red bag with branding printed on one side Has striped canvas shoulder straps and a tough removable base One zipped compartment A small pouch hanging through a lobster clasp with a zip closure",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f659e89b7dc8bbd7238ea917ab550157_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/839cbf81d9c7d4b83fa14305c0f60acd_images.jpg"
+    }
+}

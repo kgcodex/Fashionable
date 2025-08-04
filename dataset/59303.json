@@ -1,0 +1,17 @@
+{
+    "id": 59303,
+    "brandName": "U.S. Polo Assn. Denim Co.",
+    "productDisplayName": "U.S. Polo Assn. Denim Co. Men Blue Shirt",
+    "price": 1999,
+    "description": "Indigo blue shirt with grey and white accents, spread collar, full buttoned placket, patch pocket with buttoned tab on the left chest, buttoned tab at the yoke, branding above the left pocket, long sleeves with buttoned cuffs and curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/US-Polo-Assn-Men-Blue-Shirt_7048d6bc0eaa9f313994218a926fa567_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/US-Polo-Assn-Men-Blue-Shirt_07c70dc6b5805ff7c7630aa0bc61cbca_images.jpg"
+    }
+}

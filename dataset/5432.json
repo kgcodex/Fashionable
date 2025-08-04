@@ -1,0 +1,17 @@
+{
+    "id": 5432,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Cruiser Run The City Blue T-shirt",
+    "price": 995,
+    "description": "CompositionBlue crew neck short sleeved t-shirt with print on the front, made of 60% cotton and 40% polyester, engineered with Dri-Fit technology, black tape on inseam of neckline, and logo printed on left sleeveFittingComfortWash care Warm machine wash in 40 degrees with like colors Do not bleach Tumble dry low Warm iron Do not iron directly on print/embroidery Dry cleanable For those who live life on the fast lane, this blue t-shirt from nike is an absolute essential. With the words \"Lane Fast\" printed across the lower front of the tee, you can proclaim to the world what your ideology is. The vivid blue color complements the print. The T-shirt is made with Dri-Fit technology that wicks away sweat and keeps you dry and comfortable. It looks best with worn out jeans and comfy sports footwear.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/eb4408fb484a89220a62acba4ef375b9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/45f691ecefe312d9ed6304699803e898_images.jpg"
+    }
+}

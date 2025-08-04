@@ -1,0 +1,17 @@
+{
+    "id": 38561,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men White Cap",
+    "price": 995,
+    "description": "Style NoteThe Roger Federer Hybrid Classic Swoosh men's cap by nike combines grand slam good looks with the progressive performance of Dri-Fit fabric for supreme breathability and perspiration management. This Nike cap is an ideal choice as a cool sportswear accessory and a classy leisurewear option.Product DetailsWhite cap engineered with Dri-Fit technology to keep your head cool (literally)Eyelets and mesh to control moistureVelcro strap to adjust fitRF embroidered on the front and trademark swoosh design embroidered on the left sideMaterial and Care52% cotton, 42% polyester Wipe with a clean cloth to remove dust",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/105c25173660f56ad75ff7e2c71be163_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/eee8fdb2e210bb7d17c284402b12380b_images.jpg"
+    }
+}

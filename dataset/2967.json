@@ -1,0 +1,17 @@
+{
+    "id": 2967,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Mid Pixel Black & Silver Canvas Shoe",
+    "price": 1899,
+    "description": "Composition:Black high ankle canvas shoes with velcro strap for comfortFitting:Regualr FitThese black high ankle canvas shoes from puma with silver accents add that zing to your feet. The velcro straps hold them in place giving your feet that comfort factor. Team these with jeans and other casuals for a busy day out with friends.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/16f20356d6d4b62fa49866e38bb0c981_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b4a433ed2f8db6fda7e0916445dc8007_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 15630,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men AS Thermal Black Jackets",
+    "price": 3795,
+    "description": "CompositionBlack jacket made of 100% polyester and engineered with Therma Fit technology, has a mock collar with a full front zipper, full sleeves with elasticated hems, white piping along the upper chest with embroidered nike swoosh logo on the left chest, and has pockets at the waistFittingComfortWash careMachine wash cold with like coloursDo not dry clean, bleach, use softeners or allow to lay on itself when wetTumble dry lowRemove immediately Cool ironEnjoy the winter in style with hot street food or a heated game of tennis with this jacket from nike. Crafted from a polyester fabric with Therma Fit qualities, this jacket is designed to keep you warm. Layer it over jeans and t-shirts.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fdf0b2d7a75e50d8581fdd4b62574b95_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7f433699293452c0615f75b9361be572_images.jpg"
+    }
+}

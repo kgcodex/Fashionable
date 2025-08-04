@@ -1,0 +1,17 @@
+{
+    "id": 32180,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Neptune White Sports Shoes",
+    "price": 1699,
+    "description": "The adidas Neptune M have a simplistic, stylish design featuring the 3 stripes in a distinctive style to either side along with the adidas logo on the heel and tongue. This running shoe, with its air cushioned midsole, is all you need to feel and perform like a champion. The contrast synthetic Adidas trademark three stripes point towards the challenges that are seen ahead and goals that can be achieved, and add a touch of uniqueness to the shoes. Upper Mesh uppers with synthetic overlays for professional use and durability Fabric lining for comfort Central lace-up system for comfortable customised Fit Padded tongue and collar for snug fit Adidas branding on synthetic patch over heel cup Midsole Full length foam midsole for lightweight structure Soft, cushioned footbed for great comfort all day Outsole Non marking rubber outsole with multi directional triangular lugs for maximum grip and traction Outsole provides abrasion resistant support and protection for whole foot Branding at the mid-foot and a deep groove at the heel for maximum mobility shoe care Rub surface with clean, damp cloth to remove dust Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8abbbe76e25836f1d7b4d6a1ff9dbe9c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0bcf954ff600a40f4b76a21e3441fbf7_images.jpg"
+    }
+}

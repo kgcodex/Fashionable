@@ -1,0 +1,17 @@
+{
+    "id": 10028,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women As Club Jerse White T-Shirts",
+    "price": 1195,
+    "description": "Composition White and grey striped polo t-shirt made of 95% cotton and 5% spandex, has ribbed collar and cuffs and a two-button placket Fitting Slim Wash care Machine wash cold at 30 degrees with like colours Do not bleach Tumble dry low Remove immediately/do not allow to lay on itself when wet Cool iron, but do not iron on design Do not dry clean A creative spin on a timeless style, the versatile nike Club jersey for women shakes up your look with bold stripes, a tailored cut and an iconic, eye-catching logo. The secret to this polo's versatility is in the subtlety of its cut, the fold of its collar, and the soft feel of its material. A tailored cut delivers a clean and customized look, while all over yarn-dyed stripes add a pop of color, taking the classic design in a whole new direction. short sleeves allow great range of motion and create casual, warm-weather style.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/13f56f0350769e8fd626a58cf7b5cb49_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/71c8ef679e54a2f3a2609d2664b33ca4_images.jpg"
+    }
+}

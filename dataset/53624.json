@@ -1,0 +1,17 @@
+{
+    "id": 53624,
+    "brandName": "Q&Q",
+    "productDisplayName": "Q&Q Men White Watch",
+    "price": 850,
+    "description": "Case style: Analog watch with white plastic round caseDial style: White dial with white handsStrap style: White fabric strap with a tang claspFeatures: Water resistant 10 BAR, wearable around sinks, during swimming, poolside diving but not highboard diving and surfingWarranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-White-Watch_106c8945ddab2f2f2fb543c0ef3171c7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-White-Watch_3345bfba2c53ee35328e4d6359d15a79_images.jpg"
+    }
+}

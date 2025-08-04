@@ -1,0 +1,17 @@
+{
+    "id": 41447,
+    "brandName": "Lee Cooper",
+    "productDisplayName": "Lee Cooper Men White Shoes",
+    "price": 2185,
+    "description": "Style NoteA sleek shoe with minimal overlays, this shoe can refine any casual outfit with its simple styling. If a sharp, contemporary look is what you're looking for then this is the right shoe for you. They look best when worn with a tonal polo tee and your tried-and-true favourite denims.Product DetailsWhite mid-top shoe with blue trims, has perforations for breathabilityHas a padded tongue and mesh innerTough rubber midsole with the two-piece TPU outsole molded on itHas grooves on the outsole with a pivot point at the big toe regionMaterial and CareSyntheticWipe with a clean dry cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/58892ef2601f70015cbfc984d9584246_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/993daf14fbd7f6dc70d253df7ddedf9c_images.jpg"
+    }
+}

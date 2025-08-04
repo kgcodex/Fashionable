@@ -1,0 +1,17 @@
+{
+    "id": 6747,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Streetgato White Shoe",
+    "price": 5500,
+    "description": "Innovatively designed for all-day comfort, the Nike5 Streetgato soccer shoe is perfect for those hard-hitting tourneys as well as for those fun-filled weekend matches on the beach or local playground. Created with a tough look, it has the perfect amount of cushioning and comfort for great ball feel and to make you hit those winning goals in style.Upper Synthetic upper with a raised geometric pattern at the big toe and medial side panels for protection, durability and to reduce ball speed for better handling Quilted toe area for better ball feel and classic style Lace up system with mildly padded tongue and sockliner for snug Fit Midsole Full-length phylon midsole for responsive cushioning, durability and stability when making quick cuts Innovative midsole and inner of the upper for enhanced ball control Midsole acts along with outsole flex grooves acts as a receiving and distribution zone, helping you kick with a better pace Outsole Extra durable rubber outsole with pivot point on big toe mound for easy 180 degree movement and quick multi-directional movement Flex grooves for enhanced traction and underfoot ball control Extra wrap around the toe and heel for enhanced durability and drag protection Racing-inspired traction pattern for better speed Shoe careDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8c7ee16e46aa605967ecebec4e553be2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2b5d240c36b20f5bb3bb5bfd92e5b972_images.jpg"
+    }
+}

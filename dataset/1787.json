@@ -1,0 +1,17 @@
+{
+    "id": 1787,
+    "brandName": "Lotto",
+    "productDisplayName": "Lotto Men Court Logo White-Silver Shoe",
+    "price": 1799,
+    "description": "This is a pair of shoes you've always wanted. Extremely lightweight and superior design makes it a much sought-after shoes by one and all. The silver streak lends the shoe a subtle elegance while the sturdiness and durability gives it the substance.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/033e213cb070774612370ac4bcbcf723_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ff0587e96122903d422dfeb5b2bd34c2_images.jpg"
+    }
+}

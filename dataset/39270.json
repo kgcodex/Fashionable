@@ -1,0 +1,17 @@
+{
+    "id": 39270,
+    "brandName": "Red Chief",
+    "productDisplayName": "Red Chief Men Khaki Shoes",
+    "price": 2795,
+    "description": "-",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f8e7c64932d79edca75b5b4363d51265_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a8bc63b0472b68cf1ffc226f7ab921cb_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 39414,
+    "brandName": "U.S. Polo Assn.",
+    "productDisplayName": "U.S. Polo Assn. Men Blue & White Checked Tailored Fit Smart Casual Shirt",
+    "price": 1599,
+    "description": "Blue, white and black woven checked smart casual shirt, has a spread collar, a full button placket on the front, short sleeves, a patch pocket with embroidered branding on the left side of the chest, yoke on the back, a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Smart Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/US-Polo-Assn-Men-Shirts_88d629b637a76d86ae9007b0721e3b97_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/US-Polo-Assn-Men-Shirts_ee0b6ae487a78666b418dca33149c1bf_images.jpg"
+    }
+}

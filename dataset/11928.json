@@ -1,0 +1,17 @@
+{
+    "id": 11928,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Women Tone White Sports Shoes",
+    "price": 4299,
+    "description": "shoe care Wipe surface with a dry, clean cloth to remove dust Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/65209ef454ee8cdea7056c7b3f82bf81_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5716921440e73ff6ca239b4d53807ad7_images.jpg"
+    }
+}

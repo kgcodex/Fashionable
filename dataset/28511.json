@@ -1,0 +1,17 @@
+{
+    "id": 28511,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Training White T-shirt",
+    "price": 1495,
+    "description": "CompositionWhite and blue round neck T-shirt for men made of 100% polyester, has short raglan sleeves, meshed panels on the sides, an asymmetric panel on the left hem with a contrast colour and nike swoosh printed on the right chestFitRegularWash careMachine wash separately in cold water using a mild detergentDo not bleachTumble dry lowCool iron; do not iron on decorationsDesigned for your training needs, this nike T-shirt is made of polyester fabric with Dri-Fit technology to offer absolute sweat-free, fresh comfort. Such properties make it ideal not just for training, but playing any sport even on a hot day. Team this with performance shorts and sports shoes, or tracks and floaters for unparalleled cool.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1e0b6a0b4a3ea02ba5c50a6d4172eacc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d957b81d554259db0aa551be6e82343f_images.jpg"
+    }
+}

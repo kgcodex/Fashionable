@@ -1,0 +1,17 @@
+{
+    "id": 6647,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Air Max Tailwind 3 Grey Blue Shoe",
+    "price": 7900,
+    "description": "Pop in your ear buds and take to the streets for a heart pounding run in the nike Air Max Tailwind+ 3. A running shoe built for the neutral to underpronator who requires enhanced cushioning, this shoe is a great buy.Upper Breathable mesh upper ensures a cool and comfortable environment Hardy Flywire sewn into the upper for targetted support and an enhanced lightweight Fit Nearly seamless upper design through the forefoot and no-sew synthetic overlays to minimize the likelihood of irritation Injected TPU in the toe for extra protection and great fit in the forefoot Full inner sleeve to provide a secure fit and great step-in feel Midsole FitSole footbed for all-day comfort and cushioning Removable footbed that can be replaced with an orthotic Full-length Cushlon midsole for soft, responsive cushioning and exceptional impact protection for a smooth transition running specific, low-pressure Air-Sole units in the forefoot and heel for a smooth, stable ride A heel design that adds structure and stability for reinforced medial support Foam pillars around the heel Air-Sole unit for maximum support and durability Outsole Environmentally preferred rubber outsole in a waffle fill pattern for durable traction on mixed terrain BRS 1000 carbon rubber in the heel for abrasion resistance Deep flex grooves to promote smooth transition from heel strike through toe-off Shoe careDo not machine washRemove dust and dirt with damp clean clothDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/631dafba6b9daf418b03d357f62565e0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c792f269265e4f09fc189156d25833d8_images.jpg"
+    }
+}

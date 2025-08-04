@@ -1,0 +1,17 @@
+{
+    "id": 12489,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Men Leather Brown Sandals",
+    "price": 2999,
+    "description": "Inspired by the clog, this Wild Edge sandal from clarks has a fashionable look. Designed in the natural shape of the foot to provide incredible comfort, it has a casually sporty look, making it a perfect addition to your wardrobe of casual footwear.UpperFull supple-soft crinkled leather upper with cut out panels on the lateral forefoot for breathable comfortAnkle strap for enhanced support with tang clasp on the lateral side to lock the foot in placeToe box foxing in leather for enhanced durabilityCork footbed for all-day comfortUpper stitched to the outsole for prolonged durabilityOutsoleDurable EVA outsole with textured panels to enhance grip and comfortsandal careClean the leather with a leather brushDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d3dead97ab2bee4bf126c9a361a019f6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5e36cf6ba9e9ce9bdaa6625a40451333_images.jpg"
+    }
+}

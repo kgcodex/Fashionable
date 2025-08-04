@@ -1,0 +1,17 @@
+{
+    "id": 57090,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women Navy Blue Skirt",
+    "price": 2000,
+    "description": "Navy blue polka dot printed, woven skirt, chiffon overlay on a cotton base, wrap styling with baby overlock, elasticated waistband,",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Navy-Blue-Skirt_115ec9722b72a7810d95c9798dd03d38_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Navy-Blue-Skirt_9662a4a0bb44a3bea9f8aaaa63c124c8_images.jpg"
+    }
+}

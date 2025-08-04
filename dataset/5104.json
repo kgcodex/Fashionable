@@ -1,0 +1,17 @@
+{
+    "id": 5104,
+    "brandName": "Rockport",
+    "productDisplayName": "Rockport Men's Jelba Brown Flip Flop",
+    "price": 2499,
+    "description": "The Jelba range of flip flops for men from rockport is ruled by recreation. With comfort and agility rolled into one, these casual footwear are designed to make walking a pleasure at all times.Upper Wide suede straps with tape detailing for a snug Fit Padded lining for superior comfort Suede toe separators for comfort and fit Midsole Moulded, lightly cushioned EVA footbed for long term durability and protection of feet against impact Moisture absorbent EVA footbed for added dry comfort and breathability of the feet Outsole Rubber outsole provides durable traction on a variety of surfaces Flex grooves and traction rich rubber sole for anti-slip comfort Wash careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7563c12dd886406cb48f2d3478f61a65_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/da5c93df0f17d4c75aa0cc6fd6b6ebd0_images.jpg"
+    }
+}

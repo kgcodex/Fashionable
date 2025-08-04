@@ -1,0 +1,17 @@
+{
+    "id": 10725,
+    "brandName": "Murcia",
+    "productDisplayName": "Murcia Women Green Green Handbags",
+    "price": 3625,
+    "description": "bag careRub surface with dry clean cloth to remove dust and dirtUse a mild leather cleaner",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/584ed5f2927cd57dfcf739dd3f6d94e5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cb02873bcaa1f55a4e189584c9704da9_images.jpg"
+    }
+}

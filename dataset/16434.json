@@ -1,0 +1,17 @@
+{
+    "id": 16434,
+    "brandName": "Levis",
+    "productDisplayName": "Levi's Men Printed Purple Tshirts",
+    "price": 999,
+    "description": "Composition Purple round neck T-shirt made of 100% cotton, has short sleeves, and graphic with rubber print on the front Fitting Slim Wash care Machine wash with warm water Do not bleach Tumble dry Warm iron Do not dry clean Levi's takes its love for the urbane and trendy to a whole new level with this vintage T-shirt. Tailored to a beautiful finish, this tee is designed to offer a snug Fit and flaunt your chiseled body. Slip into a pair of jeans and sneakers or suede shoes to complement this trendy-yet-classic tee. Model statistics Product is a size M on a model of height 6' and shoulders 18.5\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/57b1300b6bbee553bb4d10e0aaf8accb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ff74bc1c365591d11c9673eef9ffc4ad_images.jpg"
+    }
+}

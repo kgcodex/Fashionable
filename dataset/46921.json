@@ -1,0 +1,16 @@
+{
+    "id": 46921,
+    "brandName": "York",
+    "productDisplayName": "York Men 007 Perfume",
+    "price": 449,
+    "description": "Style Noteyork perfumes are known for its sophisticated fragrances and it's value for money. No outfit is complete without the right fragrance (be it formal or off-duty).",
+    "masterCategoryId": 11,
+    "masterCategoryType": "Personal Care",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bada2ebb709912ae2785e8cd1114c255_images.jpg"
+    }
+}

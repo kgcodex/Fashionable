@@ -1,0 +1,17 @@
+{
+    "id": 3159,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Air Max Moto White Blue Shoe",
+    "price": 6900,
+    "description": "Composition:men's lightweight jogging shoes with breathable upper mesh, cushioned foam midsole and zoom unit forefootWash Care:1. Brush surface with damp, clean cloth to remove dust2. Do not machine wash If jogging is what you enjoy the most, make it all the more pleasurable in this pair of nike shoes. The breathable upper mesh with synthetic leather overlays offers comfort and support, while the notched inner sleeve ensures improved Fit. The soft, cushy foam midsole coupled with a zoom unit and blown rubber in the forefoot and low profile cushioning offer ample comfort and support to the feet.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d457f8275d1edd1604de3821ddc020b6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0ad4d7cd0564e7b9d3a9df4700511095_images.jpg"
+    }
+}

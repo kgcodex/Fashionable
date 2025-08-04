@@ -1,0 +1,17 @@
+{
+    "id": 58485,
+    "brandName": "Fossil",
+    "productDisplayName": "Fossil Men Brown Wallet",
+    "price": 3395,
+    "description": "Brown wallet with three-foldsHas two main compartmentHas six card slots, five insert pockets and one mesh id card holderOne coin pocket with a press buttoned closureStitch detailing and branding embossed on the inside and top of the wallet with an orange and green stripe across the top of the wallet",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fossil-Men-Brown-Wallet_c0ecf167fb3018aca3a9df5811d8b92e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fossil-Men-Brown-Wallet_cd8b3842aed304ff79bc7eaaa4966971_images.jpg"
+    }
+}

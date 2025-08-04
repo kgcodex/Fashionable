@@ -1,0 +1,17 @@
+{
+    "id": 53882,
+    "brandName": "U.S. Polo Assn.",
+    "productDisplayName": "U.S. Polo Assn. Men White Flip Flops",
+    "price": 949,
+    "description": "White flip flops with thong style fabric straps with a fabric toe separatorPrinted branding on the footbedTPU outsole with wave patterned grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/US-Polo-Assn-Men-White-Flip-Flops_054161e6b41f2a2dc78aad856b8517b9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/US-Polo-Assn-Men-White-Flip-Flops_e1a8a6a19fbfcc1de3e93c14142d0f06_images.jpg"
+    }
+}

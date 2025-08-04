@@ -1,0 +1,17 @@
+{
+    "id": 40307,
+    "brandName": "Warner Bros",
+    "productDisplayName": "Warner Bros Kids Unisex Black sandals",
+    "price": 999,
+    "description": "Black and pink closed toed sandals with synthetic straps on the forefoot and mid-foot, an ankle loop and velcro fasteners to attain a snug fitMesh panels for breathable comfort Cushioned foot-bed, Tweety bird print pattern on the lateral sideTPU out-sole with grooves and lugs",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Kids-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/513359b59796428cda8f968fe416b46e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d7cba3db5bed760b484d8c13c77df62b_images.jpg"
+    }
+}

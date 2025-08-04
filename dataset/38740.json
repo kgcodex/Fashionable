@@ -1,0 +1,17 @@
+{
+    "id": 38740,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Blue Backpack",
+    "price": 1695,
+    "description": "Style note If you want a bag that is funky, stylish, super cool and comfortable to carry around all day, check out this blue backpack from nike. Carry it to college or on a casual day out with your friends. A stunningly good looking bag, with loads of space, it will become your best buddy in no time. Product Details Blue upper with graphic print on the front One zippered compartment on the front One main compartment with organizer pouches inside Padded back and a haul loop Adjustable shoulder straps Material and CareBody- blend of nylon and polyester only hand wash Clean with a damp cloth when necessary Do not bleach, tumble dry or wring Line dry do not iron Size Height: 42 cm Width: 27 cm Depth: 13 cm",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2d38a9d42f58b5649c551176ee2ab32a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/63b1fe0191299fbf3e332cf444cfa6ae_images.jpg"
+    }
+}

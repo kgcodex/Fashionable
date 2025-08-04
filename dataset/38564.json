@@ -1,0 +1,17 @@
+{
+    "id": 38564,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Black Cap",
+    "price": 995,
+    "description": "Style NoteThe Rafael Nadal Bull logo cap by nike combines Grand Slam good looks with the progressive performance of Dri-Fit fabric for supreme breathability and perspiration management. This nike cap is an ideal choice as a cool sportswear accessory and a classy leisurewear option.Product DetailsBlack cap made of 100% recycled polyester, engineered with Dri-Fit technologyPolyester circular knit mesh panels on the crown to control moistureVelcro strap to adjust fit Bull logo embroidered on the front Curved visor with black piping and embroidered Nike swooshWarranty for manufacturing defects: 6 months (not valid on products with more than 20% discount)CareMachine wash in cold water or hand wash separatelyDo not use softeners or bleachTumble dry on lowCool iron Do not iron on designDo not dry clean",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bd25bf0844d929c3f3a87e5148028fb0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1bc58e2e3a9dff514fda61e0acba8bdd_images.jpg"
+    }
+}

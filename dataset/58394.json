@@ -1,0 +1,17 @@
+{
+    "id": 58394,
+    "brandName": "LOCOMOTIVE",
+    "productDisplayName": "Locomotive Men Charcoal Shirt",
+    "price": 909,
+    "description": "Charcoal shirt with a mandarin collar, has long sleeves, buttoned placket on the front, insert pocket on the left chest, graphical text on the back yoke and a curved hem with branding on the left side",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Locomotive-Men-Charcoal-Shirt_283d8d26c6f48d4e67059802ccb0b263_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Locomotive-Men-Charcoal-Shirt_e6002e4b373d26365e7ceea07f2dd08a_images.jpg"
+    }
+}

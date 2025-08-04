@@ -1,0 +1,17 @@
+{
+    "id": 7202,
+    "brandName": "Jealous 21",
+    "productDisplayName": "Jealous 21 Women Band With Blue Top",
+    "price": 899,
+    "description": "Composition 100% Cotton, 180 GSMFittingRegularWash CareMachine wash/Hand washWash separate in mild detergentDo not bleachDo not wring dryDry in shadeMedium iron",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/24e75a5b18c8dffee39c2142621b705a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2a9f474b0f731e778ed63c51bed72d53_images.jpg"
+    }
+}

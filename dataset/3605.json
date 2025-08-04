@@ -1,0 +1,17 @@
+{
+    "id": 3605,
+    "brandName": "Converse",
+    "productDisplayName": "Converse Unisex Chuck Taylor Checks HI Red Canvas Shoe",
+    "price": 1599,
+    "description": "CompositionRed, blue highankle check patterned unisex lace-up shoes made with canvas uppers and rubber outsoles, All Star heel patchshoe careMake a paste using 1 tbsp of baking soda, 1 tbsp white vinegar and 1 tbsp hot waterRub this paste onto the canvas and the sole using a brushWash off with lukewarm waterThese funky red and blue check high ankle shoes from converse come in a classic design with durable canvas uppers, black canvas lining and cushioned footbed for hours of uniterrupted comfort. The All Star heel patch ups the style quotient. The black lace-up front with metallic eyelets ensures a snug Fit while the original rubber toe box and toe guard give added protection. The multi directional outsole gives added grip. Perfect for urban wear.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0fa3d80fbb38d3fd919677edba3c735f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/464ac24eca6a85704e1a6c5a5baddb1e_images.jpg"
+    }
+}

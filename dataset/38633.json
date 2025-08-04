@@ -1,0 +1,17 @@
+{
+    "id": 38633,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Blue T-shirt",
+    "price": 1095,
+    "description": "Blue round neck, short sleeved T-shirt with graphic print on the chest, engineered with Dri-fit technology (to wick away sweat)",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/705d28c8bf27e4c4637e83e7067d0281_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9409ba9424c5e16c1b475f4160429c87_images.jpg"
+    }
+}

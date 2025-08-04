@@ -1,0 +1,17 @@
+{
+    "id": 9780,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Grey Polo Tshirts",
+    "price": 999,
+    "description": "Dark grey polo neck short sleeved t-shirt made of 60% cotton, 40% polyester, ribbed collar with fabric tape detailing on the inseam, adidas' three stripes in shades of green appliqued on the sleeves, short buttoned placket, embroidered brand name and logo on the left chest, vented hem, and engineered with the ClimaLite technology",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d3b712d28421d2388e76d43e0d021ca8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/637155f968885aa3f9d1c0df2e0ab243_images.jpg"
+    }
+}

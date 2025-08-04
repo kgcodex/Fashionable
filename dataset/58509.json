@@ -1,0 +1,17 @@
+{
+    "id": 58509,
+    "brandName": "Tonga",
+    "productDisplayName": "Tonga Off-White & Black Animal Print Dress",
+    "price": 2290,
+    "description": "Off-white and black animal printed dress with a deep V-neck wrap style, short sleeves with cut-out details, elasticated panel below the waist with elasticated gathers at the sides",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Animal-Print-Dress_ffefce16db0e5e66d54efab81691cadf_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Animal-Print-Dress_de81dc9537967c1b56e8143f424a0e8c_images.jpg"
+    }
+}

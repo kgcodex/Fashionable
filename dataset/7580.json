@@ -1,0 +1,17 @@
+{
+    "id": 7580,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's As Kill Man T-shirt",
+    "price": 895,
+    "description": "CompositionBlack crew neck short sleeved t-shirt&nbsp; made of 100% cotton, with grey fabric tape on inseam of the neckline and graphic print on the frontFittingRegularWash care Machine wash cold with like colors Do not bleach Remove immediately/do not allow to lay on itself when wet Tumble dry low Cool iron, but do not iron directly on print/embroidery Do not dry clean While some people are repulsed by skulls, you'll love them in this black nike t-shirt! The large skull in sandy white on the front with the word \"kill\" printed along with the brand logo is a tribute to your gothic side. Team this with jeans and lifestyle shoes for that uber cool look during weekend parties.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dccd2460c65404c0448683a0a453a495_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b5ddbaa083db3131926146bffd2e0cdf_images.jpg"
+    }
+}

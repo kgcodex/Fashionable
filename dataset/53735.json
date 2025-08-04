@@ -1,0 +1,17 @@
+{
+    "id": 53735,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Brown Vintage Ferrari Shoes",
+    "price": 7999,
+    "description": "Brown shoes from puma with a breathable brown leather upper and leather lining for style and comfort Stitch overlays to further add to the structure Branding engraved on the tongue Cushioned midsoles for comfort and stability Textured durable rubber outsole for maximum traction and grip",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Brown-Vintage-Ferrari-Casual-Shoes_c71e0c55a91eba62f15d08f2032c42b5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Brown-Vintage-Ferrari-Casual-Shoes_1fb1b0e09cf78ef7655d6d7e10f1e04c_images.jpg"
+    }
+}

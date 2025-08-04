@@ -1,0 +1,17 @@
+{
+    "id": 20062,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Women Solid Purple Cap",
+    "price": 1099,
+    "description": "This knit beanie from united colors of benetton makes a perfect addition to your winter wardrobe. Designed to offer snug comfort, this beanie is a great way to beat the chill and enjoy those long winter walks.Made of 90% acrylic and 10% lana wool Nearly seamless stitching for abrasion-free comfortRibbed hem for style and comfortCrochet design for enhanced styleCareHand wash in warm water and line dryDo not dry clean, bleach, wring Cool iron",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b1bf5b228ab25e113c1d03acf5e62992_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8ba96139893558dbd19dbb0e9473fdaf_images.jpg"
+    }
+}

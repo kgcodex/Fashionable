@@ -1,0 +1,17 @@
+{
+    "id": 3467,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Adi Slide White Silver Shoe",
+    "price": 2299,
+    "description": "Designed for those who love those healthy walks, the adidas Adi Slide combines lightweight comfort and ease of wear that makes walking all the more pleasurable.UpperSynthetic leather upper with perforations on the toe box for maximum breathable comfort and styleadidas Patented 3-Stripes on the midfoot for enhanced shoe structure and stylePadded collar and fabric inner for all-day snug comfortLace-up system with a midfoot velcro closure strap for a snug, customised FitSoft footbed for all-day comfortMidsolePU midsole for an absolutely cushioned ride, lightweight comfort and enhanced impact protectionOutsoleNon-marking rubber outsole with flowerlet shaped lugs for enhanced durability and absolute grip and tractionPivot point on big toe mound for easy 180 degree movementShoe careWipe surface with a damp, clean cloth to remove dust and dirtDo not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f668855631be9596fd42ef1f8e1c3bb7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9dfc12af978ff8c044dc789a5963c52c_images.jpg"
+    }
+}

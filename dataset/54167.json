@@ -1,0 +1,16 @@
+{
+    "id": 54167,
+    "brandName": "Femella",
+    "productDisplayName": "Femella Red Necklace",
+    "price": 590,
+    "description": "Braided necklace with red cord and gunmetal coloured chain, asymmetric, colourful bead detail on the left, lobster clasp",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Red-Necklace_2efa0363da0708f5a201494de98d8e70_images.jpg"
+    }
+}

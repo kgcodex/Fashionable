@@ -1,0 +1,17 @@
+{
+    "id": 57054,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Yellow Vintage Shift Dress",
+    "price": 3000,
+    "description": "Pale yellow dress, sleeveless, woven, has a round neckline with lace detail around it, two buttons at the back with a key hole detail at the back neckline, lace detail on the arm holes, pin tucks down centre front from neckline to the hemline, belt loops at the waist and lace detail at the hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Cream-Vintage-Dress_26cf082d730612ad2b5b83f103cf96d3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Cream-Vintage-Dress_97854eb354a58b275261fee79e1d376e_images.jpg"
+    }
+}

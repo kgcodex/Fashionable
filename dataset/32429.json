@@ -1,0 +1,17 @@
+{
+    "id": 32429,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Training Black Shorts",
+    "price": 1199,
+    "description": "Black shorts with two insert pockets on the sides, a wide elasticated waistband with drawstrings inside, engineered with climacool technology, adidas patented 3-Stripes in white on the sides, and has a white panel above the left hem with branding appliqu&eacute;d above it",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7aabe78a0ae8b48a1a4569c6d5f52d6c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/543bb1bb35c0604e4ba89c91a2343e8e_images.jpg"
+    }
+}

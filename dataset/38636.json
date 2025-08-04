@@ -1,0 +1,17 @@
+{
+    "id": 38636,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Blue Cricket Tee T-shirt",
+    "price": 895,
+    "description": "Style Note Gear up this summer for the IPL with your favourite team's T-shirt. Sport this trendy T-shirt from nike and be true to your city! Product Details Deep royal blue T-shirt with a round neck, short sleeves, graphic print with shimmer on chest and back Material and Care 100% cotton Machine wash cool with like colours using a mild detergent Do not bleach or dry clean Tumble dry low Cool iron do not iron on decorations",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bdb0238f68f9ed6e1173ae61e8673b95_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/01296e39bb8698c8a7f8f4492056f6d3_images.jpg"
+    }
+}

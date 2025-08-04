@@ -1,0 +1,17 @@
+{
+    "id": 32408,
+    "brandName": "Converse",
+    "productDisplayName": "Converse Unisex Check Box Red Flip Flops",
+    "price": 349,
+    "description": "Wear these street smart red flip flops with a rubber outsole for added durability and traction, to pool or beach parties - because your feet like some tan lines too! Upper Soft rubber straps in a thong style with a toe separator Textured PU footbed for cushioned comfort and ease of wear Printed footbed for maximum style Outsole Terraced lugs on the PU outsole for absolute grip Flip flop care Wipe surface with a clean, damp cloth to remove dust Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1681e271a3a2e1a3468e27675903d158_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5bfc9299f6315365e76219b36ad9acc0_images.jpg"
+    }
+}

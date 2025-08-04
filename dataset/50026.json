@@ -1,0 +1,17 @@
+{
+    "id": 50026,
+    "brandName": "Hanes",
+    "productDisplayName": "Hanes Women Maroon ComfortSoft Waistband Cotton Stretch Full Leggings",
+    "price": 469,
+    "description": "Maroon coloured full length leggings, has a broad elasticated and soft waistband with a stretchy Fit",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bec1fec9b704e69241c5cf0473de7964_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/71d3c235abcad1947242e7bd3c632fdc_images.jpg"
+    }
+}

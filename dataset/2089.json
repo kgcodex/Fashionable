@@ -1,0 +1,17 @@
+{
+    "id": 2089,
+    "brandName": "Adidas",
+    "productDisplayName": "Adidas Mens Pocket Polo T-shirt",
+    "price": 699,
+    "description": "This is a classic maroon coloured polo t-shirt for the metro sexual men who dare to wear maroons and the other earthy shades. The not-so sure ones can also try this out and pair them with a khaki pair of three quarters for that classy look. The rugged men can combine this t-shirt with navy blue jeans or very light brown corduroy trousers.\u00c2 Model's Statistics:1. The model wears size M in t-shirts2. Height-5.11\", Shoulders-17.5 \"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/83ccef4fb071507ad02e848955e50482_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6c5fdeedf12065e2aa999c8bdac6fe3b_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 2231,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Grey Sandal",
+    "price": 1199,
+    "description": "Composition:Grey floaters with synthetic upper, foam padded lining, cushioned EVA footbed, forefoot and midfoot strap, and closure backAction:An ideal trek footwear and for casual outings, these grey sandals from puma are water resistant too. Its durable rubber outsoles gives your feet that much needed grip and comfort.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7e879be11d3effa9c367f32dbc14f6cc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f14ac53bc1490b1a5464fdafb785ff4a_images.jpg"
+    }
+}

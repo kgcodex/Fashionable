@@ -1,0 +1,17 @@
+{
+    "id": 57811,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Women Purple  Jumpsuit",
+    "price": 2299,
+    "description": "Purple playsuit with two detachable beaded strings in the middle to tie around the neck, elasticated above the bustline for a snug Fit, elasticated below the waistline with gathers at the waist, shorts below with curved pockets on either side below the waist",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Women-Purple-Jumpsuit_1b03da8f71eab13f77d8b53af8a83911_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Women-Purple-Jumpsuit_b47fce8c22e4aa3194d81f83c5ed7816_images.jpg"
+    }
+}

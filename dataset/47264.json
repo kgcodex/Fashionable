@@ -1,0 +1,17 @@
+{
+    "id": 47264,
+    "brandName": "FCUK Underwear",
+    "productDisplayName": "FCUK Underwear Men White & Black Brief",
+    "price": 499,
+    "description": "Black and white striped Active stretch hip brief, has physique flattering Fit, double layered pouch which offers excellent shape retention, high cut leg holes for freedom of movement, soft elasticated with branding on it and broad waistband and tagless comfort",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/910e46037c381e98bf93470f281a7b6a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/385635af76b14e38c6016c9021a4b64b_images.jpg"
+    }
+}

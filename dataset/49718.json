@@ -1,0 +1,17 @@
+{
+    "id": 49718,
+    "brandName": "Park Avenue",
+    "productDisplayName": "Park Avenue Red Checked Tie",
+    "price": 899,
+    "description": "Maroon tie in a checked patternA loop behind the broad tongue to tuck the smaller end in",
+    "masterCategoryId": 190,
+    "masterCategoryType": "Free Items",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b7a69760697d8754fe4eb0fda5f79956_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5d75f319bf394bf4532f50dc20ce4828_images.jpg"
+    }
+}

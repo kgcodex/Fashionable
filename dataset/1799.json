@@ -1,0 +1,17 @@
+{
+    "id": 1799,
+    "brandName": "Domyos",
+    "productDisplayName": "Domyos Men Blue & White Tracksuit",
+    "price": 2099,
+    "description": "1. 100% polyesterThis tracksuit is designed for various Sports activities as well as for fitness training. It carries unique features like the rapid moisture transfer mechanism and ankle zips that makes the tracksuit easy to put on and take off. The tracksuit is lightweight and every bit long-lasting. &nbsp; Model's Statistics:1. The model wears size M in t-shirts2. Height-5.11\", Shoulders-18\" &nbsp; Model's Statistics:1. The model wears trousers, length of 40\" 2. Height-5.11\", waist-32\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/93e5f58e24c5f32967242edd999a9334_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f17ab98d9d003d4ecb68416d7787d997_images.jpg"
+    }
+}

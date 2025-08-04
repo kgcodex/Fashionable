@@ -1,0 +1,17 @@
+{
+    "id": 52461,
+    "brandName": "Red Rose",
+    "productDisplayName": "Red Rose Purple Nightdress",
+    "price": 1033,
+    "description": "Purple nightdress with a V-neckline, adjustable shoulder straps and lace detail on the chest and at the back Comes with a purple bikini brief",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Rose-Purple-Nightdress_4d08e71693108dc0d33f1c03d391d6fa_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Rose-Purple-Nightdress_8f926d08f2b23477424834cc87b4a2e9_images.jpg"
+    }
+}

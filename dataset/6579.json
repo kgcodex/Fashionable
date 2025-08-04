@@ -1,0 +1,17 @@
+{
+    "id": 6579,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Woven Navy Blue 3/4 Pants",
+    "price": 1895,
+    "description": "Navy blue 3/4th pants dri-Fit fabric, has an elasticated waistband with a drawstring, insert pockets on the sides, panel detailing on the back, darts on the front near the knees and swoosh logo in a reflective material on the left leg",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Woven-Navy-Blue-34-Pants_b5a97ed80b0d53e3ffe9d518c17f21aa_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Woven-Navy-Blue-34-Pants_5a82abae2c0ae34d70eca0abec0c5fda_images.jpg"
+    }
+}

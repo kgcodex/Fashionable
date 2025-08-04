@@ -1,0 +1,17 @@
+{
+    "id": 5474,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Force 1 '07 White Sports Shoes",
+    "price": 7295,
+    "description": "White, round toed shoes, has a synthetic upper with perforations for ample ventilationLow cut silhouette for a low-to-ground feelCentral ace-up system with lightly padded tongue for snug fitMetal tag on lace to honour the shoeMildly cushioned sockliner for in-step comfort Thick midsole with an encapsulated Nike Air unit for lightweight cushioning and shock absorptionRubber outsole for better traction and durability, pivot points on the big toe mound and heel, coupled with circular lugs for smooth transition in all directionsWarranty: 6 months against manufacturing defects",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Sports-Shoes_a2e1207e9ef3e403e710393dfba8825d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Sports-Shoes_5f09990dcfe8719d9a0defeeb94f0f16_images.jpg"
+    }
+}

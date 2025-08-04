@@ -1,0 +1,17 @@
+{
+    "id": 29253,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men AX Black Sports Shoes",
+    "price": 4299,
+    "description": "Take outdoor training to the next level in these AX 1 shoes from adidas. Constructed for better comfort and cushioning, these mountain sport shoes helps you master rugged terrain. Team these with jeans and a tee for great urban style. Upper Mesh uppers with synthetic overlays for better structure and breathability adidas patented 3-Stripe overlays on the sides for enhanced support and to exude the brand&amp; rsquo s belief in performance Heel support and tapes to keep your heel firmly held in place Mesh tongue provides better breathability Padded collar offers better comfort Lace-up system for a snug, customised Fit Brand name embossed on the tongue and printed on the side Haul loop on the collar for easy removal Midsole Cushioned footbed provides all day comfort Injected EVA midsole and anatomically engineered footbed delivers lasting support and comfort Removable footbed to accommodate an orthotic Outsole Aggressive TPR oursole comprised of mutlidirectional lugs on the forefoot, heel and periphery of the foot for better grip Outsole extends and builds up to the sides and forefoot to give better grip and protection on all sides Reinforced midfoot arch for better arch support shoe care Wipe surface with damp, clean cloth to remove dirt Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/07b776151a04652ea1cca27368d8816f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0ca69baeb515b9db4ea037d3754ad206_images.jpg"
+    }
+}

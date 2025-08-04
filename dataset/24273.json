@@ -1,0 +1,17 @@
+{
+    "id": 24273,
+    "brandName": "Quiksilver",
+    "productDisplayName": "Quiksilver Men Navy Blue Basic T-shirt",
+    "price": 1995,
+    "description": "Navy blue round neck T-shirt, has long sleeves and graphic print on the front Model statisticsThe product is a size M on a model of height 6' and shoulders 18&rdquo;",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d99a929a9924959666d7e41d88a891b6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a78822101b104acd0446d6c6ab8fb794_images.jpg"
+    }
+}

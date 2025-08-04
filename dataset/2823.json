@@ -1,0 +1,17 @@
+{
+    "id": 2823,
+    "brandName": "Lee Cooper",
+    "productDisplayName": "Lee Cooper Men's LC Formal Leather Black Shoe",
+    "price": 2385,
+    "description": "Composition:Black leather shoes with lacingWash care:Dry brush the felt to cleanFitting:RegularThese black shoes from lee cooper are perfect for formal wear. Wear them to work or for office meetings for that well groomed, professional touch.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e9c256fa56c0beacd5f994b63d492f31_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a036c8cc4ed9993c4c07961568d45494_images.jpg"
+    }
+}

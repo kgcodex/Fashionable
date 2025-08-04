@@ -1,0 +1,17 @@
+{
+    "id": 43315,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Women Pink Top",
+    "price": 1299,
+    "description": "Pink casual V-neck top with stylish frill and tie at the neck and cap sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Women-Pink-Top_e5f00769792b95f1cd13981f83428b26_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Women-Pink-Top_2a62da462994478308a30b151475826a_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 21735,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Pro Classics Black Casual Shoes",
+    "price": 3599,
+    "description": "vans' collaboration with skate legend Max Schaff led to the creation of Vans Mid Vert Pro. An alliance of legends, this tough-as-nails classic is a one of a kind wardrobe essential. Upper Durable suede and Cordura uppers with stitch detailing Duracap toe bumpers give you a sturdy surface Padded tongue and insole for instep comfort High top cut for ankle support Central lace ups Midsole PU midsole for better shock absorption PU foxing on the toe box Outsole Geometric patterned sole texture on the flexible vulcanized gum rubber outsole shoe care Wipe surface with soft, clean cloth to remove dust Do not use a drier or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e37bcfccecdd5dad0ded3d7f8ef5c413_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/61daafe2d3e3f8b4b946dcdad7040056_images.jpg"
+    }
+}

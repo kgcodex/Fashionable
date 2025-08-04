@@ -1,0 +1,17 @@
+{
+    "id": 11933,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Women Sports Grey Sports Shoes",
+    "price": 3899,
+    "description": "Run less, get more with the skechers revv Air 2. Fab to look at and a great gift for the feet, this pair of running shoes is designed with the best of technologies to offer absolute comfort and health quicker. The full length Revv Air 2 air-cushioned midsole offers absolute air-circulation cushioning your every stride, making running a fabulous experience. Upper Lightweight athletic meshed synthetic upper with side panels and strategically placed synthetic overlays for absolute durability, lightweight comfort and breathability Mesh panels with stabilising clear panels and colour accent lines Padded and meshed collar and tongue for in-step comfort Lace-up system for a snug, customised Fit Midsole Soft fabric shoe lining for all-day comfort Removable footbed to accommodate an orthotic Full length Revv Air 2 structured air cushion in midsole for absolute shock absorption Outsole Flexible durable high abrasion rubber for enhanced cushioning and maximum traction Wave-patterned outsole with waffle lugs for absolute grip on various terrain Shoe care Wipe surface with a dry, clean cloth to remove dust Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/03932cb7fb5fd0b4b08480fa4c1736aa_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/245022d85dbbc0d71f0a4fe3724fbb5d_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 38664,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Liteforce Grey Shoes",
+    "price": 1995,
+    "description": "Style Note Combining the style and flair of canvas shoes with the durability and comfort of running shoes, the nike Liteforce puts the groove back in your style! Buy now before stocks run out... Product Details Canvas upper with synthetic leather overlays Nike swoosh overlay near the midfoot region for added shoe structure Padded collar with a mesh lining Footbed with fabric lining for breathability Lacing system for all-day comfort Phylon midsole with PU foxing Herringbone grooves on the outsole for added traction and absolute gripWarranty for manufacturing defects: 6 months (not valid on products with more than 20% discount) Material and Care Canvas Wipe with a clean damp cloth to remove dust Do not store in sunlightWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f630905781675698be2a83dc38e1e453_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e227c90ea50841af0fbeb67781e55c26_images.jpg"
+    }
+}

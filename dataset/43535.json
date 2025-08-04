@@ -1,0 +1,17 @@
+{
+    "id": 43535,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Women Multi Coloured Top",
+    "price": 2299,
+    "description": "Multi-coloured printed top with a round neck, sleeveless with racer back style",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Women-Multi-Coloured-Top_e4b1a06ee60a706f9c1af49ff67d01cb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Women-Multi-Coloured-Top_63addf7136a90a4136c80a5c10b49249_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 58740,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Pink T-shirt",
+    "price": 749,
+    "description": "Pink polo T-shirt, has a ribbed cutaway collar, three buttoned placket and puma cat embroidered on the left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Pink-T-shirt_7a6729ede9f7ae347d37a4461211d214_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Pink-T-shirt_6b0bf81e9be7264a5e69fb158d557ce9_images.jpg"
+    }
+}

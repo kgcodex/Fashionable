@@ -1,0 +1,17 @@
+{
+    "id": 41008,
+    "brandName": "Gini and Jony",
+    "productDisplayName": "Gini and Jony Girls Woven Navy Blue Jeans",
+    "price": 799,
+    "description": "Style Note denim pants for your little girl from Gini and Jony. Designed with room to grow, this piece is sure to become your child's summer favourite. Product Details Blue denim trousers with two patch pockets at the back and two in the front, loops at the waist band and a zipper and button closure at the front Material and Care 100% cotton Machine wash separately in cold water using a mild detergent Do not bleach or soak Line dry inside out in shade Warm iron only Do not iron directly on print/embroidery",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Girls",
+    "gender": "Girls",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8465901b8b806bd4e2daf829ba517197_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/981cfe2730036c4b0fc5f0d28b5c84e6_images.jpg"
+    }
+}

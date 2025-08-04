@@ -1,0 +1,17 @@
+{
+    "id": 1592,
+    "brandName": "Kipsta",
+    "productDisplayName": "Kipsta Men's Superfit Football Red Shoe",
+    "price": 2099,
+    "description": "1. Cushioned soles with rubber outsole, EVA midsole, synthetic upper 2. Reinforced heel, sides and front to support and protect the foot 3. Outsole with strategically-placed studs for optimum grip and stability 4. Flexible upper and strategically-placed seams for better ball feelDesigned for adult sportsmen who regularly play football on hard surfaces in 3 trainings or more matches a week. Order your pair before stocks run out.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/94206f0e42539b83880f2500dc66cf3c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/769ceeb2e20484973d48100079fde921_images.jpg"
+    }
+}

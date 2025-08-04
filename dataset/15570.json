@@ -1,0 +1,17 @@
+{
+    "id": 15570,
+    "brandName": "Chhota Bheem",
+    "productDisplayName": "Chhota Bheem Kids Boys Flying High TShirt",
+    "price": 299,
+    "description": "Wash care Delicate machine wash at 30 degrees using mild detergent Do not dry clean Do not tumble dry, wring, scrub or bleach Dry flat in shade Warm iron Do not iron directly on print/embroidery",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1b356f2fff2e71de0370417f98eb4c1b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0e82d58a2eac6f74bd35388f6a89122d_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 59975,
+    "brandName": "Avirate",
+    "productDisplayName": "Avirate Black & Purple Dress",
+    "price": 2100,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-Black---Purple-Dress_d8ef0c0c5603cce2a0f4dc3a0df709ba_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-Black---Purple-Dress_09b92ae73d14551cccbea0890e689103_images.jpg"
+    }
+}

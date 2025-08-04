@@ -1,0 +1,17 @@
+{
+    "id": 33897,
+    "brandName": "Citizen",
+    "productDisplayName": "Citizen Men Black Dial Watch",
+    "price": 4500,
+    "description": "Case style: Analogue watch with a round case Dial style: Black dial with silver hour markers and silver and white hands Features: Branding at the 12 hour mark, date aperture at the 3 hour mark Strap style: Metal bracelet with a butterfly clasp Water resistant Warranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8a7f95ce1b34aeba873ea5fd38a04d79_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/966afea0860a08a9e4fa4c7c656547c0_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 17832,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Dunk High Navy Blue Casual Shoe",
+    "price": 4795,
+    "description": "Designed for superior performance and comfort, the nike Dunk High has a high heel counter to provide ample structural support to the ankle, protecting it from sprains and injuries when running. Coupled with an uber cool look is its superior traction feature that makes the nike Dunk High a huge favourite both on the track and off it. If you enjoy donning that sporty look, simply pair the Dunk High with jeans and casual tees. Upper &middot; Perforated toe uppers for added breathability and dry, fresh comfort &middot; High profile design provides ankle support &middot; High ankle cup for added support and snug &middot;&middot;Fit to the backfoot and ankle &middot; Padded tongue and sockliner for snug fit and added protection from shock &middot; Lace-up system for snug fit Midsole &middot; Full length EVA midsole for added cushioning and impact protection Outsole &middot; Flexible multi-directional rubber outsole with a full cupsole stitch for durability &middot; Semi-circular grooved forefoot with pivot point for easy 180&deg; rotation of the foot without causing injury Wash care Wipe surface with soft, clean, damp cloth to remove dust Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1357a36adcdc0528f403f86db3e435df_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/74bfc4d470919f9757b03957360f4b9e_images.jpg"
+    }
+}

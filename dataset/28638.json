@@ -1,0 +1,17 @@
+{
+    "id": 28638,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Dart 9 Leather White Sports Shoes",
+    "price": 3895,
+    "description": "Speed and endurance are the inspiration for the nike Dart 9 Leather men's running shoe, with premium craftsmanship in a supportive, durable Fit. The nike Dart 9 has great durability, cushioning, support and amazing grip to keep you and your feet happy when running. The breathable mesh upper combined with a midfoot overlay gives you a great fit and a comfortable ride. Upper Leather upper with strategically placed overlays and stitch detailing for good shoe structure Nike swoosh on the lateral side of the midfoot Perforations all over for breathability Reinforced overlays on the toe box and heel collar for abrasion free comfort Central lacing system Padded tongue with branding Padded mesh lining inner for optimal comfort Removable sockliner to accommodate an orthotic Midsole Phylon midsole with natural motion engineering for an optimal ride Outsole TPU outsole with waffle patterned lugs and a decoupled heel Impact line along the outsole to minimize shock Shoe care Wipe surface with damp, clean cloth to remove dust Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/aafee37587d8f9e3b441de43b681d9ae_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d1fac2c19455dca6b86183f0a91ce0ab_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 58259,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Olive Sling Bag",
+    "price": 600,
+    "description": "Olive green sling bag with printed graphics on the front A pocket with a flap and press button for closure and a zipped pocket on the front One main large zipped compartment with three slots Branding at the back Long strap to sling around your shoulder",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Olive-Mobile-Pouch_e05da82cef5299d2edbdb2c264499f45_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Olive-Mobile-Pouch_aaabd3e00f7a17e9714512a1b6e9312c_images.jpg"
+    }
+}

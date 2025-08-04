@@ -1,0 +1,17 @@
+{
+    "id": 30773,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Men Teal Tussar Kurta",
+    "price": 1290,
+    "description": "Teal pin-stitched kurta made of tussar silk/cotton blended fabric, has a mandarin collar, half buttoned placket, long sleeves, pockets on the sides and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e4947b0429f28f57a28723deef176989_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/add37420ea77bee419e66da6358f7b59_images.jpg"
+    }
+}

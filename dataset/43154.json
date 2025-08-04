@@ -1,0 +1,17 @@
+{
+    "id": 43154,
+    "brandName": "Fastrack",
+    "productDisplayName": "Fastrack Women Purple Dial Watch",
+    "price": 2095,
+    "description": "NA",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ae9e2078e4c9f6153f7cb1e1e8084cb0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bd114501a7deeaa6a79a47c34a6372f1_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 45034,
+    "brandName": "maxima",
+    "productDisplayName": "Maxima Men Black Dial Watch",
+    "price": 1425,
+    "description": "Style Note",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9c1df9d6d2bf81e8383306dd63a87129_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4de42a910a4c26d9921237819bfd0f3b_images.jpg"
+    }
+}

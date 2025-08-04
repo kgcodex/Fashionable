@@ -1,0 +1,17 @@
+{
+    "id": 29256,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Duramo 4 M Black Sports Shoes",
+    "price": 4299,
+    "description": "Take running to the next level with these Duramo 4 M shoes from adidas. These comfortable trainers are engineered with Dry Fit technology and superior cushioning with better shock absorption properties. Team it up with jeans and tees for a cool casual look.UpperMesh uppers with synthetic overlays for better breathability and structureLace-ups for better fitIconic 3-stripes symbolising the challenges that are seen ahead and goals that can be achieved on the sidePadded collar and tongue and textile shoe lining for better comfortMidsoleCushioned footbed for all day comfortEVA midsole for better shock absorption and cushioningOutsoleadiPRENE+ delivers supreme forefoot cushioningadiPRENE offers under heel impact protectionadiWEAR outsole supplies optimal durability in high-wear areasScooped out heel gives better cushioning of the heel from shockImpact guidance system enables better motion of the feetFlex grooves provide better flexibity to the feetShoe careWipe surface with soft, clean, damp clothDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2783540d97059e3edd6657628d66c02f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dd5432a8e9a508596133741762a00b63_images.jpg"
+    }
+}

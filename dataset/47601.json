@@ -1,0 +1,17 @@
+{
+    "id": 47601,
+    "brandName": "Portia",
+    "productDisplayName": "Portia Women White Flats",
+    "price": 599,
+    "description": "White thong style upper with a midfoot strap and an ankle loopSoft, brown footbedTough outsole with an upraised heel and grooves all over",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6f073d7184f589174bf61501c9e14f8b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/28597f91fb59e4aef6937c293309857e_images.jpg"
+    }
+}

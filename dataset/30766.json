@@ -1,0 +1,17 @@
+{
+    "id": 30766,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Men Blue Matka Silk Kurta",
+    "price": 2090,
+    "description": "Blue kurta made of matka silk, has a mandarin collar, half buttoned placket, long sleeves, a pocket on the left chest and a vented hem Dry clean only",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c0a69fffae6a645cd0ba7f7071576b3f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2ea9baa5308db484db381720019c97cc_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 21449,
+    "brandName": "roxy",
+    "productDisplayName": "Roxy Women Mustard Yellow Top",
+    "price": 1695,
+    "description": "Mustard yellow knit T-shirt, has a round ribbed neckline, short sleeves and branding on the chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d85b013d1359ccdbb39eed6c73b27519_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/684065f2c6118fd4f1493f47a98d116c_images.jpg"
+    }
+}

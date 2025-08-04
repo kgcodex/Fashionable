@@ -1,0 +1,17 @@
+{
+    "id": 4570,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Iza Black Shoe",
+    "price": 3700,
+    "description": "Take the lead in a throwback design with the nike Izanami women's shoe, an updated take on a classic running shoe with a sleek, low-profile silhouette.Upper Leather upper with glossy nike swoosh on the side Stitch detailing to further add to the structure Lace-ups for snug Fit Minimal lining on the collar and tongue for lightweight Brand tab on the tongue and collar tab Midsole Soft, cushioned footbed for all day step-in comfort Outsole Rubber outsole with herringbone pattern on the forefoot outsole for durability and traction Shoe careBrush off dirt with a leather brushUse a branded leather shoe polish to retain the sheen",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/99d1dc24361a3084ff7de20f6ca1b274_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/03231fc2d2e52fa95fb2a234601cc266_images.jpg"
+    }
+}

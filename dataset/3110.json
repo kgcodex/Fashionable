@@ -1,0 +1,17 @@
+{
+    "id": 3110,
+    "brandName": "Probase",
+    "productDisplayName": "Probase Men's Western Highway Black T-shirt",
+    "price": 299,
+    "description": "Description:Black, slim Fit 100% cotton t-shirt, with cartoon print Washcare:Soft wash to avoid shrinkingFitting:Slim fitGive the wild traveller in you a face with a bold graphic collage print on this black t-shirt from probase's collection of peppy tees for the youth. It looks great with denims and cargos when on a weekend away with friends.Model's Statistics:1. The model wears size M in t-shirts2. Height-5'11 ft, Shoulders-18\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/58257305f4bfc56827a7943cb31e834b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a6d3d170120cd18a6a2a77eda844026d_images.jpg"
+    }
+}

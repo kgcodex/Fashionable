@@ -1,0 +1,17 @@
+{
+    "id": 4100,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Pink Grey Sandal",
+    "price": 1299,
+    "description": "These stylish grey and pink floaters from puma make a trendy style statement combined with superior performance. These are great for regular wear as they ensure superior traction and protection to the feet, without compromising on comfort and style. You can also team this pair with jeans and tees for a great casual look.Upper Canvas upper with foam padded lining for snug Fit Superior lining of foam on heel straps to prevent blisters Velcro straps for easy movement Soft footbed with ergonomical fit and massage nubs for utmost comfort Midsole Shock-absorbing lightweight phylon midsole for added comfort Outsole Rubber lugs in V-shaped pattern for firm grip on uneven terrain 3D brand logo at the centre Wash careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/76b662f3f5409343faef60c42e6b1744_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/40b097667f39c302a9d4c4b9258d7e04_images.jpg"
+    }
+}

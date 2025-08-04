@@ -1,0 +1,17 @@
+{
+    "id": 9532,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Summerized Wind Runner Orange Jackets",
+    "price": 3695,
+    "description": "CompositionHooded jacket made of 100% nylon with an orange body and red upper, mesh inner, long sleeves with ribbed cuffs, side zippered pockets and zippered front, ribbed hem and nike branding and swoosh printed on left chest FittingRegularWash careMachine wash in 30 degreesDo not tumble dryDrip dry in shade inside-outDo not ironAn iconic design perfectly suiting the spirit of sporting, this Nike360 jacket offers absolute warmth and comfort. While the side zippered pockets offer secure storage of your essentials, the ribbed cuffs and hem offer an absolutely snug Fit. You can use the hood when needed. A perfect companion on your early morning runs and sporting events when the cold winds blow.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e0ff9c2f4940a7dc70cb644b5885998b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2957599d3ce31e88e86c6eebf35bd885_images.jpg"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "id": 15789,
+    "brandName": "Facit",
+    "productDisplayName": "Facit Men Grey Comfort Briefs",
+    "price": 99,
+    "description": "Grey comfort briefs, has a high-rise waistline, stylish square cut design and brand patch on waist band",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Facit-Men-Briefs_18266c94fcbd3cde2341f0cc0ec52e74_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 55047,
+    "brandName": "Lakme",
+    "productDisplayName": "Lakme Enrich Satins 152",
+    "price": 230,
+    "description": "Lakme Enrich Satins lip colour provides higher color delivery, has Vitamin E and olive extracts, lasts long and keeps lips soft",
+    "masterCategoryId": 11,
+    "masterCategoryType": "Personal Care",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/assets/images/55047/2018/3/9/11520592144311-Lakme-Enrich-Satins-152-5441520592144247-2.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/assets/images/55047/2018/8/14/c21afab5-212d-4167-8c80-5b339754de8a1534245522894-Lakme-Enrich-Satins-152-6381534245522856-3.jpg"
+    }
+}

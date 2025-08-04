@@ -1,0 +1,17 @@
+{
+    "id": 6967,
+    "brandName": "s.Oliver",
+    "productDisplayName": "s.Oliver Men's Dont Stop Me Now Blue T-shirt",
+    "price": 699,
+    "description": "CompositionAzure blue round neck t-shirt in 100% cotton with distressed bold chest printFittingRegularWash care Wash with similar colours Wash and iron inside out You have grown up enough and don't want the world to come in the way of your achievements? Then, this tee is just a good thing for you. Pair this tee with denims and canvas shoes for a great casual look.Model statisticsThe model wears size M in t-shirtsHeight-6', Shoulders-18\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/90de33a36add0c84609e8df33025669b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c72619e66e13f93e9eef2bc2e73e5331_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 47061,
+    "brandName": "Shree",
+    "productDisplayName": "Shree Women Brown & Black Patiala",
+    "price": 399,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3f7c2962469bbc7c7d9e17500b9af2f2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a7b349d769f6bb4af655933ed9f7460d_images.jpg"
+    }
+}

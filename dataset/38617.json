@@ -1,0 +1,17 @@
+{
+    "id": 38617,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Printed Black T-shirt",
+    "price": 1295,
+    "description": "Style Note Get casual with the utmost comfort in this stylish regular Fit T-shirt for men from nike. The soft cotton fabric wicks sweat away and keeps you fresh and comfortable during fun times with friends, while the fashionable print adds style. Pair this tee with your favourite denims and sports shoes. Product Details Black T-shirt with a round neck, short sleeves, Nike logo and graphic print on the front Material and Care 100% cotton Machine wash cool with like colours Do not bleach or dry clean Tumble dry low Cool iron do not iron on decorations",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fe975ba2d9268b67d7d25f6510973a00_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8985f32a8a71320389ef97fdc5c734a3_images.jpg"
+    }
+}

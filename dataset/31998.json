@@ -1,0 +1,17 @@
+{
+    "id": 31998,
+    "brandName": "Playboy",
+    "productDisplayName": "Playboy Men Brown Formal Socks",
+    "price": 120,
+    "description": "Dark brown socks, has branding near the ankle, elasticated cuffs for a firm grip and sanitised to keep it hygienic, fresh and unpleasant odours away",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Playboy-Men-Socks_91430e9ac322c1ba682578dc2a376803_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Playboy-Men-Socks_2010a08e9fbea57129f03a55a2fad2bb_images.jpg"
+    }
+}

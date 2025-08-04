@@ -1,0 +1,17 @@
+{
+    "id": 34514,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Adi Dew Black Flip Flops",
+    "price": 699,
+    "description": "Style Noteflip flops have been in vogue since time immemorial. The Adi Dew, true to its name, will add a touch of fashion to your beach style and have a good grip, are comfortable, and can be worn with almost any casual staple. Product DetailsBlunt toed flip flop in blue and black with synthetic thong style straps Print on the footbedSoft foamy rubber footbedSingle piece rubber outsole that has herringbone lugsMaterial and CareSyntheticDo not machine wash or store in direct sunlightRemove dust with a dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/319f39c07abfbc8e5c659d35361c33d0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fa61e7337388a5d2d38a26be8630cf30_images.jpg"
+    }
+}

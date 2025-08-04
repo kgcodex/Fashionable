@@ -1,0 +1,17 @@
+{
+    "id": 13669,
+    "brandName": "Genesis",
+    "productDisplayName": "Genesis Men Black Solid Trouser",
+    "price": 1599,
+    "description": "Wash care Delicate machine wash at 30 degrees using mild detergent Do not dry clean Do not tumble dry, wring, scrub or bleach Dry flat in shade Warm iron Do not iron directly on print/embroidery",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/823a9fcface9a5d68bcc49d571117cfb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f41f728afb9c1316d3af2e2bb5f5aec1_images.jpg"
+    }
+}

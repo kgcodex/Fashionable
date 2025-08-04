@@ -1,0 +1,17 @@
+{
+    "id": 58520,
+    "brandName": "Tonga",
+    "productDisplayName": "Tonga Women Black Dress",
+    "price": 2400,
+    "description": "Knitted black strapless dress with bra padding and elastication for a comfortable Fit, empire line and a panel below it with elasticated gathers",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Women-Black-Top_800270062518762c7d4e171c3a43399f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Women-Black-Top_3458b10f0017d54f710cb73837d57a21_images.jpg"
+    }
+}

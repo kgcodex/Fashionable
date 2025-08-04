@@ -1,0 +1,17 @@
+{
+    "id": 25572,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men Superior Silver Sports Shoes",
+    "price": 1799,
+    "description": "The fila Superior with its sleek upper and light weight makes for great Sports shoe that doubles as a casual shoe. UpperSynthetic and mesh upper Lacing system for a snug, customised FitPadded collar and tongue with a textile inner lining for optimum fit and comfortPadded footbed for all-day comfort, which is removable to accommodate an orthoticMesh liningMidsolePhylon midsole for comfort and impact protectionOutsoleDurable TPU outsole with geometrical lugs, a curved midfoot and a scooped heelShoe careWipe surface with a dry, clean cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/037dda3934c96f583baec4c814359f73_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/65dde663022bc598b0a7d25f8e248743_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 33115,
+    "brandName": "Catwalk",
+    "productDisplayName": "Catwalk Women Orange Shoes",
+    "price": 1295,
+    "description": "Bright orange ballet style shoe with updated design details. Aggressive lugs make this a comfort junkie's favourite shoe! Upper Woven elasticated upper A midfoot strap A leather tongue at the heel Outsole reinforced onto the upper at the heel to act as a heel guard Outsole Flexible ribbed outsole with circular lugs Shoe Care Wipe surface with a damp, clean cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8492a4c0ecc58d57b780e374d2ccdb0f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cc45f11ad464be0261f1a896c2cf2f35_images.jpg"
+    }
+}

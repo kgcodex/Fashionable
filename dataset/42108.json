@@ -1,0 +1,17 @@
+{
+    "id": 42108,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Blue T-shirt",
+    "price": 999,
+    "description": "Style Note adidas helps you avoid discomfort and keep dry and comfortable. This T-shirt, engineered with Climalite technology, offers you a flattering stylised look. Pair it with a pair of jeans and sports shoes on your day off, or with shorts and Sports shoes when you're hitting the gym. Product Details Blue T-shirt, has a round neckline, Adidas patented three stripes on the shoulders and arms and branding on the left chest Material and Care 100% polyester Machine wash cool with like colours using a mild detergent Do not soak, tumble dry, bleach or dry clean Dry in shade Cold iron; do not iron on decorations Size and Fit Regular fit The model (height 6' and shoulders 18\") is wearing a size M",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2af8cc5d9e662835b7feb9cd1b701728_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8f556e9d6eb27d8d631a377b7963e156_images.jpg"
+    }
+}

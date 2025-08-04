@@ -1,0 +1,17 @@
+{
+    "id": 15616,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Casual Olive Sweatshirts",
+    "price": 1895,
+    "description": "CompositionOlive green hoodie sweatshirt with the body and hood made of 80% cotton and 20% polyester and ribbing made of 97% cotton and 3% spandex, has a hood with drawstrings, full sleeves with ribbed cuffs, ribbed panels along the sides and hem, pockets on the front waist and embroidered nike swoosh on the left chestFittingComfortWash careMachine wash warm with like coloursDo not dry clean, bleach or allow to lay on itself when wetTumble dry lowRemove immediately Warm ironEnjoy the winter in style with hot street food in the chill air with this hooded sweatshirt from nike. Crafted from a thick cotton-polyester blend fabric and with full sleeves, this sweatshirt is designed to keep you warm. Layer it over jeans and t-shirts.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3cfe4a9f50914b81d3c1e6127e8bcb85_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a3f21d6ad8e7c25c1aff1bab09188590_images.jpg"
+    }
+}

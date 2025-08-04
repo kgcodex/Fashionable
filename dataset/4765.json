@@ -1,0 +1,17 @@
+{
+    "id": 4765,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Black T-shirt",
+    "price": 1899,
+    "description": "Black crew neck t-shirt with classic argyle design on the front and back, thin and light vertical grey stripes, and ClimaLite technology",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-Black-T-shirt_5504ac3749a8fe53c2e9ee5ebd72ba21_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-Black-T-shirt_f1a3b69fceb196e721d4a7bacac22292_images.jpg"
+    }
+}

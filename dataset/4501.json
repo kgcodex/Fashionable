@@ -1,0 +1,17 @@
+{
+    "id": 4501,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men's Arcade Midway Black Shoe",
+    "price": 2299,
+    "description": "Get retro and don an easy-going style with skechers Arcade-Midway denim shoes. Accented with multiple overlays of soft woven canvas and fabric, this classic, true to size lace-up casual sneaker is a great lifestyle sneaker that comes with an additional pair of laces.UpperDenim upper with soft woven canvas fabric and stitched overlay accents for durabilityStitch detailing across the periphery of the collar and side panels to enhance the style statementSynthetic twill laces running through metallic eyelets for snug Fit and durabilityPadded collar for snug fit and protection from impactDenim tongue with lining for added comfortMidsoleVulcanized rubber, Phylon midsole for lightweight comfortArched footbed for ergonomic fitOutsoleDual-layer rubber outsole for extended durabilityHerringbone pattern on outsole glued against the periphery of the heel counter and forefoot for enhanced grip and stabilityDiagonal flex grooves along the forefoot to facilitate natural movement of the feetScooped heel in the shape of a skull for added cushioning",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/641fa6a499a8a4f222a70c4b9404a110_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2a159e1b0c084f1ad680a099240242b8_images.jpg"
+    }
+}

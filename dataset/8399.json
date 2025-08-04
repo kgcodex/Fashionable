@@ -1,0 +1,17 @@
+{
+    "id": 8399,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Adna Ss Tee Black T-Shirts",
+    "price": 1099,
+    "description": "Composition Dark graphite coloured short Sleeve sleeved Round Neck neck t-shirt made of 100% polyester, with fabric tape detailing on inseam of the neckline, brand name and logo Printed on the left c",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/32248ec7bebfb5730b862ab4798d1307_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/999a6652c2cfe9deeb34c8c137a089e5_images.jpg"
+    }
+}

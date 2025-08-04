@@ -1,0 +1,17 @@
+{
+    "id": 25745,
+    "brandName": "Wrangler",
+    "productDisplayName": "Wrangler Men Black Textured Belt",
+    "price": 1095,
+    "description": "Black textured belt with branding on it, has a tang clasp and holes to customise fit",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/WAC-Men-TEXTURED-BELT-64-Brown-Belts_c1b677975b761e890d771d6ab84f4643_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/WAC-Men-TEXTURED-BELT-64-Brown-Belts_94fd4bc15c29f2e534bce6c713023787_images.jpg"
+    }
+}

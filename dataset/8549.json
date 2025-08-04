@@ -1,0 +1,17 @@
+{
+    "id": 8549,
+    "brandName": "Basics",
+    "productDisplayName": "Basics Men Orange Polo T-shirt",
+    "price": 849,
+    "description": "Orange polo neck t-shirt, made of 100% cotton, with fabric tape detailing on the inseam of the collar, half buttoned placket, short sleeved with print on the chest combined with appliqu&eacute;",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8249996f1f8e487bef4d5ac3b67cc8db_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/31d6be41cf0c4faad9a07b3a03907e2b_images.jpg"
+    }
+}

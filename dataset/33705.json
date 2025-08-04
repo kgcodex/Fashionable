@@ -1,0 +1,17 @@
+{
+    "id": 33705,
+    "brandName": "Cobblerz",
+    "productDisplayName": "Cobblerz Men Black Formal Shoes",
+    "price": 5999,
+    "description": "A pair of square-toed, black smart-casual shoes with slip-on and low-top stylingLeather upper with faux croc hide texture and stitched detail, elasticated gussets on the sides of the tongueSoft footbed with branding on the heelTextured outsole with a stacked heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Smart Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8fdc93ed7ca6d13f64372cf82d76c67e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e3da729ed09b5e321a4a8a1d772ff180_images.jpg"
+    }
+}

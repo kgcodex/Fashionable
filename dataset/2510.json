@@ -1,0 +1,17 @@
+{
+    "id": 2510,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men's Casual Black Leatherette Shoe",
+    "price": 1699,
+    "description": "Composition:The shoe sole is made of rubber and the upper PU is syntheticShoe care:With a soft clean and damp cloth rub the surface to remove the dust, not to machine washFitting:RegularThese black numero uno sneakers with bold black panels in various textures and bold embroidered logo create a confident statement that is at once subtle but sure. These shoes would bring an edge to any outfit so wear them next time you hang out with friends at the mall or go to the movies or any other casual outings.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a33d3167bd1174d01e2d397488206720_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/73f131f42344abacec8acb0f716d3318_images.jpg"
+    }
+}

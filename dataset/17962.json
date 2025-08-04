@@ -1,0 +1,17 @@
+{
+    "id": 17962,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Tango Black Slipper",
+    "price": 999,
+    "description": "puma, a brand of German origin, is known for its high-end athletic footwear with simplistic designs. These slippers showcase the brand's love for all things minimal yet stylish. A comfort junkie's must-haves, these slippers add classic puma-style fashion to your ensemble. Upper Canvas thong straps with fabric toe separator for maximum comfort Appliqu&eacute; d Puma cat logo on the separator Midsole Graphic prints on the footbed Soft insole for comfort Outsole Rubber outsole multi directional patterns and triangular lugs for superior grip shoe care Rub surface with clean, damp cloth to remove dust Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e7e9e00a3c05ccb3f0d1d0fbc5e8ace1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/84b8a685ee896d0d65a961af28645829_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 57060,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women Teal Dress",
+    "price": 3000,
+    "description": "Teal knee length lace dress, round neck, sleeveless, princess panels, slip pockets incorporated into the princess panels in front, concealed zipper on the left, buttoned loop at the back, attached lining, crocheted lace at the hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Teal-Dress_fb7644f982c9a4cfe59bf875a4b2bfa8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Teal-Dress_394bcbdf738a1aecb82b01f2d745dad9_images.jpg"
+    }
+}

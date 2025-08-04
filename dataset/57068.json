@@ -1,0 +1,17 @@
+{
+    "id": 57068,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women Navy Blue Jacket",
+    "price": 2600,
+    "description": "Navy blue woven jacket, mandarin collar, asymmetric detachable zippered opening with a buttoned placket cover down the front, intricate top stitch detailing, panelled, two mock zippered pocket in the front, one buttoned flap on the right, yoke at back, three quarter sleeves with buttoned cuff and floral printed lining",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Black-Jacket_075a4099154e50c3fd595f7995c6a131_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Black-Jacket_0bfa64595c78a1576615d702ebe62427_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 51422,
+    "brandName": "Myntra",
+    "productDisplayName": "Myntra Men Teal Shirt",
+    "price": 599,
+    "description": "Style Note With its classic styling this shirt from myntra is a piece that will easily slot into your daily wear wardrobe. Made of pure cotton this shirt lets you stay comfortable even on sunny days. Pair it with corduroy trousers and polished derby shoes for a look that exudes complete control and confidence. Product Details Teal coloured shirt, has a spread collar, full buttoned placket, back yoke, short sleeves, two patch pockets on the chest with pleat detail and buttoned flap closures and a curved hemline Material and Care 100% cotton Machine wash cold Tumble dry low Use warm iron Size and Fit Regular Fit The model (height 6' and shoulders 18\") is wearing a size M",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ee02826979be32a236d9abedabe94f9f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/67ca29320dcbf6b3b84852aa8e4d17c0_images.jpg"
+    }
+}

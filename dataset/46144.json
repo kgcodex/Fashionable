@@ -1,0 +1,17 @@
+{
+    "id": 46144,
+    "brandName": "Adrika",
+    "productDisplayName": "Adrika Multi Coloured Necklace",
+    "price": 245,
+    "description": "Style NoteThe perfect blend of beauty and style, this handmade necklace from adrika adds a touch of glamour to your wardrobe. Pair it with any outfit for a chic and bold look.Product DetailsThree strand necklace with blue, red, orange and yellow glass beads, metal claspMaterial and CareGlass, metalWipe with soft cloth to maintain shine and keep away dust and dirtSizeLength of necklace: 51 cm",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e310cedff77a519d16d57600c1be6177_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0d6cc8d792603efe1b6fb53526953bfd_images.jpg"
+    }
+}

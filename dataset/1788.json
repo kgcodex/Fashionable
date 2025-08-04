@@ -1,0 +1,17 @@
+{
+    "id": 1788,
+    "brandName": "Lotto",
+    "productDisplayName": "Lotto Men's Court-White-Blue Shoe",
+    "price": 1599,
+    "description": "Feel the ultimate comfort and styling. Walk, run and feel ultra light in these shoes that come with top end features. The shoes offer superior stability to the heel and enhanced cushioning. Great shoes with great pricing to bring out the best in you.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/016a662ed348df78a8221aa2d8c743f3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7705d12acfc0621672f6dfa039ca34a8_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 34451,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Black Sandals",
+    "price": 1190,
+    "description": "The mood of the moment - metallic tones - are perfectly captured in these sleek, stylish sandals from rocia. Black braided detail circling your ankle with a simple thong strap for your toes, this pair showcas",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/958662e64b3bec50e036a593c7aebfbc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2c6e8a349baf7bf1db35d71d3fb84983_images.jpg"
+    }
+}

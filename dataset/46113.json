@@ -1,0 +1,17 @@
+{
+    "id": 46113,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Red Shoes",
+    "price": 2599,
+    "description": "Style NoteSay hello to adidas' interpretation of colour block! These delectable pair of Geometrix shoes from the brand brings a sporty twist to casual footwear. Style this with slim Fit denims and a neutral shaded tee or a tonal monochrome one for maximum effect.Product DetailsRed textured upper on a round-toed casual shoeCentral blue lace-ups and a padded tonguePadded inner and soft footbedEVA midsoleTPU outsole with grooves all overMaterial and careSyntheticWipe with a clean cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/511d3665bbc822cfe15ad5c903226856_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/496479d23ee9a633922befbef0507df5_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 37494,
+    "brandName": "ESPRIT",
+    "productDisplayName": "Esprit Men White Dial Watch",
+    "price": 9995,
+    "description": "Style Note Taking a traditional design and giving it a modern twist is what makes esprit watches timeless timepieces. Contemporary and trendy, this is an affordable timepiece with an exquisite design that highlights your individuality. Product Details Case style: Stainless steel round case Dial style: White dial with silver and white hands and black hour marks Strap style: Steel strap with a butterfly clasp Features: 3-faced chronograph display, day aperture on the dial, branding on the dial and screw to reset time Water resistant to 10 BAR Size Case diameter: 43 mm Case thickness: 5 mm",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5fe9b5b3851084fcb907453f9e6a10ca_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2c31ba02043c0540bdc41ce1f6f0af83_images.jpg"
+    }
+}

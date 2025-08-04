@@ -1,0 +1,16 @@
+{
+    "id": 2047,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Navy Blue T-shirt",
+    "price": 899,
+    "description": "Look bright and stylish in this classic navy blue patent striped adidas t-shirt! Composed of 100% polyester, the t-shirt is easy on maintenance as well.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/854e80a8703f5b086fb1f2faa0ab13ba_images.jpg"
+    }
+}

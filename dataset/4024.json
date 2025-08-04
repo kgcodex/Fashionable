@@ -1,0 +1,17 @@
+{
+    "id": 4024,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex High Can Blue Shoe",
+    "price": 1699,
+    "description": "These stylish navy blue mid-cut canvas shoes from adidas make a trendy and youthful fashion statement. These lifestyle shoes are great for casual wear. They give superior traction and protection to the feet while remaining comfortable and stylish. Team these with jeans and tees for a great casual look.UpperHeavy cotton canvas uppers in blue with slightly cushioned inners for snug Fit and protectionBlue and synthetic blue leather velcro strap around ankle for perfect fitIconic three stripes representing durability and elegance in green synthetic leather on the sidesMidsoleShock-absorbing rubber midsole for added comfortOutsoleRubber toe guard for added protectionDurable gum rubber outsole with multi-directional gripWash careWipe surface with soft, clean, damp clothDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2854ca93e1ddf07a813325f5d3dc7e53_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c9fc3856437e1d9f7cca2655e41ff461_images.jpg"
+    }
+}

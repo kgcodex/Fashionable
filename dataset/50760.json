@@ -1,0 +1,17 @@
+{
+    "id": 50760,
+    "brandName": "Red Chief",
+    "productDisplayName": "Red Chief Men Khaki Sandals",
+    "price": 1295,
+    "description": "Caramel brown sandals with a wide forefoot strap that covers the midfoot region, has cut-outs and stitch detailingHas a padded footbed with stitch detailUpper adhered to the TPU outsoleHas a tough outsole with an upraised heel and patterned grooves and lugs all over",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/469cb9ab561e60b9d11ad6c85b3928b2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/536b184d5b34ebab3f8406bd632336f2_images.jpg"
+    }
+}

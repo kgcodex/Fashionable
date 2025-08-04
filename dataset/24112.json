@@ -1,0 +1,17 @@
+{
+    "id": 24112,
+    "brandName": "Playboy",
+    "productDisplayName": "Playboy Men Navy Blue Flip Flops",
+    "price": 249,
+    "description": "Comfort and style rolled into one - that's playboy for you. Revel in the comfort of flip flops with this summery navy blue pair. UpperRubber thong straps that are smooth on the inside for absolute comfort Textured on the upper with brand badgeToe separator to hold the foot in placeSoft, cushioned rubber footbed with printed brand name across the length of the right slipper footbed and the sketch image of a playboy on the left oneOustoleSingle piece flexible and cushioned rubber footbed and outsole for all-day comfortBunny logo-styled lugs throughout the footbed for absolute grip and traction on various surfacesFlip flop careWipe surface with a damp, clean cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2c8c5c97e947ee99b4c4a043dceea2c2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f37f27452f3cc3c47899ada74138627d_images.jpg"
+    }
+}

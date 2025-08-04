@@ -1,0 +1,17 @@
+{
+    "id": 2365,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Pink Women Bag",
+    "price": 999,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Spring",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c6b8fa6a83d89d5a6ebc91b202c68557_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4d7a543407939f162ab28296922b44f2_images.jpg"
+    }
+}

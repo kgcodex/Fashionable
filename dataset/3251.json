@@ -1,0 +1,17 @@
+{
+    "id": 3251,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Suede Archive Red White Shoe",
+    "price": 3499,
+    "description": "Composition:Red and white vulcanised shoes made of suede uppers and rubber outsolesA fresh take on the popular puma vulcanized shoe, these were first released in 1968. A great addition to your wardrobe, these come with luxurious suede uppers for great Fit and comfort and an EVA midsole for cushioning and support. The rubber outsoles in the check pattern gives greater grip.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/207f8b4763b60f034bbe55c7dac2f897_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3a220b0f1e6ea1ae74eb6ef1e63bbcd7_images.jpg"
+    }
+}

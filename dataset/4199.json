@@ -1,0 +1,17 @@
+{
+    "id": 4199,
+    "brandName": "Disney",
+    "productDisplayName": "Disney Kids Boy's Yellow Royal Sailing Kidswear",
+    "price": 599,
+    "description": "CompositionRound neck yellow t-shirt in 100% cotton, with stitched numbers on chestFittingRegularWash care1. Machine wash separately in cold water2. Use mild detergent3. Do not bleach4. Avoid soaking and remove promptly5. Line dry inside out in shade.6. Warm iron only, do not iron directly on print/embroideryBring out the surfer and adventurous attitude of your little man with this yellow t-shirt from disney. Summer is the perfect time to slip into this T-shirt when he is tired of camps and regular lessons. Suit his vacation mood with this summery tee this season. Pair it with denim shorts and cute shoes from crocs to give your boy that comfort touch.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7d774639f05c9cc60ebec45a514df33d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1f92386a2e0a14bea8e8b6c5243aae85_images.jpg"
+    }
+}

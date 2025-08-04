@@ -1,0 +1,17 @@
+{
+    "id": 51706,
+    "brandName": "Van Heusen",
+    "productDisplayName": "Van Heusen Men Black Sunglasses",
+    "price": 3500,
+    "description": "Lens colour: Grey Frame colour: BlackFrame type: Metal, aviator styleThe glasses come in a caseBranding on both sides and with fixed soft nose-pads",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Van-Heusen-Men-Black-Sunglasses_969842e4f095f806ee89c09b64012b76_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Van-Heusen-Men-Black-Sunglasses_d43673a6200c4ed4643e355f232ac594_images.jpg"
+    }
+}

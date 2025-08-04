@@ -1,0 +1,17 @@
+{
+    "id": 4026,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Kestrel Black White Shoe",
+    "price": 1399,
+    "description": "These lifestyle canvas shoes from adidas are great for casual wear. They give superior traction and protection to the feet while remaining comfortable and stylish. Team these with jeans and tees for a great casual look.UpperHeavy cotton uppers in black for snug Fit and protectionWhite cotton lace-ups for snug fitBreathable canvas and upper re-enforcement with rubber friction compound for strength and longevityEyelets near inner arch for ventilationThree stripes in white as stylish brand symbol representing durability and eleganceMidsoleShock-absorbing rubber midsole for added comfortOutsoleRubber outsole with circular lugs in alternating up and down pattern for superior gripAbrasion resistant foxing and toe-guard for additional protection and durabilityWash careWipe surface with soft, clean, damp clothDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d16904f23606ef30b35ea858a6620c8a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2f4cb35c5e95e4ce70a11a486ccb41c0_images.jpg"
+    }
+}

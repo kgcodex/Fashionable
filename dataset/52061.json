@@ -1,0 +1,17 @@
+{
+    "id": 52061,
+    "brandName": "Myntra",
+    "productDisplayName": "Myntra Men White Printed T-shirt",
+    "price": 399,
+    "description": "White knit t-shirt, has a round ribbed neckline, short sleeves and graphic print in front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Myntra-Men-White-T-shirt_5e538a5528ec8d5dc08ebbdbdb306274_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Myntra-Men-White-T-shirt_ad5243da7b1c8152474430d63c34bd21_images.jpg"
+    }
+}

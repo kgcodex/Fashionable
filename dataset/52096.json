@@ -1,0 +1,17 @@
+{
+    "id": 52096,
+    "brandName": "Myntra",
+    "productDisplayName": "Myntra Women Orange Top",
+    "price": 399,
+    "description": "Style NoteAdd a pop of colour to your Summer wear wardrobe with this tank-top from myntra. Its pure cotton composition and racer back styling makes it perfect for these summer months. Pair it with distressed jeans and wedge heels for an effortless yet chic look.Product DetailsOrange knit tank top, racer back, printed branding for abrasion free comfortMaterials and Care100% cottonMachine wash coldDo not ironSize and FitRegular fitThe model( height 5'8\" and chest 33) is wearing a size M",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ac892cfa2bba7487de15f3a4cd6daf8f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/97cb7238a8f41c46632d956e5f7327fe_images.jpg"
+    }
+}

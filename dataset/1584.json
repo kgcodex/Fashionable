@@ -1,0 +1,17 @@
+{
+    "id": 1584,
+    "brandName": "Domyos",
+    "productDisplayName": "Domyos Unisex Feather-light Jacket",
+    "price": 1299,
+    "description": "1. Fabric containing elastane for easy movement2. 95% cotton and 5% spandex3. Extra soft feel The ultra-comfy jacket is perfect for training exercises in an AC gym and in the heat as well. Its soft feel material makes it ideal for your gym bag and its lightness makes it perfect for travels too, convenient to carry, ideal for a day at school, college or work and for parties later!Model statisticsThe model wears size M in t-shirtsHeight-5.7\", Chest-33\", Waist-26\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/842d555e4334d952fe7c214e809113a5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6b4634af1f7b34525ba2e7caf4801cfb_images.jpg"
+    }
+}

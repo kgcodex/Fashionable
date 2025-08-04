@@ -1,0 +1,17 @@
+{
+    "id": 8393,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men White T-shirt",
+    "price": 999,
+    "description": "White short Sleeve sleeved t-shirt made of 100% polyester, has a Round Neck neck with ribbing and fabric tape detailing on the inseam, brand name and logo Printed on the right chest, three black stripes on the sleeves signifying the adidas logo, contoured mesh panels on the sides and engineered with ClimaCool technology",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/db9d75a3bed533c2c3063d44ab893770_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5b6147e7889300b00b83ff00014431c9_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 33243,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Navy Blue Check Shirt",
+    "price": 1999,
+    "description": "White and navy blue checked shirt, has a spread collar, short sleeves, full buttoned placket, a patch pocket on the left chest and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f01cb37744324c6e0b2a83df58e09bca_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/007b366df76a582eae8f14f3879b027e_images.jpg"
+    }
+}

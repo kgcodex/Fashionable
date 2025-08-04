@@ -1,0 +1,17 @@
+{
+    "id": 4530,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women White Running Shoes",
+    "price": 2999,
+    "description": "A pair of white, silver-toned, and purple running sports shoes, has regular styling, lace-up detailMesh upperCushioned footbedTextured and patterned outsoleWarranty: 3 monthsWarranty provided by Brand Owner / Manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a567229fe406e32ea976402cf19015e7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/492b6378c0317c3e9ef9b7e3989f9af6_images.jpg"
+    }
+}

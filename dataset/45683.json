@@ -1,0 +1,16 @@
+{
+    "id": 45683,
+    "brandName": "TOUS",
+    "productDisplayName": "Tous Women Touch Perfume",
+    "price": 3000,
+    "description": "Tous Woman Touch comes in a clear glass flacon with a spray nozzle, a gold cap and a brand tag hanging by the neck",
+    "masterCategoryId": 11,
+    "masterCategoryType": "Personal Care",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2d64e46e6b7d2eaf1607e10cd60b00fc_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 57986,
+    "brandName": "Latin Quarters",
+    "productDisplayName": "Latin Quarters Women Grey Dress",
+    "price": 1850,
+    "description": "Grey, purple and lavender printed, sleeveless, woven dress, has a round neckline, back yoke, zipped closure at the back and pleat below the waistline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Grey-Dress_d26ec68ad885fae6500aca479a07132c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Grey-Dress_dea4dffa9fefdb70e603c6df594233ce_images.jpg"
+    }
+}

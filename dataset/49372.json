@@ -1,0 +1,17 @@
+{
+    "id": 49372,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Brown Casual Shoes",
+    "price": 3599,
+    "description": "Brown, round toed shoes with central lace up fastening, offers a classic skate feel and improved cushioning Suede upper with reinforced overlay at the heel collar, has elastic gore tongue straps which keeps the tongue centred Soft inner lining, padded ton",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Brown-Casual-Shoes_33656c21a1da3c73a78a89b187447d5f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Brown-Casual-Shoes_96828bfbdfb5e3b2fb050bc464218d23_images.jpg"
+    }
+}

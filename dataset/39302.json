@@ -1,0 +1,17 @@
+{
+    "id": 39302,
+    "brandName": "Red Chief",
+    "productDisplayName": "Red Chief Men Brown Casual Shoes",
+    "price": 1795,
+    "description": "-",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/75ce070a59bc560ba4e1d29456bea55e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/67f1d5db6d7bd0fa87439a23841c8800_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 2988,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men Casual Graphic Black Shoe",
+    "price": 1799,
+    "description": "Composition:The shoe sole is made of rubber and the upper PU is syntheticShoe care:With a soft clean and damp cloth rub the surface to remove the dust, not to machine washFitting:RegularThese stylish numero uno sneakers is the perfect casual wear. The white lacing and the contoured shape give your feet ample support. Team these sneakers with your casuals the next time you go out for a movie with friends or want to hang out at the mall.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/db4212ac72b0f46d6a4a5f31692ee263_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/de3e02364d355bf1f6adc63c87e03288_images.jpg"
+    }
+}

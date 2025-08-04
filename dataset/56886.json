@@ -1,0 +1,17 @@
+{
+    "id": 56886,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Black Heels",
+    "price": 1399,
+    "description": "Black, heeled slip-ons with thong style strapsdenim strap at forefootLeopard printed smooth footbed with heel patchNon-slip TPU outsole with grooves at forefootHeel cap",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Black-Sandals_d845b84a668343a67690d96e5d6ed36e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Black-Sandals_8324ef1e0e149f485a08296fe98508e7_images.jpg"
+    }
+}

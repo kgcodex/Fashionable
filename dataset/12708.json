@@ -1,0 +1,17 @@
+{
+    "id": 12708,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Lunareclipse White Sports Shoes",
+    "price": 8795,
+    "description": "Wondering whether to choose between a cushioned shoe or a stability shoe? Think no more, for nike brings to you the best of both rolled into one with the nike Lunareclipse+ running shoe. Created for runners of all gaits, the floating heel support clip fits snugly around the heel, making it an increadibly comfortable shoe.Being a Nike+ range shoe, you can add on to it compatible iPod nanos, Sports watches, sport bands and others from the Nike+ range and clock your runs, calories, track your routes and much more.UpperMesh forefoot, tongue, backfoot and mouth for maximum ventilation Synthetic overlays for added shoe structure Backfoot wrap around badge for enhanced support to the heel Flywire technology on the side panels for ultra-lightweight support, reduced slippage and to lock the foot in placeSynthetic twill laces with a perforated tongue for snug Fit Padded sockliner for in-step comfort and snug fit Reflective elements for enhanced visibility in low-light conditionsMidsoleLow profile midsole made of Lunarlon cushioning for lightweight comfort, maximum shock absorption and better feel of the road Innovative floating heel support clip for an enhanced ride and buttery smooth transition to midstance by reducing excessive rolling of the foot Plush, seamless interior for an increadibly comfortable fit Wedge shaped foam to limit excessive pronationOutsoleBlown Rubber outsole for efficient stride and maximum cushioning Multiple rubber and waffle traction patterns offering a smooth stride Multiple flex grooves for a more natural and effortless run Scoop under the heel for better impact protectionShoe careDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/68db1ea6381f616ecdbcf779b8643d79_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3c241f3c3096ca27ea7cfac54694a005_images.jpg"
+    }
+}

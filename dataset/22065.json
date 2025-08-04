@@ -1,0 +1,17 @@
+{
+    "id": 22065,
+    "brandName": "Vishudh",
+    "productDisplayName": "Vishudh Women Printed Pink Kurta",
+    "price": 699,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b0206dfd5aebdb2140ec96348ed92118_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8adb68193edfcfc07ac70757480f47cf_images.jpg"
+    }
+}

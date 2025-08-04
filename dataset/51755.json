@@ -1,0 +1,17 @@
+{
+    "id": 51755,
+    "brandName": "Catwalk",
+    "productDisplayName": "Catwalk Women Black Shoes",
+    "price": 1495,
+    "description": "Black slip on shoes with suede finish upperPatch and top stitch detailing along the front and sidesElasticated mouth with branded rubber pull tab at heelReinforced heel collarMildly padded footbedTPU outsole with groovesComes with a shoe bag",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f36ba52caa3ff754747e4426ad429a64_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6bce08f612cb311b8ec6cf1f32bbb71b_images.jpg"
+    }
+}

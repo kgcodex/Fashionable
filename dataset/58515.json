@@ -1,0 +1,17 @@
+{
+    "id": 58515,
+    "brandName": "Tonga",
+    "productDisplayName": "Tonga Women White Top",
+    "price": 990,
+    "description": "White knitted top with layered ruffles, black straps with a single tie up at the back, black panel at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Women-White-Top_c294528a01175f04c7970d937ffdcb7e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Women-White-Top_e6ebbc809300e1fe120e1384cd669b9d_images.jpg"
+    }
+}

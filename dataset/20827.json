@@ -1,0 +1,17 @@
+{
+    "id": 20827,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Women White Pack of 3 Socks",
+    "price": 329,
+    "description": "Pack of 3 white ankle length socks, contrast colored ribbed mouths - one pair in lime green, a pair in pink and a pair in turquoise, contrast stripes in same colors at heel and toe area, white Fila branding at mouths above heel, comfort grip leaves no marks, soft seam for extra comfort, terry base with secure fit and cushioned heels",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FILA-Men-Solid-White-Pack-of-3-Socks_1b71f4ab4745c58d23befdf27b090851_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FILA-Men-Solid-White-Pack-of-3-Socks_ec363cbcdefb714269fab56faa447a5c_images.jpg"
+    }
+}

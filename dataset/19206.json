@@ -1,0 +1,17 @@
+{
+    "id": 19206,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Men Black Cap",
+    "price": 999,
+    "description": "A perfect way to work the retro look, this baseball cap from united colors of benetton is crafted from high quality material in a great shape to offer a perfect Fit.Circumference: 58 cmMade of 100% wool, with a 100% polyester liningCurved visor with the front upper of the crown stitched to itCareDry clean only",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ef7b8e182abe9c249d5dd7e780f4295e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d59c8b2379594dc8ea71af79a2286d1d_images.jpg"
+    }
+}

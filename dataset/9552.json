@@ -1,0 +1,17 @@
+{
+    "id": 9552,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men As Race Day Ss Red T-Shirts",
+    "price": 1895,
+    "description": "CompositionRed round neck t-shirt made of Dri-Fit polyester fabric, has short sleeves, ribbed neckline, meshed sides with contrast tape, contrast tape on shoulder panels, and heat transferred swoosh logo on left shoulder blade FittingComfortWash CareMachine wash in cold water or hand wash separatelyDo not use softenersDo not bleachTumble dry on lowCool ironDo not iron on designDo not dry cleanPerfect for those who never compromise on style and performance, this t-shirt from nike is designed to keep you fresh and sweat-free, while you enjoy a high voltage game. Pair this with performance shorts and shoes for a high-level game, and with floaters and Dri-Fit tracks when off the field.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dbd98fee4d5165f3c692886d08f9fa2e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/103d54a9bb85c5f1edbb14d7d6c295fe_images.jpg"
+    }
+}

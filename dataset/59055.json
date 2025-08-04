@@ -1,0 +1,17 @@
+{
+    "id": 59055,
+    "brandName": "Carlton London",
+    "productDisplayName": "Carlton London Women Black Shoes",
+    "price": 1995,
+    "description": "Black upper with overlays at the heel cup and toe box Central lace-ups for a customised Fit, has wingtip broguesSoft lining and padded sockliner for instep comfortTough sole with a short heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Carlton-London-Women-Black-Shoes_5047a436eb53e12177258b3dd36b849f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Carlton-London-Women-Black-Shoes_603dd4c640e33632d7d17a02de95e42f_images.jpg"
+    }
+}

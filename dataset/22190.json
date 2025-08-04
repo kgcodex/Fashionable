@@ -1,0 +1,17 @@
+{
+    "id": 22190,
+    "brandName": "Timberland",
+    "productDisplayName": "Timberland Men Light Brown Casual Shoes",
+    "price": 8490,
+    "description": "Blending textured suede with plush two tones, these timberland boots are designed for comfort under extreme conditions. High top styling with stitch detail is a sartorial reference to the spirit of the adventurous. Wear these with form fitting denims and a dark formal shirt.UpperHigh-top leather upper with strategically placed overlay at the heelCentral lace ups with metal eyeletsPadded tongue for comfortPadded insole for in-step comfortRemovable sockliner to accommodate an orthoticMidsoleRubber midsole for cushioned comfortOutsoleTPU outsole with geometric lugs for grip and traction, a curved midfoot and a stacked&nbsp; heelshoe careWipe surface with soft, clean, damp cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/23561a14c23a70a6127447d0304b9c52_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a2f3469c6a056f5e7c158073a4b35e17_images.jpg"
+    }
+}

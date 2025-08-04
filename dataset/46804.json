@@ -1,0 +1,17 @@
+{
+    "id": 46804,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Grey Sports Shoes",
+    "price": 3995,
+    "description": "Style NoteWith featherlight styling and pastel pop of colours, this nike Revolution shoe for women is a great foot style choice. This stylish shoe will be a great add to your sportswear arsenal. Runners will love this shoe simply because it sits light and pretty on your feet!Product DetailsMesh and leather upper with strategically placed overlaysPadded tongue and collar with fabric liningHas a cushioned insole with mesh padding insideThick rubber midsoleFlex grooves on the TPU outsole with waffle patterned lugs, a decoupled heel and an impact guidance lineMaterial and CareSynthetic, mesh, leatherClean with a leather brushDo not store under sunlight or wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4651cb798591f54bf2ce9496ab29a192_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/35cb2538c2abb6c8aa69aee2a0612c8b_images.jpg"
+    }
+}

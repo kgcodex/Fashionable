@@ -1,0 +1,17 @@
+{
+    "id": 28503,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Tempo 2 in 1 Grey Shorts",
+    "price": 1995,
+    "description": "CompositionGrey shorts for men made of 86% polyester and 14% spandex, engineered with Dri-Fit technology, has an in-built boxer inner, elasticated waist with a drawstring, side meshed panels in blue with white piping, a zipped pocket at the back and printed nike swoosh on the left hemFitRegularWash careMachine wash cold at 30 degrees with like coloursDo not bleach, dry clean or ironLine dryStylish to a T, these polyester shorts from nike are designed with Dri-Fit technology to keep you fresh and comfortable while you sweat it out at the gym or on the trail. The broad waistband sits snugly, while you can further customise the fit with the drawstring. The in-built boxers offer greater comfort. Team it with Nike Sports tees and shoes for that smart, sporty look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b7d749a37d39db46296c36316b6d1633_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fe18714cbfe8d5b6bae7cca353bd3f2e_images.jpg"
+    }
+}

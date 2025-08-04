@@ -1,0 +1,17 @@
+{
+    "id": 3606,
+    "brandName": "Converse",
+    "productDisplayName": "Converse Men Black Shoes",
+    "price": 1399,
+    "description": "Stylish with a denim touch and dedicated to Basketball champ Chuck Taylor, this Chuck Taylor All-Star series from converse is also called Chucks, and comes in classic designs. Created using canvas and rubber, this range of shoes from Converse was initially designed to capture the basketball market, but soon enough turned into a hot casual footwear favourite. &nbsp;Upper Denim upper for easy maintenance and durability&nbsp; High ankle for extra support to the upper ankle and for style&nbsp; Carbon rubber toe box for enhanced protection of the upper footLong canvas tongue for added comfort and snug Fit&nbsp; Lace-ups through metal eyelets for snug fit and durability MidsoleComfort insole made of contoured latex foam for high energy return and cushioningOutsole Vulcanized rubber outsole for flexibility and tractionDiamond-shaped lugs on the forefoot and heel, with horizontal lugs and grooves on the toe region and heel region, and slanting grooves along the periphery and midfoot for superior grip on all terrains &nbsp; shoe care Make a paste using 1 tbsp of baking soda, 1 tbsp white vinegar and 1 tbsp hot water Rub this paste onto the canvas and the sole using a brush Wash off with lukewarm water&nbsp;",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/35a8db158c07680259a113c20ee6f60a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/776a0ddae20761dd6ec1650d78e483d8_images.jpg"
+    }
+}

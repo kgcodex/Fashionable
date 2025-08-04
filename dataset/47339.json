@@ -1,0 +1,17 @@
+{
+    "id": 47339,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Navy Blue Sling Bag",
+    "price": 1325,
+    "description": "Navy blue sling bag with red and grey checks Two overlapped flaps in front covering one open and one zippered compartment with magnetic button closureInner separator, synthetic lining with zippered pocketLong blue strap to sling around your shoulder",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/22b69b8314d3164699075688c7cac8a8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a71694ab51b4bf869c815a5aa31a116b_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 32186,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Sprint Speed White Sports Shoes",
+    "price": 3299,
+    "description": "UppersoleMeshed upper with synthetic overlays for better breathability and structure Lace-ups for better Fit Iconic three stripes symbolising the challenges that are seen ahead and goals that can be achieved on the sides Padded and meshed collar and tongue and textile shoe lining for better comfort Branding on the tongue and at the back of the collar MidsoleEVA sockliner and comfort cushioning for all day comfort OutsoleRidged and multi-directional rubber outsole",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/eeffdfdec61b1182d8b853e3163a1e9b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c579f5d6a7bd6e47568a01484e8c5c1f_images.jpg"
+    }
+}

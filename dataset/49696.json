@@ -1,0 +1,17 @@
+{
+    "id": 49696,
+    "brandName": "Park Avenue",
+    "productDisplayName": "Park Avenue Blue Patterned Tie",
+    "price": 899,
+    "description": "Blue tie in patterned weaveA loop behind the broad tongue to tuck the smaller end in",
+    "masterCategoryId": 190,
+    "masterCategoryType": "Free Items",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/da5a77f39287c062f360b99600959503_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/03651a1d49a8fc870f758ffcc2fb752f_images.jpg"
+    }
+}

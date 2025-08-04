@@ -1,0 +1,17 @@
+{
+    "id": 9550,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men As Explovise Black T-Shirts",
+    "price": 995,
+    "description": "CompositionBlack round neck t-shirt made of 100% cotton and engineered with Dri-Fit technology, with short sleeves, ribbed neckline, has graphic print across the front and nike swoosh on left shoulder bladeFittingComfortWash careMachine wash or hand wash at 30 degreesDo not bleachDry inside out in shadeWarm iron, but do not iron on printEnhance your sporting performance in style with this Explosive t-shirt from nike. Straight out of the Nike Training collection, this tee is made of pure cotton and engineered with Dri-Fit technology to ensure you enjoy sweat-free comfort and concentrate on your game. Pair this with performance and shoes when on the go, or with jeans and sports shoes on a casual day.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/af7b6f32fa737825023b1358d1c58684_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f6b7825562463c403478ec3019d2316a_images.jpg"
+    }
+}

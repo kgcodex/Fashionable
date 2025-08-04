@@ -1,0 +1,17 @@
+{
+    "id": 54073,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Blue Sports Shoes",
+    "price": 3299,
+    "description": "Blue football F50 TRX HG shoes with central lace up fastening Sprint skin synthetic upper with adidas patented three stripes and overlays Mesh inner for breathable comfort and soft footbed Upper adhered to the outsole TPU support bands with new TRAXION studs for perfect grip",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-Blue-Sports-Shoes_e7f9c8328a8208ec24aabf9178575868_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-Blue-Sports-Shoes_caae43d28c57b7c1f5c18e0d2782e0af_images.jpg"
+    }
+}

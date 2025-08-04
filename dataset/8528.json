@@ -1,0 +1,17 @@
+{
+    "id": 8528,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Nike air max limitless Black Sports Shoes",
+    "price": 6295,
+    "description": "The Air Max Limitless cross-trainers from nike offers absolute cushioned comfort, better Fit and dynamic support. With a low-profile flexible design and Air Max cushioning, these shoes are the ideal pair to wear to the gym, for running and jogging. In attractive colours and a streamlined look, these light-as-air shoes are the perfect blend of style and comfort. Upper Breathable fabric upper with synthetic and mesh overlays for better structure and style Inner bootie that wraps around the foot offering exceptional comfort Lace-up system with synthetic laces for a snug, customized fit Well padded tongue and lushly-cushioned collar for in-step com Brand name on tongue Midsole Phylon midsole for lightweight cushioning and comfort Full-length, articulated MaxAir unit provides supreme cushioning and promotes a smoother, more natural range of motion through footstrike Padded footbed for all-day comfort Fabric lining for comfort Outsole High-density rubber outsole for better shock absorption Waffle pattern for maximum traction Flex grooves for ease of movement shoe care Wipe surface with damp, clean cloth to remove dust Do not machine wash Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e0b3c79a13467d59465ae1073b6e8b30_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/abe39a69c7fcdd70461fc144c7b43a76_images.jpg"
+    }
+}

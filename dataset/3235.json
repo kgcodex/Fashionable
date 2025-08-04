@@ -1,0 +1,17 @@
+{
+    "id": 3235,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Saba Ballet Fun Black Shoe",
+    "price": 3499,
+    "description": "Composition:Black, blue, white ballerina flats made of patent leather with rubber outsolesThese ballerina flats from puma are both feminine and versatile. They feature mesh uppers with a patent leather trim, graphic accents and a blue cushioned footbed. The rubber outsoles bring in extra grip making these shoes perfect for urban living.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/283d69cfd18c06f262e4823540c6a353_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ad24aa647561d2e16451d9525935d051_images.jpg"
+    }
+}

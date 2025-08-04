@@ -1,0 +1,17 @@
+{
+    "id": 33196,
+    "brandName": "Sepia",
+    "productDisplayName": "Sepia WomenPurple Printed Tunic",
+    "price": 1399,
+    "description": "Purple printed tunic made of sheer, woven 100% polyester fabric, has a round-neck, is sleeveless with ruffles at the arm opening and around the neckline, fully lined and has grey piping along the neckline and at the arm opening",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a52e5f06d0ab42b7380e99f67bc5ed5b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/adfabcddd59b4cdb698923009fd5ed96_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 38572,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Black AD Striker Track Pants",
+    "price": 1995,
+    "description": "Black full-length track pants, has an elasticated waist with drawstrings, two side pockets, back pocket with velcro closure, branding at the back and left leg",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c14bc83c739f94fa6e8016f6beec6601_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0167bd852692378992eec5800aeca53e_images.jpg"
+    }
+}

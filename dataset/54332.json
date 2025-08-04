@@ -1,0 +1,17 @@
+{
+    "id": 54332,
+    "brandName": "Garfield",
+    "productDisplayName": "Garfield Women Red & Pink Pack of Two Briefs",
+    "price": 699,
+    "description": "The final product delivered may vary in colour and prints from the display here",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Garfield-Women-Red---Pink-Briefs-Pack-of-two_fad548fedbee708143b1ccf78b08ce7c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Garfield-Women-Red---Pink-Briefs-Pack-of-two_09bc5edf392109be81b1a6fcc91ace45_images.jpg"
+    }
+}

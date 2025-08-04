@@ -1,0 +1,17 @@
+{
+    "id": 34087,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men White Shoes",
+    "price": 1899,
+    "description": "Round toed white shoes with central lace-ups, branding on the upper, padded inner Multicoloured stripe overlay at the sides Rubber sole with grooves Warranty: 3 monthsWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Numero-Uno-Men-White-Shoes_938bc7e6f590641ba92f41afc38cf8d3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Numero-Uno-Men-White-Shoes_fe2262c775003d9651785e2888bf07e2_images.jpg"
+    }
+}

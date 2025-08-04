@@ -1,0 +1,17 @@
+{
+    "id": 43532,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Women Grey Melange Top",
+    "price": 1999,
+    "description": "Grey top, has a round neckline, short sleeves and graphic print with beaded detail in front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/83c74e5ec4470573925140f1b537fdb6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c8cd45ada2361e6fe3bd5c0fe7a7d5c8_images.jpg"
+    }
+}

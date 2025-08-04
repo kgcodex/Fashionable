@@ -1,0 +1,17 @@
+{
+    "id": 53395,
+    "brandName": "Alma",
+    "productDisplayName": "Alma Women White Printed Kurta",
+    "price": 499,
+    "description": "White woven kurta with purple print and trims, has a mandarin collar with a split V-neckline, a buttoned placket, three quarter sleeves and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Alma-Women-Printed-Purple-Kurta_6155614f144702b96463c075f198098a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Alma-Women-Printed-Purple-Kurta_20d9b2cfab069cd3269b4e5fc3efff61_images.jpg"
+    }
+}

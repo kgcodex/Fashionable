@@ -1,0 +1,17 @@
+{
+    "id": 37099,
+    "brandName": "Wills Lifestyle",
+    "productDisplayName": "Wills Lifetsyle Men Green Polo T-shirt",
+    "price": 1799,
+    "description": "Green, white and brown striped polo t-shirt, has a knitted look, white tipped collar, short sleeves with ribbed cuffs that has tipping, buttoned chest placket and a ribbed hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fb5565cbad8d65834371667f4d7b8f83_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c09598684a454fa145cb98c1c3c92ece_images.jpg"
+    }
+}

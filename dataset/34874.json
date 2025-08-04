@@ -1,0 +1,17 @@
+{
+    "id": 34874,
+    "brandName": "Envirosax",
+    "productDisplayName": "Envirosax Women Blue Bag",
+    "price": 450,
+    "description": "Pretty pink bag with colourful flower printTwo handlesFoldable bag that comes with a buttonable loop to secure the rolled up bag Easy roll up design for portability",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dd35a18c60ba820f736990bde26c2457_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/782541ff5c0cdc651d3a85b8bced439b_images.jpg"
+    }
+}

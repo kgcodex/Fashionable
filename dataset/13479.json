@@ -1,0 +1,17 @@
+{
+    "id": 13479,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women White Flats",
+    "price": 990,
+    "description": "It's all about redefining feminity when you slip into a rocia. These slippers from Rocia come in a sleek and simple design, creating an absolutely comfortable and stylish footwear for",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d264adc57f609a36aeeae1ff92784b02_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/697da3f047d6d0e41f255940447a3df8_images.jpg"
+    }
+}

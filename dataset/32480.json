@@ -1,0 +1,17 @@
+{
+    "id": 32480,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Multicoloured Striped Polo T-shirt",
+    "price": 699,
+    "description": "Brown, blue and cream-coloured striped striped polo T-shirt, has a polo collar, short button placket, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6937c15cdf23a759b9cbf620d482ccd3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/498f24e95a3c3090ce7e07b92b0b5998_images.jpg"
+    }
+}

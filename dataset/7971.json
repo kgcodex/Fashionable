@@ -1,0 +1,17 @@
+{
+    "id": 7971,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men Grey & Black Aqua Grippare Sports Sandals",
+    "price": 1699,
+    "description": "Grey and black textured sports sandalsForefoot strap with velcro fastenerA straps across the midfoot and back foot strap around the ankle with a velcro closure and brandingTextured footbedTextured scooped outsole for better tractionWarranty: 3 months",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fila-Unisex-Aqua-Gripparre-Grey-Sandals_2474a5febbd00db4c45e242e909c426b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fila-Unisex-Aqua-Gripparre-Grey-Sandals_75e59fb590ce5e73ffefa00f331f0da1_images.jpg"
+    }
+}

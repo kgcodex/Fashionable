@@ -1,0 +1,17 @@
+{
+    "id": 17668,
+    "brandName": "Catwalk",
+    "productDisplayName": "Catwalk Women Closed Brown Casual Shoe",
+    "price": 1695,
+    "description": "Created for the woman of sophistication, this shoe from catwalk is crafted with high quality material to offer unparalleled comfort and is uniquely designed to give your feet that urban touche. Upper Synthetic leather upper with a covered toe and heel cup for enhanced durability and style Lace-up system with a cut out mesh design for absolute comfort and breathability Ankle strap to keep foot in place Ergonomically curved synthetic leather lined footbed Outsole TPU outsole with a grooved forefoot for maximum grip Shoe care Wipe surface with a clean, dry cloth Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/013cfbe547f48abbf7462e8bf85b1fb5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0c13e55d48d204d0dd9ce809f8467379_images.jpg"
+    }
+}

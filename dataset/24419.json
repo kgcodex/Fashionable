@@ -1,0 +1,17 @@
+{
+    "id": 24419,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Barracks Premier White Sports Shoes",
+    "price": 4599,
+    "description": "Men's Barracks Premier These adidas Barracks Premier shoes can do it all. They feature a comfortable suede upper, a breathable mesh tongue and heel cushioning for every active pursuit. Upper Suede upper for soft and comfortable look and feel Air mesh padded tongue for breathability High-grip cord laces and central lace-up system for customised Fit Comfortable textile lining and padded collar High-visibility silver details for road safety at night Ergonomically shaped footbed Midsole adiPRENE&reg; under the heel for superior cushioning at impact Outsole adiWEAR&reg; outsole offers the ultimate in high-wear durability Lugs, grooves and pivot point give excellent grip and traction Non-marking for use indoors &nbsp; Scare Wipe surface with a damp, clean cloth to remove dust and dirt Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/92776abdfae99b215c9276c802f69eec_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d490135a6d94cd12ab9b96bda89b9e1e_images.jpg"
+    }
+}

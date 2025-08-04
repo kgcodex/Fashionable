@@ -1,0 +1,17 @@
+{
+    "id": 28611,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Fly Black Shorts",
+    "price": 1295,
+    "description": "Composition Black running shorts for men made of 100% polyester Dri-Fit fabric, elasticated waistband with a drawstring, blue panel detailing on the sides and swoosh logo in a reflective material towards the left hemline Fit Regular Wash care Machine wash cold with like colours Do not bleach, iron or dry clean Line dry Built with the breathability and zero-distraction fit that athletes demand, this pair of nike running shorts comes in a simple design with blue accents. These high-performance shorts are created with Dri-Fit fabric which wicks sweat away from the body and keeps you cool, dry and comfortable. Team it with tees and running shoes.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/63e67931e4228f2f6391171a4adc7f23_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3b5467e64b8b679bd47bdc79fb3452fd_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 25433,
+    "brandName": "Lee",
+    "productDisplayName": "Lee Men Tripack Socks",
+    "price": 349,
+    "description": "Pack of three pairs of socksWith a supportive ankle Fit and crafted from soft blended cotton, these socks from lee make for a great buy. And what better way to enhance your comfort level three-fold with this tri-pack that has socks in navy blue, black and grey.Made of soft ribbed cotton for a secure fit and exemplary comfortCushioned footbed for absolute shock absorption and enhanced comfortSoftly elasticated broad cuff with contrasting tips Brand name printed on the mouthSock careMachine wash in warm water using a mild detergentUse non-chlorine bleach if neededTumble dry low in a delicate cycleDo not iron",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d4b01ab398f60e0650d57745cd31e5ee_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/336da4f4a626c86e9e86c7fc958f8403_images.jpg"
+    }
+}

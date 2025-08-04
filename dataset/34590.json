@@ -1,0 +1,17 @@
+{
+    "id": 34590,
+    "brandName": "Tonga",
+    "productDisplayName": "Tonga Women Printed Red Top",
+    "price": 1350,
+    "description": "Crafted in fine fabric and featuring a deep scoop neckline, this red and Cream-coloured crop top has dolman sleeve styling, lace along the neckline, designed with a loose and a dipped curved cut hem with the front shorter than the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d82b6b003b0d2188564bb8317f583c05_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8cb669b8a1e0c80376d7e7735bb6b3ce_images.jpg"
+    }
+}

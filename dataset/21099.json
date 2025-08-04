@@ -1,0 +1,17 @@
+{
+    "id": 21099,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Men Black Formal Shoes",
+    "price": 4999,
+    "description": "Classic four-hole lace-up shoe with clean, slim silhouetting and a refined stacked heel, by clarks for men. Strategic stitch detailing on this narrow derby shoe is a sartorial dream. A minimalist's reinterpretation of the classic Derby, wear this shoe crafted from Italian leather with slim Fit formal shirts and trousers. UpperLeather upper with a tapering toe box with seamsFour-hole central lace-upsPadded leather liningSoft sockliner for instep comfortPadded tongueMidsoleShock absorbing EVA midsoleOutsoleTPR outsole with a stacked heelPatterned grooves on the midfoot for grip and tractionShoe careWipe surface with soft, clean, damp clothDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9c79c9c588817081a736ac469ae5187f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c8c65302837033b06a6a9c24d4e507a1_images.jpg"
+    }
+}

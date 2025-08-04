@@ -1,0 +1,17 @@
+{
+    "id": 43059,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Blue FFF Football T-shirt",
+    "price": 1095,
+    "description": "Style NoteIf you're looking for a sport-inspired, casual tee which won't let you down in either style or performance, then your search is over! This T-shirt from nike has an ace print on the front, just what you need to perfect your effortlessly fashionable casual look.Product DetailsBlue T-shirt with a round neck, has graphic print on front, short sleeves and Nike swoosh on bottom left, French Football Federation logo at the napeMaterial and Care100% cottonMachine wash warm with like coloursDo not bleachTumble dry lowWarm ironSize and FitSlim fit",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/07b2a1ad0f7b27830df912b394805305_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3fa7edb10bb8c1c9503e9d2f64eaac39_images.jpg"
+    }
+}

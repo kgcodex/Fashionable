@@ -1,0 +1,17 @@
+{
+    "id": 53382,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Grey Sandals",
+    "price": 1299,
+    "description": "Open toed Sports sandal, has a forefoot strap and a midfoot strap (with a back strap) with a Velcro closure Rubber footbed with grooves in it TPU outsole with circular nubs all over",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b53254ada0be13543733eb07ea254109_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/321aaed3aa805803a1b0d9eae9cc01db_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 46092,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Purple Breeze Sports Shoes",
+    "price": 3599,
+    "description": "Purple round toed running shoes with white patented adidas three stripes in the midfoot region and central lace-upsMesh upper with synthetic overlays and reinforced overlay at the heel collar and a pull tab at the heel collarPadded innerFoamy rubber midsoleTPU outsole with flex grooves around the periphery and grooves throughout",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4e84d9c8c035cb34d03e5c9901c3a441_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3378378fc4a4fc0997501884ca723704_images.jpg"
+    }
+}

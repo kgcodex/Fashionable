@@ -1,0 +1,17 @@
+{
+    "id": 53319,
+    "brandName": "LOCOMOTIVE",
+    "productDisplayName": "Locomotive Men Navy Blue T-shirt",
+    "price": 454,
+    "description": "Navy blue T-shirt, has a round neck, short sleeves and print on the chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c0103bfdb6e7fcd381c4423484e7ba7d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a687ca1555e781493775ba97d1e475f4_images.jpg"
+    }
+}

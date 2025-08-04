@@ -1,0 +1,17 @@
+{
+    "id": 4535,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Incinera White Shoe",
+    "price": 3300,
+    "description": "Blast past your competition and create a new winning streak with the nike Incinerate running shoes. Trendy and stylish, these shoes are made absolutely comfortable and flexible to allow your feet to flex freely when running. What's more, you can also double this pair as a casual shoe to look effortlessly sporty.Upper Breathable mesh upper allows for a comfortably cool climate Durable leather overlays provide targeted support Plush tongue and collar for added comfort Synthetic twill laces in a straight pattern for snug Fit and to lock the foot in place Midsole EVA injected lightweight, articulated midsole to deliver supreme cushioning Outsole Foam and rubber traction outsole for lightweight cushioning and traction Outsole in waffle pattern with flex-grooves for superior grip and extra cushioning while running Wash careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a9647ce17c3cb15b1741927f13ff6649_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3975fc9bbc66a4d375d5107269480d82_images.jpg"
+    }
+}

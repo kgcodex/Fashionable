@@ -1,0 +1,16 @@
+{
+    "id": 1867,
+    "brandName": "Inkfruit",
+    "productDisplayName": "Inkfruit Men Nayak Nahi T-shirt",
+    "price": 499,
+    "description": "1. 100% cottonNayak nahi, khalnayak hai tu? Well then&hellip;it's time to sport style!",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0c6856b4671754280b2cf4f5bbea60c8_images.jpg"
+    }
+}

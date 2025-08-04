@@ -1,0 +1,17 @@
+{
+    "id": 33765,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Neo Women Renewal White Shoes",
+    "price": 3599,
+    "description": "The adidas Renewal athletic shoe is a great everyday wear shoe that combines style with comfort. The go-to appeal of this pair has made it one of the most popular adidas shoes. Wear this for your morning jog, a walk in the park, and it also doubles as a lightweight casual sneaker! Upper Leather upper with synthetic overlays adidas 3-Stripe overlays at the mid-foot region Padded fabric inner Reinforced overlay at the heel collar Central lace-ups Padded tongue with branding Upper adhered to the outsole Outsole TPU outsole with patterned grooves and strategically placed rubber cleats Branding at the mid-foot area on the outsole Outsole adhered onto the upper at the heel to act as a heel guard Shoe care Wipe surface with damp, clean cloth to remove dust Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ec6e86d3c29382919ad28e9608ab8e99_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/780cc622ebaaaeae5dfd5fbbcb60ffe5_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 56910,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Red Flats",
+    "price": 999,
+    "description": "Open toed thong style upper with a synthetic toe separator Mid-foot broad strap with a criss-cross design woven through eyelets Padded beige and red foot-bed Non-slip out-sole with a short heel and grooves on the heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Red-Sandals_84ef239229ba0fa051fd5ba88521660b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Red-Sandals_173f06977560dc87c6dffd21b1e2993a_images.jpg"
+    }
+}

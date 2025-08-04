@@ -1,0 +1,17 @@
+{
+    "id": 2936,
+    "brandName": "Do u speak green",
+    "productDisplayName": "DUSG Women's Red Polo T-shirt",
+    "price": 690,
+    "description": "Wine red polo neck t-shirt made of 50% bamboo and 50% cotton, with a red collar, sleeve hems and open V-neck placket and applique with print on left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5defabec575876fa1afeb756939efeca_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b2656b32b82a62d15a50803af83f98c5_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 32313,
+    "brandName": "Q&Q",
+    "productDisplayName": "Q&Q Women Red Dial Watch",
+    "price": 1145,
+    "description": "Minimalist styling peppered with innovative design details, we love wearable timepieces by QnQ! Styled to perfection, this watch is the perfect accessory staple you've been looking for. Liven up the summer with this watch from QnQ! Case diameter: 45 mm Case thickness: 7 mm Dial shape: Rectangle Steel case with a fixed bezel for added durability, style and comfort Synthetic straps with a tang clasp for comfort and style Red dial with branding at the 12 hour mark and butterfly embellishments Analogue movement of time display Screw to reset time Solid stainless steel case back made of stainless steel for enhanced durability Water resistant",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Women-Red-Dial-Watch_b2d6bad322f3742fa22370cd5f1749b6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Women-Red-Dial-Watch_b9f09197f8dd29e2aec0586e90b60d7e_images.jpg"
+    }
+}

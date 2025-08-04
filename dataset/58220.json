@@ -1,0 +1,17 @@
+{
+    "id": 58220,
+    "brandName": "Shree",
+    "productDisplayName": "Shree Women Multi Coloured Patiala",
+    "price": 399,
+    "description": "Printed patiala trousers with multi-coloured floral print on white, a broad waistband with a drawstring, tightly stitched pleats at the front and back that flare out below the hip region, the patialas flare at the seat region up to the knee and taper from the knee towards the hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Shree-Women-Multi-Coloured-Patiala_769d297a96d9526a94923ee82e4bf204_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Shree-Women-Multi-Coloured-Patiala_e5fa7fd570befde11f70070f62180a22_images.jpg"
+    }
+}

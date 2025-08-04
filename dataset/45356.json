@@ -1,0 +1,17 @@
+{
+    "id": 45356,
+    "brandName": "Cobblerz",
+    "productDisplayName": "Cobblerz Women Black Sandals",
+    "price": 1299,
+    "description": "Open-toed black sandals with low-top stylingSynthetic leather upper, has a strap across the forefoot with cut-out, floral and stud detail, has an ankle loop secured with a buckle closureSoft footbed with stitch detail on the sides, branding on the heelTextured outsole with a wedge heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/435c709de6b4a4d5948a9ddb55c1a05a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/42fd3ffd22f5d2ce09f3ce2e203afdd0_images.jpg"
+    }
+}

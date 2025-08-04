@@ -1,0 +1,17 @@
+{
+    "id": 7059,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Classic Blue Black Backpack",
+    "price": 1295,
+    "description": "Talk about style and space rolled into one, and there's no better Sports bag you can find than this one from nike. Neatly designed with lots of organizer space, this bag makes for a great everyday wear to school or college.Height: 16\"Width: 11.5\"Depth: 8\"Capacity: 22 L Made of polyester and nylon outer and nylon lining for durability and easy cleaning Branded zippers and sliders for easy use and longer life of the bag One main copiously spaced zippered compartment with pouches for easy organising Insert pocket on the front with assymetric zipper for carrying essentials Bold brand name and swoosh logo on the front Mesh pocket on the side for carrying zipper Synthetic haul loop for handling ease Wide, adjustable handles and padded back for carrying ease and to protect the shoulders and back from injuries CareHand washClean with a damp cloth when necessaryDo not dry clean or machine washDo not bleachDo not tumble dryDo not wringLine dryDo not iron",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8f735699dd2797447123710b3284c8ea_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ef7ca59a39d4d43a2e31a2295b0eb47f_images.jpg"
+    }
+}

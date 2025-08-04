@@ -1,0 +1,17 @@
+{
+    "id": 21575,
+    "brandName": "Lino Perros",
+    "productDisplayName": "Lino Perros Men Pack of Five Striped Socks",
+    "price": 795,
+    "description": "Pack of five socks It's comfort unparalleled once you slip into these pairs of socks from lino perros. A glimpse of these striped socks from beneath a rolled up pair of jeans adds a hint of eccentricity to your classic style. Presented in a stylish box. Made of Lycra One pair of light grey striped socks One pair of black striped socks One pair of brown striped socks One pair of navy blue striped socks One pair of dark grey socks Sock care Machine wash cold in not more than 30 degrees Do not dry clean Use non-chlorine bleach if needed Tumble dry low Do not iron",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dc29ba73b2630cc51254d223a2d7ea13_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/28fb668a102d22a23be4c0545af1860e_images.jpg"
+    }
+}

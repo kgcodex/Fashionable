@@ -1,0 +1,17 @@
+{
+    "id": 29227,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Mactelo Black Sports Shoes",
+    "price": 4999,
+    "description": "Whether it's capoeira or karate, the adidas Mactelo shoes give you a natural feel for fast sweeps and swift strikes. These shoes feature a soft recycled leather upper, a convenient lace cover and a flexible outsole.UpperSoft and comfortable recycled leather upperSynthetic lining for durable comfortPull on tag concealing the lace for a smooth upper surfaceShiny 3-Stripes across toe for interesting lookBranding on the heel and tongueMeshed and padded collar and tongue for better comfortMidsoleEVA midsole and padded collar offers comfortOutsoleTwo-piece razor-cut flexible rubber outsole provides superior grip as well as maximum ground contactshoe careWipe surface with soft, clean, damp clothDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0efe1b15c3a5bcb07b062e66e4d66c49_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/75369ad4d7615fcc3573fb7520530a71_images.jpg"
+    }
+}

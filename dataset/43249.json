@@ -1,0 +1,17 @@
+{
+    "id": 43249,
+    "brandName": "Denizen",
+    "productDisplayName": "Denizen Women Blue Skinny Thunder Jeans",
+    "price": 1199,
+    "description": "Blue&nbsp; jeans, has a metal zipper and button closure in front, skinny fit and mid rise waist, two scoop pockets on the front with an change pocket on the right, two patch pockets at the back, waistband with loops and brand tag at backen",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Denizen-Men-Blue-Jeans_57d5f308458c15eb8f7aebfa33241d40_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Denizen-Men-Blue-Jeans_ba4892736f1b7191bb0da9f3e1bca5aa_images.jpg"
+    }
+}

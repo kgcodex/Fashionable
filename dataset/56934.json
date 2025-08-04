@@ -1,0 +1,17 @@
+{
+    "id": 56934,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Silver Flats",
+    "price": 1199,
+    "description": "Open toed flats with a thong style upper and a toe separator White floral and bead details all over the midfoot strap Beige footbed with a brand label at the heel Tough sole with a grooved, upraised heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Silver-Sandals_8c56a93c2034665f825a7641422bb1c6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Silver-Sandals_bce6b5e0b2091d8b46fa49dbabf13830_images.jpg"
+    }
+}

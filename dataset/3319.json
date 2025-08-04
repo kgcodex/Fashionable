@@ -1,0 +1,17 @@
+{
+    "id": 3319,
+    "brandName": "Reebok",
+    "productDisplayName": "CSK Boys Fangear Tee",
+    "price": 799,
+    "description": "",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8c1c168ac0e0a3d5d0a3673b8e7094db_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f622de9d1242bfddc2c19b1c845b073b_images.jpg"
+    }
+}

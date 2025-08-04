@@ -1,0 +1,17 @@
+{
+    "id": 28554,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Club Pique Black Polo T-shirt",
+    "price": 1395,
+    "description": "Black and white striped polo T-shirt for men made of 100% cotton, has a ribbed collar, short sleeves, stitch detailing, purple and black stripes on the chest extending to the sleeves, broad yellow stripe across the chest extending to the back, buttoned chest placket, nike swoosh appliqu&eacute;d on the left chest and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3ff2830ecd76444fe5a10992ee574380_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c9961497a92a3315ab3e3f94c7a516b6_images.jpg"
+    }
+}

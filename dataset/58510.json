@@ -1,0 +1,17 @@
+{
+    "id": 58510,
+    "brandName": "Tonga",
+    "productDisplayName": "Tonga White & Black Animal Print Dress",
+    "price": 2190,
+    "description": "One-shoulder asymmetric dress with a flared flutter sleeve, white and black animal print, elasticated gathers at the sides",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Animal-Print-Dress_0daefd44f971b2c2c497d0e0173f180d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Animal-Print-Dress_b0d945b82770e0544c8bc02618632005_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 47192,
+    "brandName": "Franco Leone",
+    "productDisplayName": "Franco Leone Men Brown Formal Shoes",
+    "price": 1995,
+    "description": "-",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6094c57c38fb7e65fe02b725f630ec86_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ca2f1876a58e8937f1dd3fd2f2c482f7_images.jpg"
+    }
+}

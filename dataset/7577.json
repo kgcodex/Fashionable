@@ -1,0 +1,17 @@
+{
+    "id": 7577,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's As Cruiser Black T-shirt",
+    "price": 995,
+    "description": "CompositionBlack round neck t-shirt made of 60% cotton and 40% polyester, engineered with Dri-Fit technology, has short sleeves with nike swoosh in silver print on left sleeve and graphic print on the chestFittingComfortWash care Dry clean or machine wash warm at 40 degrees with like colours Do not bleach Tumble dry low Warm iron, but do not iron on design Designed for that absolute running experience, this nike t-shirt is replete with Dri-Fit comfort to make your sporting experience all the more comfortable and fun. The Dri-Fit technology wicks away sweat, allowing you to concentrate on your running. Team this with performance shorts and running shoes for that complete running comfort.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fd9cfe8ffeb319942b43ffaf696008b9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/40a576a446f351d7e76eee4540b85fd1_images.jpg"
+    }
+}

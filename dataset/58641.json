@@ -1,0 +1,17 @@
+{
+    "id": 58641,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men Grey Thin Ankle Socks",
+    "price": 119,
+    "description": "Grey melange socks with branding at mouthReinforced heel and toe for durabilitySoft grip at welt- leaves no marksFine flat toe seam- prevents irritationLeft and right foot specific socks to ensure an anatomical Fit",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FILA-Men-Grey-Thin-Ankle-Single-Socks_5c33b0cfea323f36456cff81818037b8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FILA-Men-Grey-Thin-Ankle-Single-Socks_8712a2290791eb0a8c9cb3353c9aa9a4_images.jpg"
+    }
+}

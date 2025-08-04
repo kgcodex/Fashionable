@@ -1,0 +1,17 @@
+{
+    "id": 3771,
+    "brandName": "Status Quo",
+    "productDisplayName": "Status Quo Men's Green Polo T-shirt",
+    "price": 799,
+    "description": "Grey polo t-shirt made of 100% cotton, with yellow horizontal stripes, ribbed sleeves and front open collar",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a4c71ef463e5e25f56a087e7630d690d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/edc667a857d9d245bcd0300c6949e4e7_images.jpg"
+    }
+}

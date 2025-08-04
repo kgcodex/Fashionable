@@ -1,0 +1,17 @@
+{
+    "id": 6561,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Graphic Play Purple Handbag",
+    "price": 1495,
+    "description": "Stylish to the T, this handbag with energetic, multi-coloured print and bright straps makes for a perfect wear for the woman of style. Easy to use, copiously spacious and comfortable to carry, this is a must-add in any woman's wardrobe. &nbsp;Height: 13\" Width: 18\" Depth: 4.5\" Capacity: 25 litres Made of polyester with a nylon lining for durability and easy cleaning Branded zippers and sliders Wide synthetic woven fabric handles for easy carrying One main copiously spaced zippered compartment with a zippered pocket One small zippered pouch hanging from a loop outside to hold a mobile or small change Care Hand washClean with a damp cloth when necessary Do not dry clean or machine washDo not bleach Do not tumble dryDo not wringLine dry Do not iron",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c8bf43de5fd6cfae1908c8ea493c6b41_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c2f185e19ba8579809a913eb84a19e09_images.jpg"
+    }
+}

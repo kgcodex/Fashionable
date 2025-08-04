@@ -1,0 +1,17 @@
+{
+    "id": 11790,
+    "brandName": "Vishudh",
+    "productDisplayName": "Vishudh Women Green Printed Kurta",
+    "price": 649,
+    "description": "Green and white kurta with floral prints, has a V neck with a green lace panel, short sleeves with taping at the hem and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2eac070a92590ee23482f2838a60fbf4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/535c9d2030336f54d0dc43f04360c159_images.jpg"
+    }
+}

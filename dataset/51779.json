@@ -1,0 +1,17 @@
+{
+    "id": 51779,
+    "brandName": "Bwitch",
+    "productDisplayName": "Bwitch Women Green Brief",
+    "price": 299,
+    "description": "Mint green briefs for women with high leg and full back closureHas an elastic tape detail below the elasticated waistbandGussets at the crotch regionFolded over paneling at the sides",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/690523f8c04b314d1cac8b2f3a2ab023_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5a8227eb2b497899393ea56689ec5c35_images.jpg"
+    }
+}

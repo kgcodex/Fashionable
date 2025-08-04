@@ -1,0 +1,17 @@
+{
+    "id": 32644,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Knit Black Track Pants",
+    "price": 2295,
+    "description": "Composition Black track pants for men made of 100% polyester with Dri-Fit technology, has a wide elasticated waist band with a drawstring, zipped flared legs, two zipped insert pockets on the sides and embroidered branding below the left pocket Fit Comfort Wash care Machine wash cold with like colours using a mild detergent Do not bleach or dry clean Cool iron; do not iron on decorations Get more out of your workouts with this comfortable pair of tracks from nike. The wide waistband and drawstring will fit your waist neatly while the Dri-Fit technology wicks sweat away from the body and keeps you feeling fresh and comfortable all day. Team this with tees and sports footwear for trips to the gym.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9ee9ded5fcd746cc7c9f93bb03fe6ed8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/768d9d42ef55c95d011441b6dbd9b45a_images.jpg"
+    }
+}

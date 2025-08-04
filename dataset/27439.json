@@ -1,0 +1,17 @@
+{
+    "id": 27439,
+    "brandName": "Jockey",
+    "productDisplayName": "Jockey Women Blue Racerback Tank Top",
+    "price": 199,
+    "description": "Blue racer back tank top that has a round neck, contemporary styling with wider armholes that provides maximum comfort and freedom of movement. This top is designed to be worn as training wear, lounge wear, inner wear or casual wear",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Jockey-Women-Blue-Racerback-Tank-Top_f653b1f15ce14110cfa82e497d1b83f7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Jockey-Women-Blue-Racerback-Tank-Top_367c99097665b8081f9f8b0a6563d709_images.jpg"
+    }
+}

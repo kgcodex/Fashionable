@@ -1,0 +1,17 @@
+{
+    "id": 12888,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men Hex Express LP White Sports Shoes",
+    "price": 5999,
+    "description": "The reebok Hex Express running shoe features a mesh and synthetic upper with PU casting that adds shape, breathability and support. The shoes have been made by reebok with special care, featuring the Hex Ride technology.HexRide, a cushioning technology, was created to provide the athlete with a cushioned, lightweight ride. The midsole of a HexRide shoe is cored out into a pattern of hexagonal recesses. The air inside the hexagonal shapes is sealed in with an impact resistant polymer film to create a lightweight and cushioned ride.UpperMesh and synthetic upper for lightweight durability Central lacing for snug FitLushly padded mesh collar and tongue for maximum comfort Brand mark on the tongue on synthetic silver stitched overlay Rubber outsole extended to the toe box and embedded onto it Synthetic overlay on the heel cup with brandingMidsoleFull length phylon midsole for lightweight comfort Soft, cushy midsole supporting ergonomic fitOutsoleOutsole with bee hive pattern for superior grip Flex grooves for greater flexibility of the feet Scooped out heel for less shock on impact Impact guidance system for natural motion of the feetShoe careWipe surface with a damp, clean cloth to remove dust and dirtDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f4dc2b04c3ff8cf9adb6ea2feb20ebb9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e76dbf91e2cc64985760f6bd49faaed3_images.jpg"
+    }
+}

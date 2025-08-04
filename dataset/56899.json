@@ -1,0 +1,17 @@
+{
+    "id": 56899,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Silver Heels",
+    "price": 1699,
+    "description": "Heel: 3.5\" Open toed silver heels with a thong style upper that has stone and bead work Soft silver toned foot-bed with a heel patch Tapering silver heel with a plastic heel cap Non-slip out-sole with herringbone grooves at the mid-foot region",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Silver-Sandals_6f4019350851e355e8ff576dd4d23632_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Silver-Sandals_1090e5afacc24c5f263963be98f6e3ae_images.jpg"
+    }
+}

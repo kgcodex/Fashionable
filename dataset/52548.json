@@ -1,0 +1,17 @@
+{
+    "id": 52548,
+    "brandName": "Pepe Jeans",
+    "productDisplayName": "Pepe Jeans Men Blue Jeans",
+    "price": 3299,
+    "description": "Blue jeans with a washed and creased look, has a button closure with a buttoned fly at the waist, loops at the waistband, two front pockets (has a smaller pocket inside the right pocket), a branded money clip to hold your money securely in the jean pockets, two patch pockets at the back with stitch detail and a synthetic brand patch at the right side of the waistband",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b1bb100bbec141824f19d29beaaf43f6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f34130acdd3c44b058cdd4c115749b9f_images.jpg"
+    }
+}

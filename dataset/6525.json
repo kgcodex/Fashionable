@@ -1,0 +1,17 @@
+{
+    "id": 6525,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women's Tempo yellow Short",
+    "price": 995,
+    "description": "CompositionYellow running shorts made of Dri-Fit polyester with an in-built underwear, mesh panels on the sides, nike heat transfer swoosh, soft elastic waist band with concealed drawstring for customised fitFittingConfortWash care Machine wash cold with like colours Use mild detergent Do not bleach Avoid soaking Remove immediately Do not allow to lay on itself when wet Line dry inside-out in shade Cool iron only Do not iron directly on print/embroidery Do not dry clean Make your training sessions all the more peaceful and comfortable in these shorts from nike. The soft and wide waistband sits perfectly on your waist without irritating your skin, while the drawstring lets you customise the fit. Engineered with Dri-fit technology, these shorts will keep you dry and fresh even after a gruelling session of yoga or gym, while the side mesh panels enhance ventilation. And when you are not at the gym, pair it with a light and bright tee and chill it out.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/08a26898803e4d061de82ac7308b2625_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b9040a8be5b831165d5849cc887eb79f_images.jpg"
+    }
+}

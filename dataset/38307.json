@@ -1,0 +1,17 @@
+{
+    "id": 38307,
+    "brandName": "Reid & Taylor",
+    "productDisplayName": "Reid & Taylor Men Red & Black Scarf",
+    "price": 995,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/701d71c0bee3b104b27d809182596026_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/70e138596d505afc4d4e1472b3ec5ab1_images.jpg"
+    }
+}

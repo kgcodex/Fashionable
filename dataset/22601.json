@@ -1,0 +1,17 @@
+{
+    "id": 22601,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Grey Polo T-shirt",
+    "price": 1895,
+    "description": "Grey polo t-shirt made of 100% polyester, engineered with Dri-Fit technology, has a half buttoned placket, short sleeves, panel on the sides and embroidered branding on the left chest.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e4a2c3c64db2d6c5983ca5772212f666_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b5085bc199fae0abfe8d0468b8e5336c_images.jpg"
+    }
+}

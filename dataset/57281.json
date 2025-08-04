@@ -1,0 +1,17 @@
+{
+    "id": 57281,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Men Purple Shirt",
+    "price": 2699,
+    "description": "Black, purple and white check shirt with lavender accents, has a curved cutaway collar, full buttoned placket, back yoke, patch pocket on the left chest with embroidered branding on it, long sleeves with buttoned cuffs and a curved hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-Purple-Shirt_769259f052ded93c86e80c6b2d00389e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-Purple-Shirt_1f72db734d04952b472b5fbee67fc6e2_images.jpg"
+    }
+}

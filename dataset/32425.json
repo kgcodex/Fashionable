@@ -1,0 +1,17 @@
+{
+    "id": 32425,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men White Polo T-shirt",
+    "price": 1099,
+    "description": "White polo T-shirt, has short sleeves, buttoned chest placket, brand name and logo on the left chest, engineered with climalite technology and adidas three patented stripes on the shoulders",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ad1815578a19addb2f2e0a7b990a3eb2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7757fcc08883933d9c370b7d49cb9bc3_images.jpg"
+    }
+}

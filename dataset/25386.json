@@ -1,0 +1,17 @@
+{
+    "id": 25386,
+    "brandName": "Levis",
+    "productDisplayName": "Levis Men Beige Brief",
+    "price": 233,
+    "description": "Beige brief made of 100% combed cotton, has the signature logo on the front and on the contrast waistband, shaped-to-Fit double layered contoured pouch and printed label on the inner Fit Mid rise Wash care Machine wash warm Do not bleach Tumble dry low Do not dry clean Warm iron if needed These briefs from Levi's are crafted using a superior cotton knit that provides breathability. The cut allows free leg movement, the double layered pouch gives enhanced durability while the printed label on the inside offers abrasion-free comfort. The final product delivered might vary in colour and prints from the display here.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/026e352c36a057c9cb4e711da9d15ceb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a4d66dc8e413384594a785f04e0410c8_images.jpg"
+    }
+}

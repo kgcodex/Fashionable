@@ -1,0 +1,17 @@
+{
+    "id": 15400,
+    "brandName": "FILA",
+    "productDisplayName": "FILA Men FILA Runner White Sports Shoes",
+    "price": 2299,
+    "description": "A perfect blend of fashion and comfort, the fila Runner makes for a great running trainer and casual shoe. Packed with features and crafted in a low profile silhouette, this shoe makes for a great buy, especially for overpronators.UpperHeavily meshed upper with strategically placed synthetic leather overlays for absolute breathable comfort and shoe structureLacing system for a snug, customised FitPadded tongue and collar with a textile lining for a custom fit and enhanced breathable comfortPadded footbed for all-day comfort and impact protection, which is removable to accommodate an orthoticMidsolePhylon midsole for lightweight comfort and impact protectionOutsoleTPR outsole with traingular lugs that are grooved, and a decoupled heel for absolute grip and traction and easy heel strike to toe off motionImpact guidance line for better shock distribution and enhanced energy returnFlex grooves on the forefoot for easy movementScooped heel for enhanced cushioning to the backfootShoe careWipe surface with a dry, clean cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3a5abf741c8614d757dc9c11e1246c79_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a9a1787b77030478fdbb1ac31c1c23cc_images.jpg"
+    }
+}

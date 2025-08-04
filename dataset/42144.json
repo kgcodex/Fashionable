@@ -1,0 +1,17 @@
+{
+    "id": 42144,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Black Roshe Run Sports Shoes",
+    "price": 4295,
+    "description": "Style Notenike Roshe shoes are designed for comfort and maximum durability. This addition to Nike casual Sports wear is a much welcomed addition to your shoe collection. In black and red, this is sure to become your new closet favourite. Its lightweight and comfy, perfect for the gym, a short run or even a low key coffee date!Product DetailsRound blunt toed, red and black shoes with lace up stylingMesh upper with Nike swoosh overlays on the midfoot Padded at the mouth and synthetic inner layerUpper adhered to the outsole Padded footbed Waffle patterned outsole Material and CareMesh, rubber, syntheticDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ceee89bb2f1d84c0fb71a04312dd587a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4d2cf8576ee13002c231bcaa983432b5_images.jpg"
+    }
+}

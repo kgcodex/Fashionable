@@ -1,0 +1,17 @@
+{
+    "id": 42171,
+    "brandName": "Status Quo",
+    "productDisplayName": "Status Quo Men Black T-shirt",
+    "price": 549,
+    "description": "Style Note One casual garment that'll make you look sophisticated in an instant is this t-shirt from status quo. The quirky embroidery on the chest renders a subtle charm to the tee, while the soft blended fabric offers exemplary comfort. Team it with jeans and sports shoes for a touch of style. Product Details Black body Fit, stretch fit t-shirt that has a v-neck, short sleeves and branding in rubber print on the left chest Material and Care Blended fabric Machine wash at 40 degrees with like colours using a mild detergent Do not bleach Dry in shade Cool iron do not iron on decorations Size and Fit Body fit The model (height 6' and shoulders 18\") is wearing a size M",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7f0fb7610274b3622cd4d028d097b68a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c336e7328f2fdae21319a6dbccde360d_images.jpg"
+    }
+}

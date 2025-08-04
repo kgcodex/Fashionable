@@ -1,0 +1,17 @@
+{
+    "id": 24416,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Opticourt Ligra White Sports Shoes",
+    "price": 4299,
+    "description": "A serious pair of indoor sports shoes for serious sportsmen, these adidas Opticourt Ligra shoes amplify each jump and dive with adiPrene+ forefoot propulsion, hard-hitting heel cushioning and air mesh breathability. Upper Air mesh upper for maximum breathability with synthetic leather overlays for added support Central lace-up system for customised Fit adiTuff for best abrasion resistance in the toe area Non-slip sock-lining for comfort and performance Midsole adiPrene+ in the forefoot maintains propulsion and efficiency EVA insole for comfort Outsole adiPrene under the heel for superior cushioning at impact Non-marking rubber outsole with multi-grooves for great grip and traction shoe care Wipe off dirt with a moist cloth Do not soak, do not use detergents or solvents, do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a3268129a8e21d9aa05d79872444e8cf_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c7e9478a0931a3ed80ca4694d7d47a08_images.jpg"
+    }
+}

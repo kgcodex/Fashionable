@@ -1,0 +1,17 @@
+{
+    "id": 54068,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Grey Flint TR Low Shoes",
+    "price": 4499,
+    "description": "Round, blunt toed, brown and grey shoes with central lace up fastening Mesh upper with nubuck and synthetic overlays, reinforced overlay at the heel collar, pull loop at the heel Mesh inner and tongue with removable, padded sock liner Mountain grip outsole with grooves and multi directional lugs",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-Grey-Flint-TR-Low-Shoes_6320ce3ac664d239ca9c99373abc1939_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-Grey-Flint-TR-Low-Shoes_aa0aa52d0d0e5b71bff224eb60e9a8fa_images.jpg"
+    }
+}

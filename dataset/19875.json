@@ -1,0 +1,17 @@
+{
+    "id": 19875,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Plugged IN Black Flip Flops",
+    "price": 649,
+    "description": "adidas created this Plugged In 2 flip flops for all techies. The print features circuitry on its footbed. Pair them with a tee and your favourite slept-in style denims. Upper Thick fabric striped thong straps Fabric toe separator for maximum comfort with branding on the axis of the Flip Flops Rubber footbed with print for all-day massage feel Outsole TPR outsole with geometric textured lugs for maximum traction shoe care Wipe off dirt with a moist cloth Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5f33f88d0f85a1f307892ce1205df30f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/38edc097c48d4bd63e02c96646a56acb_images.jpg"
+    }
+}

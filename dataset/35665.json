@@ -1,0 +1,17 @@
+{
+    "id": 35665,
+    "brandName": "U.S. Polo Assn.",
+    "productDisplayName": "U.S. Polo Assn. Men White Flip Flops",
+    "price": 1199,
+    "description": "Open toed white flip flops, has a thong style upperSoft footbed with stitch detailingTough rubber sole with grooves all over",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/15912f5bded6b4221750b3682f90adb4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/427b91ee1d0ca83dc6dd72f046359dc1_images.jpg"
+    }
+}

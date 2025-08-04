@@ -1,0 +1,17 @@
+{
+    "id": 57100,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women Dark Pink Top",
+    "price": 1200,
+    "description": "Pink woven, sleeveless top, has a scooped neckline, gathers below the neckline, button closure at the back neckline with a key hole detail, back yoke, gathers below the back yoke, two pockets on the side above the hemline, curved hemline with the back hem longer than the front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Dark-Pink-Top_a74ef8e9f7f4589bf178fbfd4f61034b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Dark-Pink-Top_eb5486254ba6e41faf8ca4e747525536_images.jpg"
+    }
+}

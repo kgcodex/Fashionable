@@ -1,0 +1,17 @@
+{
+    "id": 56702,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Men Blue Kurta",
+    "price": 430,
+    "description": "Blue khadi short kurta, has a mandarin collar, chest button placket, long sleeves, a patch pocket on the left chest and side slits",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Men-Blue-Kurta_8c5d031a2653765a2aa71270a3900e56_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Men-Blue-Kurta_0b554a440d245b6f2175c6bf45243deb_images.jpg"
+    }
+}

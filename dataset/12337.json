@@ -1,0 +1,17 @@
+{
+    "id": 12337,
+    "brandName": "SPYKAR",
+    "productDisplayName": "Spykar Men Navy Blue Polo T-Shirts",
+    "price": 1299,
+    "description": "Navy blue and purple striped polo T-shirt made of 100% cotton, has fabric tape detailing on the inseam of the neckline, short sleeves, half buttoned placket, red stitch detailing on the sides and an embroidered logo on the left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bcb81e6a43d83337425b3bbd563724aa_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/77f752293a298c21a7dacde62146f19c_images.jpg"
+    }
+}

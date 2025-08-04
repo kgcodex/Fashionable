@@ -1,0 +1,17 @@
+{
+    "id": 53097,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Maroon & White Earrings",
+    "price": 560,
+    "description": "Flower shaped base with a maroon centre stone and white stones flanking the centre stoneHas a post and back closure",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Maroon-Earrings_8d2c9e5761834a6572efa5d8ea9bd737_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Maroon-Earrings_606788b71195ecea5894b8814d7a9f62_images.jpg"
+    }
+}

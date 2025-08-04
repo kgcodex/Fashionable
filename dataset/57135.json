@@ -1,0 +1,17 @@
+{
+    "id": 57135,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women Olive Green Top",
+    "price": 1600,
+    "description": "Olive green woven top with dotted weave pattern, blouson, gathers at neck with frills, double layered raglan sleeves, elasticated hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Olive-Green-Top_8c9554b0fe6a0004361c80ae0f53005f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Olive-Green-Top_d8a6541af0ba91eafd009fdb3a9c8227_images.jpg"
+    }
+}

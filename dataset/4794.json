@@ -1,0 +1,17 @@
+{
+    "id": 4794,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Cv Str Green Polo T-Shirt",
+    "price": 799,
+    "description": "Green polo neck t-shirt made of 70% polyester and 30% viscose, with thin dark green stripes spaced wide apart, ribbed collar and embroidered logo on the left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/767282896fa4f7d53505e89b8e948a1f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3b8448ddee9c61a8ea8fb42ba51a1776_images.jpg"
+    }
+}

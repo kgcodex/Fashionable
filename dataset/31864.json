@@ -1,0 +1,17 @@
+{
+    "id": 31864,
+    "brandName": "Titan",
+    "productDisplayName": "Titan Women Raga Silver Dial Watch",
+    "price": 4300,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/be5e1b550bac21d9d984728178094b02_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/70b6a7ec57d7a403381bc63c8d457219_images.jpg"
+    }
+}

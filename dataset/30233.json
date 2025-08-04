@@ -1,0 +1,17 @@
+{
+    "id": 30233,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men White Shoes",
+    "price": 1699,
+    "description": "These numero uno sneakers with sturdy soles, leather upper and stylish design highlights are a closet essential. Class up your off-duty ensemble with this sleek sneaker. Wear it with fitted denims and a T-shirt and throw on a tonal jacket for added style. Upper Textured leather upper for durability, comfort and style Perforations on the midfoot and forefoot for high style and ventilation Coloured eyelets for style Lace-up system for snug, customised Fit Tongue lined with mesh for comfort Printed branding on tongue Midsole Rubber midsole for lightweight, cushioned comfort Outsole Durable outsole with stylish grooves shoe care Wipe surface with soft, clean, cloth or brush, cold water and mild detergent to remove dust Do not machine wash or use a drier Avoid storing shoes in extremely hot conditions or in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c3d388c62d3f7af55c942490baac82af_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/74c5f045ea81bc9a446a7f098a069f8c_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 33242,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men White Check Shirt",
+    "price": 1999,
+    "description": "White with wine colour check&nbsp; shirt, has a spread collar, short sleeves with branding on the right, full buttoned placket, patch pocket on left chest, a curved hem, a shoulder yoke and comes with collar stiffeners",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-White-Check-Shirt_a95a38104ad21f1d9a4765759b364645_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-White-Check-Shirt_3b0d09737f07d767ed5725b9b2e9e027_images.jpg"
+    }
+}

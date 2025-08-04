@@ -1,0 +1,17 @@
+{
+    "id": 49693,
+    "brandName": "Park Avenue",
+    "productDisplayName": "Park Avenue Men Maroon Tie",
+    "price": 899,
+    "description": "Maroon tie with blue diagonal stripes A loop behind the broad tongue to tuck the smaller end in",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Park-Avenue-Men-Maroon-Tie_ecd618c318f554b32a8531b67ace8c68_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Park-Avenue-Men-Maroon-Tie_a14dbed7c2eae9017cb2d17aa2765e04_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 13187,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men White Stradd Shoes",
+    "price": 2299,
+    "description": "Round toed white shoes with central lace-ups, branding on the upper, padded inner Reinforced overlay at the heel collar with branding on it Rubber sole with grooves and nubs Warranty: 3 monthsWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7b36eaf048ed80559eac545cf7cfc127_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/944d5f4cea04120857591455123b2122_images.jpg"
+    }
+}

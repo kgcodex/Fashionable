@@ -1,0 +1,17 @@
+{
+    "id": 25342,
+    "brandName": "Levis",
+    "productDisplayName": "Levi's Men White Brief",
+    "price": 199,
+    "description": "White brief made of 95% combed cotton and 5% elastane fabric, has the signature logo on the contrast waistband, shaped-to-Fit double layered contoured pouch, elasticated leg bands and printed label on the inner Fit Mid rise Wash care Machine wash cold Do not bleach Tumble dry low Do not dry clean Cold iron if needed These briefs from Levi's are crafted using a superior cotton knit that provides breathability. The cut allows free leg movement, the double layered pouch gives enhanced durability while the printed label on the inside offers abrasion-free comfort. The final product delivered might vary in colour and prints from the display here.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/61496fcc7911afbfa05f47eb57f633b9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/65269827ac82bfeed722a7aabf67c574_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 42828,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Swoosh Red Wristbands",
+    "price": 295,
+    "description": "Style Note This pair of wristbands by nike will be your saviour on a long run or during an energetic game of tennis. Made from cotton and nylon, keep the sweat away so you can concentrate on your game.Product DetailsRed wristbands with Nike swoosh in whiteMaterial&nbsp; and Care72% cotton 22% nylon 4% rubber and 2% spandexMachine wash coldDo not bleach, iron or dry cleanLine Dry",
+    "masterCategoryId": 12,
+    "masterCategoryType": "Sporting Goods",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6ff0332eed0d9a0f28aa066a580e7074_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/96ac23832b23e04acfc570387701938c_images.jpg"
+    }
+}

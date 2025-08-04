@@ -1,0 +1,17 @@
+{
+    "id": 33298,
+    "brandName": "Arrow Sport",
+    "productDisplayName": "Arrow Sport Men White Striped Shirt",
+    "price": 1699,
+    "description": "White shirt with navy blue stripes, has long sleeves with buttoned cuffs, full buttoned placket, a patch pocket on the left chest and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d7c590a8ee9d7419446be5273ce74ade_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d0e23c16b8f09a34689d44eb65a108d2_images.jpg"
+    }
+}

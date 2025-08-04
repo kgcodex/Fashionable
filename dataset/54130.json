@@ -1,0 +1,17 @@
+{
+    "id": 54130,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Black Flats",
+    "price": 590,
+    "description": "Heel: 1.5\"Open toed pair with synthetic thong style upperSoft foot bed with a brand label at the heelTough sole with texturing, upraised at the heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e5d7a6f1b5e8233fca0dde1ab9e09057_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cc3be317641e595c25d60934d6dec9c9_images.jpg"
+    }
+}

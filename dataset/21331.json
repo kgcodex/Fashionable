@@ -1,0 +1,17 @@
+{
+    "id": 21331,
+    "brandName": "Louis Philippe",
+    "productDisplayName": "Louis Philippe Men Sunglasses LP203-C3",
+    "price": 3500,
+    "description": "Lens colour: BlackLens type: UV protected lensFrame colour: Steel-toned and blackFrame type: Metal frame with plastic casing on either arm endHigh bridge and flexible nose padsComes in a case",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7693a7bfed3692d152be98cc13a878f2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f5d2d3b56a3893f4b100177e5cc52f5b_images.jpg"
+    }
+}

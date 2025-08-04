@@ -1,0 +1,17 @@
+{
+    "id": 32386,
+    "brandName": "Arrow Woman",
+    "productDisplayName": "Arrow Woman White Striped Polo T-shirt",
+    "price": 999,
+    "description": "White, red, green, blue and yellow striped polo neck T-shirt, has short sleeves with ribbed cuffs, chest placket and crystal embellishment on the left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/66033cecdf596f97fac8e39b730181e7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/97270e3b8b7e8d90482ac0e3f63b637e_images.jpg"
+    }
+}

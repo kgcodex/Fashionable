@@ -1,0 +1,17 @@
+{
+    "id": 34850,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Falcon Elite White Sports Shoes",
+    "price": 4599,
+    "description": "Your feet work hard, and adidas believes they deserve a running shoe worthy of their effort. This Falcon Elite shoe for men delivers a breathable air mesh upper, EVA cushioning and adiPrene in the heel for a soft heelstrike. The bold blue midsole lifts this Sports shoe into a fashionable style statement while the white mesh upper keeps it classic.UpperAir mesh upper for maximum breathabilitySynthetic overlays for added supportRaised heel tab at back heel which protects the Achilles tendon and locks the shoe in placePadded, mesh collar and tongue and comfortable textile liningMolded EVA insole for comfortMidsoleInjected EVA midsole for long-term, lightweight cushioningadiPrene under the heel for superior cushioning at impactOutsoleadiWear portions in the outsole offers the ultimate in high-wear durabilityScooped heel for added tractionAbrasion resistant foxing &amp; toe-guard for additional protection and durabilityShoe careWipe surface with soft, clean, damp clothDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cb9cea7ac214a20b624a0890d1302390_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8fadaf0212b4b4109c0b42c11b6b481f_images.jpg"
+    }
+}

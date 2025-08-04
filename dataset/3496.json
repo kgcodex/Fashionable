@@ -1,0 +1,17 @@
+{
+    "id": 3496,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Galaxy Pillars Black Sun Shoe",
+    "price": 4699,
+    "description": "CompositionBlack running shoes made of synthetic leather with complete nylon open mesh upper, mesh back foot, EVA sockliner, white midsole with yellow design on heel and traxion rubber outsole with groovesWash care1. Remove dust with soft, clean, damp cloth2. Do not machine washDesigned for that absolute supportive Fit, this pair of shoes from adidas has an asymmetrical open mesh upper and mesh backfoot made of nylon to ensure ample breathability. The traxion outsole in black, yellow and orange, with grooves, lends the pair optimum stability and grip, increasing durability. With an EVA sockliner, the insole ensures ample heel to toe transition, and a heavily cushioned, stylish midsole protects the feet from impact.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/51dced4fb5ddeb4ff207a73a34f37786_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/85b32c1741d9c09a629eb9b272144aae_images.jpg"
+    }
+}

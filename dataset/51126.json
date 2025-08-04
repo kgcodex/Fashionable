@@ -1,0 +1,17 @@
+{
+    "id": 51126,
+    "brandName": "Satya Paul",
+    "productDisplayName": "Satya Paul Pink Saree",
+    "price": 5995,
+    "description": "Pink saree with green screen print, has a printed authenticity label at the waist region (which will be tucked in at the waist after draping the saree) Comes with a silk crepe blouse material in pink",
+    "masterCategoryId": 190,
+    "masterCategoryType": "Free Items",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/080488b426ec81244437d38c7c3e51b2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b33b92e96a92b0597f1ff8e0091fc22b_images.jpg"
+    }
+}

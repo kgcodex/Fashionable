@@ -1,0 +1,17 @@
+{
+    "id": 30206,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Dri-Fit Support Black Socks",
+    "price": 695,
+    "description": "Style Note Slip your feet into cosy comfort and up your running speed with ease in this socks from nike. Engineered with Dri-Fit technology, these socks offer exemplary comfort. Product Details Football socks (above knee length) made of polyester, nylon and spandex blended fabric Has a half cushion terry foot for exemplary comfort and shock absorption Inner arch support for a secure and stable fit Compression knit delivers a snug and secure fit during play Material and Care Polyester, nylon and spandex blend Machine wash cold at 30 degrees Use a non-chlorine bleach if needed Tumble dry low Do not iron or dry clean&nbsp;",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3fc8115cffaa6f20ac4611eaf182decf_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cf357ebebe87340aa79ad8d816739d3d_images.jpg"
+    }
+}

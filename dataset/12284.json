@@ -1,0 +1,17 @@
+{
+    "id": 12284,
+    "brandName": "Genesis",
+    "productDisplayName": "Genesis Maroon Casual Shirt",
+    "price": 1199,
+    "description": "Maroon casual shirt, has a spread collar, full button placket on the front, long sleeves, curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4659ea7e783ec705bada1b4e456eb3b0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3c4cad716e1fd4ce566756e15a2c624e_images.jpg"
+    }
+}

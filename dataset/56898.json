@@ -1,0 +1,17 @@
+{
+    "id": 56898,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Golden Heels",
+    "price": 1699,
+    "description": "Heel: 3.5\" Open toed gold heels with a thong style upper that has stone and bead work Soft gold toned footbed with a heel patch Tapering gold heel with a plastic heel cap Non-slip outsole with herrringbone grooves at the midfoot region",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Golden-Sandals_9e1611b7c2785cc399de54b45b972646_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Golden-Sandals_deceeca66be83ac25a9b5a144687b71b_images.jpg"
+    }
+}

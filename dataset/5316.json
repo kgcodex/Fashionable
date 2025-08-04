@@ -1,0 +1,17 @@
+{
+    "id": 5316,
+    "brandName": "Red Tape",
+    "productDisplayName": "Red Tape Men's Brown Formal Shoe",
+    "price": 2295,
+    "description": "These beautiful brown leather shoes from red tape with the textured leather, tapered toe box and cutting edge look complement all casual and semi casual wear. The design creates a perfect foundation for building a well groomed look that exudes style and confidence.Upper Pure leather upper for durability and comfort Reinforced stitches on leather upper for enhanced durability Slip-on technique for comfortable use Lightly padded heel counter for comfort Midsole Phylon midsole for lightweight comfort Soft and cushioned insole for all day comfort and impact protection Outsole Rubber outsole with multi-directional grooves and textured panels for greater grip and traction Rubber outsole embedded onto the heel counter to protect the heel from twisting shoe careUse a branded shoe polish to keep your leather footwear clean and shiny",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/aaf98316fb1d8478d74acc107497b93f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0a88e7b4d6e432ff253725f53af234d9_images.jpg"
+    }
+}

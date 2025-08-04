@@ -1,0 +1,17 @@
+{
+    "id": 37790,
+    "brandName": "John Players",
+    "productDisplayName": "John Players Men Striped Grey Green Shirt",
+    "price": 899,
+    "description": "Style Note A striped, blended cotton shirt which adds a little style and some colour to your formal wear. Well styled with a contemporary Fit, this shirt can be paired with formal dark trousers and dark leather shoes to give you a daper look. Product Details Greyish green shirt with alternate red and white bordered vertical stripes, has a medium spread collar, long sleeves, full buttoned placket, buttoned cuffs and a patch pocket Material and Care 100% cotton Machine wash cold using a mild detergent Do not bleach Tumble dry low or dry flat in shade inside out Use warm iron Size and Fit john players' contemporary fit The model (height 6' and shoulders 18\") is wearing a size 40",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/49c18f46ccb08390d10699bb882cc428_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/efdc5a9097eaf9ca62c1e17a000e319a_images.jpg"
+    }
+}

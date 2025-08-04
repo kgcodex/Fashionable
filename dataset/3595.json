@@ -1,0 +1,17 @@
+{
+    "id": 3595,
+    "brandName": "Converse",
+    "productDisplayName": "Converse Men's Chuck Taylor Big Check Red Black Canvas Shoe",
+    "price": 1299,
+    "description": "CompositionRed, black check patterned unisex lace-up shoes made with canvas uppers and rubber outsolesshoe careMake a paste using 1 tbsp of baking soda, 1 tbsp white vinegar and 1 tbsp hot waterRub this paste onto the canvas and the sole using a brushWash off with lukewarm waterThese funky red and black check patterned shoes from converse come in a classic Oxford design with durable canvas uppers, black canvas lining and cushioned footbed for hours of uniterrupted style and comfort. The white lace-up front with metallic eyelets ensures a snug Fit while the original rubber toe box and toe guard give added protection. The multi directional outsole gives added grip. Perfect for urban wear.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/881b2d2cd037b3a410cbaaf883f9e2f2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1270654f168e8ea47e524455809f84b6_images.jpg"
+    }
+}

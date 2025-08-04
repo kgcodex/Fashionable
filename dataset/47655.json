@@ -1,0 +1,17 @@
+{
+    "id": 47655,
+    "brandName": "Femella",
+    "productDisplayName": "Femella Women Grey Polka Dotted Dress",
+    "price": 1090,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/46d3fe20353ba763e3e1c781c799dc88_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3fb60f5617d5142e5fb914ad3556c3c3_images.jpg"
+    }
+}

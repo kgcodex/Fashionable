@@ -1,0 +1,17 @@
+{
+    "id": 23718,
+    "brandName": "Ray-Ban",
+    "productDisplayName": "Ray-Ban Men Caravan Sunglasses",
+    "price": 3790,
+    "description": "High on style, this pair of sunglasses from ray-ban collection comes in a styled frame. An eclectic mixture of fashion and substance, its shape provides that perfect Fit over the root of your nose. The glasses come in a signature Ray-Ban case.Lens size: 55 mmWarranty: 1 yearTinted high optical precision and impact resistant lensStylised thin metal frame in an aerodynamic design for absolute comfort and durabilityRounded rectangular lens for absolute style and protection from elementsFlexible hinges for durabilityFlexible nose pads made of rubber with a double nose bridge to hold the glasses in place, ensuring there is no friction with the skinCareRemove dust and grime by gently wiping the lens with the cloth providedRemove oil or tough stains with the help of a lens cleanerDo not use your fingers on such stainsDo not place glasses on uneven surface or heated areas like the dashboard of a car",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4debf57d96d406afc51acc031623dd1e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1a81d232fe904d4021ccb4f4e035db6d_images.jpg"
+    }
+}

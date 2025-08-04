@@ -1,0 +1,17 @@
+{
+    "id": 9391,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men CapriII White Sports Shoes",
+    "price": 3495,
+    "description": "Stylish and super comfortable, these capri II sneakers from nike will add an extra bounce to your steps. Lightweight and good-looking, you can wear them all day long to feel like you're walking on a bed of cotton. Look spectacular and wow in these comfy shoes.UpperSynthetic leather upper for durability and styleStitch detailing for added structure and styleLace-up system with synthetic laces for a snug, customized FitWell padded tongue and collar for in-step comfort and a secure fitBrand tab on tonguenike Swoosh appliqued on sides for branding and styleMidsoleEVA midsole for long-term durability and protection of feet against impactCushioned footbed for all-day comfortMesh lining for improved breathabilityOutsoleLightweight, slip-resistant rubber outsole for better shock absorptionHerringbone pattern all over for better traction on all surfacesshoe careWipe surface with soft, clean, dry cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0457886a1d0dfbbde161d4d2832bf8f7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/94e71de6e5d3b1412c97f5fafe0c0d4d_images.jpg"
+    }
+}

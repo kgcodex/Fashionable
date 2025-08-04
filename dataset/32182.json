@@ -1,0 +1,17 @@
+{
+    "id": 32182,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Agora Brown Sport Shoes",
+    "price": 2299,
+    "description": "Style NoteTake training to the next level in these Agora shoes from ADIDAS. Constructed for better comfort and cushioning, these shoes help you train longer and better. Team these with jeans and tees for great urban style.Product DetalsSynthetic woven uppers for better structure and comfortADIDAS patented 3-Stripe overlays on the sides for enhanced support and to exude the brand belief in performance Mesh tongue provides better breathable comfortPadded collar offers better comfortLace-up system for a snug, customized FitBrand name embossed on the tongue and embroidered behind the collarHaul loop on the collar for easy handlingCushioned foot-bed provides all day comfortEVA mid-sole provides better shock absorption and cushioningAggressive TPR out-sole comprised of mutli-directional lugs on the forefoot, heel and periphery of the foot for better gripOut-sole extends and builds up to the sides, heel and forefoot to give better grip and protection on all sidesReinforced mid-foot arch for better arch supportMaterial and CareSyntheticWipe surface with damp, clean cloth to remove dirt Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/414c8a9bc35465d477f268179821b994_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/19af87291059ba2498e43b659c7ec6c0_images.jpg"
+    }
+}

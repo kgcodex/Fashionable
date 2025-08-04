@@ -1,0 +1,17 @@
+{
+    "id": 56959,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Red Flats",
+    "price": 1199,
+    "description": "Open-toed velveteen thong style flat flats with a plastic toe-separator Padded bow detail on the thong straps Slightly padded footbed with a brand label at the heel Tough rubber sole with a grooved heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Red-Sandals_a8fb657f57e318cf27e95b92c9ff9d4f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Red-Sandals_c53724a9196b0913ebdec8ede6148e2a_images.jpg"
+    }
+}

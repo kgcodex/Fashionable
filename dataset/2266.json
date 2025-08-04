@@ -1,0 +1,16 @@
+{
+    "id": 2266,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Green Women T-shirt",
+    "price": 895,
+    "description": "Composition:Green, round neck, cotton blend t-shirtWash Care:It can either be hand washed or machine washedFitting:Comfort FitAction:Designed simple, this round neck, green tee with a smart nike logo across the chest is that perfect sportswear. It's unique heat absorption technology will keep you fresh and dry all though your fitness activities.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1ddb5a745a1e962aea1ab22946448111_images.jpg"
+    }
+}

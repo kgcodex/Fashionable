@@ -1,0 +1,17 @@
+{
+    "id": 22661,
+    "brandName": "Wildcraft",
+    "productDisplayName": "Wildcraft Lavender & Grey Slingbag",
+    "price": 1395,
+    "description": "Style Note",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Wildcraft-Lavender---Grey-Slingbag_0aed2657ed77e6641b8cbebe22edba83_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Wildcraft-Lavender---Grey-Slingbag_723f6cc803011c97a2b8e1e74776bbc5_images.jpg"
+    }
+}

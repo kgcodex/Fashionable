@@ -1,0 +1,17 @@
+{
+    "id": 37719,
+    "brandName": "John Players",
+    "productDisplayName": "John Players Men Polo Blue T-shirt",
+    "price": 1199,
+    "description": "Blue polo neck T-shirt, has short sleeves with ribbed cuffs, chest buttoned placket, applique on the front and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/31ccf8ef173335000ab1cd2aa7ed3d15_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/752ff9ebe596e906028b1e33b572564f_images.jpg"
+    }
+}

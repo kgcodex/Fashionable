@@ -1,0 +1,17 @@
+{
+    "id": 48378,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Men Blue paint Stained Regular Fit Jeans",
+    "price": 3499,
+    "description": "Blue washed jeans, has a button and zipped closure, belt loops around the waist, brand patch on the waistband at the back, two insert pockets in front with a coin pocket inside the right pocket, paint drop detailing on the legs in front and two patch pockets at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-Blue-Jeans_247ef1fc051b246b662a1caaf20f944a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-Blue-Jeans_fbfa4d22077026171997df38eb1e7718_images.jpg"
+    }
+}

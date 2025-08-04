@@ -1,0 +1,17 @@
+{
+    "id": 4009,
+    "brandName": "Spalding",
+    "productDisplayName": "Spalding Blue Basketball",
+    "price": 699,
+    "description": "CompositionLight blue basket ball made with synthetic rubber with wide channels and feminine wave patternCare1. Rub surface with clean, damp cloth to remove dust2. Do not machine washEnhance your performance level with this NBA Certified Basketball from spalding. The NBA&rsquo;s commitment to encourage women to play basketball is reflected in this NBA4her ball which comes in a dusty blue colour and light blur female silhouette, besides subtle thread embroidery like pattern. Engineered with spalding technology, its top grade rubber cover and wide channels make it a great ball for court games.",
+    "masterCategoryId": 12,
+    "masterCategoryType": "Sporting Goods",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/10ff248624b4267a95c5da3a0b5a99f7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/233b7f4d204d1c23bc60c778994d4d8b_images.jpg"
+    }
+}

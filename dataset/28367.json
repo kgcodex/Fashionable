@@ -1,0 +1,17 @@
+{
+    "id": 28367,
+    "brandName": "I DEE",
+    "productDisplayName": "IDEE Men Steel Sunglasses",
+    "price": 2150,
+    "description": "Tinted lens for use in normal daylight conditions Thin metal frame in an aerodynamic design Rectangular lens for absolute style and protection from the elements Flexible hinges for durability and ease of wear Flexible nose pads made of durable rubber to hold the glasses in place, ensuring there is no friction with the skin",
+    "masterCategoryId": 190,
+    "masterCategoryType": "Free Items",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/IDEE-Men-Steel-Sunglasses_f787b2cd2e13527e693c4bed50c6f9ed_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/IDEE-Men-Steel-Sunglasses_7d9756f94743e5a5588110b38266324a_images.jpg"
+    }
+}

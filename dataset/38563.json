@@ -1,0 +1,17 @@
+{
+    "id": 38563,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Orange & Charcoal Shorts",
+    "price": 1295,
+    "description": "Style NoteCrafted from soft polyester fabric, this pair of shorts from nike offers exemplary dry comfort, making it a great everyday choice for your healthy runs and casual days. Team this tee with a colourful tee and running shoes for a sporty look. Add on a hooded sweatshirt for exemplary comfort during winters.Product DetailsBlack shorts with orange paneling at the sides, has a drawstring at the inner waist, elastication at he waist and engineered with Dri-Fit technologyMaterial and Care100% polyesterMachine wash coldWash inside out with like coloursRemove immediatelyDo not bleach Tumble dry lowDo not dry clean",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/60cf7e4421eb3177e0e0ec81303a3c11_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f253093452c93958a580fc3ea0d0a0ee_images.jpg"
+    }
+}

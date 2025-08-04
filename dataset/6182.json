@@ -1,0 +1,17 @@
+{
+    "id": 6182,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women's Summer Girl White Flip Flop",
+    "price": 599,
+    "description": "-",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b787f2d20c5846bc467a8fe7ad46c142_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0ddc7872812e3aafd086533f24863eb8_images.jpg"
+    }
+}

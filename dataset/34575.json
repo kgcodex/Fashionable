@@ -1,0 +1,17 @@
+{
+    "id": 34575,
+    "brandName": "Tonga",
+    "productDisplayName": "Tonga Women Cream-Coloured Top",
+    "price": 1250,
+    "description": "Crafted in fine fabric and featuring a deep round neck, this Cream-coloured top has kaftan sleeves, embroidery and bead-work on the front, a woven through tape on the waist",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e08aaa8b6c0b353113d2b7df5e76a863_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4f561c485fd0cf90e6fd801df79bc2cf_images.jpg"
+    }
+}

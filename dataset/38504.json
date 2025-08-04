@@ -1,0 +1,17 @@
+{
+    "id": 38504,
+    "brandName": "Gini and Jony",
+    "productDisplayName": "Gini and Jony Girls Navy Blue Skirts",
+    "price": 499,
+    "description": "Style Note denim skirt for your little girl from Gini and Jony. Designed with room to grow, this piece is sure to become your child's summer favourite. Product Details Dark blue denim skirt with two patch pockets at the back and two in the front, loops at the waist band and a zipper and button closure at the front Material and Care 100% cotton Machine wash separately in cold water using a mild detergent Do not bleach or soak Line dry inside out in shade Warm iron only Do not iron directly on print/embroidery",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Girls",
+    "gender": "Girls",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6ea4eec7c7269bf9f5b1758d7308a68d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/64da37f957457ccb8a894d69d6a28136_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 43085,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Yellow Polo Neck T-shirt",
+    "price": 1595,
+    "description": "Style NoteAdd a touch of colour to your Sports-wear wardrobe with this polo neck T-shirt from nike that features an abstract Nike swoosh embroidery. Its pure cotton composition pulls away sweat to help keep you dry and comfortable. Pair it with track pants and sneakers for a jog in the park. Product DetailsYellow pique polo neck T-shirt with short buttoned placket, rib knit spread collar, short sleeve with rib knit cuff,embroidery on left front chest, brand patch on right bottom hem, vented hem with back longer than the frontMaterials and Care100% cotton Machine wash warm with like coloursWarm ironSize and FitRegular fitThe model(height5'8 and chest 33) is wearing a size M",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c6d8f42d564bbb249b4a05a3a112f34d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f1ee98f62401836b12997fad069096cb_images.jpg"
+    }
+}

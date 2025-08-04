@@ -1,0 +1,17 @@
+{
+    "id": 9999,
+    "brandName": "Palm Tree",
+    "productDisplayName": "Palm Tree Kids Girl Mm Merlin Top Blue Tops",
+    "price": 349,
+    "description": "Wash Care Machine Wash separately in cold water Use mild detergent Do not Bleach Avoid Soaking Remove promptly Line Dry inside out in shade Warm iron only Do Not Iron Directly on Print/embroidery",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Girls",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5bd36e6040e62d1e62144fd35897177b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/069ee13c1fe4161dc19ef7b8a315b3f6_images.jpg"
+    }
+}

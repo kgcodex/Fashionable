@@ -1,0 +1,17 @@
+{
+    "id": 50159,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Silver Toned Heels",
+    "price": 1890,
+    "description": "Style NoteGirls",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e5922d3bf775b7a9d5bc41ff88fa78f1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/19ef54b8b2c720da8c050144b9b6e5a7_images.jpg"
+    }
+}

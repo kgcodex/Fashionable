@@ -1,0 +1,17 @@
+{
+    "id": 52604,
+    "brandName": "Mod-acc",
+    "productDisplayName": "Mod'acc Women Black Clutch",
+    "price": 1195,
+    "description": "Black textured clutch, flap with a twist clasp for closure, one zippered compartment beneath the flap with a zipped pocket on one side, one long adjustable and detachable strap for carrying ease",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Modacc-Women-Black-Clutch_543782963dd41ee210ea1ab0d42b4a1f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Modacc-Women-Black-Clutch_52571fb971f7ec2fe7a1bd0e3fe5747b_images.jpg"
+    }
+}

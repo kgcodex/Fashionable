@@ -1,0 +1,17 @@
+{
+    "id": 38597,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Printed Texture Grey T-shirt",
+    "price": 895,
+    "description": "Style Note Get casual with the utmost comfort in this stylish T-shirt for men from nike. The soft cotton fabric wicks sweat away and keeps you fresh and comfortable during fun times with friends, while the fashionable print add style. Pair this tee with your favourite denims and sports shoes. Product Details Grey T-shirt with a round neck, short sleeves and brand name in graphic print on the front Material and Care 100% cotton Machine wash cool with like colours Do not bleach or dry clean Tumble dry low Cool iron do not iron on decorations",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e5dcd4bd9f7af1b23de2955dffa3d5fb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/84f00f105ed63ffa6ce930eabcc70dc0_images.jpg"
+    }
+}

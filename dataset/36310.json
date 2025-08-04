@@ -1,0 +1,17 @@
+{
+    "id": 36310,
+    "brandName": "Mr. Men",
+    "productDisplayName": "Mr.Men Boys Blazing Yellow T-shirt",
+    "price": 249,
+    "description": "Style NoteLet the apple of your eye enjoy some style in this T-shirt from mr.men. Stylized with an interesting graphic print, team it with shorts and comfy footwear for that super cool look.Product DetailsYellow and white striped T-shirt that has a round neck, short yellow raglan sleeves, and Mr. Strong rubber print on the frontMaterial and Care100% CottonMachine wash warm with like colours using a mild detergentUse a non chlorine bleach if neededTumble dry lowCool iron; do not iron on decorationsDo not dry clean",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2ba0dc5cf8646c3438747dcd45311513_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d288d7d88d872129ce78f195fa215297_images.jpg"
+    }
+}

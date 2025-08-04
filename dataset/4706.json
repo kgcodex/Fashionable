@@ -1,0 +1,17 @@
+{
+    "id": 4706,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex Seoul Black Gold Watch",
+    "price": 2795,
+    "description": "Functionality meets fashion with this Seoul digital watch from adidas. In a combination of black and gold, and packed with features, this watch is a must have for those who never compromise on style and comfort.Case diameter: 44 mm Case thickness: 10 mmDial shape: RectangleGold tone case with a black polycarbonate strap for enhanced durability and comfort Tang clasp to keep the watch firm in place as a belt buckle Fixed resin bezel for added durability Digital chronograph system where time is counted and accumulated in various formats independent of the main time, like displaying date, month, seconds, alarm, a stop watch, 10-lap memory, etc. Quartz movement of time display to ensure accurate time measurement Scratch resistant mineral crystal to keep your watch safe and well protected for yearsSolid case back for enhanced life Water resistant at 50 meters allowing you to use it when swimming",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/eb1da865b02f02bc5c3df12f5e8719d9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ec874fdf079183822388660eac3e77d6_images.jpg"
+    }
+}

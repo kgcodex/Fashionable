@@ -1,0 +1,17 @@
+{
+    "id": 30775,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Men White Chikankari Kurta",
+    "price": 1390,
+    "description": "White chikankari short kurta has a mandarin collar, buttoned chest placket, long sleeves and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bd99f6ac252a04d9d68bdd89318d8d48_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fbe1678a3fc030d6d17d71e31d3d5bf6_images.jpg"
+    }
+}

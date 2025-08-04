@@ -1,0 +1,17 @@
+{
+    "id": 13215,
+    "brandName": "ASICS",
+    "productDisplayName": "ASICS Men Gel Enduro 7 Running Silver Sports Shoes",
+    "price": 3999,
+    "description": "An entry level shoe for the off-road trail runner, the Gel Enduro 7 comes with fabulous traction and a supportive Fit at a great price.UpperOpen mesh upper promotes maximum breathabilitySuede overlays supply durable support and help keep the foot securely in placeLightly padded tongue for added comfortComforDry sockliner offers anti-microbial properties for a drier, healthier environmentEVA sockliner that moulds to the foot for absolute comfort, and removable to accommodate an orthotic3M reflective material for easy visibility in low light conditionsMidsoleGEL cushioning system for ultra-lightweight, flip flop-like feelCompression moulded EVA midsole for enhanced cushioning and comfortCalifornia Lasting in the heel and forefoot for absolute stabilityOutsoleAHAR high abrasion rubber for durabilityEVA outsole to strengthen the feet when walkingI.G.S (Impact Guidance System) employs linked component to enhance the foot's natural gait from heel strike through toe-offRearfoot and forefoot Gel cushioning systems work together to better attenuate impacting shock and allow fluidity of the foot throughout the gait cycleShoe careWipe surface with soft, clean, cloth or brush, cold water and mild detergent to remove dustDo not machine wash or use a drierAvoid storing shoes in extremely hot conditions or in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/34d8385753315eb316dcf463d509a56d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cfae2db82bff9506813cf0d0c4a535d9_images.jpg"
+    }
+}

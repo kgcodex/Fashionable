@@ -1,0 +1,17 @@
+{
+    "id": 13652,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS White  Snova Sequence 4M Sports Shoe",
+    "price": 6999,
+    "description": "Take running to the next level with these Snova Sequence 4M shoes from adidas. The sleek design with the sturdy structure and high performance features helps you run better for longer. Team these with jeans and tees for a cool casual look.UpperMesh uppers with synthetic overlays for excellent ventilationAnatomical Geofit construction for greater comfortadidas patented 3-Stripe design on the sides for enhanced support and to exude the brand&rsquo;s belief in performanceLace-ups for snug FitMesh tongue for greater breathabilityCushioned collar for greater comfortBrand name embossed on the tongue and on the heelMidsoleRemovable footbed that can be replaced with a medical orthoticadiPRENE&reg; in the forefoot maintains propulsion and efficiencyOutsoleFORMOTION technology on the outsole adapts to the ground to ensure the smoothest, most comfortable run possibleadiPRENE&reg; under the heel with a scooped out cavity gives superior cushioning on impactCombination of blown rubber and sticky rubber for exceptional grip in high-impact areasUpdated Torsion System TPU for a smooth midfoot transition with increased midfoot integrityFlex grooves provide greater flexibility to the feetshoe careWipe surface with damp, clean cloth to remove dustDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/98461df67d41c81cafbe3f39fcb8cd97_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6427b5345729d704a4f41f794073dc64_images.jpg"
+    }
+}

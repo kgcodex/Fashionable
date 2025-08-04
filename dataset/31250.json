@@ -1,0 +1,17 @@
+{
+    "id": 31250,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Car Graphic Red T-shirt",
+    "price": 1199,
+    "description": "Red round neck T-shirt made of 100% cotton, has short sleeves and slightly distressed graphic print on the front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/51ddaac06991cf281ca2ba24d3d02265_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/70e503f54b5ada3ae07e5ebffccf7b44_images.jpg"
+    }
+}

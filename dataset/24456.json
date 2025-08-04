@@ -1,0 +1,17 @@
+{
+    "id": 24456,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Air Max White Sports Shoes",
+    "price": 10995,
+    "description": "Styled with an aesthetic appeal and engineered with comfort, the nike Air Max+ 2012 has a lacing system that is integrated with nike&rsquo;s revolutionary Flywire technology. With its high strength thread work, like that of cables used in suspension bridges, constructed exactly at those places where the foot needs that extra support. The shock absorption technology in the Nike Air Max+ 2012 has a low profile phylon midsole that is employed with a 180&deg; Max Air unit to provide optimal cushioning and impact protection. UpperMesh upper with supportive overlays for breathability and lockdown FitLightly padded collar and tongueTextile lining with a cushioned footbed for added comfortUltra-lightweight Flywire bundles are integrated with the lacing system for extra supportInternal seamless forefoot inner sleeveInternal underlay support frameMidsoleInternal underlay support frameLow-profile Phylon midsole with 180&deg; visible Max Air sole unit for optimal cushioning and impact absorptionOutsoleForefoot flex grooves for ultimate multi-directional flexibilityStrategically placed rubber pods in the outsole for traction and durabilityRubber outsole with enhanced traction patterns for better surface gripWash careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a4d17f8e72285910e9dc5147ccbf49f0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2b122f1bf88dd11ee0717c847e055f8c_images.jpg"
+    }
+}

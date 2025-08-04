@@ -1,0 +1,17 @@
+{
+    "id": 28602,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air force 1 White Shoes",
+    "price": 7595,
+    "description": "Replete with a low-cut silhouette and a versatile look, the nike Air Force 1 Mid has been crafted on the lines of the iconic AF1, blending classic style, innovative technology and fresh detailing in a Basketball shoe. Exceeding all standards of performance, functionality and excellence, the nike Air Force 1 is a celebrated sneaker. UpperHigh top synthetic leather upper with crisp edges for maximum durability and a cleaner lookPerforated toe box and sides for ample ventilationLow cut silhouette for a low-to-ground feelCotton twill lace-up system with lightly padded tongue for snug FitMetal tag on lace to honour the shoeMildly cushioned sockliner for in-step comfort Midsole Phylon midsole with an encapsulated Nike Air unit for lightweight cushioning and shock absorptionMidsole with soft, springy cushioning Outsole Non-marking rubber outsole for better traction and durabilityPivot points on the big toe mound and heel, coupled with circular lugs for smooth transition in all directions Shoe care Do not machine wash Remove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/65c2ed5738d2945f5a9802847b699929_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/68503991a2d4ca0d4f4a43dfe9abe0fd_images.jpg"
+    }
+}

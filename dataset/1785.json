@@ -1,0 +1,17 @@
+{
+    "id": 1785,
+    "brandName": "Lotto",
+    "productDisplayName": "Lotto Men Brighton White-Blue Shoe",
+    "price": 1499,
+    "description": "Italian design to the fore. Step up to the next level of comfort and styling in these superior shoes. Crafted for the Sports freak as well as the morning jogger. Shoes that are as light as a feather with extra durability and available in a pleasing colour combo.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4b5e313d82ef4a4b8ec1aa3c52bc3a76_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/aa24588ec568624d4209c7a0bbc81815_images.jpg"
+    }
+}

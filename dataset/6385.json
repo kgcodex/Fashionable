@@ -1,0 +1,17 @@
+{
+    "id": 6385,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Future Cat Engine Black Shoe",
+    "price": 4999,
+    "description": "Want the look of a car racer without having to risk slamming into a wall at 200 mph? Here's your solution. The puma Future cat series, a long-time favourite of motorsport enthusiasts, now has a more modern upper pattern and razor-sharp details in its Future Cat M1 Engine II. Stylish to look at and comfortable to wear, this is possibly the best shoe one can ever ask for.Upper Features a low-profile design made for the avid motorsport enthusiast Premium leather upper for longer wear Bold, contrasting formstrip logo outlining Chrome detailing across all colorways Asymmetrical lacing system alleviates pressure points Textile lining&nbsp; for enhanced comfort Midsole Cushioned midsole for comfort and stability Scuderia ferrari logo shield Outsole Durable rubber outsole embedded onto the heel counter for shock absorption and enhanced shoe life",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9f87fd1e272193c92d9c35f817c2598e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f0ac9f73564afaf60fad5314fec26252_images.jpg"
+    }
+}

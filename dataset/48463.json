@@ -1,0 +1,17 @@
+{
+    "id": 48463,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Teal & Brown Printed Dress",
+    "price": 3499,
+    "description": "Cream dress with ochre and teal print, scoop neck, sleeveless, princess panel with cascade inserts and drawstring with tie ups at waist on the side",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Teal---Brown-Dress_1b9911189c54e9b8fc73bb2035b6f719_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Teal---Brown-Dress_ae481e4fced9bc1caf89c679df5e3163_images.jpg"
+    }
+}

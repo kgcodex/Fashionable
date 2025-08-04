@@ -1,0 +1,17 @@
+{
+    "id": 23863,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men White Galaxy Elite Sports Shoes",
+    "price": 3899,
+    "description": "Nail your non-returnable bombs and command the tennis court in these adidas Galaxy Elite tennis shoes. This shoe features a lightweight and long-lasting upper, adiTUFF on the inner toe, a durable adiWEAR outsole and an EVA insole for cushioning. Team it with t-shirts and shorts for that winning game set.UpperSynthetic leather upper for lightweight comfort and durabilityadiTUFF in the forefoot for abrasion resistance and durability in this high-wear areaComfortable textile lining and adidas patented 3-Stripes for styleLace ups for a snug and customised FitPerforations on the forefoot and midfoot lateral side for breathable comfortPadded and meshed tongue and collarMidsolePhylon midsole for lightweight durable comfortPadded footbed for all-day comfortOutsoleTPU outsole with exaggerated herringbone and flex grooves for absolute grip and tractionPivot point on the toe mound for flexibliltyArched midfoot to mould the curve of the footShoe careWipe surface with damp, clean cloth to remove dirt Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2449a51196defb7d2a50d01dd51e3b4a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5a14b3db982b3071986a5f3e3be26abf_images.jpg"
+    }
+}

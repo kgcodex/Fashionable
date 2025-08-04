@@ -1,0 +1,17 @@
+{
+    "id": 28629,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Sports Black Jersey",
+    "price": 3295,
+    "description": "CompositionBlack jersey T-shirt made of 100% recycled polyester Dri-Fit fabric, has a round neck with cut away detail, short sleeves with branding on the right sleeve, mesh panels on the sides, appliqued FCB seal on the upper left chest, embroidered swoosh logo on the upper right chest, Qatar foundation print on the front, rubber printed FCB strip on the back below collar and Unicef logo printed at the backFitRegularWash careMachine wash cold with like coloursDo not dry cleanDo not bleachTumble dry on lowCool iron onlyDo not iron on print or embroideryThis jersey from nike is a must-have for FC Barcelona fans. The mesh Dri-Fit fabric created from recycled material wicks sweat away from the skin while the mesh panels keep you well ventilated, and the sporty design gives an added edge. Team this with track pants and football cleats and you'll be ready for an aggressive game.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3d2c591cac5f222e5de7366e4191e907_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/011866be6282caeea1826c95efe9b703_images.jpg"
+    }
+}

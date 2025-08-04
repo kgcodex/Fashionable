@@ -1,0 +1,17 @@
+{
+    "id": 9557,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Running Blue Tshirts",
+    "price": 1895,
+    "description": "CompositionBlue round neck t-shirt made of 100% polyester, engineered with Dri-Fit technology, and has short sleeves with branding in silver print on left chestFittingComfortWash careMachine wash cold at 30 degrees with like coloursDo not use softeners or bleachTumble dry lowRemove immediately/do not allow fabric to lie on itself when wetCool iron, but do not iron on designDo not dry cleanDesigned for that absolute running experience, this nike t-shirt is replete with Dri-Fit comfort to make your sporting experience all the more comfortable and fun. The Dri-Fit technology wicks away sweat, allowing you to concentrate on your running, while the mesh side panels enhance ventilation and regulate body temperature. Team this with performance shorts and running shoes for that complete running comfort.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b3fdbbc6391b367e7a5da42d6a8ab067_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/672aecf0687bc8c9abed70b8ae447706_images.jpg"
+    }
+}

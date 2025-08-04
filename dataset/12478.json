@@ -1,0 +1,17 @@
+{
+    "id": 12478,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Men Black Leather Formal Shoes",
+    "price": 5999,
+    "description": "A pair of black formal shoes with central lace-upsLeather upperCushioned footbedTextured outsole with patterned grooves, hasnbsp;a stacked heelWarranty: 3 monthsWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bdd5c2b8805af12ab2fc5379aa9f7f36_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9c3db605281a770e9b39f97e4eb2c5bc_images.jpg"
+    }
+}

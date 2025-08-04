@@ -1,0 +1,17 @@
+{
+    "id": 45375,
+    "brandName": "Cobblerz",
+    "productDisplayName": "Cobblerz Women Grey Sandals",
+    "price": 1299,
+    "description": "A pair of open-toed grey sandals with low top stylingLeather upper with stitched and cut-out detail, has forefoot straps, ankle loop secured with an adjustable buckle closureSoft footbed with stitched detail and branding on the heel regionTextured outsole with a wedge heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Cobblerz-Women-Grey-sandals_fd17c0ceaf3bb3c691b6db3c8252336f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Cobblerz-Women-Grey-sandals_b51fa698323a5886b35cc9cc41f1e186_images.jpg"
+    }
+}

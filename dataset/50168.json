@@ -1,0 +1,17 @@
+{
+    "id": 50168,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Gold Toned & Beige Heels",
+    "price": 1490,
+    "description": "Style NoteCreate",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/40b378c1de7b3fedd5bfed480686e269_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/17179ebdbaa6f2507d69ddfdee547fad_images.jpg"
+    }
+}

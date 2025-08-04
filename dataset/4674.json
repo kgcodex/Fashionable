@@ -1,0 +1,17 @@
+{
+    "id": 4674,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex BP Clima Insp Black White Backpack",
+    "price": 1899,
+    "description": "Product SpecificationMade of 100% polyester, with mesh back paddingRoomy compartment to hold all itemsFront compartment to hold all essentialsNylon bonded thread for long lifeHaul loop for handling easePadded, adjustable shoulder straps that distribute weight evenly and protect the shoulders and back from injuriesErgonomic design to Fit the arch of the back perfectlyClimaCool technology on the back and shoulder straps to keep heat and sweat away from your body and regulate body temperatureFront pocket has bold graphic print on the front panel with printed logoMeasurementHeight: 31 cmWidth: 46 cmDepth: 20 cmWash careDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d0563e083459ab8507d58dba614077d3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2724421d515d21cce5ff6168f25a0066_images.jpg"
+    }
+}

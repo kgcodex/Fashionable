@@ -1,0 +1,17 @@
+{
+    "id": 30152,
+    "brandName": "Wrangler",
+    "productDisplayName": "Wrangler Men Black Belt",
+    "price": 1195,
+    "description": "A wardrobe essential, a belt is a must-have accessory for the well-dressed male. wac by wrangler have perfected this traditional accessory's foray into modern wardrobes using classic techniques and innovative designs. Wear this piece with jeans, casual shoes and a colourful tee or shirt.Made of leather for durabilityTang clasp for a snug FitHoles to customise fitFixed loop near the buckle to hold belt in placeStitch detail for styleCareWipe surface with a clean, dry cloth to remove dustDo not store in sunlight",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4ba9b757d6a13182164f2d8c1c4e2969_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3c6f4b97bcb58623fb0bba04d705968a_images.jpg"
+    }
+}

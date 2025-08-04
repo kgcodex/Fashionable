@@ -1,0 +1,17 @@
+{
+    "id": 47530,
+    "brandName": "Portia",
+    "productDisplayName": "Portia Women Copper-Toned & Brown Sandals",
+    "price": 499,
+    "description": "Open-toed copper-toned and brown sandals, low-top and slip-on stylingSynthetic upper, has a toe holder and a midfoot strap with dotted and braided patternSoft footbed with branding on the heelSmooth outsole with a slightly upraised heel that has a dotted pattern",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6bf45385e757a052d0369e66831dad70_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d44acb1bc3aaf5f74eca3773c62d82ba_images.jpg"
+    }
+}

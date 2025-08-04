@@ -1,0 +1,17 @@
+{
+    "id": 7785,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Charcoal Grey Polo T-shirt",
+    "price": 599,
+    "description": "Charcoal grey polo T-shirt, has a polo collar, short button placket, short sleeves, a patch pocket",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5df5f36a18fddf4e2fe56cc42f90334b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7802acb29a2352629cf7b920ec0e1461_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 3639,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men's Universe HI White Shoe",
+    "price": 1599,
+    "description": "This pair of cool white high top shoes from the Universe Hi range of fila are designed for utmost comfort and style. Pair them with casual wear like jeans or cargo pants and cool tees and create a stir wherever you go.Upper White synthetic upper with black fabric lining for greater protection and style White lace-ups ensure a snug Fit Additional pair of black laces give a different look Graphic of the logo on the side Lightly cushioned insole gives greater comfort Midsole Lightweight midsole for cushioning and shock resistance Outsole fila logo shaped lugs on outsole ensures greater grip and stability Pivot point for greater mobility Toe guard for greater protection Wash careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/838856482d9724384cdf8b06acf827f1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1f0aa653f81b1f23e223660e1f3c7e5b_images.jpg"
+    }
+}

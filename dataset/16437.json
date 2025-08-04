@@ -1,0 +1,17 @@
+{
+    "id": 16437,
+    "brandName": "Levis",
+    "productDisplayName": "Levi's Men Printed Black Tshirts",
+    "price": 999,
+    "description": "Composition Black round neck T-shirt made of 100% cotton, has short sleeves and distressed graphic print on the front Fitting Slim Wash care Machine wash with warm water Do not bleach Tumble dry Warm iron Do not dry clean Levi's takes its love for the urbane and trendy to a whole new level with this old school rock themed T-shirt. Tailored to a beautiful finish, this tee is designed to offer a snug Fit and flaunt your chiseled body. Slip into distressed blue jeans and sneakers to complement this classic T-shirt. Model statistics Product is a size M on a model of height 6' and shoulders 18.5\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/14162ef862e9fab8008548b08b21a8c9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/027a2cf03ad981330cc02bc86fff6894_images.jpg"
+    }
+}

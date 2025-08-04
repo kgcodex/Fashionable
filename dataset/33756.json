@@ -1,0 +1,17 @@
+{
+    "id": 33756,
+    "brandName": "Vero Moda",
+    "productDisplayName": "Vero Moda Women Black Top",
+    "price": 1295,
+    "description": "Black round neck top, sleeveless, with a bow at the centre of the neckline and a band at the hemline.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/982befb01fb6bbf11221df5d4180098f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a676a7053255be9fecb87368c88ffc1f_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 3297,
+    "brandName": "ASICS",
+    "productDisplayName": "Asics Men's Sport Running Gel-Pulse 2 Silver Red Shoe",
+    "price": 4999,
+    "description": "CompositionSilver and red running shoes with anti-microbial properties, trusstic system, open mesh upper, rear foot cushioning with GEL Cushioning system and outsole with AHARWash careWipe surface with soft, clean, cloth or brush, cold water and mild detergent to remove dustDo not machine wash or use a drier Avoid storing shoes in extremely hot conditions or in sunlightFittingRegularIf you enjoy running but dislike your feet getting sweaty, then asics has the right pair of shoes for you. Built with a ComforDry sockliner, the shoe has anti-microbial properties and open mesh upper which together ensure a cooler, drier and healthier environment for your feet. The GEL cushioning system provides better shock attenuation and reduces impact and allows smooth running, while the trusstic system reduces the weight of the sole unit, without compromising on the shoe structure. The EVA midsole improves bounce back and decreases midsole breakdown. The outsole with AHAR gives superior durability. It&amp;rsquo s a perfect running shoe for the moderate runner.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0fb0c50e0dd141d7d253194081dca311_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0915ab3b1f7f7cfe5d4b6590668ea101_images.jpg"
+    }
+}

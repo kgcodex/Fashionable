@@ -1,0 +1,17 @@
+{
+    "id": 15740,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Air Relentless Grey Sports Shoes",
+    "price": 3995,
+    "description": "Designed for absolute comfort, the nike Air Relentless running shoe is absolutely stylish and versatile for those looking for a comfortable run. It's stylish look doubles it up as a great lifestyle footwear.UpperHeavily meshed upper for breatheability with synthetic overlays for enhanced durabilityLacing system for a snug, customised FitMeshed and padded tongue and collar for maximum comfortMidsolePhylon midsole for absolute impact protection and lightweight comfortOutsoleTPR outsole with flex grooves for ease of movementWaffle-pattern lugs for grip and excellent tractionScooped heel for extra cushioning and comfortshoe careWipe surface with a dry, clean cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/eaa50f66611fca1847eca6abcb49dc3e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fa6b8459a472e26baa33ea96f2aa199f_images.jpg"
+    }
+}

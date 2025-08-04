@@ -1,0 +1,17 @@
+{
+    "id": 38544,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Black Suede Archive Eco Shoes",
+    "price": 3499,
+    "description": "Black premium suede leather upper for comfort and durability Upper stitched to the outsole for extended durability Lightly padded collar for comfort Stitch overlays to further add to the structure Suede form stripe logo detail Synthetic lining with a cushioned footbed for all-day comfortGum-rubber outsole in waffle pattern for cushioning and grip",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/93fa2b8731fbd57f7ef2839e2f288d4d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c30fa90b5ebb7add071fbe840906d905_images.jpg"
+    }
+}

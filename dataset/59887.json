@@ -1,0 +1,17 @@
+{
+    "id": 59887,
+    "brandName": "Femella",
+    "productDisplayName": "Femella Women Pink Tube Top",
+    "price": 350,
+    "description": "Pink tube top elasticated at the chest and hem, stretchable fabric for a snug Fit",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-Pink-Tube-Top_8b3b8f203a88a2352e17bbc54111a3e4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-Pink-Tube-Top_1816a9a86bab2ac4ac440eb872b16ac7_images.jpg"
+    }
+}

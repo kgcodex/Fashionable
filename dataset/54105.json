@@ -1,0 +1,17 @@
+{
+    "id": 54105,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women White Flats",
+    "price": 890,
+    "description": "Open toed criss-crossing thong style upper with a toe separatorThong straps culminate in a heel cup and a buckled ankle loopBeige footbed with brand label at the heelTough rubber outsole with an upraised heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocia-Women-White-Sandals_4a7453e4a3029568ee3455ec71ade4df_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocia-Women-White-Sandals_bd87d37be8a5bdc791ffef48a2ff1faf_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 17847,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Impetus II White Sports Shoe",
+    "price": 2695,
+    "description": "Designed for absolute comfort, the nike Air Impetus II is an absolutely stylish running shoe for those looking for a comfortable and versatile ride. It's stylish look doubles it up as a great lifestyle footwear. Upper Mesh upper for maximum breathability Synthetic overlays to add structure to the shoe and support the midfoot Assymetrical lace-up system for snug Fit Synthetic laces for durability and snug fit Meshed and cushioned tongue with synthetic overlay for maximum comfort and durability nike swooshes on side panels in synthetic and embroidered outline for support and style Cushioned sockliner for comfortable in-step and snug fit TPU midfoot saddle for lightweight support and comfort Midsole Phylon midsole for superior underfoot cushioning, offering a smooth ride Cushioned footbed for shock absorption and impact protection Natural Motion Engineering technology to offer an optimal ride Outsole Made of durable rubber to provide ample protection from shock Waffle pattern on the forefoot to provide greater grip and traction Nike Air hollow in the heel to provide cushioning and impact protection to the backfoot Shank connecting forefoot and backfoot providing ample support and impact protection to foot arch Forefoot outsole embedded onto upper as a toe guard to enhance durability and protect the toes Wash care Do not machine wash Remove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/12c82ae0a4007f941e3e5dc06080f07a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4d4613dab581288f37d2e74e84267f36_images.jpg"
+    }
+}

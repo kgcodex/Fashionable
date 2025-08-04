@@ -1,0 +1,17 @@
+{
+    "id": 14343,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Downshifter 4 MSL Purple Sports Shoes",
+    "price": 3095,
+    "description": "Enjoy your runs in style with the nike Downshifter 4 MSL running shoe. Extremely lightweight so your shoes won't slow you down and stylish so you're bound to turn heads when you're on your morning run. This pair is worth the add in your wardrobe as nike ensures that they provide you with only the best performance footwear. Upper Leather and mesh upper for breathability and structural comfort Meshed and padded tongue and collar Lace-up system for snug Fit Cushioned sockliner for in-step comfort Synthetic overlays with Nike swooshes on the sides for enhanced shoe structure Midsole Phylon midsole for lightweight responsive cushioning and shock absorption Encapsulated Air-Sole unit for enhanced cushioning External heel counter to lock the foot in place Outsole BRS 1000 rubber outsole for durability Rubber shank for absolute midfoot support and torsional rigidity through midstance Forefoot flex grooves for smooth transition Heel scoop for cushioned comfort and impact protection Multi-directional and multi-depth lugs for better grip Shoe care Do not machine wash or store in direct sunlight Remove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fe89f7ecb01389c14a70f8f50f11cdab_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8d30222a78f56d63f8c0a81cc0ba98e5_images.jpg"
+    }
+}

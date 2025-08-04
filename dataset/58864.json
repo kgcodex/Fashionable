@@ -1,0 +1,17 @@
+{
+    "id": 58864,
+    "brandName": "Hakashi",
+    "productDisplayName": "Hakashi Men Gold Cufflinks",
+    "price": 1110,
+    "description": "Golden and black coloured pair of cuff-links, square, with crystal detail Hinged back to hold cuff in place",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Gold-Cufflinks_6539a6d7529c1e4c6f18c618e6e6b303_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Gold-Cufflinks_089d6a33af638bbd0bbfda149db9ca6d_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 32741,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men Calve Brown Casual Shoes",
+    "price": 2299,
+    "description": "Round toed, brown shoes with grey accents, Synthetic leather upper with strategically placed overlays for durabilityPadded tongue with branding and central lace upsReinforced heel collar with brandingSoft footbed with branding at the heelMesh inner lining for sweat-free comfortFoxing along the shoeDurable, textured outsole with herringbone grooves for absolute grip and durabilityWarranty: 3 months from the date of purchase, against manufacturing defectsWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FILA-Men-Calve-Brown-Shoes_8a9681ef76c414f975ba49e85204db48_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FILA-Men-Calve-Brown-Shoes_cee3dd359601fa5760a196ee1ffb451c_images.jpg"
+    }
+}

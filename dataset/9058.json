@@ -1,0 +1,17 @@
+{
+    "id": 9058,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Furano 3 White Sports Shoes",
+    "price": 3299,
+    "description": "Take running to the next level in these Furano 3 shoes from adidas. Constructed for better comfort and cushioning, these shoes help you run longer and faster. Team these with jeans and tees for great urban style.UpperMesh uppers with synthetic overlays for better breathability and structureadidas patented 3-Stripe overlays on the sides for enhanced support and to exude the brand&rsquo;s belief in performance Mesh tongue provides better breathabilityPadded collar offers better comfortLace-up system for a snug, customized FitBrand name embossed on the tongue and behind the collarMidsoleAnatomically enginnered footbed provides all day comfortAdidas Litestrike EVA provides more bodily comfort and foot supportOutsoleBlown rubber outsole instigates lightweight motion control.Circular lugs along the mid forefoot and medial inner heel, with waffle pattern lugs on the medial forefoot and lugs along the lateral forefoot and medial heel for absolute grip and traction Impact guidance system for a more responsive ride from heel-strike to toe-off Flex grooves in the forefoot for easy movement Scooped heel for absolute cushioned comfort shoe careWipe surface with damp, clean cloth to remove dirt Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/08e18693cb01fe95a77d77d290f18a52_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f7a83104084028ca1b4a40a1afb91f24_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 7576,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Zoom For 3 White Blue Shoe",
+    "price": 4500,
+    "description": "If it's unending speed you're looking for, there's no better running shoe than the nike Zoom Forever 3. A perfect cross-country shoe, the Zoom Forever is employed with Dry Fit technology that allows water to drain away, keeping your feet dry and comfortable all through your run.Upper One-piece, single-layer open-mesh upper for lightweight comfort and breathability Allows water to drain away keeping the feet dry and fresh even on wet surfaces Internal arch bandage locks down over the footbed for a snug, secure fit and optimal power transfer Collar lobes provide a snug fit for ultimate heel lock down Synthetic overlays for zonal support in the heel and toe box for a snug fit without adding unnecessary weight Sublimated design on mesh adds a fresh feel without added weight No-sew construction and eyestays limit internal stitching to reduce friction and foot irritation Midsole Moulded Phylon midsole for low-to-ground, lightweight cushioning EVA injected midsole for lightweight feel Outsole Unique tip to heel TPU-and-rubber blend injected into a protective film layer for claw-like traction Waffle outsole in a sleek, lightweight package for added grip and support Vertical and horizontal flex grooves for added cushioning and flexibility while running Shoe careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9df2e3530381ddd3b6a268b25b3896c9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fdf352f129740f445fa2a477445d6d89_images.jpg"
+    }
+}

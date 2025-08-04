@@ -1,0 +1,17 @@
+{
+    "id": 30264,
+    "brandName": "Red Tape",
+    "productDisplayName": "Red Tape Men Grey Shoes",
+    "price": 2395,
+    "description": "Cut a dash with these shoes for the cosmopolitan male from red tape. Inspired by the rugged Texas plains and the cowboy lifestyle from a bygone era, these leather shoes pay homage to the Wild West. Wear them with stone washed denims, a casual plaid shirt and a stylish leather jacket. Upper High quality leather upper for protection, comfort and durability Reinforced overlay for the heel Central lacing system High on the ankle for styleUpper stitched to the TPU outsole for durability Outsole Textured rubber outsole with a raised heel shoe care Use a branded shoe polish to keep your footwear clean Do not store under sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8b825fe742033960ebfb7a726a573e42_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/739d67300e03ec53f65c1376c9fc7af2_images.jpg"
+    }
+}

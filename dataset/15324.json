@@ -1,0 +1,17 @@
+{
+    "id": 15324,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Printed White Sweatshirts",
+    "price": 2795,
+    "description": "CompositionWhite hooded sweatshirt made of 100% cotton, has long sleeves with ribbed cuffs, hoodie with drawstrings, patch pocket on the waist with double sided opening, manchester united printed on the front, MU seal appliqued on the pocket, brand detailing on the left sleeve and a ribbed hemlineFittingRegularWash careMachine wash warm with like coloursDo not bleachTumble dry lowWarm iron onlyDo not dry cleanDo not iron on print or embroideryThis white hooded sweatshirt from nike is an excluse Manchester United product, inspired by classic street style staples. The heavy use of symbols and seals of Manchester United is a great way to cheer the team on and off the fields, while the thick fabric along with the hoodie offers extra insulation. Team this with tees and jeans.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/eaffb702451a727b2b01a1f89b37c1d8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/000c73107733232cd55422579f44cce5_images.jpg"
+    }
+}

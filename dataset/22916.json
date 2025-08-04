@@ -1,0 +1,17 @@
+{
+    "id": 22916,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Flyclave Black Casual Shoes",
+    "price": 3895,
+    "description": "The nike Flyclave Leather is a no-fuss sneaker with an ultra slim profile. It features a leather and suede upper, an extremely sleek EVA midsole and a rubber outsole, making it a great casual shoe. Upper Leather and suede upper for durability and comfort Perforated upper in swoosh pattern on the side panels and on the upper for maximum ventilation Symmetrical lacing system for snug Fit Cotton twill laces for comfort and durability Lightly padded tongue for enhanced comfort Reinforced suede overlay along toe box to protect the forefoot Midsole Cushioned footbed for all-day comfort and impact protection EVA midsole for durability and absolute shock absorption Outsole Durable rubber outsole with herringbone grooves for maximum stability and traction Wash care Do not machine wash or store in direct sunlight Remove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d29932d2550802f03c0b53c3f8cb4e84_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5015a2b7fa6031330e39fcb395c99e09_images.jpg"
+    }
+}

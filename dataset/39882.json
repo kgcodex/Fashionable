@@ -1,0 +1,17 @@
+{
+    "id": 39882,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex Navy Blue Backpack",
+    "price": 3599,
+    "description": "Style NoteIf you want a bag that's funky, stylish, cool and comfortable to carry around all day, check out this piece from adidas. The Climacool technology allows for breathability on a hot day. Carry it to college, work or on a casual day out with your friends.Product DetailsBlue backpack, one front zipped pocket with adjustable velcro straps, one main zipped compartment with an inner laptop compartment, two adjustable shoulder straps with foam lining, foam backing for carrying ease, two zipped pockets on either side, haul loop, branding on the frontMaterial and Care100% PESWipe surface with a clean, dry cloth to remove dustSizeHeight: 43 cmWidth: 26 cmDepth: 15 cm",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/44e844224c08cb0a5b49b6d0f39900ac_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9767f1e8fe9d980350cb1bb2d2a1a3a2_images.jpg"
+    }
+}

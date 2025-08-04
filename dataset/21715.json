@@ -1,0 +1,17 @@
+{
+    "id": 21715,
+    "brandName": "Catwalk",
+    "productDisplayName": "Catwalk Women Blue Casual Shoes",
+    "price": 1295,
+    "description": "A spin off from the penny loafers for men, this pair of moccasin flats from catwalk is designed to charm you out of your staple stilettos. Add a new-season lift to your ensembles with this patent-toed pair. Tap into the mood of the moment - the androgynous - with these flats and work the look with a formal shirt from arrow and tailored pants. Upper Synthetic leather upper with slip-on style features Soft lining and padded sockliner for instep comfort Tie ups above the mouth Reinforced overlay at the heel collar for ankle support Outsole Non-slip TPU outsole with circular lugs on the midfoot and capsule lugs on the forefoot and heel shoe care Wipe surface with a damp, clean cloth to remove dust and dirt Do not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/623b90fe71c96078e42a8810741d826e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8d66a06f7719fc66783286b31a821245_images.jpg"
+    }
+}

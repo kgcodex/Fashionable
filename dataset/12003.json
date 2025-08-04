@@ -1,0 +1,17 @@
+{
+    "id": 12003,
+    "brandName": "Mark Taylor",
+    "productDisplayName": "Mark Taylor Men Grey Striped Shirt",
+    "price": 519,
+    "description": "Wash care Wash separately with mild detergent Do not bleach Drip dry Warm iron",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/738cf8f83b0cc4d0aef58f22c6edb283_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dc0f9a83ded85fe761a37f0b419999e6_images.jpg"
+    }
+}

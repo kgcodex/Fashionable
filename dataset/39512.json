@@ -1,0 +1,17 @@
+{
+    "id": 39512,
+    "brandName": "Peter England",
+    "productDisplayName": "Peter England Unisex Black Backpack",
+    "price": 3599,
+    "description": "Black backpack with two front pockets and two side pocketsTwo short handles from which dangles a name card holderOne main compartment with a laptop holder that has a Velcro closure and organizer slotsAdjustable, padded shoulder straps, has metal click locks on the sides to secure the zipped compartmentsA slot at the back and a flap with a Velcro closure to slide the shoulder straps inHas a trolley system with two plastic legs, two wheels",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Peter-England-Unisex-Black-Backpack_6868734949f07fac73c0c24f14fe655e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Peter-England-Unisex-Black-Backpack_e14810365bce0d0e1b9f9c214b32e395_images.jpg"
+    }
+}

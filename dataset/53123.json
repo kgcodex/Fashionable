@@ -1,0 +1,17 @@
+{
+    "id": 53123,
+    "brandName": "Myntra",
+    "productDisplayName": "Myntra Women Black T-shirt",
+    "price": 399,
+    "description": "Black single jersey knit T-shirt, round neck with rib knit binding, short sleeves with self binding, graphic print at the front, printed inner branding for abrasion free comfort, straight hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e7e42b3d434b26f946d31eb37e262479_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5edf2250b7f117c6cd6a672c13a7ea0a_images.jpg"
+    }
+}

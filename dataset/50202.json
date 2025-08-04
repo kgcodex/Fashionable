@@ -1,0 +1,17 @@
+{
+    "id": 50202,
+    "brandName": "Stoln",
+    "productDisplayName": "Stoln Women Green Sunglasses",
+    "price": 445,
+    "description": "Tinted lens which provide protection against harmful UV rays in normal daylightPlastic frame in a aerodynamic and floral designRounded square lens for absolute style and protection from elementsFlexible hinges for durabilityFixed nose holder which is part of the frame to hold the glasses in place, ensuring there is no friction with the skin",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5fc169c62964003a6f280a57991c3b24_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/936a22ae1999027a051e468143bb8aaa_images.jpg"
+    }
+}

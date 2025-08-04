@@ -1,0 +1,17 @@
+{
+    "id": 28637,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Relentless Black Sports Shoes",
+    "price": 3995,
+    "description": "Designed for absolute comfort, the nike Air Relentless running shoe is absolutely stylish and versatile for those wanting a comfortable run. Its stylish look means it doubles up as great lifestyle footwear. Upper Heavily meshed upper for breathability, with synthetic overlays for enhanced shoe structure Lacing system for a snug, customised Fit Meshed and padded tongue and collar for all-day comfort Midsole Phylon midsole for impact protection and lightweight comfort Outsole TPR outsole with flex grooves for ease of movement Waffle-pattern lugs for grip and traction Scooped heel for extra cushioning to the backf oot Shoe care Wipe surface with a dry, clean cloth to remove dust Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cdc7fb1324c963b9cffcc06223d20f4b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4d23f85c8fdc129d1bbbe8843be26cde_images.jpg"
+    }
+}

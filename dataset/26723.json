@@ -1,0 +1,17 @@
+{
+    "id": 26723,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Fine Striped Blue T-shirt",
+    "price": 999,
+    "description": "Blue and white striped T-shirt made of 100% cotton which has two orange stripes across the chest, has a round ribbed neck, short sleeves, fabric tape detailing on the in-seam and branding appliqu&eacute;d on the left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/48079a7b8d91ccae6f02e7b2cbde3259_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0b13bc4309a2d9b93a64dad91dcf5879_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 22633,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Striped Purple Cap",
+    "price": 995,
+    "description": "This purple and maroon striped, Arsenal themed knit beanie from nike, makes for a perfect addition to your winter and sport wardrobe. Designed to offer snug comfort, this beanie is a great way to beat the chill and enjoy those long winter walks &ndash; or wear this during power-packed training sessions, even in winter, to keep you warm. Made of 100% acrylicNearly seamless stitching for abrasion-free comfortFoldable hem with woven text for style CareHand wash in warm water and line dryDo not dry clean, bleach, wring or iron",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Unisex-Striped-Red-Cap19c716d4b8a090b89c62ee2b056b7edb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Unisex-Striped-Red-Cap0ced89ebf4cc55fda4b3a408fcdc9cfd_images.jpg"
+    }
+}

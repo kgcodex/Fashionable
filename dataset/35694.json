@@ -1,0 +1,17 @@
+{
+    "id": 35694,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Dunk Low Blue Shoes",
+    "price": 4295,
+    "description": "\"Be true&mdash;to your school colors, to your school of thought&rdquo; - That's been the ethos driving the nike Dunk since it launched in 1985, and the nike Dunk has been a symbol of individual expression ever since. Designed for superior performance and comfort, the Nike Dunk Low has a heel counter designed to provide ample structural support to the ankle, protecting it from sprains and injuries when running.UpperPerforated toe uppers for added breathability and dry, fresh comfortPadded tongue and sockliner for snug Fit and added protection from shockTurquoise blue lace-up system for snug fit and added styleMidsoleFull length EVA midsole for added cushioning and impact protectionOutsoleFlexible multi-directional rubber outsole with a full cupsole stitch for durabilitySemi-circular grooved forefoot with pivot point for easy 180&deg; rotation of the foot without causing injuryshoe careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f147f5066005f6aff036af86b868c863_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/93e7f2ad077d503af8d35401e7e77fde_images.jpg"
+    }
+}

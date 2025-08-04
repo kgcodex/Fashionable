@@ -1,0 +1,17 @@
+{
+    "id": 12990,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Kids Unisex Adispeed Purple Sports Shoes",
+    "price": 2499,
+    "description": "If running is what your little one likes, then there's no better way to hone the skills of those young legs than with this pair of adiSPEED+ running shoes. Light in weight and well cushioned, kids are sure to find their energy doubling with each stride.UpperMeshed upper for maximum breathabilityStrategically placed synthetic overlays for added shoe structureSlip-on style with elastic bands on the forefoot length and a midfoot strap with a velcro closure to offer a snug, customised FitMeshed and padded tongue and collar for all-day comfortPadded Ortholite footbed for in-step and anti-bacterial comfort adidas Patented 3-Stripes on the midfoot for enhanced shoe structure and styleMidsolePhylon insole for anabsolutely cushioned ride, lightweight comfort and enhanced impact protectionOutsoleNon-marking rubber outsole for enhanced durability, with flex grooves for ease of movement Herringbone-styled lugs in the forefoot, with multi-directional lugs and grooves in the heel for absolute grip and tractionScooped heel for enhanced cushioning to the backfoot and anklesShoe careWipe surface with a damp, clean cloth to remove dust and dirtDo not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Kids-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7ec314feda66db43460b24dc39d77c67_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/802ba1e156d1358ef6d48519e6d814de_images.jpg"
+    }
+}

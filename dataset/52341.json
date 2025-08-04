@@ -1,0 +1,17 @@
+{
+    "id": 52341,
+    "brandName": "Red Rose",
+    "productDisplayName": "Red Rose Women Orange Nightdress",
+    "price": 723,
+    "description": "Orange printed knee-length nightdress, has a round neck, short sleeves with heart print and elasticated smocking on the cuffs, print on the chest, heart print above the knee and an elasticated hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Rose-Women-Orange-Nightdress_d749394d6acca553530c14251eec98c7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Rose-Women-Orange-Nightdress_2388b29cd85313ac4d8d0e5ad778c775_images.jpg"
+    }
+}

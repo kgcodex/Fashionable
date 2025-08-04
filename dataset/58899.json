@@ -1,0 +1,17 @@
+{
+    "id": 58899,
+    "brandName": "Hakashi",
+    "productDisplayName": "Hakashi Men Grey Silk Tie",
+    "price": 795,
+    "description": "Graduated grey tie with black patterns at the tie ends A loop at the back of the broader tie end to tuck the smaller end in",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Grey-Tie_3c638313145211695aecef4b9925a89c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Grey-Tie_3d9f83504110688a6f35f70660bde5d8_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 32938,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Neo Men T-6 Night White Shoes",
+    "price": 3999,
+    "description": "The adidas T-6 Night is soccer shoe with style, as vouched for by david beckham, the sport's most famous face. A simple, sleek shoe with flat one-piece outsole that reaches onto the upper at the heel high enough to act as a secure foot guard.UpperLeather upper with aggressive stitch detailingadidas 3-Stripe overlays at the midfoot regionPadded synthetic innerReinforced overlay at the heel collarCentral lace-upsPadded tongue with brandingMidsoleFoam midsoleOutsoleTPU outsole with tyre tread pattern with branding at the heelOutsole reinforced onto the upper at the heel to act as a heel guardShoe careWipe surface with damp, clean cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e15d16f48fd009cba2312aa3b2b8d30b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5e0c94c53aa55e93a15c00ed7ddbaa11_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 10011,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Grey Melange Track Pants",
+    "price": 1495,
+    "description": "Grey melange knit track pants, has an elasticated waistband with inner drawstring fastening, insert pockets at sides, embroidered branding at left thigh, twin tape detail along out seam, and velcro fastened insert pocket at back right side with brand label above",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Grey-Melange-Track-Pants_52c9a48306e1b85bd721f4311a36de22_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Grey-Melange-Track-Pants_8ecbb7de9408d3f2c4cc95ac5066f6bd_images.jpg"
+    }
+}

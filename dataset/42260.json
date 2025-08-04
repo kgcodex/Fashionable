@@ -1,0 +1,17 @@
+{
+    "id": 42260,
+    "brandName": "John Players",
+    "productDisplayName": "John Players Men Blue Jeans",
+    "price": 1399,
+    "description": "Style Note If you're a denim person, then these blue jeans from john players are perfect for you. With a low waist and slim Fit, this pair looks on-trend and stays comfortable all day. Team this with casual shirts and sports shoes or funky T-shirts and canvas shoes. Product Details Blue, slightly faded jeans with metal button fastening, metal zipper, two side pockets with one coin pocket and two patch pockets on the back with design on back pocket Material and Care 100% cotton Due to inherent property of the denim fabric, this garment may lose colour while washing Please wash it seperately Machine wash cold inside out using a mild detergent Do not bleach or wring Tumble dry or flat dry inside out in shade Warm iron do not iron on decorations Size and Fit Slim fit, low rise The model (height 6' and waist 32\") is wearing a size 32",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8b084b73f62ea3d233b52285f040f21c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d3de68c59eda330f90796d1326729535_images.jpg"
+    }
+}

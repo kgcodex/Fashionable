@@ -1,0 +1,16 @@
+{
+    "id": 2102,
+    "brandName": "Lee",
+    "productDisplayName": "Lee Men Checks Parker Blue Shirt",
+    "price": 1399,
+    "description": "Many shades of brown chequered on white and folded and buttoned till the elbows: pair them with a pair of blue jeans and you are sure to go places, boy!Model's Statistics:1. The model wears size M in t-shirts2. Height-5.11\", Shoulders-17.5 \"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e8b35ef77564dfe588940ca7104866a8_images.jpg"
+    }
+}

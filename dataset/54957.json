@@ -1,0 +1,17 @@
+{
+    "id": 54957,
+    "brandName": "Do u speak green",
+    "productDisplayName": "Do u speak green Boys Yellow T-shirt",
+    "price": 690,
+    "description": "Yellow printed T-shirt, has a ribbed, V neckline, long sleeves with ribbed cuffs, graphic print on the front, branding in front above the hemline and print at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Do-u-speak-green-Boys-Yellow-T-shirt_acbbd961c348cf5f99e5c6bc810591c2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Do-u-speak-green-Boys-Yellow-T-shirt_c3f5f25bbf8bb9daf80e0046e68d481c_images.jpg"
+    }
+}

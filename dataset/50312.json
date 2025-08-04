@@ -1,0 +1,17 @@
+{
+    "id": 50312,
+    "brandName": "Park Avenue",
+    "productDisplayName": "Park Avenue Men Lavender Tie",
+    "price": 1100,
+    "description": "Lavender tie with purple dot patterns A loop behind the broad tongue to tuck the smaller end in",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Park-Avenue-Men-Lavender-Tie_ed323ffeab290d1cf48e75f5114ef174_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Park-Avenue-Men-Lavender-Tie_4cb99184a136f4ce9c9a32fe0096427e_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 22729,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Max 90 VT Grey Casual Shoes",
+    "price": 6995,
+    "description": "If you want your footwear to be uniquely stylish, the nike Air Max 90 VT men's shoe is for you. This shoe brings a vintage athletic silhouette to the streets in a sleek, durable finish, while exceptional cushioning continues the legacy of long-lasting comfort. The upper is thermally vacuum molded to give the appearance of overlays and textured panels &ndash; meaning this shoe deserves a closer look. nike's Max Air system means that although the heel is chunky, it has internal air pockets to reduce weight and provide excellent cushioning. Upper Felt look, thermo-molded Vac Tech upper with raised branding and features Two-tone laces for a stylish look Perforated leather-look sockliner and tongue Collar and tongue padded for a comfortable Fit Midsole Phylon midsole with Max Air unit at heel for maximum impact protection and cushioning Paint splattered design on side of midsole to coordinate with laces Outsole Rubber outsole and unique tread pattern for durability and control Shoe care Wipe surface with damp, clean cloth to remove dust Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/252831a5dcc159a53aa8fb3ddcbcc1bd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c9400182278f822f71cc842680744628_images.jpg"
+    }
+}

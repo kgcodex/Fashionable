@@ -1,0 +1,16 @@
+{
+    "id": 50896,
+    "brandName": "Prafful",
+    "productDisplayName": "Prafful Mustard & Maroon Crepe Printed Sari",
+    "price": 1099,
+    "description": "Mustard and maroon printed sari with a blue printed border",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Prafful-Mustard---Maroon-Crepe-Sari_5d34484c3168224661b4ea28365989d0_images.jpg"
+    }
+}

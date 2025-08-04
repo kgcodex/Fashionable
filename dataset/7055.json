@@ -1,0 +1,17 @@
+{
+    "id": 7055,
+    "brandName": "s.Oliver",
+    "productDisplayName": "s.Oliver Women White Liberty FreedomT-shirt",
+    "price": 1299,
+    "description": "White V-neck t-shirt with prints on chest, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/sOliver-Womens-Liberty-Freedom-WhiteT-shirt_5ec5f7b179bcb4495bf4727501f88c80_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/sOliver-Womens-Liberty-Freedom-WhiteT-shirt_98acb45063c8002512adae65d5941195_images.jpg"
+    }
+}

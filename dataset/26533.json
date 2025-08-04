@@ -1,0 +1,17 @@
+{
+    "id": 26533,
+    "brandName": "ID",
+    "productDisplayName": "ID Men Green Shoes",
+    "price": 1785,
+    "description": "You'll look like the king of fashion in these boots from id while the foamy footbed will keep you comfortable all day. Pair them with distressed jeans, a casual check shirt and a tonal belt to recapture the masculine flamboyance of the Wild West. Upper Green and white shoe made of leatherette upper for maximum durability and style Lace-up system for a snug, customised Fit Lightly padded tongue and collar for a great snug fit Stitch detailing and perforations to enhance shoe life Midsole Full length EVA midsole for comfort and support Cushioned footbed for added comfort Outsole Lightweight, slip-resistant textured rubber outsole for better shock absorption Shoe care Wipe surface with dry, clean cloth to remove dust Use a nubuck brush to clean the upper Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/38cc86b39eefd5bafe0be36f85877cc4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/48d64507a4f3f9c4e3969ca2b2c37d9e_images.jpg"
+    }
+}

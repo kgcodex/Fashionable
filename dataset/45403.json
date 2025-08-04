@@ -1,0 +1,17 @@
+{
+    "id": 45403,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Black & Brown Sandals",
+    "price": 590,
+    "description": "Style NoteFeel lighter with these slender sandals from rocia. Walk in style and let your feet breathe in the open air with this attractive pair. Its colour makes it compatible with any outfit.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4b232de5ba2cfa37b4394ac65ea99ef4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9dcf0748bcf38a429ba471ee0389eec9_images.jpg"
+    }
+}

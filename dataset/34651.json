@@ -1,0 +1,17 @@
+{
+    "id": 34651,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Women Top Fuel Black Sports Shoes",
+    "price": 2899,
+    "description": "Style noteCrafted from Italy's materials capital Biella, this fila shoe promises a smooth ride and optimal durability. fila fanboys know the comfort that this brand provides - do you need more reasons to buy the DLS Top Fuel. Product DetailsRound toed black and pink shoe with central lace-ups and mesh overlaysHeavily padded mesh inner, tongue and collarFoamy rubber midsole upraised with a dynamic landing system at the heelAggressive TPU outsole with flex grooves and patterned lugsMaterial and CareSynthetic, meshDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6914cf987ad67445ca2b0e54ba7f0016_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/46788990ea1bdb6fc0f255be82079794_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 57034,
+    "brandName": "Forever New",
+    "productDisplayName": "Forever New Women White Playsuit",
+    "price": 2600,
+    "description": "White playsuit with eyelet embroidery, half buttoned placket on the front, a frill above the bustline, tie-ups at the shoulder, elasticated at the midriff, drawstring at the waist and a divided skirt detail at the hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Forever-New-Women-White-Jumpsuit_7dc9ce4f72bd2fd080e293166ed9a18c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Forever-New-Women-White-Jumpsuit_dbffc704b5110e627af4995fac57d031_images.jpg"
+    }
+}

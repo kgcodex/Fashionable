@@ -1,0 +1,17 @@
+{
+    "id": 5351,
+    "brandName": "Decathlon",
+    "productDisplayName": "Quechua Arpenaz Sandal 50 L Beige",
+    "price": 1099,
+    "description": "Designed for : WALKS lasting a few hours on easy and fairly level paths.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ed64cde5274e695507640bfe0c6c09be_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/80b1b86ba5fe231592c467809429a63d_images.jpg"
+    }
+}

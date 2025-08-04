@@ -1,0 +1,17 @@
+{
+    "id": 48107,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Women Blue Top",
+    "price": 1499,
+    "description": "Orange and blue striped knit top, has a round neckline, short sleeves and welt pocket on the left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/23a311a641d0d01e21cc177890cd30d6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1f5f3969c072b261a8ca159d6d87f8a3_images.jpg"
+    }
+}

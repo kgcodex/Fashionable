@@ -1,0 +1,17 @@
+{
+    "id": 49527,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Gold Handbag",
+    "price": 2790,
+    "description": "Style Note One glance at this stylish handbag from rocia and you are sure to go weak in the knees! This gold coloured bag with its ethnic design is enough to make it a bag worth taking its place on",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e8980c78436944b35056461b9e64665a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0464344d7911b04088a4a0b632bff090_images.jpg"
+    }
+}

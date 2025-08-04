@@ -1,0 +1,17 @@
+{
+    "id": 32375,
+    "brandName": "Q&Q",
+    "productDisplayName": "Q&Q Men Black Dial Watch",
+    "price": 625,
+    "description": "Case style: Analogue watch with a round case that has a stainless steel back Dial style: Black dial with branding below the 12 hour markFeatures: Screw to reset time Strap style: Black strap with a tang clasp closure Water resistance: Up to 10 BAR Warranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-Black-Dial-Watch_e58f9c065682dedb2d54f4c401dc8ff1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-Black-Dial-Watch_1145ccedb8c9ee989be29b34fd5c3116_images.jpg"
+    }
+}

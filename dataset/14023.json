@@ -1,0 +1,17 @@
+{
+    "id": 14023,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Solid Navy Blue Shorts",
+    "price": 1195,
+    "description": "CompositionDark navy blue running shorts made of 100% polyester Dri-Fit fabric, has an attached underwear on the inside, elasticated waistband with a drawstring, blue panel detailing on the sides and swoosh logo in a reflective material towards the left hemlineWarranty for manufacturing defects: 6 months (not valid on products with more than 20% discount) FittingRegularWash careMachine wash warm with like coloursDo not bleach Tumble dry on lowCool iron onlyDo not dry cleanDo not iron on print or embroideryBuilt with breathability and zero-distraction fit that athletes demand, this pair of nike running shorts comes in a simple design with blue accents. This high-performance short created from Dri-Fit fabric wicks sweat away and keeps you cool, dry and comfortable. Team it with tees and running shoes.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7af2785a643606455c559d9c4916ae7e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6e02451e208d2a9093afdc6f953e6153_images.jpg"
+    }
+}

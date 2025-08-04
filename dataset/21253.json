@@ -1,0 +1,17 @@
+{
+    "id": 21253,
+    "brandName": "Skybags",
+    "productDisplayName": "Skybags Unisex Brown Duffle Bag",
+    "price": 1170,
+    "description": "Brown duffle bagTwo fabric handles and one adjustable shoulder strapOne main zip compartmentOne zip compartment on the frontTwo zip compartments on the sidesPlease note: The inner lining material/colour may vary from what is shown in the image",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/811bb84a041f00e4e9763e72a53eff29_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/278c52b5ed5494f6b122764b4bc483fa_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 18255,
+    "brandName": "Aneri",
+    "productDisplayName": "Aneri Women Multi Coloured Kurta",
+    "price": 849,
+    "description": "Creme and blue printed woven kurta, has a mandarin collar with a split neckline, three fourth sleeves, mirror work and embroidery on the yoke and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Aneri-Women-Multi-Coloured-Kurta_84da4e301a8a3d4c70fd3cef6ed85522_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Aneri-Women-Multi-Coloured-Kurta_665f1de99a82f6424f22743c1ff63732_images.jpg"
+    }
+}

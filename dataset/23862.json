@@ -1,0 +1,17 @@
+{
+    "id": 23862,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Green Spider 2 M Sports Shoes",
+    "price": 3999,
+    "description": "The sleek styling of the Spider 2 M shoes from adidas cuts through the air and the snug Fit provides the security needed for producing great sprint times. A terrific choice for beginning and intermediate level sprinters.UpperSynthetic upper with adidas patented 3-Stripes in contrast colour and grooved design for durability and styleMeshed sides for breathable comfortLace ups for a snug and customised fitMeshed and padded tongue for enhanced breathable comfortFabric lining and padded heel collar MidsoleSlightly padded footbed for all day comfortOutsoleTPR outsole on the forefoot and textured TPU on the midfoot and heelHas fourteen 1/4\" slim (needle) spikes and a spike wrenchCleats for enhanced grip and tractionshoe careWipe surface with damp, clean cloth to remove dirt Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b8c8ac16b7465584550da0c2e6dc7cd9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/01df421c0200c6447b5be0dd4ea75dc4_images.jpg"
+    }
+}

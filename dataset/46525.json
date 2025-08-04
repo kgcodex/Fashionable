@@ -1,0 +1,17 @@
+{
+    "id": 46525,
+    "brandName": "Timex",
+    "productDisplayName": "Timex Men Slivery Grey Dial Watch",
+    "price": 3845,
+    "description": "Case style: Analog watch with a steel rectangular case Dial style: Silvery grey dial with silver hands Strap style: Brown leather strap with a tang clasp Features: Date apeture on the 6 hour mark, indiglo back light and water resistan",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Timex-Men-Slivery-Grey-Dial-Watch_c01c0a4ac61d8f382838939a92bd0524_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Timex-Men-Slivery-Grey-Dial-Watch_ae2e58a413606fd8c53ca82e448bffae_images.JPG"
+    }
+}

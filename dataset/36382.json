@@ -1,0 +1,17 @@
+{
+    "id": 36382,
+    "brandName": "Reid & Taylor",
+    "productDisplayName": "Reid & Taylor Men Cream Socks",
+    "price": 195,
+    "description": "Style NoteIt's comfort unparalleled once you slip into this pair of cream socks from Reid and Taylor. Crafted from soft, stretchable fabric, these socks have been designed for casual occasions.Product DetailsCream socks for all-day comfort, easy stretch and sweat-free wearPadded foot-bed for cushioned comfortHand finished toe seam for abrasion-free wearRib knit mouth for a comfortable wearRoomy toe area for superior comfort and durabilityBranding on the heel areaMaterial and Care100% combed mercerized cottonMachine wash cold in 40 degrees using a mild detergentWash dark colours separatelyDo not iron, dry clean or tumble dryDry in shade",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9b0900f247a06f1fc3dfca6bbeee7999_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a5bfdfebcfbdc8c05b4a00c0c81bbcf1_images.jpg"
+    }
+}

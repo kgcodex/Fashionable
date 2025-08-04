@@ -1,0 +1,17 @@
+{
+    "id": 57819,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Women Green Dress",
+    "price": 2499,
+    "description": "Loose knitted green dress with a boat neck, three quarter sleeves, a knotted string to tie around the waist",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Women-Green-Dress_84f63eadbded70bccec595ffcd665f71_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Women-Green-Dress_b60214721029eac2e224d2d579f82fc4_images.jpg"
+    }
+}

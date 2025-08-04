@@ -1,0 +1,17 @@
+{
+    "id": 1634,
+    "brandName": "Inesis",
+    "productDisplayName": "Inesis Water Repellent Canaveral Shoes",
+    "price": 4499,
+    "description": "1. Hydrophobic or water-repellent leather2. Waterproof and breathable membrane3. Supple or flexible, full-grain leather, EVA midsole for ease of use4. Stinger Q-lock spikes, hard thermoplastic arch support for stabilityThese waterproof and breathable pair of comfortable Golf shoes are suitably designed for golfers. They are comfortable, light-weight and stable all-season shoes.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ea687bfbcb2a54546483d5827d4cac05_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dbb766b2d094f263b7e69cfb559a86aa_images.jpg"
+    }
+}

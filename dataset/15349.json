@@ -1,0 +1,17 @@
+{
+    "id": 15349,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Blue Team India Cricket Jersey",
+    "price": 2795,
+    "description": "Blue cricket jersey with multicolour panelled accents, has a ribbed collar with contrast stripe, short raglan sleeves, concealed half button placket on front, print detail across chest, and tonal geometric pattern at back",
+    "masterCategoryId": 190,
+    "masterCategoryType": "Free Items",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/assets/images/15349/2018/10/29/4782a757-3270-47e0-bec3-94d854f246001540803068941-Nike-Men-Blue-Team-India-Cricket-Jersey-7111540803067242-2.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/assets/images/15349/2018/10/29/d7701aee-999d-48db-952f-bde7d1bdbecb1540803068922-Nike-Men-Blue-Team-India-Cricket-Jersey-7111540803067242-3.jpg"
+    }
+}

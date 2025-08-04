@@ -1,0 +1,17 @@
+{
+    "id": 32339,
+    "brandName": "Q&Q",
+    "productDisplayName": "Q&Q Men Steel Strap Watch",
+    "price": 975,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-Steel-Strap-Watch_1708e2cf9580ad6f51c4fb0bb0d98135_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-Steel-Strap-Watch_617d3a8d21626595729cbe4d9bdd81ce_images.jpg"
+    }
+}

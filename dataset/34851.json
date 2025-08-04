@@ -1,0 +1,17 @@
+{
+    "id": 34851,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Bedford Charcoal Shoes",
+    "price": 4199,
+    "description": "vans brings you footwear for the urban youth. Inspired by skate boarders, the Bedford shoes come in a high top, skate board friendly design that is geared towards performance. Team these with cargos or jeans and graphic tees.UpperSuede and leather uppers in a high top design for durability and comfortPadded collar and tongue for extra comfortLace-ups for a snug FitBrand name appliqued on the side and brand name on the back, on the lastingCushioned footbed for all day comfortMidsoleEVA midsole for better shock absorptionOutsoleRubber outsole for durabilityReverse waffle pattern for better gripLasting with toe counter for extra protection to the toesshoe careWipe surface with soft, clean cloth to remove dustDo not use a drier or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c96ac400ca739e38e73598f07361d37f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/be6e64647190b766c3f17e443fa87a0d_images.jpg"
+    }
+}

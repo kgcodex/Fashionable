@@ -1,0 +1,17 @@
+{
+    "id": 23627,
+    "brandName": "Beatles",
+    "productDisplayName": "Beatles Men White Printed T-Shirt",
+    "price": 649,
+    "description": "White printed t-shirt, round neck, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Beatles-Men-White-Printed-Tshirt_7098819921e64af70244996b900483b6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Beatles-Men-White-Printed-Tshirt_f0be8bd3ae48d8c91d5205e458d52197_images.jpg"
+    }
+}

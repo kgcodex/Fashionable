@@ -1,0 +1,17 @@
+{
+    "id": 56930,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Purple Sandals",
+    "price": 1399,
+    "description": "Open toed sandals with slip on styling Black thong style upper with purple and magenta crystal embellishments Smooth footbed with branding at the heel region Tough outsole with a textured, low stacked heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Purple-Sandals_6c05846b27dcd46fd6aad4b67f24f353_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Purple-Sandals_45c5437ac161ede79ac280e2aa467758_images.jpg"
+    }
+}

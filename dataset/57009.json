@@ -1,0 +1,17 @@
+{
+    "id": 57009,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Yellow Sandals",
+    "price": 799,
+    "description": "Open toed flats with a thong style upper Soft foot-bed with a brand label at the heel regionTPU sole with a grooved heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Yellow-Sandals_39bccdb82629b3926ea1367819361c2f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Yellow-Sandals_7d3eaca345b9c54dcdf6cb569cfe8da6_images.jpg"
+    }
+}

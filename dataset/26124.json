@@ -1,0 +1,17 @@
+{
+    "id": 26124,
+    "brandName": "John Miller",
+    "productDisplayName": "John Miller Men Check White Shirt",
+    "price": 799,
+    "description": "Composition White shirt with lavender and maroon stripes made of a cotton/polyester blend fabric, has a spread collar, a patch pocket on the left chest, a full buttoned placket, long sleeves with buttoned cuffs and a curved hem Fit john miller Classic Fit Wash care Machine/hand wash at 40 C Wash dark colours separately Do not bleach Tumble dry on normal Warm iron Designed for the ambitious executive and crafted from cotton/polyester blend, this formal shirt from the John Miller collection is stitched to perfection. Pair it with crisp formal pants, a blazer, classy accessories and rich leather formal shoes. Model statistics The product is a size 40 on a model of height 6' and shoulders 18\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dd0fd1d83fd243ca9ad1cbcef9bcf45e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1293e92cf94bad91b3890a1322ca5059_images.jpg"
+    }
+}

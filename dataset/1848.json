@@ -1,0 +1,16 @@
+{
+    "id": 1848,
+    "brandName": "Inkfruit",
+    "productDisplayName": "Inkfruit Men Wolf",
+    "price": 499,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/448032e03c9668078922533d900e7c89_images.jpg"
+    }
+}

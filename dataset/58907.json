@@ -1,0 +1,17 @@
+{
+    "id": 58907,
+    "brandName": "Hakashi",
+    "productDisplayName": "Hakashi Men Red Silk Tie",
+    "price": 910,
+    "description": "Red tie with black and white patterns A loop at the back of the broader tie end to tuck the smaller end in",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Red-Tie_91facfb141327eac268ea33806f2047b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Red-Tie_1ba20a693143fabf485ac352b62749e9_images.jpg"
+    }
+}

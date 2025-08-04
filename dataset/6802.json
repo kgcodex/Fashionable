@@ -1,0 +1,17 @@
+{
+    "id": 6802,
+    "brandName": "Timberland",
+    "productDisplayName": "Timberland Men's Block Island Grey Shoe",
+    "price": 5490,
+    "description": "If you're tireless when it comes to preserving our environment but also love the casual comfort of a slip-on shoe, Earthkeepers Venetian is the shoe for you. Though the shoe is crafted from rugged, full-grain leather to uphold high quality standatds, timberland has also chosen their materials carefully to ensure that the Venetian is 90% recyclable.Upper Designed for disassembly so 90% of its parts can be reused or recycled Premium full-grain leather from an LWG Silver-rated tannery for comfort and durability Unlined uppers make this a great warmer-weather shoe Slip-on style for easy on and off Stitched detailing for added structure Midsole RemovableAnti-fatigue footbed provides all-day comfort and support Outsole Siped rubber outsole for slip resistance and traction Green Rubber outsole made from 42% recycled rubber Shoe careUse the appropriate timberland leahter polish to keep your shoes cleanDo not use polish over canvas/woven areas of the shoe",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/89997365f01c48709b1a8732ee534c7e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8b8e05350367788888aba40992c76ec8_images.jpg"
+    }
+}

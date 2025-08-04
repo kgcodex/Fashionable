@@ -1,0 +1,17 @@
+{
+    "id": 29879,
+    "brandName": "Mayhem",
+    "productDisplayName": "Mayhem Men Sunglasses 1020-204",
+    "price": 1840,
+    "description": "Lens colour: GreenLens type: UV protected lensFrame colour: BlackFrame type: Metal full frameHigh bridge with flexible nose padsComes in a signature Mayhem hard case",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/35a2c21af5a3d8f99b66ced0372f9c9e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e45dda5c7aaec06323dc1aae23a47bbc_images.jpg"
+    }
+}

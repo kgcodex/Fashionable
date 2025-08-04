@@ -1,0 +1,17 @@
+{
+    "id": 21590,
+    "brandName": "Decathlon",
+    "productDisplayName": "Tribord Men Solid Brown Short",
+    "price": 499,
+    "description": "Composition Brown shorts made of 100% polyester with polyester mesh fabric lining, one concealed pocket on the back, stitch detailing along the sides and an elasticated waist with drawstrings Fit Regular Wash care Hand wash in cold water Use mild detergent Line dry inside out in shade Cool iron This pair of Tribord training shorts comes in a sophisticated body-friendly design. This piece is created with the technology to wick away sweat from the body. Wear this with a sweatshirts for a comfortable work-out session.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/745e7d279eb26ec61df8766bb179b1a9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b317266167b169a2f6d421aefb97c3ac_images.jpg"
+    }
+}

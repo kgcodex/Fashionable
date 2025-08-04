@@ -1,0 +1,17 @@
+{
+    "id": 13346,
+    "brandName": "SPYKAR",
+    "productDisplayName": "Spykar Women Washed Blue Jeans",
+    "price": 1999,
+    "description": "Wash care Wash and dry separately Wash inside out in mild detergent Do not bleach Dry under shade",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5a7411891a8b472f6016b322107d47d2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d7c0988ce64be0c9f85eb3e26bbb4bc2_images.jpg"
+    }
+}

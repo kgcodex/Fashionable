@@ -1,0 +1,17 @@
+{
+    "id": 4344,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men's Abascuss White Blue Shoe",
+    "price": 2699,
+    "description": "Get these quintessential sneakers into your collection and pair them with denims or track pants while sweating it out at the gym.Upper Synthetic upper for longer shoe life Lace-up front for snug Fit Padded and mesh tongue for soft feel and ventilation to the upper foot region Padded sockliner for snug fit and shock absorption Rubber heel counter embedded into the upper for enhanced shoe life Rubber outsole embedded onto the upper as a toe box Glossy synthetic patch near the toe box for a glamorous look Midsole Lightweight EVA midsole for enhanced shock absorption Soft footbed for an ergonomic fit Outsole Multi-directional rubber patterns on the outsole for superior grip on rough terrain Wash careDo not machine washRub with soft cloth to clear off dust and dirt",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/302edb846da704114a5c84d6727ccee9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9fedcb420b6d5f49e09684575e4e2465_images.jpg"
+    }
+}

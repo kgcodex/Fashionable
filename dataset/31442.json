@@ -1,0 +1,17 @@
+{
+    "id": 31442,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Cricket Grey Jersey",
+    "price": 895,
+    "description": "Composition Grey jersey for men made of 100% polyester, has short sleeves, orange panels on the shoulders and sides, nike swoosh embroidered on the right chest and orange panel with cricket stumps embroidered at the back Fit Standard Wash care Machine wash cold at 30 degrees with like colours using a mild detergent Do not bleach or dry clean Tumble dry low Cool iron; do not iron on decorations Perfect for cricket with friends, this nike T-shirt is engineered with Dri-Fit technology which wicks sweat away and keeps you fresh and comfortable during extended games, while the fashionable graphic print adds style. Pair this tee with your favourite shorts and sports shoes for a game of cricket or denims for a casual outing.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b2b91004f134e9c07408a374147da590_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ae10a86c7861073b1be0b6a098d3bf04_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 34631,
+    "brandName": "Lotto",
+    "productDisplayName": "Lotto Men Atlantica White Sports Shoes",
+    "price": 2499,
+    "description": "Designed for runners who never compromise on style and comfort, the Atlantica running shoe from lotto comes with a durable synthetic upper and a grippy rubber outsole that keeps you safe and stable on various surfaces.UpperHeavily meshed upper with startegically placed synthetic overlays for breathable comfort and enhanced shoe structureLacing system for a snug, customised FitMeshed and padded tongue and collar for breathable comfort and snug fitCushioned footbed for shock absorptionMidsolePhylon midsole for lightweight comfort and impact protectionOutsoleDurable rubber outsole with waffle pattern lugs for absolute grip and tractionPunto Flex grooves on the forefoot for easy movementScooped heel for enhanced cushioning to the back footShoe careWipe surface with a clean, dry cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a1aba719cff47ba0bbbd60ed6cfebae8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/48619ce78c61694f2923eaaee01ca85e_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 11148,
+    "brandName": "SCULLERS",
+    "productDisplayName": "Scullers Men Fil A Fil Purple Shirts",
+    "price": 1149,
+    "description": "Wash care Wash dark colours separately Hand wash or machine wash cold using mild detergent Do not wring or bleach Flat dry in shade Do not iron on print",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e94d1a6a2aaf2e0814e0ff0df57504d7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2eb12fe65bc1ff7a4338a182b3bb34ac_images.jpg"
+    }
+}

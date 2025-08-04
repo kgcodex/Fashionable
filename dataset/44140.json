@@ -1,0 +1,16 @@
+{
+    "id": 44140,
+    "brandName": "dunhill",
+    "productDisplayName": "Dunhill Men Perfume",
+    "price": 2800,
+    "description": "Style NoteTypical, understated class in this original dunhill EDT for men. Recommended for a day-to-night use.Product DetailsThe top notes are lemon, clary sage, petitgrain, lavender, with middle notes of rose, jasmine, orris and carnation. The base notes comprise of cedarwood, vetiver, tonka, and leather.CautionFlammableKeep away from sources of ignitionKeep away from childrenDo not use near fire, flame or heatAvoid spraying near the eyesSize50 ml",
+    "masterCategoryId": 11,
+    "masterCategoryType": "Personal Care",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/54432c26211a8dbebaaec078300c7d34_images.jpg"
+    }
+}

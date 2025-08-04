@@ -1,0 +1,16 @@
+{
+    "id": 1559,
+    "brandName": "Quechua",
+    "productDisplayName": "Quechua Blue Light Backpack",
+    "price": 399,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Travel",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1386a507fcef01a23174bbb296989973_images.jpg"
+    }
+}

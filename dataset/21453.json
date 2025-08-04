@@ -1,0 +1,17 @@
+{
+    "id": 21453,
+    "brandName": "roxy",
+    "productDisplayName": "Roxy Women Black Printed T-Shirt",
+    "price": 2295,
+    "description": "Black t-shirt, has a round neckline, short sleeves and graphic print in pink on the front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8223f7ac9466708d28f2777037edf699_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a0ac9af237844112af5633821bfc7029_images.jpg"
+    }
+}

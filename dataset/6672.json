@@ -1,0 +1,17 @@
+{
+    "id": 6672,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Dunk Skinny White Red Shoe",
+    "price": 4500,
+    "description": "The nike Dunk High shoes give superior performance and comfort. The high heel counter offers absolute ergonomic support and cushioning to the heel, while the outsole gives excellent traction. Team these with jeans and tees for a cool casual look.Upper Fabric uppers with plaid print for style, comfort and protection High profile design provides ankle support High heel counter for added protection of the ankle Lace-ups for snug Fit Cushioned collar and tongue Textile lining for added comfort Appliqued swoosh on the sides and appliqued brand tab on the tongue Midsole Cushioned footbed for all-day comfort Full length EVA midsole for added cushioning Outsole Flexible multi-directional rubber outsole with a full cupsole stitch for durability Pivot point on the big toe mound for easy 180 degree movement shoe careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ac6e33926689ff39f68f32166605caae_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/99b88c613833631b0db56584484ce606_images.jpg"
+    }
+}

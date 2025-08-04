@@ -1,0 +1,17 @@
+{
+    "id": 15232,
+    "brandName": "ADIDAS Originals",
+    "productDisplayName": "ADIDAS Originals Men Vespa PK LO Brown Casual Shoes",
+    "price": 5499,
+    "description": "With a classic leather build and featuring a Vespa monogram graphic on the outsole, the Vespa PK Lo from adidas originals is a vintage shoe with preppy-inspired details. UpperSuede and nubuck leather upper with patented adidas 3-Stripes in leather on the sidesLacing system for a snug, customised FitPadded collar with a leather lining and a pull loop for optimum fitPadded footbed for all-day comfortMidsoleMoulded midsole detailing for vintage style OutsoleTPR outsole with Vespa monogram graphic grooves for absolute durability, grip and tractionShoe careClean the upper using a suede and nubuck brushDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4f30971874b4a8f82a3c1c68eda44d7b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bae0e31bf0268f88166aaf990f8ae8dc_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 12407,
+    "brandName": "Reid & Taylor",
+    "productDisplayName": "Reid & Taylor Men Brown Striped Socks",
+    "price": 165,
+    "description": "Brown striped socks Made of cotton and lycra blend for all-day comfort, stretch and absorption of sweat Horizontal stripes in varying widths in grey, light brown and chocolate brown Rib knit cuff with roomy toe area for superior comfort and durability",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Reid---Taylor-Men-Solid-Brown-Socks_36e6e44aae850de6c53df28e4743f997_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Reid---Taylor-Men-Solid-Brown-Socks_a0e8aea2ae2bed1457ad07cd7b76ddb7_images.jpg"
+    }
+}

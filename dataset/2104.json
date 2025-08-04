@@ -1,0 +1,16 @@
+{
+    "id": 2104,
+    "brandName": "Lee",
+    "productDisplayName": "Lee Men Checks Red Shirt",
+    "price": 1399,
+    "description": "Love Kansas City and its history? Get this shirt to sport your love for the city and look cool in blue!Model's Statistics:1. The model wears size M in t-shirts2. Height-5.11\", Shoulders-17.5 \"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0f71fdf8ff5bc4ecad62b9729814ec56_images.jpg"
+    }
+}

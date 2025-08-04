@@ -1,0 +1,17 @@
+{
+    "id": 38195,
+    "brandName": "Polaroid",
+    "productDisplayName": "Polaroid Men Sunglasses",
+    "price": 3103,
+    "description": "Lens colour: Green &nbsp;Lens type: Polaroid polarized lenses block out virtually 100% of glareFrame colour: GreyFrame type: Plastic half frame with brown plastic armsHigh bridge and flexible nose padsThe glasses come in a signature Polaroid caseWarranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/965a02f038e5f3e4df916e2f3d784e59_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/175093f7acd2f1601602525b9fb17826_images.jpg"
+    }
+}

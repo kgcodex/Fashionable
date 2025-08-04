@@ -1,0 +1,17 @@
+{
+    "id": 17652,
+    "brandName": "Converse",
+    "productDisplayName": "Converse Unisex Casual Red Slipper",
+    "price": 299,
+    "description": "Let your feet talk comfort with this pair of flip flops from converse. Crafted from durable and comfortable material, this pair of slippers speaks volumes of your happy attitude towards life. Upper Soft rubber straps in a thong style with a toe separator Textured PU footbed for cushioned comfort and ease of wear Branding in print along the length of the footbed Outsole Terraced lugs on the PU outsole for absolute grip Slipper care Wipe surface with a clean, damp cloth to remove dust Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7a428d8110a4b65c0ef06f80014fe36b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ef2bd1285bc77d162ea5f4c36dec4c49_images.jpg"
+    }
+}

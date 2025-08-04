@@ -1,0 +1,17 @@
+{
+    "id": 19014,
+    "brandName": "ADIDAS Originals",
+    "productDisplayName": "ADIDAS Originals Women G Tee Birds White Tshirt",
+    "price": 1299,
+    "description": "Pink round neck t-shirt has short sleeves, ribbed neckline and graphic print",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9d8c9897983134c8935f0441b13dd7da_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a2b9fddb17441b6c2993aef00a38d1f9_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 42988,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Black Dual Fusion Sports Shoes",
+    "price": 4995,
+    "description": "Style NoteThese nike Dual Fusion shoes for men from Nike with plush cushioning and supportive Fit are designed for runners. The single-layer mesh upper gives a breathable, comfortable fit while the phylon midsole gives cushioning, support and stability. Flexfoot grooves at the forefoot gives enhanced flexibility.Product DetailsMesh upper with synthetic overlays, has central lace upsPadded tongue with branding with mesh lining in the padded insolePhylon midsole for lightweight comfortNike swoosh on lateral ankle for support and style with a padded and meshed sockliner for comfortable in-step Plush phylon midsole for superior underfoot cushioning, offering a smooth ride Cushioned footbed for shock absorption and impact protectionWaffle and herringbone pattern on the outsole to provide greater grip and traction Nike Air technology to provide ample cushioning by evenly spreading out shock across the forefoot, enhancing propulsion Impact guidance system along the centre of the foot length for better traction and propulsion Forefoot outsole embedded onto upper as a toe guard to enhance durability and protect the toesMaterial and CareSynthetic, meshUse a branded shoe polish to keep your footwear clean Do not store under sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f2db51f1a6a901981b71e03da535555b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b661b0f9ed525697ab28d37529c07dc5_images.jpg"
+    }
+}

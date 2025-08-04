@@ -1,0 +1,17 @@
+{
+    "id": 17738,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Voltaic WP Black Sports Shoe",
+    "price": 4999,
+    "description": "High-style black running shoes which will enhance your performance while upping the style stakes. All of the technology you could need is packed into these puma Voltaic shoes. Upper Synthetic upper for lightweight durability Lace-ups for a snug Fit Padded collar and tongue for greater comfort Brand logo on the tongue, toe and heel Midsole Puma tenCELL midsole for comfort and impact cushioning Midfoot shank for support Outersole Air cushioning plus extra grip on the TPR outsole",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6dcbdc79133253dbe623fe5f19d648dd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7a63fd197d6d7b5f583f7d123904332b_images.jpg"
+    }
+}

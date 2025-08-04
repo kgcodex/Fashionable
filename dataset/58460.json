@@ -1,0 +1,17 @@
+{
+    "id": 58460,
+    "brandName": "Madagascar 3",
+    "productDisplayName": "Madagascar 3 Boys White T-shirt",
+    "price": 299,
+    "description": "White single jersey knit t-shirt, print on front, crew neck, short navy blue raglan sleeves with white taping, navy blue rib knit binding at neck",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Madagascar-3-Boys-White-T-shirt_1d6ed1bc8d1c1af971153ff032667924_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Madagascar-3-Boys-White-T-shirt_ecdd5eb68f2317be979d2ab5ff0022e5_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 49944,
+    "brandName": "Hanes",
+    "productDisplayName": "Hanes Men Black Shorts",
+    "price": 485,
+    "description": "Black knitted shorts with white and grey panels on the sides Two insert pockets on the sides ComfortSoft fabric covered waistband with drawstrings which stretches easily without pinching Stylish cut and sporty design",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hanes-Men-Black-Shorts_1b1350c1b4e76f54c7084f4e77da1dbb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hanes-Men-Black-Shorts_a191168d025b0f23b6a2f2f742f5170f_images.jpg"
+    }
+}

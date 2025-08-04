@@ -1,0 +1,17 @@
+{
+    "id": 22187,
+    "brandName": "Timberland",
+    "productDisplayName": "Timberland Men Brown Casual Shoes",
+    "price": 5990,
+    "description": "This rugged colour block shoe in two-tone leather by timberland is designed for the cosmopolitan male. Referencing the yacht shoe in design and cuts, this sturdy shoe has a woody outsole. Push the proverbial envelope with these shoes. UpperLeather upper with fabric overlayTwo-hole lace-up system for snug, customised FitShort leather tongue with a fabric inner lining for a comfortable, abrasion-free wearStitch detailing for durability and styleFabric footbed for all-day comfortMidsoleRubber midsole for lightweight comfort and impact protectionOutsoleTPU outsole with a stacked heelMulti-directional lugs on the fore foot and heelShoe careRub surface with a soft, damp cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4c7d719119e80d6761d6fc925c0968bc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fd31a2778b436a3811c57df162cc2879_images.jpg"
+    }
+}

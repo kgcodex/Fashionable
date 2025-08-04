@@ -1,0 +1,17 @@
+{
+    "id": 49266,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Pack of 5 Plating Design Socks",
+    "price": 645,
+    "description": "Set of five socks in assorted colours Cotton socks with plating design all over and is reinforced throughout Elasticated cuffs",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Pack-of-5-Plating-Design-Socks_3ee5d390b165fc5eac345c5d8d95137c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Pack-of-5-Plating-Design-Socks_2f12861dcf030702e267c1dba9b671c3_images.jpg"
+    }
+}

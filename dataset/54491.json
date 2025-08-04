@@ -1,0 +1,17 @@
+{
+    "id": 54491,
+    "brandName": "Lino Perros",
+    "productDisplayName": "Lino Perros Women Green Handbag",
+    "price": 1995,
+    "description": "Green handbag with a flap, fastened by magnetic button closures &nbsp;One pocket on the front and one zipped pocket at the back &nbsp;One long adjustable handleBrand badge on the front",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Women-Olive-Handbag_3c19abcd309580e23bd4134e20737f06_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Women-Olive-Handbag_4f93033daee2f2b7fa8de92555da8476_images.jpg"
+    }
+}

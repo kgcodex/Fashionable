@@ -1,0 +1,17 @@
+{
+    "id": 36131,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Dunk High Maroon Shoes",
+    "price": 4995,
+    "description": "Designed for superior performance and comfort, the nike Dunk High has a high heel counter to provide ample structural support to the ankle, protecting it from sprains and injuries when playing sport. If you enjoy wearing a sporty look, simply pair the Dunk High with jeans and casual tees.UpperPerforated toe uppers for added breathable and dry comfortHigh profile design provides ankle supportHigh ankle cup for added support and snug Fit to the back-foot and anklePadded tongue and sock-liner for snug fit and added protection from shockLace-up system for snug fitMidsoleFull length EVA midsole for added cushioning and impact protectionOutsoleFlexible multi-directional rubber outsole with a full cup-sole stitch for durabilitySemi-circular grooved forefoot with pivot point for easy 180&deg; rotation of the foot without causing injuryshoe careWipe surface with soft, clean, damp cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e07bc17f6b788b0873daf79d6a852ed6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fca4b47da3a9eaf01229979a1db2297c_images.jpg"
+    }
+}

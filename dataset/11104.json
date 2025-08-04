@@ -1,0 +1,17 @@
+{
+    "id": 11104,
+    "brandName": "Indigo Nation",
+    "productDisplayName": "Indigo Nation Men Stripes Black Shirts",
+    "price": 1199,
+    "description": "Wash care Wash dark colours separately Hand wash or machine wash cold Use mild detergent Do not wring Flat dry in shade Do not bleach Do n",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8ef211d5c1bbbc90ac99c916dd50f97a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5e36ea232479ad1cf5a0dbba2475738b_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 3552,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men's Light Brown Lifestyle Shoe",
+    "price": 3199,
+    "description": "CompositionLight brown casual shoes with suede leather upper, phylon midsole and carbon rubber.shoe care1. Rub surface With soft, clean cloth to remove dust2. Do not machine washThis pair of semi-formal shoes exude a sense of sophistication, with its padded collar and tongue and suede body. The same colour artificial lace strung along the backfoot ensures a snug Fit and adds a sense of style to the shoes as well. The soft fabric shoe lining is comfortable on the feet and keeps them safe from shoe bite. The cushioned insole provides comfort to the foot, while the shock absorbing lightweight midsole makes the pair of footwear appropriate for use on hard indoor surfaces. The high traction flexible outsole supports your natural body movement and walking posture, while the outsole makes the shoe flexible, weather-resistant and easy to maintain through all seasons. &nbsp;",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f5df138966f91933c4421c33c6ffde03_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c4b9b4b02d7c3f1caad0b4fc908599de_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 24776,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Obs T-Lite 9 Sl Bronze Sports Shoes",
+    "price": 3795,
+    "description": "shoe careWipe surface with damp, clean cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-OBS-T-LITE-9-SL-Bronze-Sports-Shoes_d3699c00027fbe72fe3b97a9ce638c0b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-OBS-T-LITE-9-SL-Bronze-Sports-Shoes_2fbfbcde84ae1fc1f23ba444296e0160_images.jpg"
+    }
+}

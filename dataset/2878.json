@@ -1,0 +1,17 @@
+{
+    "id": 2878,
+    "brandName": "Catwalk",
+    "productDisplayName": "Catwalk Women Royalty Brown Flats",
+    "price": 1095,
+    "description": "Composition:Brown leather sandals with cut outs and appliquesshoe care:Rub surface with soft, clean, damp cloth to remove dustFitting:Regular FitThese rich brown sandals from catwalk are simple yet elegant. The minimal cut outs and applique work accentauate the beauty of your feet.&nbsp; Team these with smart casuals or semi formal wear for outings with friends, trips to the mall and much more, accentuating your feet and flaunting your style mantra.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Catwalk-Women-Royalty-Brown-Sandal_4b694751217e9fb3334de5963d0c8415_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Catwalk-Women-Royalty-Brown-Sandal_e3629585efe07f9569122e63be09d8e6_images.jpg"
+    }
+}

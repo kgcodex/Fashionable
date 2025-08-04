@@ -1,0 +1,17 @@
+{
+    "id": 41825,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Women Yellow & Silver Sports Shoes",
+    "price": 5899,
+    "description": "Synthetic and mesh upper in silver and yellowHas a padded mesh inner and tongueUltra light, injection-molded kinetic footbed which has antibacterial propertiesHas Resamax kinetic wedge technology to create a fluid stride which mimics a natural running gait by absorbing energy, minimizing imoact, creating resistance and maximizing your workoutA curved rocker bottom that moves effortlessly from one stride to the next, rolling through each motionOptimum traction outsole made of high-abrasion, ultra-light rubber outsole",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c9ea50e79578748024717c65e8625832_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7294e7d301e0749296f2be463fc3dea6_images.jpg"
+    }
+}

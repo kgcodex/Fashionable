@@ -1,0 +1,17 @@
+{
+    "id": 56912,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Red Flats",
+    "price": 1099,
+    "description": "Open toed red sandals with forefoot slim straps that criss-cross to form a toe holderBeaded, elasticated back strap with side supportsYellow footbed with branding at the heelTough sole with horizontal grooves and a short heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Red-Sandals_ce274010fcb9b20b50b823bee4ff90b7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Red-Sandals_11790f2fa9558a05fe1dff17e4b9a6f6_images.jpg"
+    }
+}

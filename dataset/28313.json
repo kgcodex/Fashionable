@@ -1,0 +1,17 @@
+{
+    "id": 28313,
+    "brandName": "Red Tape",
+    "productDisplayName": "Red Tape Men Grey Shoes",
+    "price": 2295,
+    "description": "Style Note",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/86125f915d6a1126d66c97958eabdee2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/517f190857b100dae8a1a994ecb6c0d7_images.jpg"
+    }
+}

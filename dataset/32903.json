@@ -1,0 +1,17 @@
+{
+    "id": 32903,
+    "brandName": "Allen Solly Woman",
+    "productDisplayName": "Allen Solly Women Red Shorts",
+    "price": 1399,
+    "description": "Red shorts, has a button and zip closure, panelled front with welt pockets, belt loops, button fastened welt pockets at back, and turn-up hems",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Allen-Solly-Women-Red-Shorts_1d855b3d5c367f186172d21f8bcb8b6a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Allen-Solly-Women-Red-Shorts_a2484fde5f8a3d296049d7c08ee30773_images.jpg"
+    }
+}

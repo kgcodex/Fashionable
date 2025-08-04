@@ -1,0 +1,17 @@
+{
+    "id": 32577,
+    "brandName": "ONLY",
+    "productDisplayName": "ONLY Women Toronto Grey Printed Dress",
+    "price": 1595,
+    "description": "Short grey dress with black and white print, short sleeve, deep cross-over V-neck, gathered to smocked waist and has a cut-out at back with elasticated portion for Fit",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ONLY-Women-Toronto-Grey-Printed-Dress_b30d3a34c9bb267b13a65516a15d3a7c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ONLY-Women-Toronto-Grey-Printed-Dress_ecc50b9a79acb6fa043fd8da487f3784_images.jpg"
+    }
+}

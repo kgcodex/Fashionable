@@ -1,0 +1,17 @@
+{
+    "id": 56725,
+    "brandName": "Horsefly",
+    "productDisplayName": "Horsefly Men Red Graphic Printed T-Shirt",
+    "price": 454,
+    "description": "Red T-shirt has a ribbed, round neck, short sleeves and flock print on the chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Horsefly-Men-Tshirts_ce8e9a88efe57b0fc2f8b8fac5769d0c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Horsefly-Men-Tshirts_cbcd789329fa6d9c44e7d644216ac4ca_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 4528,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Sienna Black Blue Shoe",
+    "price": 3499,
+    "description": "The Sienna XC NM sneaker from puma looks sleek with styling that's sure to get you noticed. This off-road trainer looks great when teamed up with jeans and tees for casual wear.Upper Mesh uppers with synthetic leather overlays for structure and breathability Padded collar and tongue for optimum Fit and comfort Gilly lacing system with round laces for snug fit Fabric lining for more comfort Formstripe on both sides in contrast colours for added style and structure Midsole EVA midsole for cushioning and comfort OrthoLite removable footbed for hours of comfort that can be replaced with an orthotic Outsole Abrasion-resistant toe guard for protection Two-tone rubber outsole Aggressive interweaving pattern and circular lugs for traction",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c60fa9f6bca87f950f0c1358dee593e2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ddddc41c1048e7ee4e13f0e4aa0c8225_images.jpg"
+    }
+}

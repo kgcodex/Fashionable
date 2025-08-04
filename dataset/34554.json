@@ -1,0 +1,17 @@
+{
+    "id": 34554,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Unisex Blue Duffle Bag",
+    "price": 1899,
+    "description": "Perfect for that weekend trip, this duffel bag from puma is a great bag that can carry all your essentials when you head into the wilderness.Height: 30 cmWidth: 64 cmDepth: 26 cmMade of polyesterOne main zippered compartment with a zippered pocket insideTwo zippered compartments on the sidesPrinted branding on the frontTwo fabric handles with a velcro closure to hold both in placeOne adjustable, detachable shoulder strapFour legs on the baseCareDo not machine washRub surface with damp clean cloth to remove dust and dirtDo not bleach, line dry, iron or dry clean",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bebb08851c2ae3239115042cbf4e1941_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0f2ada09021ea1b560ca1bcf9d4d13ac_images.jpg"
+    }
+}

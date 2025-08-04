@@ -1,0 +1,17 @@
+{
+    "id": 22725,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Zoom Hyperdunk Red Sports Shoes",
+    "price": 8595,
+    "description": "In the nike Zoom Hyperdunk, versatility meets stability. Ultra-lightweight, the nike Zoom Hyperdunk 2011 Basketball shoe is a top performer. Offering a stable, supportive Fit, this shoe is made for lightning-quick cuts and fast-paced play on the court. Stability and support go hand-in-hand in the Nike Zoom Hyperdunk 2011 shoe. With a combination of Flywire bundles and breathable mesh, the foot is locked into place. The midsole is equipped with an ultra-lightweight, super-strong glass-reinforced shank that wraps up the sides of the foot and covers a wide area along the bottom for firm, yet flexible stability. The midsole is made of plush Phylon that's super lightweight, yet incredibly responsive. Nike Zoom units in the forefoot and heel provide excellent impact absorption and additional cushioning where you need it most. UpperMesh upper and tongue for enhanced breathabilityPlush foam cushioning at the collar for protection and comfortMid length height for support at ankleMidsoleLightweight Phylon midsole for cushioningFlywire nylon bundles at the midfoot for super-strong, super lightweight supportNike Zoom units in the heel and forefoot for low-profile, responsive cushioningUltra-strong, lightweight midfoot shank that provides enhanced support and stabilityOutsolePivot point at the outsole for stability during multidirectional movementsFlexible, ground-gripping rubber outsole with a modified herringbone patternFlex grooves to increase natural range of motion, while a circular pivot point at the forefoot increases stability when moving in any directionShoe careWipe surface with damp, clean cloth to remove dustDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/69dc632251cdb95592444d40bfe18e98_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6b50844c5eff4b8e692825233a013446_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 57845,
+    "brandName": "Lino Perros",
+    "productDisplayName": "Lino Perros Unisex Black Sling Bag",
+    "price": 495,
+    "description": "Black sling bagA zippered pocket each on the front and the two sidesBrand badge on the frontOne main zippered compartment with one slip pocket and a mobile slotA zippered pocket at the backOne long detachable and adjustable strap",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Unisex-Black-Sling-Bag_79ddde6f43b37a4e68376ff94df291de_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Unisex-Black-Sling-Bag_b2ef8b341aec8972ebcb01227062c583_images.jpg"
+    }
+}

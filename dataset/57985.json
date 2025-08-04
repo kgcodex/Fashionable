@@ -1,0 +1,17 @@
+{
+    "id": 57985,
+    "brandName": "Latin Quarters",
+    "productDisplayName": "Latin Quarters Women Yellow Top",
+    "price": 1350,
+    "description": "Chartreuse yellow with a greenish tinge, knit top, has a double layered neckline, graphic print in front, short sleeves and black fabric extended layer at the cuffs, neckline and hemline and has a curved hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Chartreuse-Yellow-Top_5ea87fd9c92660765524562e1612e08b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Chartreuse-Yellow-Top_8b254de60f3e0991b358079eab26838d_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 56931,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Golden Flats",
+    "price": 1399,
+    "description": "Open toed flats with a thong style upper and a toe separator Bead details over the midfoot strap Beige footbed with a brand label at the heel Tough sole with a grooved, upraised heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Golden-Sandals_a8668265e0e0d7fc1c6813cd97141918_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Golden-Sandals_003cbcd9c55bdebe87f8d8658cf9efcf_images.jpg"
+    }
+}

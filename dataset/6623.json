@@ -1,0 +1,17 @@
+{
+    "id": 6623,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Oliver White Red Black Shoe",
+    "price": 2799,
+    "description": "Make your runs easier and lighter with these Oliver M trainers from adidas. With its lightweight features, your running is guaranteed to be fast and comfortable.UpperMesh uppers with synthetic overlays for lightweight durability and breathabilityCushioned tongue and collar for extra comfortMesh tongue for greater breathabilityLace-ups for snug FitThree synthetic overlays across the sides signifying brand motto of performance, perseverance and achievementOutsole extended onto the toe box and embedded onto it for better protection of the forefootBrand name transferred on the tongue and behind collarMidsoleCushioned footbed for all day step-in comfortFull length phylon midsole for lightweight cushioningOutsoleBlown rubber outsole for lightweight motion controlOutsole with curcular lugs on the forefoot for better grip and tractionStability shank across the outsole to maintain the stability of the runnerFlex grooves for better flexibility of the feetToe guard for longer shoe life and protection to the forefootScoop below the midfoot provides extra cushioning to people with high archesShoe careWipe surface with soft, clean, damp clothDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d079deaf045dc477bf01ab904dded703_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0406a63abac1fdbc1bf881650c202661_images.jpg"
+    }
+}

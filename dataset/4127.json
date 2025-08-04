@@ -1,0 +1,17 @@
+{
+    "id": 4127,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men Green Fuel HI Shoes",
+    "price": 1499,
+    "description": "This pair of green high top shoes from the Fuel-Hi range of fila are designed for utmost comfort and style. Pair them with casual wear like jeans or cargo pants and inkfruit tees and create a stir wherever you go.UpperGreen cotton canvas uppers with logo graphic on the heel for support and protectionWhite lace-ups for a snug FitLightly cushioned insole for greater comfortMidsoleLightweight midsole for cushioning and shock resistanceOutsoleDurable rubber gum outsole with multi-directional gripfila branding on the heelToe guard for greater protectionWash careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3a932cdd51d7c4a7343e6baeb97bdfe8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f48ea67586f21f1bc0ce099d069c1ee2_images.jpg"
+    }
+}

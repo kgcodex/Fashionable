@@ -1,0 +1,17 @@
+{
+    "id": 10669,
+    "brandName": "Doodle",
+    "productDisplayName": "Doodle Boy Road Trip Grey Tshirts",
+    "price": 349,
+    "description": "Composition Grey round neck t-shirt made of 100% cotton, with short sleeves, stitch detailing along the hems and side seams, and has a graphic print on the front Fitting Regular Wash care Machine wash in cold water with like colours in a delicate cycle Do not bleach Tumble dry low or lay flat to dry Warm iron when needed Do not iron on print Take your little boy on a road trip in style with this grey t-shirt from doodle. Let him learn his surroundings in style, while the cotton fabric keeps him fresh and comfortable all day. Team this with shorts and sneakers for an even more sporty look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b43c378aa9f4de024e49c7bcf6746484_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fff82f30611e8598241f7782558add8c_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 57532,
+    "brandName": "Provogue",
+    "productDisplayName": "Provogue Men Black Formal Shoes",
+    "price": 2785,
+    "description": "Black round toed lace-up shoes with a mildly padded inner White, tough rubber sole with a stacked heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Provogue-Men-Black-Formal-Shoes_0fa24a76815867d22bb78e8b4e881c4f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Provogue-Men-Black-Formal-Shoes_c289d7639e3752927861a72fb4209c0a_images.jpg"
+    }
+}

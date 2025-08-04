@@ -1,0 +1,17 @@
+{
+    "id": 48507,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Women Black Top",
+    "price": 3699,
+    "description": "Style Notefrench connection has got that chic look just right for you this summer with their range of bright and well styled tops. Flattering to your form and easy to compl",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f27ca22c0ed39f57ac61780433a83064_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b623a5d06af8837b1c3e3ebb5e85dcb3_images.jpg"
+    }
+}

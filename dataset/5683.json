@@ -1,0 +1,17 @@
+{
+    "id": 5683,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men's Triumphant Black Shoe",
+    "price": 2999,
+    "description": "Inspired by the Urban Track, these Triumphant III shoes from skechers are replete with the latest features making them a great pair to team with jeans and semi-formal shirts or a sweater for casual days out.Upper Smooth synthetic leather upper with minor stitch detailing Retro bicycle toe stitch detail for durability Fabric side stripe accents for midfoot support Leather overlays in the front and heel for durability Perforations on the toe box and sides for breathability Brand logo accent on the tongue and heel cup Lace-up system for a snug Fit Mildly padded tongue and sockliner with a fabric inner lining for snug fit Midsole Shock absorbing midsole for durability and impact protection Mildly padded footbed for all-day comfort Outsole Durable rubber outsole with lugs all over the heel and periphery of the forefoot, extending onto the toe guard and heel guard, with raised terraced grooves in the central forefoot for maximum traction and support Arched midfoot for ergonomic comfort shoe careRub surface with clean, damp cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/10df3c5a32013c51fd9d89396af2c2ef_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5534ee889991d47936a23e985322f73e_images.jpg"
+    }
+}

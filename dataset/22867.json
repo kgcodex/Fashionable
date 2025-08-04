@@ -1,0 +1,17 @@
+{
+    "id": 22867,
+    "brandName": "Woodland",
+    "productDisplayName": "Woodland Men Brown Casual Shoes",
+    "price": 2695,
+    "description": "A vintage restyling of the classic sneaker, this shoe from woodland is a classic piece with a modern, sleek profile. Crafted with hand picked Italian leather, this two tone shoe is an off-duty fashion essential. Wear this with chinos or denims and a checked casual shirt or a tee. Style this with rugged belts.UpperTwo tone, low-top suede upper with leather overlays Central lace upsOutsole reinforced onto the upper on the heel region with brandingPadded tonguePadded insole for in-step comfortMidsoleRubber midsole for cushioned comfortOutsoleDual density TPU outsole with concentric circular grooves for grip and tractionSuction point at the heelShoe careWipe surface with soft, clean, damp cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/33c154c98eb7144c3d9c8cb9dec9623c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7e1f907ebeab4c6d737a3cafcd1dd5bf_images.jpg"
+    }
+}

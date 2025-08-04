@@ -1,0 +1,16 @@
+{
+    "id": 2704,
+    "brandName": "Disney",
+    "productDisplayName": "Disney Kids Girl's White Pooh Kidswear",
+    "price": 299,
+    "description": "Composition:100% cotton white blouse with polka dot pockets and panelsWashcare:Machine wash in cold water with a gentle cycle using mild detergent. Wash dark colours seperately. Do not bleach. Do not soak nor wring. Dry it inside out. Do not tumble dry. Do not iron on print and studs.Fitting:Comfort Fitdisney's white strappy top, with polka dot pockets and panels, topped with Pooh over the pocket is all sweetness and summer. Team this with denim shorts when you take her out and she is sure to enjoy summer in style.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Girls",
+    "gender": "Girls",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/22dce5cf75f683df1f93bc82b0bdc4f5_images.jpg"
+    }
+}

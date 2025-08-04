@@ -1,0 +1,17 @@
+{
+    "id": 6560,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex All Access SO Black Backpack",
+    "price": 1495,
+    "description": "Black textile backpackMade of tough 600D polyesterAppliqued badge towards top of frontZippered front pocket with vertical zip pocket on top and brand labelInside has two slip pockets and two pen slotsSlip pocket and eyelets at sideOne main compartment with zip closure, zippered mesh pocket and elasticated separator for laptop storageHaul loop at the top and bottomPadded back and padded adjustable shoulder straps with embroidered Nike swoosh on left side",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Unisex-All-Access-SO-Black-Backpack_9e3c386f0174d84162dad8be38bc019d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Unisex-All-Access-SO-Black-Backpack_4473b502bdfc511f68ee5ef205124ad5_images.jpg"
+    }
+}

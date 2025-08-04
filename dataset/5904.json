@@ -1,0 +1,17 @@
+{
+    "id": 5904,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Cabana Racer White Shoe",
+    "price": 2499,
+    "description": "-",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/75f9778c0d867d41a379a5e2ec15058c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/537d23596f075f3239e79191f46043c7_images.jpg"
+    }
+}

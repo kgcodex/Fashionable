@@ -1,0 +1,17 @@
+{
+    "id": 5887,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Slogan Blue T-shirt",
+    "price": 1699,
+    "description": "Wash Care Rub surface with clean Damp cloth to remove dust Do not machine wash",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e5cdd23bf1711a192a7e2b8f32266840_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7ba4fb8f7015e2d2df983a81e853015c_images.jpg"
+    }
+}

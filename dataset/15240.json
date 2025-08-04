@@ -1,0 +1,17 @@
+{
+    "id": 15240,
+    "brandName": "ADIDAS Originals",
+    "productDisplayName": "ADIDAS Originals Men Valley-Fdt Black Casual Shoes",
+    "price": 6499,
+    "description": "Blending the legendary minimal design of Ransom teams and the sporty vibe of adidas, the Valley FDT shoe from adidas features a full grain leather upper and a premium lamb leather footbed, offering exemplary comfort.UpperFull grain leather upperLacing system for a snug, customised FitPadded collar and tongue for comfort and optimum fitLamb leather padded footbed for all-day comfortHigh ankle with perforations at the collar for absolute breathable comfort and better support to the lower legMidsoleMoulded EVA midsole detailing for vintage style and impact protectionOutsoleTPR outsole with multi-directional herringbone grooves for absolute durability, grip and tractionShoe careWipe surface using a dry, clean clothDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bf9450fae68df681b3d62df5cc916134_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4febb3a4ec72aa5d8e8bee1519c773a5_images.jpg"
+    }
+}

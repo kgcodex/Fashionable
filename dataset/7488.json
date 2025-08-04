@@ -1,0 +1,16 @@
+{
+    "id": 7488,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Be Bold Black Capri",
+    "price": 1795,
+    "description": "CompositionBlack capris made of 90% nylon and 10% spandex, with Dri-Fit technology, a broad elasticated waist with a pink band running along the back and embroidered nike swoosh near the left waistFittingSlimWash careMachine wash cold with like coloursDo not use softenersRemove immediately/do not allow to lay on itself when wetDo not bleachLine dryDo not iron or dry cleanStylish to the T, these nylon capris from nike are designed with Dri-Fit technology to keep you fresh and comfortable while you sweat it out at the gym or on the trail. The broad waistband sits snugly, offering a comfort fit. Team it with Nike Sports tees and shoes for that smart, sporty look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d48c4c7f227f9e949b399e7bccf1ca8a_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 53357,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Unisex Pack of 2 Red Wristband",
+    "price": 549,
+    "description": "A pair of red wristbands with white brand logo on the upper for style Made of soft knitted fabric for absolute durability, sweat protection, comfort and style Conveniently elasticated to sit snug around the wrists without causing irritation",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Unisex-Pack-of-2-Red-Wristband_51d6afa27f7bcd19309bd58ae5cbdb15_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Unisex-Pack-of-2-Red-Wristband_3202c2c7426955019e326e7e768a53ec_images.jpg"
+    }
+}

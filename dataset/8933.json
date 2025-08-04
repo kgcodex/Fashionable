@@ -1,0 +1,16 @@
+{
+    "id": 8933,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Unisex Fundamentals Pink Wristbands",
+    "price": 349,
+    "description": "Pink wristband for absolute durability, sweat protection, comfort and styleConveniently elasticated to sit snug around the wrists without causing irritationEmbossed branding on the upper for style",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dd674783895bbcc7e6b242b92fcb1458_images.jpg"
+    }
+}

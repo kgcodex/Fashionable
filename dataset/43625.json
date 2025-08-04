@@ -1,0 +1,17 @@
+{
+    "id": 43625,
+    "brandName": "Vero Moda",
+    "productDisplayName": "Vero Moda Women Black Printed Shift Dress",
+    "price": 1695,
+    "description": "Black and white printed dress, has a round neckline with black piping around it, pin tucks and black tape detail on the yoke, short sleeves with tape detail around the middle of the sleeve and a sash running through belt loops around the waist",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/45eff8c5e7756a78969f3062005229f6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b6b6ecd594e70973feccdc84c3da0aa3_images.jpg"
+    }
+}

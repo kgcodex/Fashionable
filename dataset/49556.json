@@ -1,0 +1,17 @@
+{
+    "id": 49556,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Black Handbag",
+    "price": 1690,
+    "description": "Style NoteOne glance at this stylish handbag from rocia and you are sure to go weak in the knees! This black bag with its spacious interiors is enough to make it a bag worth taking its place on the top of you",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3ad76448f6c6e37b4f5b26473cb196a2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/375b4dca3515bf962806f4eae9fa85f1_images.jpg"
+    }
+}

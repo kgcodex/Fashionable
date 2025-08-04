@@ -1,0 +1,17 @@
+{
+    "id": 21280,
+    "brandName": "Allen Solly",
+    "productDisplayName": "Allen Solly Women Sunglasses AS166-C2",
+    "price": 2000,
+    "description": "Lens colour: Graduated brownLens type: UV protected lensFrame colour: BrownFrame type: Plastic full frame, has metallic detail on the armsHigh bridge with fixed nose holdersComes in a signature hard case",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Allen-Solly-Women-Funky-Brown-Frame-Sunglasses3ab82e0dd538600fa5fbabad6e1a1513_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Allen-Solly-Women-Funky-Brown-Frame-Sunglasses403eb55b2330f60c8553a853842563b4_images.jpg"
+    }
+}

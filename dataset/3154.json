@@ -1,0 +1,17 @@
+{
+    "id": 3154,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Air Visi Sleek Black Shoe",
+    "price": 4500,
+    "description": "An absolutely low profile running shoe, the Air Visi Sleek is engineered with lightweight technology to offer a cushioned and comfortable ride. Pair this jeans and tees to don that casually stylish look when not on the run.Upper Lightweight mesh upper for maximum breathability and comfort Synthetic overlays to add structure to the shoe and support the midfoot, without adding weight Symetrical lace-up system for snug Fit Cotton laces for durability and snug fit Meshed and cushioned tongue for maximum comfort nike swooshes on side panels in synthetic and embroidered outline for support and style Cushioned sockliner for comfortable in-step TPU midfoot saddle for lightweight support and comfort Midsole Plush phylon midsole for superior underfoot cushioning, offering a smooth ride Cushioned footbed for shock absorption and impact protection Outsole Made of carbon rubber to provide ample durability in high wear areas and protection from shock Waffle pattern to provide greater grip and traction nike Air technology to provide ample cuhsioning by evenly spreading out shock across the forefoot, enhancing propulsion Impact guidance system along the centre of the foot length for better traction and propulsion Forefoot outsole embedded onto upper as a toe guard to enhance durability and protect the toes Wash careDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2cb0b1d3df4c539d07673e84448ca292_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7f848639d9af1dcd23afa6f5ca2a115c_images.jpg"
+    }
+}

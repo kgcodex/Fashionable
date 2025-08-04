@@ -1,0 +1,17 @@
+{
+    "id": 55619,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men Black Formal Shoes",
+    "price": 2099,
+    "description": "Pointed, black, slip-on shoesLeather upper with reinforced overlay at the heel collarTop-stitched overlays with elasticated gussets at the mid-footMildly padded collar and tongue, padded foot-bedTextured TPU out-sole",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Numero-Uno-Men-Black-Formal-Shoes_e8d1f8a241cac345e02e27d4cc354c36_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Numero-Uno-Men-Black-Formal-Shoes_1ec27650ff1bc431bd83e548fbf006ca_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 13917,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Backboard Black Casual Shoes",
+    "price": 3595,
+    "description": "shoe care Wipe surface with damp, clean cloth to remove dust Do not machine wash Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e37acfedf1caa07cdb3814ff21ca3f1a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e5b51d5b108d5ba4b16d207b6e0cfc00_images.jpg"
+    }
+}

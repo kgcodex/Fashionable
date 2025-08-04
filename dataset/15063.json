@@ -1,0 +1,17 @@
+{
+    "id": 15063,
+    "brandName": "Franco Leone",
+    "productDisplayName": "Franco Leone Men Brown Formal Shoe",
+    "price": 2395,
+    "description": "Square toed brown slip on shoes, low top styling Padded inner, elasticated gussets at the sides of the tongue Tough sole with grooves all over Warranty: 3 monthsWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3d2a2c68063099c8fdc5b9713623965a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0f6e1cb5c8e09515f00fa382b24185c6_images.jpg"
+    }
+}

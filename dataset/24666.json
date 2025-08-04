@@ -1,0 +1,17 @@
+{
+    "id": 24666,
+    "brandName": "Converse",
+    "productDisplayName": "Converse Men Lace Color Black Casual Shoes",
+    "price": 1199,
+    "description": "Care Wipe surface with soft, clean, cloth or brush, cold water and mild detergent to remove dust Do not machine wash or use a drier Avoid storing shoes in extremely hot conditions or in sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/27fef86d5896991a417184102ef1d8d9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/aa1c83960269fccf91d46fc27528bd44_images.jpg"
+    }
+}

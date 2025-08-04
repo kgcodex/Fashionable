@@ -1,0 +1,17 @@
+{
+    "id": 16644,
+    "brandName": "Facit",
+    "productDisplayName": "Facit Men Smart Orange Tshirt",
+    "price": 399,
+    "description": "Composition Orange T-shirt made of 100% cotton, has a round neck, short sleeves, graphic print on the chest and brand badge above the left hem Fitting",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d63ab5dd2ea36183fe6dbda1f21637e2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9dabd2a5e815c0977844c1bf10b46530_images.jpg"
+    }
+}

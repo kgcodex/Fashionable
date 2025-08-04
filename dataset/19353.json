@@ -1,0 +1,17 @@
+{
+    "id": 19353,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men Brown Shoes",
+    "price": 1899,
+    "description": "These casual shoes from numero uno are designed for the cosmopolitan male. The high top shoes with a monochrome brown upper gives this shoe an understated elegance. Team this with corduroy trousers, a sweater and a shirt for casual sophistication. Upper Synthetic leather upper with stitch detailing for durability and comfort Reinforced overlay on the toe counter for protection to the toe Reinforced synthetic leather overlay at the midfoot and heel collar for good shoe structure Lace-ups for a snug Fit Cushioned collar and tongue for greater comfort Mesh lining for added comfort Brand name embroidered on the tongue Midsole PU midsole with foxing on the toe box for better shock absorption and all day comfort Outsole Durable rubber outsole in abstract patterns for maximum durability and traction Shoe care Wipe synthetic leather surface with soft, clean cloth to remove dust Do not machine wash Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1eb92909873e185df755ceb7fe5c1cc9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cfe95dddf0d57fd3c2da250c52ace66f_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 45983,
+    "brandName": "Tokyo Talkies",
+    "productDisplayName": "Tokyo Talkies Women Blue Printed Top",
+    "price": 399,
+    "description": "&gt;Blue single jersey knit top, V-neckline with binding, short sleeves with an upturned hem, graphic print on the front with a curved hem, foil print branding on the inside&nbsp;",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1a34a642778e534ab664d48b6a101529_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b4c1becc5aadb239327a2bf4d0a16ab5_images.jpg"
+    }
+}

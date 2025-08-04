@@ -1,0 +1,17 @@
+{
+    "id": 42039,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men White Dart Sports Shoes",
+    "price": 3595,
+    "description": "Style NoteCreated to give a great running experience, the nike Dart 9 MSL running shoe for men is a top performer. Plush cushioning and great flexibility combine in this sneaker that stands up to everyday wear and tear. The mesh uppers provide great ventilation making this the perfect shoe for running in a hot climate while all the support features you expect from Nike ensure your foot is protected and supported when you run.Product Details White shoe with breathable mesh upper, stylish overlays, see through mesh panels on each side and central lace-upsHighly padded and meshed tongue and innerFoamy midsole with dynamic support system and padded footbedNon marking rubber outsole with raised lugs and deep grooves, scooped heel and flex grooves at outsole for a more natural range of motionMaterial and CareSyntheticWipe surface with soft, clean, damp cloth to remove dirtDo not store under direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6cc79b03e6071fd3f29f2d0d4fa64009_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/494b8eb6654ba9b63c3a2205bd2c2185_images.jpg"
+    }
+}

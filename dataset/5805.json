@@ -1,0 +1,17 @@
+{
+    "id": 5805,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women's Tag Tank Purple Tops",
+    "price": 999,
+    "description": "&nbsp;Wash CareRub surface with cleanDamp cloth to remove dustDo not machine wash Wash CareRub surface with cleanDamp cloth to remove dustDo not machine wash&nbsp;",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/57abd0bdf980f6ee6c8e6c82bb770d25_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/976465b31b2d1147b8db38208deba3ef_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 5860,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Beat Pink T-shirt",
+    "price": 1199,
+    "description": "",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c37f4177714cb2e3ef18606e04b90966_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b9a23cbcaddec774f3cc7f1a9fbeda47_images.jpg"
+    }
+}

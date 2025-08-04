@@ -1,0 +1,17 @@
+{
+    "id": 11462,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Men White Polo T-shirt",
+    "price": 999,
+    "description": "White pique polo neck t-shirt made of 100% cotton, that has short sleeves, ribbed collar and cuffs, buttoned chest placket,&nbsp; tape detailing on the inseam of the collar, brand logo embroidered on the upper left chest and vented hems",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/22938563a64fde0788726eedf0923583_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f1b3824a1c66a89c1c580ede36849461_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 21728,
+    "brandName": "Hush Puppies",
+    "productDisplayName": "Hush Puppies Men Casual Brown Shoes",
+    "price": 3299,
+    "description": "Add that casual zing to your semi-formal wear with this pair of loafers from hush puppies. In a natural leather style and offering absolute comfort, this shoe makes for a great buy. Upper Leather upper for comfort and style Slip-on style for ease of wear Elasticated gores on the sides of the tongue for a customised Fit Padded footbed for all-day comfort Removable footbed to accommodate an orthotic Pull loop for easy on/off Midsole EVA midsole for impact protection Outsole TPR outsole with herringbone grooves for absolute grip and traction Shoe care Wipe surface with a clean, dry cloth to remove dust Use a branded leather conditioner if needed Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/be8c0ff77d2eb95e7c3588b5f6b140b0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c47d5c96c5fc243b7ea9c27002814c5b_images.jpg"
+    }
+}

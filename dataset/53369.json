@@ -1,0 +1,17 @@
+{
+    "id": 53369,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Black Bag",
+    "price": 1299,
+    "description": "Black and grey bag that has one main zipped compartment with an inner zipped pocket and organiser sleevesOne insert pocket on the front with branding appliqued at the bottom of the bagOne long adjustable twill tape strap for carrying easeBranding in graphic print at the back",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/efaee0957f82201ea77a2ca66f956d10_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c4af13fd6cb5fe6afaf1f06ea4920f45_images.jpg"
+    }
+}

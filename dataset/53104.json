@@ -1,0 +1,17 @@
+{
+    "id": 53104,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Silver & Gold Earrings",
+    "price": 560,
+    "description": "Netted rectangular gold toned dangler with a pearl-coloured bead dropHas a fish hook closure",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-White-Earrings_a632d05abfbc405320bd7603f88f0b96_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-White-Earrings_8013c3607239b071160690a7302ead36_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 2204,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Black Polo T-shirt",
+    "price": 699,
+    "description": "Black, polo neck t-shirt made of CVC, has a turquoise blue ridged collar with black stripes along the hem, logo printed buttons and an embroidered logo on left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0380c2401ff3ebf37861d2fd87759eb8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7766c642594f1760b99f9f4ecd5f33a6_images.jpg"
+    }
+}

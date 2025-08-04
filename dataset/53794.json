@@ -1,0 +1,17 @@
+{
+    "id": 53794,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Red Ferrari T-shirt",
+    "price": 1899,
+    "description": "Red T-shirt, has a round ribbed neckline, short sleeves with puma branding on the left sleeve and ferrari branding on the right sleeve and Ferrari branding on the chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6bc4b6ad73474e45398ddd121dc14619_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2ae2ec97386455ca53cf8e5b819990e9_images.jpg"
+    }
+}

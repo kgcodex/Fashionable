@@ -1,0 +1,17 @@
+{
+    "id": 15919,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex AL Blue Backpack",
+    "price": 1699,
+    "description": "It's all about dressing sporty, and what better way to do it with ease than with this bag from adidas.Height: 44cmWidth: 19cmDepth: 32cmMade of 100% polyester with a nylon liningOne main zippered compartment with a laptop pouchMesh organizer pouch and mobile pouch in the main compartment A zippered compartment on the frontSynthetic haul loop for handling easeBranded zippersMesh pockets on one sides for carrying a sipper Padded back for carrying easeCareWipe surface with a damp, clean cloth to remove dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ed1e67299c66bfa7910fbc2dac28c92a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/228216fe56001bbecc7c42364bf76160_images.jpg"
+    }
+}

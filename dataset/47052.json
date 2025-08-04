@@ -1,0 +1,17 @@
+{
+    "id": 47052,
+    "brandName": "Shree",
+    "productDisplayName": "Shree Women Multi Colored Jodhpuri Salwar",
+    "price": 399,
+    "description": "Printed blue harem pants with tones of red and green, has a slim waist band elasticated at the sides, tightly stitched pleats at the front and back that flare out below the hip region, the pants flare at the seat region up to the knee and taper from the knee to the hems onward",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/884da487afcceb8034cacdd6a3db3a35_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/288fdc810e1c27e12a7c56ead245c400_images.jpg"
+    }
+}

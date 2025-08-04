@@ -1,0 +1,17 @@
+{
+    "id": 51084,
+    "brandName": "Satya Paul",
+    "productDisplayName": "Satya Paul Blue Saree",
+    "price": 7995,
+    "description": "Sky blue saree with grass green screen print, has a printed authenticity label at the waist region (which will be tucked in at the waist after draping the saree) Comes with a silk crepe blouse material in green",
+    "masterCategoryId": 190,
+    "masterCategoryType": "Free Items",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/78fb2f6b9c7c7b3363941208679c1795_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/717b46818410a98b036944455b00a931_images.jpg"
+    }
+}

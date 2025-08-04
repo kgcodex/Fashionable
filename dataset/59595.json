@@ -1,0 +1,17 @@
+{
+    "id": 59595,
+    "brandName": "FNF",
+    "productDisplayName": "FNF Purple Collection for Wedding Sari",
+    "price": 9000,
+    "description": "Purple sariw ith intricate embroidery and olive green accents, has blue appliques",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FNF-Purple-Collection-for-Wedding-Sari_237c730fb5a4792564659cd86e0d0808_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FNF-Purple-Collection-for-Wedding-Sari_700295108d9ad8fa9a5bf978bfa8bfc3_images.jpg"
+    }
+}

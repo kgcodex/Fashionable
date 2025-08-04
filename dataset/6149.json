@@ -1,0 +1,17 @@
+{
+    "id": 6149,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Unisex Wirko Black Silver Shoe",
+    "price": 1799,
+    "description": "A stylish jogging and walking shoe, the puma Wirko is replete with features to enhance your performance and help you shape up faster with ease. It is created keeping the foot anatomy in mind to make your walks all the more stable and comfortable. Team this with performance clothes when hitting the track or the gym, or simply pair it with jeans and tees for those casual days.UpperSynthetic leather upper with contrast coloured synthetic overlays on the sides for durability and midfoot supportMedial side overlay styled as brand's jumping cat to create a fashion statementAdded overlay at the backfoot for durability and supportLace-up system for snug, customised FitPadded tongue and fabric collar for in-step comfort and snug fitMidsolePu midsole for lightweight comfort, durability and impact protectionPadded footbed for all-day comfort and shock absorptionOutsoleDurable TPR outsole in herringbone pattern for absolute grip and tractionTerraced grooves on the toe region for added gripMildly curved forefoot for better tractionpuma branding and jumping cat as lugs on the midfoot for inner-arch support and grip",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/86c00de17ab1ae8e3209866d03274c80_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/051d0a081c73df674d0d073bc9c6803e_images.jpg"
+    }
+}

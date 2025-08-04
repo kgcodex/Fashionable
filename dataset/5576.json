@@ -1,0 +1,17 @@
+{
+    "id": 5576,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Free Run Grey Red White Shoe",
+    "price": 5595,
+    "description": "FOR THOSE WHO LOVE BAREFOOT COMFORTMaximizing the foot's natural range of motion while offering maximum protection and cushioning for a smooth ride, the nike Free Run+ 2 is designed to work with the intricate movement of the barefoot by locking the foot in place and at the same time not restricting movement.INSPIRED BY STANFORD ATHLETESnike learnt that Stanford athletes were training barefoot on the university's golf course, and soon enough set out to create a shoe that felt natural and wieghtless, offering a barefoot feel. In 2002, they set out to measure the insole pressure in a set of women and men to understand the biomechanics of shoeless running. After researching the findings, Nike set about to create one of the most unconventional and flexible shoes what we today know as the Nike Free Run+ 2.Featuring a Nike+ Ready option, this shoe can be teamed with Nike+ compatible iPods, Stop watches and much more to clock your fitness regime.Upper Heavily meshed upper for maximum breathability Inner sleeve for a snug Fit and enhanced ventilation Bonded synthetic overlays for absolutely strong, flexible support Lightweight and flexible synthetic overlays attached to the mesh upper offering a streamlined fit Asymmetrical lacing system to reduce pressure over the top ridge of the foot Moulded sockliner mimicing the natural curves of the foot to offer a comfortable and supportive fit Midsole Phylite midsole seamlessly fused into the outsole to create a single-piece resilient and durable design Perforated and padded footbed for fresh, all-day comfort Removable footbed to accommodate an orthotic Outsole Durable rubber outsole with waffle lugs for maximum traction and impact protection Deep flex grooves for easy and flexible movement of the foot Centre of Pressure design on the heel for additional impact protection Shoe careWipe surface with damp, clean cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/81d8e7671e914ebc91b4e0378e0fbafa_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4881987f998af6f6d68a697aed8ca6d7_images.jpg"
+    }
+}

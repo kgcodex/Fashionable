@@ -1,0 +1,17 @@
+{
+    "id": 7498,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women's Challen Purple T-shirt",
+    "price": 1095,
+    "description": "CompositionPurple round neck t-shirt made of 100% recycled polyester, with short sleeves, engineered with Dry-Fit technology and has a graphic print on the chestFittingComfortWash care Machine wash cold at 30 degrees inside out with like colours Do not bleach or use softeners Tumble dry low Cool iron, but do not iron on design Do not dry clean Designed for that absolute running experience, this nike t-shirt is replete with Dri-Fit comfort to make your sporting experience all the more comfortable and fun. The Dri-Fit technology wicks away sweat, allowing you to concentrate on the sport completely. Team this with performance shorts and running shoes for that complete running comfort.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/208bc3fb41762f72ef50bfaf640f6f8d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1a6924611adad32149f820b850d98988_images.jpg"
+    }
+}

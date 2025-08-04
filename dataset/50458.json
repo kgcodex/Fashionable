@@ -1,0 +1,17 @@
+{
+    "id": 50458,
+    "brandName": "Chromozome",
+    "productDisplayName": "Chromozome Men Grey & Orange Briefs",
+    "price": 309,
+    "description": "Grey and orange briefs that have a broad, elasticated waistband, stitch detailing, printed branding on the waistband and slightly elasticated at the legs for enhanced comfort The final product delivered might vary in colour and prints from the display here.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bcc39c6da929bf88f65f7e6dedf50742_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/18e9e0d679ae00bf6cf077dc6ab05190_images.jpg"
+    }
+}

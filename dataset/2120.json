@@ -1,0 +1,17 @@
+{
+    "id": 2120,
+    "brandName": "Lee",
+    "productDisplayName": "Lee Women Navy Blue Top",
+    "price": 1099,
+    "description": "This navy blue coulor top is made of 100% cotton. The elastic sleeves make the top look even more prettier. Wear it with formal pants or casual pair of jeans to give your attire a complete look of either formal or casual.Model's Statistics:1. The model wears size S in t-shirts 2. Height-5.8\", Chest-32\", Waist-26\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9e79c3ecb133cc65249a0a5b375f02af_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f1d37982f796b41e947569077e2ab1c7_images.jpg"
+    }
+}

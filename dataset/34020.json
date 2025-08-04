@@ -1,0 +1,17 @@
+{
+    "id": 34020,
+    "brandName": "Gini and Jony",
+    "productDisplayName": "Gini and Jony Boys Printed Orange T-shirt",
+    "price": 249,
+    "description": "Composition Orange round neck T-shirt made of 100% cotton, sleeveless, has graphic print on the front Fit Regular Wash care Machine wash separately in cold water using a mild detergent Do not bleach or soak Line dry inside out in shade Warm iron only Do not iron directly on print/embroidery boys will love this T-shirt from Gini and Jony. The print on the front adds to the cool vibe, while the cotton fabric keeps him feeling fresh and comfortable all day. Team this with shorts and comfy footwear for a stylish, casual look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c6aa5c7aa704eeeb5945fd28e534b6e5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6e5c2f887b4c2ab7aadc98ed7f67a06c_images.jpg"
+    }
+}

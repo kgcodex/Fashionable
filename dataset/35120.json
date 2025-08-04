@@ -1,0 +1,16 @@
+{
+    "id": 35120,
+    "brandName": "Allen Solly Woman",
+    "productDisplayName": "Allen Solly Woman Bronze Necklace",
+    "price": 795,
+    "description": "Bronze link style necklaceThe links have an irregular shapeHand crafted jewellery",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Allen-Solly-Woman-Gold-Necklace_c8cb4635c26ca5001df0f53d78acddf7_images.jpg"
+    }
+}

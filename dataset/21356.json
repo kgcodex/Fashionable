@@ -1,0 +1,17 @@
+{
+    "id": 21356,
+    "brandName": "Van Heusen",
+    "productDisplayName": "Van Heusen Women Aviator Sunglasses",
+    "price": 3500,
+    "description": "Lens colour: GreyLens type: Tinted, 100% UV protectionFrame colour: Gunmetal tonedFrame type: Metal, full frame with plastic casings on the armsHigh bridge and flexible nose padsThe glasses come in a signature Van Heusen hard caseWarranty: 12 months against manufacturing defectsWarranty provided by Brand Owner / Manufacturer",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Van-Heusen-Women-Sunglasses_f7f22e7d11081869af9bf46bcb0d4370_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Van-Heusen-Women-Sunglasses_7747f9a28b56d3586e4894b4238b2826_images.jpg"
+    }
+}

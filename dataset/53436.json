@@ -1,0 +1,17 @@
+{
+    "id": 53436,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men White Sports Shoes",
+    "price": 4799,
+    "description": "GolfLite shoes from adidas with a synthetic upper AdiTUFF technology for durability and strength Padded insole which provides ever-lasting cushioning, support and comfort Mono-tongue construction for a glove-like Fit with lace ups Embossed branding on the tongue and back Tri &ndash; stripe in the form of top stitched detailing on the sides CLIMAPROOF technology for moisture management and ventilation AdiWEAR outsole with spike configuration THiNTech technology for improved traction and stability TRAXION configuration which provides lock-down grip in all directions and even pressure distribution",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-White-Sports-Shoes_003c78e2c73c53bb2945339b864ebe7d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-White-Sports-Shoes_665190cd7ea2ee44028d768de974625a_images.jpg"
+    }
+}

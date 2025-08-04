@@ -1,0 +1,17 @@
+{
+    "id": 9261,
+    "brandName": "Mark Taylor",
+    "productDisplayName": "Mark Taylor Men Red Striped Shirt",
+    "price": 519,
+    "description": "NA",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b147008b9520ff8c40df70123880be9f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/001cbf7036c544f6fdb5bffd3ac09368_images.jpg"
+    }
+}

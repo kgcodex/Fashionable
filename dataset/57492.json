@@ -1,0 +1,17 @@
+{
+    "id": 57492,
+    "brandName": "Lee Cooper",
+    "productDisplayName": "Lee Cooper Men Brown Shoes",
+    "price": 2385,
+    "description": "Square toed brown slip-on shoe with stitch detail across the toe box Elasticated gussets at the sides of the tongue Soft inner and mildly padded footbed Tough rubber sole with texturing, has a stacked heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lee-Cooper-Men-Brown-Shoes_bfca17fde7349e9b05d378504c993664_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lee-Cooper-Men-Brown-Shoes_42b536aa326246ccc836138aeedb2758_images.jpg"
+    }
+}

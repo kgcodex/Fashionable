@@ -1,0 +1,17 @@
+{
+    "id": 59819,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Men Blue Shirt",
+    "price": 2499,
+    "description": "White and blue check shirt, has a spread collar, full buttoned placket, back yoke, long sleeves with buttoned cuffs, mid arm buttoned tab to fold the sleeves, patch pocket on the chest with slot seam, facings with larger check pattern and a curved hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Men-Blue-Shirt_9781522a0dc1ceea005d8128fa7cf19a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Men-Blue-Shirt_ebcb949c236d2080fcbb9a1e84bc6e71_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 13150,
+    "brandName": "Inc 5",
+    "productDisplayName": "Inc 5 Women Casual Multi Heels",
+    "price": 1290,
+    "description": "It's femininty celebrated and enhanced with this pair of slippers from Inc. 5. With it's sleek design and simple style, this pair works great with ethnic wear. This pair comes with a shoe bag that helps you carry it around in ease. Heel: 1\" Upper Ergonomically curved soft synthetic leather footbed for absolute comfort and style Leather straps wrapping around the heel and has a toe separator on the forefoot to hold the foot in place in style Straps heavily beaded and has jute embellishment on the upper for enhanced style Outsole Durable non-slip outsole grooved and textured in the forefoot heel base, and has a stylish heel unit for ultimate grip even on smooth surfaces Sandal care Wipe surface with a damp, clean cloth to remove dust and dirt Do not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5deb38ca56f31ae59099d69acfd0231b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/afc46a8b394e86404187514dc3dc54c2_images.jpg"
+    }
+}

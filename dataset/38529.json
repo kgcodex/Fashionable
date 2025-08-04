@@ -1,0 +1,17 @@
+{
+    "id": 38529,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Black Sports Shoes",
+    "price": 3999,
+    "description": "Style Notepuma gives you shoes that will make you want to go on a run with these stylish shoes. Designed for maximum comfort and easy using, these pair of shoes raises your style quotient while out for your regular run. Look good and feel even better with these trendy Osu running shoes.Product DetailsRound blunt black slip on shoesMesh and fabric upper with black, striped overlaysFabric interiors with padding at the mouth and a cushioned footbedFoamy rubber midsoleTPU outsole with patterned flex groovesMaterial and CareSyntheticWipe surface with a dry, clean cloth to remove dustDo not store in direct sunlight or machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1c23b7ac5bfa0386dc904bd2390a76ab_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2472b7aa316928618bd7c34b8b3575b9_images.jpg"
+    }
+}

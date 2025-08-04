@@ -1,0 +1,17 @@
+{
+    "id": 10747,
+    "brandName": "Disney",
+    "productDisplayName": "Disney Unisex Kids Daisy Pink Sandals",
+    "price": 299,
+    "description": "Durable and soft upper with straps over the forefoot and the midfootExtra padding over the ankle and forefoot strapsStraps attached to velcro fasteners &nbsp; Bridge padding between the forefoot and ankle straps for a snug fitPull loop attached to the ankle strap for ease of wearSoft, foamy and fun footbed with textured designHorizontal grooves across the outsole for great grip",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Kids-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Disney-Unisex-Kids-Daisy-On-Pink-Sandals_39a8e5f29fe6589cda72979bb1e9cefa_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Disney-Unisex-Kids-Daisy-On-Pink-Sandals_ef8f5f9a74e24f431c39d144c894ff93_images.jpg"
+    }
+}

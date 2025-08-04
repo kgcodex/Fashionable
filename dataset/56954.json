@@ -1,0 +1,17 @@
+{
+    "id": 56954,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Black wedges",
+    "price": 1199,
+    "description": "Heel: 2.5\" Open toed wedges with a forefoot strap and criss-crossing elasticated midfoot straps that loop around the ankle Soft footbed with a heel patch Thick platform-wedge heel that's grooved",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Black-Sandals_19875990f55941dad8f83889b36ef8cf_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Black-Sandals_457d044112e5f4d99b056a09961023f4_images.jpg"
+    }
+}

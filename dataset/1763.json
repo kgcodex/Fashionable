@@ -1,0 +1,17 @@
+{
+    "id": 1763,
+    "brandName": "Lotto",
+    "productDisplayName": "Lotto Women Cathy Pink T-shirt",
+    "price": 499,
+    "description": "Pink V-neck T-shirt, has short sleeves and gold embroidery at the sides of the shirt, branding on left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lotto-Women-Cathy-Pink-T-shirt_bc59f13fa7583843ccdcdd2ca98504d9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lotto-Women-Cathy-Pink-T-shirt_28ae94509d9c9986a16341f663469807_images.jpg"
+    }
+}

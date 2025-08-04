@@ -1,0 +1,17 @@
+{
+    "id": 7441,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Grey Striped T-shirt",
+    "price": 599,
+    "description": "Grey striped T-shirt with printed detail, has a round neck, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/711eddca8bcb02761f2a042bdf55261a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ee2c23096719321e41ee748d0c45099a_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 11391,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Men Black Polo T-shirt",
+    "price": 1599,
+    "description": "Black polo neck t-shirt, that has thin black stripes, short sleeves with white panel detailing on the sleeve hems, white fabric collar, rugged buttoned chest placket, brand seal appliqued on the upper left chest and vented hems",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/384779abc66a3c42c9a349ba1ebea132_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/976f3308d676e04cf079664a1be63fcb_images.jpg"
+    }
+}

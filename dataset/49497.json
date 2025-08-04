@@ -1,0 +1,17 @@
+{
+    "id": 49497,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Navy Blue Shoes",
+    "price": 3499,
+    "description": "Round toed low-tops with four-hole lace-ups and stitch detail around the seams of the toe box PU midsole with foxing at the toe region TPU sole with reverse waffle patterned grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Navy-Blue-106-Moc-Shoes_2745e18cd245f732522d6feb1db47cb5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Navy-Blue-106-Moc-Shoes_3de9d23907bfd60e778f40ff28134583_images.jpg"
+    }
+}

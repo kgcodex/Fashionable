@@ -1,0 +1,17 @@
+{
+    "id": 3302,
+    "brandName": "ASICS",
+    "productDisplayName": "Asics Men's Gel Kayano 17 White Blue Shoe",
+    "price": 8299,
+    "description": "Features a solid rubber outsole, Biomorphic Fit upper, DuoMax support system, open mesh, and a daring asymmetrical lacing system, the asics Gel Kayano 17 is a steal when it comes to running shoes.UpperOpen mesh upper for a highly breathable environmentSynthetic leather overlays deliver lightweight, durable supportBiomorphic Fit created with a stretch material that is strategically placed throughout the upper to reduce buckling and provide an exceptional fit and feelAsymmetrical lacing design minimizes the likelihood of irritation and heightens fit and comfort3M reflective elements allow visibility even in low light conditionsPlush tongue for added comfortMidsolePHF (Personalized Heel Fit) creates a custom fit as the two layers of memory foam that line the collar mold to your heelComforDry sockliner offers anti-microbial properties for a drier, healthier environmentI.G.S (Impact Guidance System) employs linked component to enhance the foot's natural gait from heel strike through toe-offDiscrete Heel Unit technology enhances the I.G.S system by creating the ultimate in shock attenuation and stabilityDuoMax dual-density midsole is specifically positioned for running to enhance support and stabilitySolyte midsole is lighter in weight than asics' standard EVA and SpEVA. Its responsive nature delivers a supremely cushioned ride and makes it highly durableRearfoot and forefoot Gel cushioning systems work together to better attenuate impacting shock and allow fluidity of the foot throughout the gait cycleOutsoleSpace Trusstic System midfoot stabilizer creates a pocket between the Trusstic System unit and the midsole, promoting more controlled midsole deformation, as well as more efficient foot functionGuidance Line technology employs a vertical flex groove that decouples the tooling along the line of progression for maximum stride efficiency.DuraSponge forefoot outsole material is comprised of a blown AHAR (ASICS High Abrasion Rubber) rubber for superior cushioning and long-lasting wearAHAR heel plug provides excellent durability in this high-wear area.Dual-density Solyte 55 lasting utilizes 55 degree density of Solyte lasting material in the heel and forefoot for improved comfortshoe careWipe surface with soft, clean, cloth or brush, cold water and mild detergent to remove dustDo not machine wash or use a drierAvoid storing shoes in extremely hot conditions or in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9e4daa7336471259eea9d999e3af9c84_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ede0be9616a3c3af2610f1113a66ab6c_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 43275,
+    "brandName": "Murcia",
+    "productDisplayName": "Murcia Women Olive Handbag",
+    "price": 1200,
+    "description": "Light olive handbag with a synthetic upper Has two short top handles Has mock buckle details in front Has two main zippered compartments, one with a zippered pocket built into the lining Has a zippered compartment at the back",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Murcia-Women-Olive-Handbag_23e245027bb9614f1084a18efafde534_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Murcia-Women-Olive-Handbag_1f2e6df780491b350a4d5433b66f928e_images.jpg"
+    }
+}

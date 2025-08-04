@@ -1,0 +1,17 @@
+{
+    "id": 41445,
+    "brandName": "Lee Cooper",
+    "productDisplayName": "Lee Cooper Men White Lifestyle Shoes",
+    "price": 1885,
+    "description": "White round toed shoe with perforations and central lace-upsMesh padded inner, pull loop at the collarNon marking rubber sole with circular nubs",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lee-Cooper-Men-White-Lifestyle-Shoes_2afb7e2ce0f2b7896afb7d8de017f53d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lee-Cooper-Men-White-Lifestyle-Shoes_afe0f676347a1611cbe7547f4844a06f_images.jpg"
+    }
+}

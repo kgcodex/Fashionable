@@ -1,0 +1,17 @@
+{
+    "id": 20875,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Alvord 9 Black  Sports Shoes",
+    "price": 4595,
+    "description": "Designed for those who love that rugged, uneven terrain, the nike Air Alvord 9 running shoe offers a supportive Fit and durable traction, while the nike Air technology provides plush cushioning offering a comfortable ride. Upper Heavily meshed upper with strategically placed overlays for lightweight, breathable comfort Lacing system with laces attached to the overlays and cinch around the foot for a snug fit and to lock the foot in place Cushioned tongue and collar for snug comfort Padded footbed for all-day comfort Midsole Phylon midsole for lightweight comfort and impact protection Nike Air unit in the heel for soft, resilient cushioning Firm rubber shank in the midfoot for excellent support offering a stable, plush ride Outsole TPR outsole with deep flex grooves along the length and width to offer an efficient stride Aggresive ground piping lugs for multi-surface traction Carbon rubber at the heel and toe for enhanced durability in high-wear areas shoe care Wipe surface with a clean, damp cloth to remove dust Do not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/56975109baf2ab1a27944f6cbd0cc4ba_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/efd1e1c115e2cdc5d80027c47ed65ebd_images.jpg"
+    }
+}

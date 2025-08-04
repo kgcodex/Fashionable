@@ -1,0 +1,17 @@
+{
+    "id": 42720,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Brown Sandals",
+    "price": 990,
+    "description": "Style Note Created for the woman of sophistication, this",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4666d597bf3160f5fda0fba64f4b5d41_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3d01759c51fc7166f07d0cd6468ef5eb_images.jpg"
+    }
+}

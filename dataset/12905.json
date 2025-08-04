@@ -1,0 +1,17 @@
+{
+    "id": 12905,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Casual Purple Casual Shoes",
+    "price": 3499,
+    "description": "A fresh take on the popular puma vulcanized shoe, the Suede Archive was first released in 1968. A great addition to your wardrobe, these shoes come with luxurious suede uppers ofefring a great Fit and comfort. Team these with jeans and poli t-shirts for those casual Fridays at work.UpperPremium suede leather upper for comfort and durability Perforations on the sides for breathability Lightly padded collar for comfort Stitch overlays to further add to the structure and enhance durability Upper stitched to the outsole for durability Synthetic formstripe logo detailMidsoleSynthetic lining with a cushioned footbed provides all-day comfortOutsoleGum-rubber outsole for cushioning and grip",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2e3771254cf06bacd34242c2ecb70ef1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0ed5b4b9b205133a87e4de486c4b7c38_images.jpg"
+    }
+}

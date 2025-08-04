@@ -1,0 +1,17 @@
+{
+    "id": 7546,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's As Emb Sneaker T-Shirts",
+    "price": 795,
+    "description": "CompositionHot pink&nbsp; round neck short sleeved t-shirt made of 100% cotton, with an embroidered image&nbsp; on the front and grey fabric tape on inseam of the neckline FittingRegularWash care Machine wash cold with like colors Do not bleach Remove immediately/do not allow to lay on itself when wet Tumble dry low Cool iron, but do not iron directly on print/embroidery Do not dry clean Get ready to play hard in this hot pink Athletic Department&nbsp; t-shirt from nike. The bold embroidered doodle of the shoe on the front gives this tee a big dose of energy. Team this with jeans and canvas shoes for a casual look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e7529bb2a27d128540e249b776470f48_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1fd6e14508671bd1aa983fb0fec87fa3_images.jpg"
+    }
+}

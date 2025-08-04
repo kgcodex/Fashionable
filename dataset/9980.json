@@ -1,0 +1,17 @@
+{
+    "id": 9980,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men As Sideline J Black Jackets",
+    "price": 2495,
+    "description": "CompositionBlack jacket made of 100% polyester Dri-Fit fabric, has long raglan sleeves with elasticated cuffs, white piping on the shoulder seam on the front, mock neck with zippered closure on the front, white panels on the sides, vented seam on upper back, embroidered logo on the upper left chest and upper back, mesh lining and doggle strap on the hemFittingRegularWash careMachine wash warm with like coloursDo not bleach Tumble dry on lowCool iron onlyDo not dry cleanDo not iron on print or embroideryEnjoy the winter in style in this Dri-fit jacket from nike. The simple style is complemented by the bold white panelling on the sides, while the fabric wicks sweat away and keeps you dry and comfortable all day. Team this with long sleeved tees, jeans or tracks and sports shoes.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/682bc98d3cd48e0f2d9a351c4890c987_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/50c46c495475140c7f0cc2525e886826_images.jpg"
+    }
+}

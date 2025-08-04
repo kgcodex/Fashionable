@@ -1,0 +1,17 @@
+{
+    "id": 9385,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Total90 Exacto Blue Sports Shoes",
+    "price": 3595,
+    "description": "Designed for those who demand performance and style, the nike Total90 Exacto 3 VTR shoe is a great soccer cleat, offering absolute ball contact with lavish-yet-aggressive look. It&rsquo;s an ideal shoe for those seeking comfort and strength during a heated match. UpperSynthetic upper for lightweight comfortUniform surface with stitch detailing for greater ball feel and accuracySwoosh overlays on the sides for greater midfoot supportLace-ups for snug FitMildly padded collar and tongue MidsolePhylon midsole with injected EVA footbed for lightweight comfort and shock absorption OutsoleStrategically placed multi-directional lugs on durable rubber outsole for optimum tractionShoe careDo not machine washRemove dust and dirt with damp clean clothDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/aa72c73524d067dc229034c86c529ea0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c6312f25c06a3202a2efa1d1235dbe8f_images.jpg"
+    }
+}

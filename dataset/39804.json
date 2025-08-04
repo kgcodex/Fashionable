@@ -1,0 +1,17 @@
+{
+    "id": 39804,
+    "brandName": "Peter England",
+    "productDisplayName": "Peter England Men Dark Olive Green Trousers",
+    "price": 1099,
+    "description": "Dark olive green, satin finish, flat front trousers, buttoned and zipped closure, belt loops at the waistband, two insert pockets on the sides, two buttoned welt pockets with brand tag at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fa81e7b4dde6cf9dcf9d04da31a3e3df_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4421abb8016b23bcfc06576de94f34e8_images.jpg"
+    }
+}

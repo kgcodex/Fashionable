@@ -1,0 +1,17 @@
+{
+    "id": 51610,
+    "brandName": "Kraus Jeans",
+    "productDisplayName": "Kraus Jeans Women Brown Corduroy Trousers",
+    "price": 1250,
+    "description": "Brown corduroy trousers, zippered fly, waistband with loops, scoop pockets in front, patch pockets at the back, yoke",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Kraus-Women-Brown-Corduroy_86dad626bef8cc69e9ae68db00852134_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Kraus-Women-Brown-Corduroy_3e74c73ea695ab32d54ca280e72b836a_images.jpg"
+    }
+}

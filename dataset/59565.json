@@ -1,0 +1,17 @@
+{
+    "id": 59565,
+    "brandName": "Revv",
+    "productDisplayName": "Revv Men Steel Cufflinks",
+    "price": 2670,
+    "description": "Steel coloured pair of cuff-links with crystal insets rectangular Shaped post at back to hold cuff in place",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Revv-Men-Steel-Cufflinks_af83573f5b58808be08842684e3d5a85_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Revv-Men-Steel-Cufflinks_3f124b661937ccbea5172e6127fff20e_images.jpg"
+    }
+}

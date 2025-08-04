@@ -1,0 +1,17 @@
+{
+    "id": 12712,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Dual Fusion Silver Sports Shoes",
+    "price": 4495,
+    "description": "With plush cushioning and a supportive Fit, the nike Dual Fusion ST 2 running shoe is perfect for runners who have a neutral to slightly overpronated gait. Lightweight and comfortable, this shoe also doubles up as a great everyday wear for those who love those long walks.UpperSoft, single-layer mesh for breathable comfort Perforated, internal fit saddle work with lacing system for a comfortable, snug fit Strategically placed overlays for lightweight support to the midfoot Internal heel counter works with external heel overlays for snug stability Gilly lacing system for a supportive fit and to lock the foot in place EVA sockliner offers plush comfort and performanceMidsoleDual-density phylon midsole with softer foam in the centre and firmer foam on the perimeter for a unique blend of lightweight cushioning and enhanced support Moulded piping on the firmer density foam to act as a crash pad for smoother transition from heelstrike Mildly cushioned footbed for all-day comfortOutsoleSolid rubber waffle outsole for maximum cushioning and optimal traction on various surfaces Forefoot flex grooves for a more natural range of motionShoe careWipe surface with damp, clean cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/09b0b7a96444a0f464ad62d07c3048ea_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e49bb2575294db89d8788488590fd0c1_images.jpg"
+    }
+}

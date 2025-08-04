@@ -1,0 +1,17 @@
+{
+    "id": 30743,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Men Striped White Kurta",
+    "price": 1130,
+    "description": "White voile printed kurta with patterned stripes, made of 100% cotton fabric, has a mandarin collar, buttoned chest placket, long sleeves and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d9557a4a4ffb2297c76e542d1c5dbdda_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fbd756ab365a0f305dcbc4934f8bf7ff_images.jpg"
+    }
+}

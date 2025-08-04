@@ -1,0 +1,17 @@
+{
+    "id": 44188,
+    "brandName": "iPanema",
+    "productDisplayName": "iPanema Women Black Flip Flops",
+    "price": 699,
+    "description": "Black flip flops, has a thong style upper with textured patterns and branding on itCushioned black footbed with contrast floral print patterns on itRubber outsole with grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4b8477250a5689730c8200cf1dd21183_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/88842ba026581eb58a9bc3ceb6db62a7_images.jpg"
+    }
+}

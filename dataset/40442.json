@@ -1,0 +1,17 @@
+{
+    "id": 40442,
+    "brandName": "LA-EMOTIO",
+    "productDisplayName": "La Emotio Women Grey Dress",
+    "price": 2999,
+    "description": "Brownish grey dress, has a mandarin collar and a shaped neckline, paneling and bead detailing at the yoke, a satin belt, three quarter sleeves and a flaring skirt",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/47d4707f0397e01784857997eb3cced2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/290907284e45389cb230e0a823383c05_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 4677,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men F50 Black Metsilver Backpack",
+    "price": 1699,
+    "description": "Product SpecificationMade of 100% polyester for easy handling and increased durabilityRoomy inner compartment to hold all essentials with sub compartment in contrast colour panelRoomy front compartment with zippered mesh pouch to hold all essentials with different colour and print on the side panelsNylon bonded thread for long lifeHaul loop with mesh handle for handling easePadded, adjustable shoulder straps with soccer inspired F50 lettering that distribute weight evenly and protect the shoulders and back from injuriesPadded back to provide greater comfort to the backMesh pockets on the sides to hold sipper and other essentialsPrinted logo, iconic three stripes and soccer inspired F50 lettereing on the front Wash careDo not machine washRub surface with dry clean cloth to remove dust and dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/816b7268d1bcbbc0d088fa79d784fe08_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/32c396de429c18dca3af821e6213b70b_images.jpg"
+    }
+}

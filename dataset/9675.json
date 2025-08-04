@@ -1,0 +1,17 @@
+{
+    "id": 9675,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men White Polo Tshirts",
+    "price": 999,
+    "description": "White polo neck short sleeved t-shirt made of 60% cotton, 40% polyester, ribbed collar with fabric tape detailing on the inseam, adidas' three stripes in navy blue appliqued on the sleeves, short buttoned placket, embroidered brand name and logo on the left chest, vented hem, and engineered with the ClimaLite technology",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1373bdada68647e9f60f3e04477a286a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ca5cb4e4fe07366d17d78a7ff30f80ad_images.jpg"
+    }
+}

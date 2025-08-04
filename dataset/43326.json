@@ -1,0 +1,17 @@
+{
+    "id": 43326,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Women Blue Slim Fit T-shirt",
+    "price": 799,
+    "description": "Blue T-shirt, round neck, short sleeves, binding along the neckline, embellished branding on the left side of the chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3878f3c05145892e3b460b597926b6ff_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/65f199f9acedc454590474ea652bdeaa_images.jpg"
+    }
+}

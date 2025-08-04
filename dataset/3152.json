@@ -1,0 +1,17 @@
+{
+    "id": 3152,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Air Alvord Grey Shoe",
+    "price": 4500,
+    "description": "Composition:Grey nike Air shoe with blue colour branding, durable upper mesh and high lungs waffle outsole for better ground gripWash Care:1. Brush surface with damp, clean cloth to remove dust2. Do not machine washThe nike Air Alvord 8 is made for the trail runner seeking a protective and comfortable running shoe. The durable mesh upper is combined with supportive overlays to offer a comfort Fit. The gusseted tongue construction helps keep debris out while the stone shield adds forefoot protection. A melded EVA sock liner reduces stud pressure and provides a contoured arch and heel support system. The pair has a phylon midsole and air-sole unit in the heel that offers excellent cushioning. The BRS 1000 outsole combined with Waffle blade traction delivers a protective, durable use.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c74d7c45d998c255d46180c3240fa690_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/11bc7aca12a46c96eca689d1557f2056_images.jpg"
+    }
+}

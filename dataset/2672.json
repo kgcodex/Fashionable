@@ -1,0 +1,17 @@
+{
+    "id": 2672,
+    "brandName": "Murcia",
+    "productDisplayName": "Murcia Women Ethnic Hand Bag",
+    "price": 850,
+    "description": "Composition:Ethnic brocade handbag with bejewelled broachThis elegant murcia brocade bag with its bold red accent and a bejewelled broach makes it that perfect accessory for all special occassions. Wear it with festive Indian wear or team it up with simple western evening wear to make a classy statement. The chain strap makes it easy to carry and there is enough room to keep your essentials for the evening.Bag careRub surface with dry clean cloth to remove dust and dirtUse a mild leather cleaner",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9a1f7b64060b896b5b5292d9ce83b0c4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e6effb39fda3c26206bbc2692335ce00_images.jpg"
+    }
+}

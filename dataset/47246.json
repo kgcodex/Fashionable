@@ -1,0 +1,17 @@
+{
+    "id": 47246,
+    "brandName": "Playboy",
+    "productDisplayName": "Playboy Men Green Casual Shoes",
+    "price": 1395,
+    "description": "Style NoteFor some serious street cred, try this pair of playboy low-tops. With a low ankle, these kicks can be worn with rolled-up denims and a tonal tee. Keep your T-shirt monochrome for a balanced look. Product DetailsLime green and black upper with bunny print and a carbon-rubber toe boxCentral lace-ups with a fabric tongue and innerEVA midsole with foxing at the toe regionTPU outsole with bunny shaped lugs all overMaterial and CareCanvasWipe with a clean cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cb99364ac5818614e857cca2b5ef7f4b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/af20876478b6bb820760e9c81cbff214_images.jpg"
+    }
+}

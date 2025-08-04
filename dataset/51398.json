@@ -1,0 +1,17 @@
+{
+    "id": 51398,
+    "brandName": "Myntra",
+    "productDisplayName": "Myntra Men Green Check Shorts",
+    "price": 799,
+    "description": "Blue, green and white check shorts, has belt loops around the waist, buttoned closure at the waist with a buttoned fly, two insert pockets on the sides in front and two welt pockets at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/24bfac8d0251401e4e1c34186e50e13b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/732ef29199ca70161d726ad86d4d1759_images.jpg"
+    }
+}

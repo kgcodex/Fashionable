@@ -1,0 +1,17 @@
+{
+    "id": 4548,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Sweet AC Black Shoe",
+    "price": 3300,
+    "description": "Gear up to knock those classic aces with the nike women's Sweet Ace 83. Designed in a classic style with simple lines, this casual and comfortable tennis sneaker is extremely versatile and looks great when paired with skirts, shorts and pants.Upper Soft leather upper with perforated accents on the toe box for breathability Smooth textile lining for snug Fit and comfort Mesh tongue for added ventilation and dry comfort for the feet Midsole Cushioned Phylon midsole for all day comfort Cupsole construction to lock the ankle in place and protect the foot from sprains and injuries Outsole Lightweight and flexible outsole for traction and durability Outsole in herringbone pattern for added grip on rough ground Leaf shaped groove with herringbone pattern on the forefoot to allow easy movement, coupled with grip and support Wash careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0dbc4174b54ea60eb253d1541151a23f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a9c664b465c8762dce8a420edaa93bb0_images.jpg"
+    }
+}

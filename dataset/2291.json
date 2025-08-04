@@ -1,0 +1,16 @@
+{
+    "id": 2291,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men White Polo T-shirt",
+    "price": 995,
+    "description": "This t-shirt is cotton dry-Fit",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d6874401bfb4611573d49fa151641c04_images.jpg"
+    }
+}

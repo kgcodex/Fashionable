@@ -1,0 +1,17 @@
+{
+    "id": 52505,
+    "brandName": "Red Rose",
+    "productDisplayName": "Red Rose Off-White Printed Bath Robe",
+    "price": 1049,
+    "description": "Off-white and red floral print bath robe, short extended sleeves, patch pocket on front right side, inner tie-ups and belt loops on the waist, fabric belt attached on the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/52505/Red-Rose-Off-White-Printed-Bath-Robe_2_6309dd9a690b783f0970e39b05d17e0b.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/52505/Red-Rose-Off-White-Printed-Bath-Robe_3_83f7423226baaea54c374484bea1fffd.jpg"
+    }
+}

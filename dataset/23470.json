@@ -1,0 +1,17 @@
+{
+    "id": 23470,
+    "brandName": "Lino Perros",
+    "productDisplayName": "Lino Perros Men Black Check Scarf",
+    "price": 795,
+    "description": "This comfy checked scarf from lino perros in black and white is made of luxe blended fabric that offers exemplary warmth, making it a perfect addition to your winter wardrobe. Team it with a formal jacket or use it to smarten up a casual coat.Length: 162 cmWidth: 32 cmWash careDry clean onlyDo not bleachWarm iron",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8fa81d0662a6af9459d165c381352802_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d397ed384c96151b89a4f758d7538faa_images.jpg"
+    }
+}

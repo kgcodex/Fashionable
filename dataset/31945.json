@@ -1,0 +1,17 @@
+{
+    "id": 31945,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Avid Black Shoes",
+    "price": 3595,
+    "description": "Designed for lightweight comfort, the nike men's Avid Skate shoes will match the enthusiasm of the hard-core skater. Whether you&rsquo;re pounding the pavement on your board or shuffling off to class, you&rsquo;ll be looking good in the classic, streamlined style of these Nike Avid Skate shoes. Upper Made with a breathable leather upper Cushy footbed and a lightweight rubber outsole Protective overlays for increased durability Lacing system for a snug, customised Fit Rubber taping on midsole for extra durability Padded tongue and collar for all-day comfort Midsole Phylon midsole for lightweight comfort Outsole TPR outsole with lightweight rubber shoe care Wipe surface with a dry, clean cloth to remove dust Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a517818f0ca4ef5ac0dd77952d867c48_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3f41d0d5eea9dcbc46cf5b1e77178930_images.jpg"
+    }
+}

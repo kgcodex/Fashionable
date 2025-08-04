@@ -1,0 +1,17 @@
+{
+    "id": 7790,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Olive Green Polo T-shirt",
+    "price": 499,
+    "description": "Olive green polo T-shirt, has a polo collar, short button placket, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/88cf3ab6e0cc2d960fede3a37f34aab3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b971af8c78b4ae01c888efcacb8efcbb_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 28573,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Air Scoop Pink T-shirt",
+    "price": 895,
+    "description": "CompositionPink T-shirt for women made of 100% cotton, has a round ribbed neckline, short sleeves with graphic print on the frontFitSlimWash careMachine wash warm at 30 degrees with like coloursDo not bleach or dry cleanTumble dry lowWarm iron; do not iron on decorationsUp your style quotient with this nike T-shirt. The cotton wicks sweat away and keeps you fresh and comfortable all day, while the graphic print &ldquo;Love is in the air&rdquo; keeps everyone guessing. Team this with jeans and sports shoes and flaunt your mysterious side.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e8c763a16a25f8916139339809bcbb69_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/db462a05a0106ea8b6d7b95ec495d77b_images.jpg"
+    }
+}

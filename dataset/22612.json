@@ -1,0 +1,17 @@
+{
+    "id": 22612,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Black Jersey",
+    "price": 1495,
+    "description": "CompositionBlack and yellow round neck t-shirt made of 100% polyester, engineered with Dri-Fit technology, has short raglan sleeves, panel on the sides, printing and printed branding on the left chestFitRegularWash careMachine wash cold with like coloursDo not dry clean or bleachTumble dry lowWarm ironCrafted from soft fabric, this t-shirt from nike offers exemplary dry comfort, making it a great everyday choice for your healthy runs and casual days. Team this tee with jeans and running shoes for a sporty look. Add on a hooded sweatshirt for exemplary comfort during winters.Model statisticsThe product is a size M on a model of height 6' and shoulders 18\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4bfa2018352b0ab6f50d25f56b76ccc1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e7e6ef9432daf909d26270f1d1904b16_images.jpg"
+    }
+}

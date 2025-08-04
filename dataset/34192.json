@@ -1,0 +1,17 @@
+{
+    "id": 34192,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Striped Red & Blue Polo T-shirt",
+    "price": 699,
+    "description": "Red and grey striped polo T-shirt, has a polo collar, short button placket, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/08f6713551486df1aa2c18f9d143e8a0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f105667109b70ee681b7646067bc1fa1_images.jpg"
+    }
+}

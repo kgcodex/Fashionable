@@ -1,0 +1,17 @@
+{
+    "id": 39623,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Sports Shoes",
+    "price": 2595,
+    "description": "Style Note With plush cushioning and a supportive Fit, the nike 2.04 running shoe is perfect for those who love healthy runs. Lightweight and comfortable, this shoe also doubles up as a great everyday wear for those who enjoy long walks. Product Details Mesh upper for enhanced ventilation Strategically placed synthetic overlays for added shoe structure and durability Meshed and padded tongue and sockliner for all-day comfort Gilly lacing system for a supportive fit and to lock the foot in place Dual-density phylon midsole for a unique blend of lightweight cushioning and enhanced impact protection Cushioned fabric footbed for all-day comfort TPR outsole with multi-directional lugs on the forefoot for optimal traction on various surfaces Forefoot flex grooves for a more natural range of motion Decoupled heel with a mid-heel scoop for enhanced grip and traction, and enhanced impact protection to the backfoot and ankles Arched midfoot for inner arch support Material and Care Synthetic Wipe with a clean, dry cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ace4a15c978d28c8a67744d12b502136_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/88a6ba084a74c3c78658f1ba7b88f936_images.jpg"
+    }
+}

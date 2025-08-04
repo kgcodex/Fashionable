@@ -1,0 +1,17 @@
+{
+    "id": 5806,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women's Graphic Red T-shirt",
+    "price": 999,
+    "description": "&nbsp;Wash CareRub surface with cleanDamp cloth to remove dustDo not machine wash Wash CareRub surface with cleanDamp cloth to remove dustDo not machine wash&nbsp;",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ea3d393d3e4b09c2150040cd5a385ee0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d5413fa1c989d3d1ca4f31d41154971a_images.jpg"
+    }
+}

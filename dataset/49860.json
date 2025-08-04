@@ -1,0 +1,17 @@
+{
+    "id": 49860,
+    "brandName": "Q&Q",
+    "productDisplayName": "Q&Q Kids Unisex Purple Digital Watch",
+    "price": 795,
+    "description": "Style Note Check",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Kids-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a4dd553399352aaaca27210c50108d02_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8074d733824786d12ea514a1a91aeda0_images.jpg"
+    }
+}

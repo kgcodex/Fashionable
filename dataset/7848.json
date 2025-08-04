@@ -1,0 +1,17 @@
+{
+    "id": 7848,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Printed T-shirt",
+    "price": 599,
+    "description": "Orange printed T-shirt, has a round neck, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/269668dfd060d9e7200af7c4b9aa03ce_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d87dd91c0778a67636f25faf5cf5b49c_images.jpg"
+    }
+}

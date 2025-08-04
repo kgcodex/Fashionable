@@ -1,0 +1,17 @@
+{
+    "id": 32185,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Adi Surge Red Flip Flops",
+    "price": 1099,
+    "description": "Bright Adi Surge flip flops from adidas for casual occasions. While the comfy footbed massages your feet whenever you walk, the textile thong straps sit comfortably, pampering your feet. Upper Soft rubber and fabric thong straps with stitch detailing for snug Fit and protection from abrasion Fabric toe separator to support the foot Foam footbed with graphics and brand mark for cushioned all-day comfort and style Outsole TPU outsole with geometric textured lugs for greater grip and stability Flip flop care Wipe off dirt with a moist cloth Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a8422e4c7fcc2c3bca6fac62fa9e11c5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c8f2d7492f77dfbc200f2d74f58d7fa9_images.jpg"
+    }
+}

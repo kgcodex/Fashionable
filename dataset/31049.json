@@ -1,0 +1,17 @@
+{
+    "id": 31049,
+    "brandName": "Arrow Sport",
+    "productDisplayName": "Arrow Sport Men Beige Striped Shirt",
+    "price": 1999,
+    "description": "Beige striped shirt made of linen-cotton blend with blue and white stripes, has a spread collar, full buttoned placket, a patch pocket on the left chest, short sleeves, full buttoned placket and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f1f1d9868d41b3a1a1ba667e8b5a0359_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3c7cd79205043bea97bc63568f9dba7d_images.jpg"
+    }
+}

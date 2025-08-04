@@ -1,0 +1,17 @@
+{
+    "id": 3493,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Mactelo Black Daronx Shoe",
+    "price": 3999,
+    "description": "CompositionBlack synthetic, laceless leather training shoes with a razor cut sole, comfort sockliner, white and grey striped forefoot upper, dotted backsole and rubber outsoleWash care1. Remove dust with soft, clean, damp cloth2. Do not machine washMake your gymming experience all the more pleasurable with these black shoes from adidas. The razor cut sole ensures you have an improved dry and firm grip while you sweat it out, and the rubber outsole coupled with a dotted backsole act as an add on to your control during your exercise regime. The white and black stripes on the front give it that stylish edge along with the stylish wide lace strung around the sockliner, allowing you to pair these laceless shoes with jeans or casuals too. On the whole, a perfect urban wear.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8852d3f5cff4eeb5bfd839814226297e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3f9dc97db66f649303bc753a31f30e8a_images.jpg"
+    }
+}

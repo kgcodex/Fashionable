@@ -1,0 +1,17 @@
+{
+    "id": 38611,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Blue Run Free T-shirt",
+    "price": 1095,
+    "description": "Style Note Stay cool and stylish this summer in this nike T-shirt with the Dri-Fit technology. Team this with training pants and training shoes for complete benefit during your Sports sessions or simply wear it with jeans and sports shoes and flaunt your sporty attitude. Product Details Deep royal blue Tshirt with a round neck, short sleeves, graphic print on the chest and branding on the left sleeve Material and Care 60% cotton 40% polyester Machine wash warm with like colours Do not bleach Tumble dry low Warm iron do not iron on print/decoration",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3548108414d9ab3f84a7eb37c8c65b06_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bb8e4dcdb3c82f475337c7e0215f23fc_images.jpg"
+    }
+}

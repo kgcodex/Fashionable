@@ -1,0 +1,17 @@
+{
+    "id": 58854,
+    "brandName": "Hakashi",
+    "productDisplayName": "Hakashi Men Steel Cufflinks",
+    "price": 650,
+    "description": "Steel coloured cylindrical pair of cuff-links Hinged back to hold cuff in place",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Steel-designer-Cufflinks_07fb6be45b40c3b9b29b06e8c0f7ec8a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Steel-designer-Cufflinks_bb1d369a6b3635af6d0f06dfd1310b03_images.jpg"
+    }
+}

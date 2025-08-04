@@ -1,0 +1,17 @@
+{
+    "id": 52831,
+    "brandName": "Adrika",
+    "productDisplayName": "Adrika White Earrings",
+    "price": 95,
+    "description": "White and orange patterned jhumka (bell shaped dangler) with bead drops at the circumferenceHas fish hook closure",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adrika-White-Earrings_67db0f61eac5aa777381c2b9d6006212_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adrika-White-Earrings_579a472b882195bbb100fae07142566e_images.jpg"
+    }
+}

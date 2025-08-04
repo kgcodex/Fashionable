@@ -1,0 +1,17 @@
+{
+    "id": 5647,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women's Ballerino Black Ballerinas",
+    "price": 1599,
+    "description": "Get ready to move in style in these really feminine Adi Ballerina shoes from adidas. These dainty shoes are designed for comfort and look great when teamed with tees and skirts or denims.Upper Synthetic textured uppers with panel overlays for comfort and durabilitySatin lining for greater comfortElastic band on the mid-foot for a snug FitHeel cup for greater structure and stabilityBrand name embossed on the collarMidsole Cushioned footbed for all day comfortPhylon midsole for lightweight comfort Outsole Non marking outsole with multi-directional pattern for greater gripPivot point for easier side to side reflexesWash careRub surface with clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/aa01c1ad49172ec03d68e3f1be4b57b6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4d2bd533087c35a3ec67502c6e4f9af9_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 42165,
+    "brandName": "Status Quo",
+    "productDisplayName": "Status Quo Men Black T-shirt",
+    "price": 599,
+    "description": "Style Note One casual garment that'll make you look sophisticated in an instant is this t-shirt from status quo. The quirky print on the chest renders a subtle charm to the tee, while the soft blended fabric offers exemplary comfort. Team it with jeans and Sports shoes for a touch of style. Product DetailsBlack t-shirt, has a round neck, short sleeves with brand tag on the left sleeve, stitch detailing&nbsp; and graphic print on the front Material and Care Blended fabric Machine wash at 40 degrees with like colours using a mild detergent Do not bleach Dry in shade Cool iron; do not iron on decorations Size and Fit Regular fit The model (height 6' and shoulders 18\") is wearing a size M",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ff2cb90db9428c2550cc9605287ff7f8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/34880f7da48ce2a5de96556504ae8e38_images.jpg"
+    }
+}

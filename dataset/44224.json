@@ -1,0 +1,17 @@
+{
+    "id": 44224,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Orange Football Tshirt",
+    "price": 995,
+    "description": "Style NoteIf you're looking for a sport-inspired, casual tee which won't let you down in either style or performance, then your search is over! This T-shirt from nike has an ace print on the front, just what you need to perfect your effortlessly fashionable casual look.Product DetailsOrange T-shirt, graphic print on front, back and sleeve, round neck, short sleeves and branding on frontMaterial and Care100% cottonMachine wash warm with like coloursDo not bleachTumble dry lowWarm ironSize and FitRegular fitThe model (height 6' and shoulders 18\") is wearing size M",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b4f765203ae299d999c532793599ec06_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0b394cf6aceaf317b42eed81eb5e2b3c_images.jpg"
+    }
+}

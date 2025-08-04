@@ -1,0 +1,17 @@
+{
+    "id": 7925,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Navy Polo T-shirt",
+    "price": 750,
+    "description": "Navy blue polo T-shirt, has a polo collar, short button placket, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2581a5f1ce1ff7252bddce74103acf75_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d539e08bf4233d77029d740458f55162_images.jpg"
+    }
+}

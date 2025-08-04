@@ -1,0 +1,17 @@
+{
+    "id": 58507,
+    "brandName": "Tonga",
+    "productDisplayName": "Tonga Women Coffee Brown Shrug",
+    "price": 990,
+    "description": "Knitted shrug with animal print, short sleeves, layered ruffles, brown binding along the hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Women-Coffee-Brown-Shrug_b3f021354c37f9559eae279f846f779e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Women-Coffee-Brown-Shrug_77eeac4f8f3e0c1f0830f53a2a668d02_images.jpg"
+    }
+}

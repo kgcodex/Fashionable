@@ -1,0 +1,17 @@
+{
+    "id": 52553,
+    "brandName": "Pepe Jeans",
+    "productDisplayName": "Pepe Jeans Women Blue Jeans",
+    "price": 2999,
+    "description": "Blue jeans with a slight washed and creased look, has a buttoned waist and a zipper fly, two front pockets with a smaller pocket inside the right pocket and two patch pockets at the back with stitch detail. Comes with a small metal link dangler with a feather detail from the loop.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cc08d5727f9aa60904254de04a3af8c0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c6d5c27154d6e3907e0989f2d1e707f4_images.jpg"
+    }
+}

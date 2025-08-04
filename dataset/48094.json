@@ -1,0 +1,17 @@
+{
+    "id": 48094,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Women Violet Top",
+    "price": 2999,
+    "description": "Violet top with crepeing effect , round neck with binding and gathers at front and back, two short plackets in front with five fabric buttons, three quarter sleeves with gathers, band with buttoned placket at sleeve hem, elasticated smocking at should",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a08c6c0a9c815fee868e6d683df6bc7b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/503cb57e2fcd9f9133add89132ffb0df_images.jpg"
+    }
+}

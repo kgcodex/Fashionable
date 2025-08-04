@@ -1,0 +1,17 @@
+{
+    "id": 6679,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Rayong Black Floater",
+    "price": 2900,
+    "description": "The nike Rayong is a versatile outdoor sandal made with nike Considered design principles. You'll want to enjoy every day at the beach or on the trails when you put this sandal on.Upper low-profile, synthetic leather upper for durability Three adjustment points creates a customized and secure Fit Forefoot and ankle fasteners with perforations for breathability and snug fit Embroidered Nike swoosh on the forefoot strap Straps with light padding for comfort Midsole Midsole made of lightweight Phylon for all day comfort Textured footbed for all day comfort Outsole Rubber cupsole featuring high-performance rubber and Regrind shoe careRub surface with clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/91d18157b059ed406b9dd26bd08dbd19_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9efdb8c4d7411357916df7b5fb136462_images.jpg"
+    }
+}

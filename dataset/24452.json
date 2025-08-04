@@ -1,0 +1,17 @@
+{
+    "id": 24452,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men White Court Shuttle IV Sports Shoes",
+    "price": 3795,
+    "description": "Built for speed, these Court Shuttle IV shoes from nike are lightweight and supportive. The simple design with high performance features like GDR outsole and Airsole unit in the heel makes these a formidable pair. Team these lightweight shoes, weighing about 365 grams only, with jeans and tees for a cool casual look.UpperSynthetic uppers with stitch detailing, meshed side panels and perforations for breathability, durability and supportMeshed tongue and side panels for breathabilityLace-ups for snug Fit and to lock the foot in placeCushioned collar and tongue for snug fitSwoosh logo on the sides to create a style statementMidsoleFull length Phylon midsole for lightweight cushioningLightly padded footbed for responsive cushioningOutsoleMoulded rubber outsole with multi-directional grooves along the entire length and herringbone patterned grooves along the medial side of the foot for traction and durabilityPivot point on big toe mound for easy 180&deg; movement of the forefoot without causing injuryArched midfoot for ergonomic support and comfortshoe careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/40409583081e8752ce4b571f26151f4c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3576b6ccec9fc77d7a69302b8a7c542b_images.jpg"
+    }
+}

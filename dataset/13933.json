@@ -1,0 +1,17 @@
+{
+    "id": 13933,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Women Blue Polo Tshirts",
+    "price": 899,
+    "description": "Blue polo T-shirt made of 100% cotton, has short sleeves, ribbed collar with a buttoned chest placket, branding on the left chest and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8190a1eb117ec6f768426faacb316bd6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b150e6106e29661040dde6b1a2960a5f_images.jpg"
+    }
+}

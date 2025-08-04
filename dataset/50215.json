@@ -1,0 +1,17 @@
+{
+    "id": 50215,
+    "brandName": "Stoln",
+    "productDisplayName": "Stoln Women Black Belt",
+    "price": 425,
+    "description": "Wide, black belt that is elasticated with a leather patch that has a metallic design and hook clasp",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/28daa900c5566f33a61eeb0fea04ddc1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/402e8e8db543761dbca343b0e29752ba_images.jpg"
+    }
+}

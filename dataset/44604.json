@@ -1,0 +1,17 @@
+{
+    "id": 44604,
+    "brandName": "Van Heusen",
+    "productDisplayName": "Van Heusen Men Brown Wallet",
+    "price": 1099,
+    "description": "Style noteMinimalism at its sartorial best, this wallet from van heusen is an instant outfit updater. Fashioned in soft leather without the conservative stitch all around, this piece will Fit into your pocket effortlessly even as it elevates your fashion quotient.Product DetailsBrown textured wallet with creasingTwo main compartmentsThree card slots and one slip pocket on the left foldOne coin pocket and a slip pocket in the right foldMaterial and CareLeatherWipe with a clean cloth to remove dustSizeDimensions: 9 cm x 11 cm",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/869b4a0a5ddf7737faa4bea7b853aee3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5782f41cf71a0c0ec1c6b7a51290a7c4_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 1806,
+    "brandName": "Quechua",
+    "productDisplayName": "Quechua Men Arpenaz Brown Sandal",
+    "price": 1499,
+    "description": "Take that stroll down the park in fine style! These are versatile and ventilated sandals that are perfect for short and long walks. It offers good comfort and is a delight to wear. This durable pair of sandals come in an impressive brown colour.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/870cc158d68ca4c063ba4ab748fc3d89_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/01323d6d31a452557123a45c4a0724e4_images.jpg"
+    }
+}

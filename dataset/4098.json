@@ -1,0 +1,17 @@
+{
+    "id": 4098,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women's White Polo T-shirt",
+    "price": 1495,
+    "description": "White and pink striped polo t-shirt made of 100% cotton, with elastic band sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6aeef4ca45b8900a2a30fa2ceeb6ad9a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a90fab926e3fbbfd98968eeabc0a8550_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 21110,
+    "brandName": "s.Oliver",
+    "productDisplayName": "s.Oliver Men Solid Charcoal Sweater",
+    "price": 2399,
+    "description": "CompositionGrey polo neck sweater made of 100% cotton,has a ribbed neck, long sleeves with ribbed cuffs and a ribbed hem FitRegular &nbsp;Wash care Dry clean onlyCool iron if needed and iron print on reverseProne to pillThis piece adds polish to the classic polo neck sweater. Richly hued and craftily silhouetted, this sweater from s.oliver is smart enough to wear to work. Wear this with corduroy trousers and formal shoes.Model statisticsThe product is a size M on a model of height 6' and Shoulders 18\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/08469afe5eb6b95b209e7c4ffe7235f4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cc4d2972d708ddf87c7d940ef9633329_images.jpg"
+    }
+}

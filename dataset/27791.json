@@ -1,0 +1,17 @@
+{
+    "id": 27791,
+    "brandName": "BULCHEE",
+    "productDisplayName": "Bulchee Men Black Wallet",
+    "price": 899,
+    "description": "Black wallet with stitched detail and bulchee brand badge in frontTwo main compartmentsFour card holders on the left fold and a slip pocketOne slip pocket and a coin pocket with with buttoned flap closure on the right flap",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/BULCHEE-Men-Black-Wallet_54e91d8e3fa52763fffe9053941fd205_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/BULCHEE-Men-Black-Wallet_59a632177a60f7de5489dc78e72765f9_images.jpg"
+    }
+}

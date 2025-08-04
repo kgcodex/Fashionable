@@ -1,0 +1,17 @@
+{
+    "id": 2617,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Mens Red Bleed Blue T-shirt",
+    "price": 795,
+    "description": "CompositionRed t-shirt made of organic cotton, with a round neck, fabric tape at inseam of the collar, short sleeves and graphic print on the chest and back neckFittingComfortWash care Machine wash cold at 30 degrees with like colours Do not use softeners Remove immediately/do not allow to lay on itself when wet Do not bleach Tumble dry low Do not iron or dry clean Flaunt your pride of India winning the cricket world cup. Bleed Blue for the men in Blue with nike t-shirt. Made of organic cotton, the fabric keeps you fresh and comfortable all day. Team it with nike performance pants and cricket shoes for a friendly cricket match, or with jeans and sandals for unparalleled cool.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bb4f833d68bff63c6e1f493399c2cc10_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e638569a524f355b728fab151bdbd76b_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 5579,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Coleman Black Shoe",
+    "price": 2699,
+    "description": "Style noteGet ready to walk in style in these Coleman shoes from adidas. These sleek shoes are designed for comfort and look great when teamed with jeans and tees.UpperSuede uppers with synthetic overlays on the toe counter and mesh around the collar for better comfortPadded collar and tongue for greater comfortTextile lining for greater comfortLace-ups through metal eyelets for snug FitEmbroidered logo on the tongue and below collarEmbossed stripes on the sidesMidsoleCushioned footbed for all-day comfortPhylon midsole for lightweight comfortOutsoleTPR outsole with multi-directional lugs for greater gripFlex frooves on the periphery of the outsole for better flexibility of the feetshoe careBrush surface lightly to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1e88b90a8c823d54a6a087c051a68e4e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1d7eeaafb7949baa3629d0e09a7caac4_images.jpg"
+    }
+}

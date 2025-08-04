@@ -1,0 +1,17 @@
+{
+    "id": 20804,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men Streak White Sports Shoes",
+    "price": 1799,
+    "description": "shoes from fila are made with fine fabrics crafted in Italy's materials capital, Biella. This Streak shoe from fila is an example of the brand's excellent craftsmanship. The upper and aggressive lugs on the sole showcase the Italian brand's versatile power in innovation. The Fila Streak comes in a flat build that offers moderate runners cushioning and enhanced stability, especially for overpronators. With its classic design, this shoe makes for a stylish and comfortable everyday wear as well. Upper Heavily meshed upper with a cushioned bootie for absolute breathable comfort Strategically placed synthetic overlays for enhanced shoe structure Lace-up system for a snug, customised Fit Meshed and padded tongue and collar for in-step comfort Padded sockliner with fabric lining for all-day comfort Midsole Phylon midsole for enhanced cushioning and lightweight comfort that enhances energy return Outsole Carbon rubber outsole for durability, with multi-directional lugs on the forefoot and a decoupled heel for optimal grip and traction Flex grooves on the forefoot for ease of movement Scooped mid-heel for cushioned comfort Curved midfoot for inner arch support Shoe care Wipe surface with damp, clean cloth to remove dust and dirt Do not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5427ab4843099cc207d1de0b25579956_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/866dd10c708b3790d708b69640dcfcd0_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 51254,
+    "brandName": "Park Avenue",
+    "productDisplayName": "Park Avenue Men Beige & Black Belt",
+    "price": 1600,
+    "description": "Braided canvas belt in dull beige with a single-pronged tang clasp Has a braided black leather tail Holes in the leather tail to customise Fit",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2339c99da1366aaf83ea0ff8eb923276_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f4ebb8d2563238918a4a7e10155c2911_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 46090,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Black Adipure Sports Shoes",
+    "price": 4999,
+    "description": "Style NoteHarness your body's natural mechanics for optimal training in the adidas adiPURE Trainer shoes. The toes are liberated so your foot can move as freely as if you were barefoot, with a rounded outsole in tough rubber for extra protection and traction. Adidas have re-invented the shoe to ensure that your foot is free to move naturally while looking ultra-stylish, so if you want your feet to turn heads then this is the perfect choice for you.Product DetailsStretch textile upper for a flexible Fit and a firm heel support and lightly padded collarIndividual toe stalls mimic the natural motion of the footSynthetic panel on forefoot gives protection to toe upperOrthoLite&reg; performance insoles giving 'comfort from the inside out'Insole wicks away moisture, inhibits odour and fungus and ensures air flow to keep your feet coolAnatomically rounded outsole with great grip for wet and slippery terrainMaterial and careFabricWipe with a clean cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8b5f51e84ef6a3895d85fb7f01c654f2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6c707b52cf7a8d9697a85bab64922bba_images.jpg"
+    }
+}

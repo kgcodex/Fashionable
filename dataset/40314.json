@@ -1,0 +1,17 @@
+{
+    "id": 40314,
+    "brandName": "Warner Bros",
+    "productDisplayName": "Warner Bros Kids Unisex White sandals",
+    "price": 799,
+    "description": "Open toed sandals with synthetic straps on the forefoot and mid-foot, an ankle loop and velcro fasteners to attain a snug fit Cushioned foot-bed and ankle strap with Tweety bird print pattern Tough rubber out-sole with grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Kids-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7813b693ff867aafa9bab9b41b91de83_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d441b0179c62001a5f5f249f179bb80c_images.jpg"
+    }
+}

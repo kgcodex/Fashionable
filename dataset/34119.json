@@ -1,0 +1,17 @@
+{
+    "id": 34119,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Men Brown Leather Sandals",
+    "price": 2799,
+    "description": "A pair of brown sandalsLeather&nbsp;upper with toe separator connected to midfoot strapCushioned footbedTextured outsole with patterned groovesWarranty: 3 months",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Clarks-Men-Villa-Beach-Mahogany-Leather-Brown-Sandals_18cc2f835b5a4ab0b013b2c43e076a5f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Clarks-Men-Villa-Beach-Mahogany-Leather-Brown-Sandals_05a701605920e92582aed0296f88880b_images.jpg"
+    }
+}

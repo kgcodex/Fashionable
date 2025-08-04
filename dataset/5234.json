@@ -1,0 +1,17 @@
+{
+    "id": 5234,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men's Sprint Fit Lite LP Black Silver Shoe",
+    "price": 2799,
+    "description": "Get ready to score goals with the Sprint Fit Lite Lp shoes from reebok. The boot has been designed for superior stability and shock reduction. The design also helps you sprint faster, thus improving performance.UpperSynthetic uppers for lightweight breathability and enhanced durabilityPadded collar for better comfortLace-ups for a snug fitRemovable sockliner that can be replaced with an orthoticLogo name on tongue, side and behind collar for styleLogo design on the sides MidsoleEVA midsole for cushioning and better shock absorptionOutsoleTPU outsole with studs in forefoot and heel for traction on firm, natural surfacesWash careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3802574bd3288b4b74da707a106f2b2a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/93f092632201a92f274387e960249851_images.jpg"
+    }
+}

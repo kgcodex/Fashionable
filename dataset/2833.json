@@ -1,0 +1,17 @@
+{
+    "id": 2833,
+    "brandName": "Lee Cooper",
+    "productDisplayName": "Lee Cooper Men's Casual Leather Darknight Black Shoe",
+    "price": 2285,
+    "description": "Composition:Black leather shoes with laces Wash care:Clean with leather conditionerFitting:RegularThese jet black leather shoes from lee cooper are a good buy for use during casual and semi-formal occassions. Wear them to casual outings with friends or for a brunch with your boss.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fb1ca83840a192d2388b3e24062fe42c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0ea929b84e4f27f931984ff61c9ffddb_images.jpg"
+    }
+}

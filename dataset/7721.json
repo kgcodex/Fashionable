@@ -1,0 +1,17 @@
+{
+    "id": 7721,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Exsis 2 White Blue Shoe",
+    "price": 3799,
+    "description": "Get used to superior comfort and performance during runs with these Cell Exsis 2 shoes from puma. These shoes work as hard as you to help you run better and look great doing it. Team these with jeans and tees for a cool casual look.Upper Mesh upper with synthetic overlays for a high degree of breathability and stability Formstripe and cat logo on the sides for added comfort and style Lace-ups for snug Fit Padded collar and tongue for plush feel Midsole EVA midsole for superior cushioning and improved shock absorption Outsole ArchTec technology to guide the foot through a natural transition from touch-down to toe-off Long-lasting CELL unit in the heel for improved shock absorption EverTrack, a long-lasting composite used in the outsole to provide durability in high-wear areas Outsole with aggressive pattern and flex grooves for more flexibility to the feet",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f46028e20e637b69880d3bf702d59816_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e1975e9048c249a6bf471f08fcf0bde0_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 12428,
+    "brandName": "Timberland",
+    "productDisplayName": "Timberland Men Casual Brown Casual Shoes",
+    "price": 7490,
+    "description": "Trendy and comfortable, the timberland Heritage 3-Eye Classic Lug comes in a classic design and is packed with features that makes it much more than just a footwear -&nbsp; a perfect buy for those men who never compromise on comfort and style. UpperNubuck leather upper for absolute durability, comfort and styleFabric inner lining with a well-padded collar for ultimate breathable comfortLeather lacing system for a snug, customised Fit Brand on lateral side and tongue for styleMidsoleLeather lined cushioned footbed for all-day comfort OutsoleDurable rubber outsole with lugs for ultimate grip and tractionshoe careUse a nubuck brush to clean upperDo not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9ef3a0f751ca762cb076a9eefe7a3c6c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/303398dfa46ed279a165ca45f23eb979_images.jpg"
+    }
+}

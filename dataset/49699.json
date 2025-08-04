@@ -1,0 +1,17 @@
+{
+    "id": 49699,
+    "brandName": "Park Avenue",
+    "productDisplayName": "Park Avenue Men Red & Brown Striped Tie",
+    "price": 899,
+    "description": "Red and brown striped tie with dot patterning on the red stripesA loop behind the broad tongue to tuck the smaller end in",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/49699/Park-Avenue-Men-Red--Brown-Striped-Tie_2_96c42cd968fbc292d0aee9bd271e5d8b.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/49699/Park-Avenue-Men-Red--Brown-Striped-Tie_3_0621ba8653b8abbd94e16d9051c359ab.jpg"
+    }
+}

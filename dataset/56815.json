@@ -1,0 +1,17 @@
+{
+    "id": 56815,
+    "brandName": "Aneri",
+    "productDisplayName": "Aneri Women Brown Tunic",
+    "price": 999,
+    "description": "Red and brown woven printed kurta, has a round neckline with a split in the centre, short sleeves, paneling and wooden embellishments at the yoke and side slits",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Aneri-Women-Brown-Tunic_6df5c0ec289639337bc85e8871649205_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Aneri-Women-Brown-Tunic_20420e8aa210a6ac454bcc1527d6baee_images.jpg"
+    }
+}

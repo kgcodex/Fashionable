@@ -1,0 +1,17 @@
+{
+    "id": 24502,
+    "brandName": "Pacific Gold",
+    "productDisplayName": "Pacific Gold Men Brown Leather Belt",
+    "price": 999,
+    "description": "Brown leather beltSecured with a tang claspHas holes for a customised fit",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/12b8a2b906c1b765899f3870727fb6ba_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6fe01359aaf136090d7312de529e30ac_images.jpg"
+    }
+}

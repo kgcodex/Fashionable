@@ -1,0 +1,17 @@
+{
+    "id": 58870,
+    "brandName": "Hakashi",
+    "productDisplayName": "Hakashi Men Pink Cufflinks",
+    "price": 625,
+    "description": "Steel coloured pair of cuff-links, square, with pink crystal detail Hinged back to hold cuff in place",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Steel-designer-Cufflinks_3d6594697d3efcb3ea97b55bcb4832d1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hakashi-Men-Steel-designer-Cufflinks_acb8ecf51e7622c7d36228e742f49500_images.jpg"
+    }
+}

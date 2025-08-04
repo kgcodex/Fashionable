@@ -1,0 +1,17 @@
+{
+    "id": 46866,
+    "brandName": "Lino Perros",
+    "productDisplayName": "Lino Perros Men Pack Of Two Socks",
+    "price": 249,
+    "description": "Pack of two, black socks, of which a pair has stripe patterns in blue, and the other pair has stripe patterns in green and brownAbove ankle length socks with elasticated and ribbed cuffs for a good fit and grip, has contrast branding below the feet",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Men-Pack-Of-Two-Socks_3ae40e013da88508eb0325c18acdb923_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Men-Pack-Of-Two-Socks_9931f65ec1f1a86d4d06e8db4716555c_images.jpg"
+    }
+}

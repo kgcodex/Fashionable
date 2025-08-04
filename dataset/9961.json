@@ -1,0 +1,17 @@
+{
+    "id": 9961,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Medals Crew White T-Shirts",
+    "price": 1095,
+    "description": "Composition White crew neck t-shirt made of 100% cotton, with short sleeves, fabric tape on inseam of the neckline, graphic print with metallic tints on the chest and nike swoosh on left sleeve Fitting Regular Wash care Machine wash cold at 30 degrees with like colours Do not bleach Tumble dry low Remove immediately/do not allow to lay on itself when wet Cool iron, but do not iron on design Do not dry clean nike salutes the spirit of Sports with this t-shirt from the Medals series. Get into the Nike spirit and exude a sense of style that will go down well with your peer group. Pair it with denims and boots for a sleek look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8a1fe2893e177e35444cceef226c5f51_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b619b1ca394fe53161fd897c1ddecfba_images.jpg"
+    }
+}

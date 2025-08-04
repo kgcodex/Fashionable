@@ -1,0 +1,17 @@
+{
+    "id": 51486,
+    "brandName": "Denizen",
+    "productDisplayName": "Denizen Men Brown Trousers",
+    "price": 1399,
+    "description": "Dark brown chinos, has two slant pockets on the sides, two buttoned welt pockets at the back, brand badge on the waistband at the back, belt loops on waistband and a zipped and button closure on the front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/22e18b8ba33c58498d60530cc51d0c02_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/10486bb2825183bc023ceb5abc8d10aa_images.jpg"
+    }
+}

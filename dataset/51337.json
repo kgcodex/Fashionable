@@ -1,0 +1,17 @@
+{
+    "id": 51337,
+    "brandName": "Raymond",
+    "productDisplayName": "Raymond Men Charcoal Socks",
+    "price": 290,
+    "description": "Charcoal grey knitted socks with elasticated cuffs, self patterning",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b9141fa816e455e573dfd70a98e3fc70_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ce25902a3320a421c16b58434648634d_images.jpg"
+    }
+}

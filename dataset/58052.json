@@ -1,0 +1,17 @@
+{
+    "id": 58052,
+    "brandName": "Rreverie",
+    "productDisplayName": "Rreverie Pink & Purple Earrings",
+    "price": 2139,
+    "description": "earrings with flower detail encrusted with stones and pink opal drops, has a push back closure",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rreverie-Pink---Purple-Earrings_6a5563924cbba4866ac2b361b21e1f63_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rreverie-Pink---Purple-Earrings_9584641469d5eeef577990b4152aadbc_images.jpg"
+    }
+}

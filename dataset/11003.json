@@ -1,0 +1,17 @@
+{
+    "id": 11003,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Fluctuation Red Dial Watch",
+    "price": 3950,
+    "description": "This watch from puma comes in a heavy duty design. The assymentric dial and chunky casing gives this watch a tough appearance perfect for navigating the urban jungle.Dial shape: RectangleCase diameter: 32 cmWarranty: 2 YearsPlastic case with a fixed bezel for added durability, style and comfortTextured rubber straps with a tang clasp for comfort and styleBlack dial with cat logo on the dialDigital time displaySolid case back made of stainless steel for enhanced durabilityWater resistant upto 100 metres",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0c97edf5d33bc829e65c2f8128a5e1b0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f0b4ed6bdf11b87c77b5cfffb6108574_images.jpg"
+    }
+}

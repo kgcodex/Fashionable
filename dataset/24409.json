@@ -1,0 +1,17 @@
+{
+    "id": 24409,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women White & Grey Vanquish Sports Shoes",
+    "price": 2499,
+    "description": "Heavily meshed upper for enhanced breathablity and lightweight comfort Synthetic leather overlays in high visability silver colour with adidas patented 3-Stripes on the sides for enhanced shoe structure Meshed and padded tongue and collar for breathable comfort Central lacing system for a snug, customised fit Padded footbed for all-day comfort and shock absorption Litestrike EVA midsole for lightweight comfort and impact protection TPR outsole with heavy duty lugs and grooves for absolute grip, traction and flexibility Impact guidance line for better shock distribution and enhanced energy return",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1a8f0327d54048b95b1d1a899114eb1e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b520cbe9a603ad3e13904abde68f60d3_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 32513,
+    "brandName": "Franco Leone",
+    "productDisplayName": "Franco Leone Men Brown Sandals",
+    "price": 1595,
+    "description": "Open brown sandals, has a padded thong style upperSoft, padded footbed with branding on the footbedTough rubber sole with lugs all overWarranty: 3 months",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c3d8fe34f05092513126546398ee7bae_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c557629dd15368867fbafac5748be70d_images.jpg"
+    }
+}

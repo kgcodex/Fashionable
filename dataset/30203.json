@@ -1,0 +1,17 @@
+{
+    "id": 30203,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Legend Black Duffle Bag",
+    "price": 2495,
+    "description": "Style NoteA practical and stylish choice of bag with extra roomy space and comfortable to carry, this smooth polyester bag from nike will give a sophisticated look to any casual outfit.Product DetailsWater resistant 300D coated polyesterHas one main roomy compartment with a mesh pocket inside Adjustable and detachable shoulder straps with press button closure to carry style and easeHas a zippered pocket on the front Material and Care100% polyester Rub surface with dry clean cloth to remove dust and dirtDo not machine washSize MeasurementHeight: 26\"Width:&nbsp;&nbsp; 38\"Depth: 15\"",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3430356e2c77b39eb4169242d238afa0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/eb3e010f45df1f5486814e581a610c2b_images.jpg"
+    }
+}

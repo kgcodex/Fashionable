@@ -1,0 +1,17 @@
+{
+    "id": 4842,
+    "brandName": "Sher Singh",
+    "productDisplayName": "Sher Singh Women India White Polo T-shirt",
+    "price": 1499,
+    "description": "White polo t-shirt made of 100% cotton, with a broad navy blue diagonal stripe on front, golden batsman logo on left chest, sher singh logo on right chest, navy blue collar with front buttoned placket, Indian tri-colour on underside of collar, bold navy appliqu&eacute; d #1, orange embroidered text of&nbsp; 'INDIA', embroidered national flag below 'IND' and short sleeves with navy-blue trim",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/05a39908a120dd9084e6bb30f699442a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d34b22fe8adf5e82e52986da16202865_images.jpg"
+    }
+}

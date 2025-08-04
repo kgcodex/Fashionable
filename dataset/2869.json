@@ -1,0 +1,17 @@
+{
+    "id": 2869,
+    "brandName": "ID",
+    "productDisplayName": "iD Men's Denim White Graphic Shoe",
+    "price": 2485,
+    "description": "Composition:White canvas with washed denim leather panels, tie-upsWash Care:Use a branded leather conditioner to keep it clean and shiny through all the seasonsThis is essentially that footwear that will&nbsp; see you through all ages. Casual, comfy, trendy and light on the pocket - this pair of shoes has it all.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5e735a638d8fd9d7cddb81da4855fe79_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e12d77baa56c8597526c7b9d354cbc4f_images.jpg"
+    }
+}

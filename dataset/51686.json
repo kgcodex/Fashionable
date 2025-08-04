@@ -1,0 +1,17 @@
+{
+    "id": 51686,
+    "brandName": "Louis Philippe",
+    "productDisplayName": "Louis Philippe Men Golden Sunglass",
+    "price": 3500,
+    "description": "Lens colour: BrownFrame colour: GoldenFrame type: Metal and plastic, rectangularBranding at the sides soft nose-padsPolarized lensesThe glasses come in a case",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/51686/Louis-Philippe-Men-Golden-Sunglass_2_10a386bb6a88ba6f237b5a5a6767d842.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/51686/Louis-Philippe-Men-Golden-Sunglass_3_2ae196f0d1e45222dbdbfacdb4c89b27.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 26327,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Runner White & Blue Sports Shoes",
+    "price": 4999,
+    "description": "Designed for those who love those healthy runs, the adidas FL Runner M combines lightweight breathable comfort and flexibility that makes running all the more pleasurable.UpperMeshed upper for maximum breathable comfortStrategically placed synthetic overlays for added shoe structureadidas patented 3-Stripes on the midfoot for enhanced shoe structure and styleMeshed and padded tongue and collar for all-day comfortLace-up system for a snug, customised FitPadded footbed for all-day comfortMidsolePU midsole for an absolutely cushioned ride, lightweight comfort and enhanced impact protectionOutsoleDurable rubber outsole for enhanced durability, with flex grooves for ease of movementDecoupled heel made of adiWEAR technology for enhanced durability in high-wear areasScooped heel for enhanced cushioning to the backfoot and ankles with terraced lugsShoe careWipe surface with a damp, clean cloth to remove dust and dirtDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e57d11bfe8000d3c2b2b37969a8bed9d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/db52e27d44b8b468aa771d902f75ee4c_images.jpg"
+    }
+}

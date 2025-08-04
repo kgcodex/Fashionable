@@ -1,0 +1,17 @@
+{
+    "id": 24178,
+    "brandName": "Converse",
+    "productDisplayName": "Converse Men Arrow  Black Flip Flops",
+    "price": 399,
+    "description": "Let your feet talk comfort with this pair of flip flops from converse. Crafted from durable and comfortable material, this pair of flip flops speaks volumes of your happy attitude towards life.UpperSoft fabric straps in a thong style with a toe separatorTextured rubber footbed for cushioned comfort and ease of wear; has graphic printPrint on the forefoot and brand logo printed on the heel for styleOutsoleTerraced lugs on the PU outsole for absolute grip Slipper careWipe surface with a clean, damp cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/10c7c7032e8f4be39e6bdc22abfc1499_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/98d4a716284e0cbc4a85cfd0897574ac_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 42045,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Wardour Chukka Yellow Casual Shoes",
+    "price": 4795,
+    "description": "Style Note Combining the style and flair of canvas shoes with the durability and comfort of running shoes, the nike Wardour Chukka puts the groove back in your style. Product Details Canvas upper with central lace-ups, synthetic overlays and stitched detailing Padded tongue and inner Thick rubber midsole TPU outsole with multi-directional grooves&nbsp; Material and Care Synthetic and suede Wipe surface with a dry, clean cloth to remove dust Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2825adf11b42dd72f9aaddde06d291c8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d66200a32855a4bc2ec5c22562b4c703_images.jpg"
+    }
+}

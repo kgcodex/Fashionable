@@ -1,0 +1,17 @@
+{
+    "id": 7887,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Blue Track Pants",
+    "price": 999,
+    "description": "Blue knitted mid-rise track pants, has two pockets, an elasticated waistband with drawstring fastening",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/de04c555ebb886c7560cf35ab4a9f2dd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ed10b1d150e7eede966a678e4ab99777_images.jpg"
+    }
+}

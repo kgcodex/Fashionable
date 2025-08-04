@@ -1,0 +1,17 @@
+{
+    "id": 6163,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Tread Flip Flop",
+    "price": 699,
+    "description": "Wash CareRub surface with clean, Damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fdb406d662f865f427d69c5c67a2e58a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1db73b4e8ad34bb498d2cf2cb73f781e_images.jpg"
+    }
+}

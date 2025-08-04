@@ -1,0 +1,16 @@
+{
+    "id": 15278,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Sports White Socks",
+    "price": 395,
+    "description": "Slip your feet into cosy comfort and up your running speed with ease in this cotton socks from nike. Engineered with Dri-Fit technology, you are rest assured of comfortable and dry comfort.Made of Dri-Fit cotton for sweat-free comfortHas a supportive fit with arch compressingReinforced heel and toe for enhanced durabilityLeft and right specific design for a better fitCareMachine wash warm at 40 degreesUse a non-chlorine bleach if neededTumble dry lowDo not iron or dry clean",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/30fcb00bb59fbd93151e0b2a2927b28e_images.jpg"
+    }
+}

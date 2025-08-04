@@ -1,0 +1,17 @@
+{
+    "id": 5537,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Free Black White Shoe",
+    "price": 5995,
+    "description": "Ultra light, durable and flexible, the nike Free TR2 trainer comes with a barefoot-like feel coupled with ample support in the outsole for ground-gripping traction. Offering precise control, responsive cushioning and lightning speed, these running shoes can work great on fields as well as gym floors. Upper Heavy duty, lightweight mesh upper with a perforated synthetic overlay on the medial side for maximum ventilation Synthetic overlays strategically placed for added shoe structure and midfoot support Large overlays wrapping the heel and outer forefoot to lock down the foot during quick multi-directional movements Seam-free and breathable mesh half-innersleeve for a snug Fit Mildly padded tongue and sockliner for in-step comfort Swoosh overlays for midfoot support and style Lace-up system with durable synthetic laces for snug fit Midsole Full length phylon midsole for lightweight cushioning and impact protection Removable footbed to accommodate an orthotic Outsole Foam and TPR outsole with diamond flex traction sole for maximum durability and shock absorption nike Free technology in the medial midfoot for barefoot feel and natural fit Deep flex grooves for enhanced flexibility Wider grooves in the forefoot for greater cushioning during landing and toe-off Solid rubber pods and stability lugs with delta-node patterm on the heel and perimeter of the forefoot to prevent the foot from rolling excessively during side-to-side movements Shoe careWipe surface with damp, clean cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cd42e8d9757d4b4c46f56f537d525b7d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9625f141f7aa29f58ac44cb8681c852f_images.jpg"
+    }
+}

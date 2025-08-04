@@ -1,0 +1,16 @@
+{
+    "id": 3321,
+    "brandName": "Reebok",
+    "productDisplayName": "KKR Mens Fangear Polo Jersey",
+    "price": 999,
+    "description": "CompositionPurple T-shirt made of 100% polyester, has a polo neck collar with a V-neckline, short sleeves, reebok branding on right chest and Kolkata Knight Riders logo on left chestFitRegularWash careMachine wash in lukewarm water below 40 degrees, using a mild detergentWash dark colours separatelyDo not soak, bleach, tumble dry, dry clean or iron on print/trims/ logoDry in shadeWarm ironCrank up your kid's style as the cricket craze kicks off this summer with this KKR Fangear polo jersey from reebok. The apple of your eye will be displaying team pride with this jersey as they cheer their favourite players at the IPL. There's no better way of saying 'Go Riders!' than with this jersey!",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/276c2a6752a479cfb8a6e4e836c73c19_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 30256,
+    "brandName": "Red Tape",
+    "productDisplayName": "Red Tape Men Black Semi Formal Shoes",
+    "price": 2495,
+    "description": "For the non-conformist high-fashion male, this pair of shoes from red tape is the right choice. Styled in genuine, soft leather for optimal comfort, this pair does not compromise on its style quotient. Wear this with washed jeans or corduroy trousers, a black leather belt and a casual shirt with a scarf, a perfect off-duty ensemble to wear for a coffee date in the evening. Upper Leather upper for comfort and style Slip-on style for ease of wear Elasticated gores on the sides of the tongue for a customised Fit Padded footbed for all-day comfort Midsole Rubber midsole for comfort Outsole TPU outsole for absolute grip and traction shoe care Wipe surface with a clean, dry cloth to remove dust Use a branded leather conditioner if needed Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ccabea5bf821a406c900dd3521fe4386_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0fde2be1c39c3887612279d8b43da8d5_images.jpg"
+    }
+}

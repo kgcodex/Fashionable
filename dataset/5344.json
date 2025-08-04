@@ -1,0 +1,17 @@
+{
+    "id": 5344,
+    "brandName": "Lee Cooper",
+    "productDisplayName": "Lee Cooper Men's Black Shoe",
+    "price": 2585,
+    "description": "Designed for the man of style, this pair of black semi-formal shoes from lee cooper is set to pivot you into a world of royal living. Replete with a high ankle, slip on wear, gear up to don that unparalleled look in these casual boots.Upper Leather upper for durability and style Elasticated side panels to offer a comfort Fit and easy movement Lightly padded high tongue with fabric inner Lightly cushioned sockliner for in step comfort and snug fit Reinforced overlay strip on backfoot for added support to the ankle High ankle mouth for style and extra foot comfort Stitch detailing for durability and style Midsole Synthetic leather midsole for enhanced durability Padded foam footbed with ridges for all-day comfort and ergonomic fit Printed brand logo on heel part of footbed Textured lining binding the upper and outsole, with added protection to the forefoot and backfoot Outsole TPU outsole for extra comfort and durability Multi-directional outsole, with long lugs along the forefoot and heel edge for enhanced durability, traction and grip Rubber box on foot arch for ergonomic support Raised heel for added style and foot comfort shoe CareWipe surface with a soft, clean cloth to remove dustPolish using a good quality leather conditioner",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/af128be3cc3896a4cf12ef5c3bcd12de_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8907e0b8a8f7575a3863a8947efd5808_images.jpg"
+    }
+}

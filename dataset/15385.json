@@ -1,0 +1,17 @@
+{
+    "id": 15385,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men Hawai Blue Flip Flops",
+    "price": 399,
+    "description": "Red and Blue flip flops, with blue thong style rubber straps with a toe separatorCushioned textured footbed with brand logo printed on the toe and heel regionTPR outsole with brand logo styled lugs with brand name embossed in it for absolute grip and tractionWarranty: 3 months from the date of purchase against manufacturing defects",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FILA-Men-Flip-Flops_bfe7f7c7caf9567d6f8b7395b5237da6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FILA-Men-Flip-Flops_6b961d15fc9d1d208f73ba5631a3928f_images.jpg"
+    }
+}

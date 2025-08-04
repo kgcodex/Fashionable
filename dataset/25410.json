@@ -1,0 +1,17 @@
+{
+    "id": 25410,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men 2.04 Black Sports Shoes",
+    "price": 2595,
+    "description": "Style note With plush cushioning and a supportive Fit, the nike 2.04 running shoe is perfect for those who love healthy runs. Lightweight and comfortable, this shoe also doubles up as a great everyday wear for those who enjoy long walks.UpperMesh upper for enhanced ventilationStrategically placed synthetic overlays for added shoe structure and durabilityMeshed and padded tongue and sockliner for all-day comfortGilly lacing system for a supportive fit and to lock the foot in place MidsoleDual-density phylon midsole for a unique blend of lightweight cushioning and enhanced impact protectionCushioned fabric footbed for all-day comfortOutsoleTPR outsole with multi-directional lugs on the forefoot for optimal traction on various surfaces Forefoot flex grooves for a more natural range of motionDecoupled heel with a mid-heel scoop for enhanced grip and traction, and enhanced impact protection to the backfoot and anklesArched midfoot for inner arch supportShoe careWipe surface with damp, clean cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f03c3b66b394277ff0ae41ef882b2ec6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a45bf0f008024bbd79a1dcdcdd9d7f58_images.jpg"
+    }
+}

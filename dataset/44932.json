@@ -1,0 +1,17 @@
+{
+    "id": 44932,
+    "brandName": "Jack & Jones",
+    "productDisplayName": "Jack & Jones Men Blue Jeans",
+    "price": 1995,
+    "description": "Blue distressed denim jeans, two scoop pockets in front with coin pocket on right, yoke at back,&nbsp; two patch pockets at back with arquette embroidery, stonewashinged with whiskering and grinding effects, chevrons at back knee,&nbsp; waistband with loops,&nbsp; fly with buttons, all top stitching in ochre",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e079f30f372c3935ff23df19118d767f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/688dc8d69e1f9713b8e9447df15be0c4_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 41833,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men Blue Shoes",
+    "price": 3199,
+    "description": "Style NoteThis shoe is ideal for those who don't want to compromise when it comes to the stylish look of their footwear - and the best part is that skechers have also paid attention to practicality. The shoe comes with a soft woven canvas fabric and suede upper in a lace up sporty casual shoe with stitching accents and vulcanized midsole. Product DetailsBlue shoe with fabric and leather upper, decorative synthetic overlays, stitched detailing and central lace-upsPadded tongue and innerThick rubber midsoleFlexible rubber traction outsole with textured grooves Material and CareLeather and fabricWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ddf2b7fd314d49a2d37bb580817ae9c9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e6dea1d8c7abb81c8bebeda8d9326091_images.jpg"
+    }
+}

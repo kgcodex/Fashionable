@@ -1,0 +1,17 @@
+{
+    "id": 59297,
+    "brandName": "U.S. Polo Assn.",
+    "productDisplayName": "U.S. Polo Assn. Men White & Navy Blue Shirt",
+    "price": 1899,
+    "description": "Checked shirt of herringbone navy and white with spread collar, full buttoned placket, patch pocket on the left chest, loop and box pleat on the back, branding on the left pocket, long sleeves, buttoned cuffs and curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/US-Polo-Assn-Men-White---Navy-Blue-Shirt_43c318464884ef7eba50d46c795264a9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/US-Polo-Assn-Men-White---Navy-Blue-Shirt_eab73c58012611f3476e1b0fb32a1994_images.jpg"
+    }
+}

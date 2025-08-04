@@ -1,0 +1,17 @@
+{
+    "id": 7564,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Teal Blue Polo T-shirt",
+    "price": 1195,
+    "description": "Dark teal blue and white short sleeve polo neck t-shirt made of 100% cotton, has horizontal aqua blue stripes on the chest and&nbsp; back, vented hem, concealed placket, ribbed collar and cuffs, grey fabric tape on inseam of collar and embroidred logo on left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d28c3802c8763fa9d47fb9461ffd2394_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/987f1a54c7030b7c2ac9ed20c878a244_images.jpg"
+    }
+}

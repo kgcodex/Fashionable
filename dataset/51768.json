@@ -1,0 +1,17 @@
+{
+    "id": 51768,
+    "brandName": "Hidedge",
+    "productDisplayName": "Hidedge Men Brown Leather Belt",
+    "price": 395,
+    "description": "Brown belt with a tang clasp closureHas holes to customise the fit and a fixed loop near the buckle",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hidedge-Men-Brown-Leather-Belt_e2e1193d8c442d6906bffbde56cfa0b1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hidedge-Men-Brown-Leather-Belt_cfee16839c4265c6f0737565ce5ff9f0_images.jpg"
+    }
+}

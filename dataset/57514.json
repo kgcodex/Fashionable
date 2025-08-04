@@ -1,0 +1,17 @@
+{
+    "id": 57514,
+    "brandName": "Provogue",
+    "productDisplayName": "Provogue Men Brown Casual Shoes",
+    "price": 3185,
+    "description": "Round toed, brown slip on shoes with a stacked heel Brown leather upper with overlays, elasticated inserts on either side of the tongue and reinforced overlay at the heel collar Soft inner and tongue with a padded footbed Upper stitched to the outsole Textured tough outsole",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Provogue-Men-Brown-Casual-Shoes_7b9b3143a1f09bd237f1acbb896dafdd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Provogue-Men-Brown-Casual-Shoes_cfa1707a29cfb6aab7c98113b44366d9_images.jpg"
+    }
+}

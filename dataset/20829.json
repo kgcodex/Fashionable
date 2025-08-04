@@ -1,0 +1,17 @@
+{
+    "id": 20829,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Kids-Unisex Solid White Socks",
+    "price": 135,
+    "description": "With a supportive Fit and crafted from 77% cotton, 22% nylon and 1% spandex, these unisex socks for kids from nike make for a great buy. With the nike swoosh in red, the number 07 in black and the elasticated, ribbed cuff, what better way to enhance your comfort level three-fold than with this stylish pair of socks in white! Made from a cotton/nylon/spandex blend for a secure, enhanced grip and exemplary comfort Moisture wicking to keep feet dry and comfy Arch support for a customised fit Half-cushion terry foot for shock-absorption Breathable sole with softly elasticated broad ribbed cuff to ensure a soft grip Brand swoosh printed on the ribbed cuff Sock care Machine wash in cold water below 30 degrees using a mild detergent Use a non chlorine bleach if needed Tumble dry low Do not iron or dry clean",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Kids-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a8f7d8e691fbbb99b2242dd4d0d47b04_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6c61c2c01d0f580b50d3436bb8ebeea4_images.jpg"
+    }
+}

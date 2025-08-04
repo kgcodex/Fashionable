@@ -1,0 +1,17 @@
+{
+    "id": 54944,
+    "brandName": "Do u speak green",
+    "productDisplayName": "Do u speak green Men Navy Blue T-shirt",
+    "price": 845,
+    "description": "Blue polo T-shirt, ribbed cutaway collar, two buttoned placket, short sleeves and embroidered detail on the chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Do-u-speak-green-Men-Navy-Blue-T-shirt_9052bd2ba21de2506b54f6385391577a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Do-u-speak-green-Men-Navy-Blue-T-shirt_1f1cd460e5fd3129d43acc6a2a918062_images.jpg"
+    }
+}

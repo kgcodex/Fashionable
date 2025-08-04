@@ -1,0 +1,17 @@
+{
+    "id": 10280,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Women Prize Club Leather Black Wedges",
+    "price": 2999,
+    "description": "Sleek and stylish, this pair of sandals from clarks adds elegance to your feet and redefines feminity. Pair this with western and ethnic wear, and look fab both ways.Heel: 2\"UpperLeather straps on the forefoot, crossed over on the midfoot and buckled at the lateral ankleErgonomically curved and padded leather footbed for all day comfortOutsoleDurable rubber outsole with floral lugs on the forefoot and grooved on the heel for absolute grip and tractionSandal careWipe surface with a dry, clean cloth to remove dust and dirtUse a branded leather condition on the straps if necessary",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e189be008c279c2b1aeb194ada549664_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/86fecb2ea9b262800385dcce293bfec7_images.jpg"
+    }
+}

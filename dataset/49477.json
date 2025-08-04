@@ -1,0 +1,17 @@
+{
+    "id": 49477,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Blue Shoes",
+    "price": 3999,
+    "description": "Mid-top chukka shoes with four-hole lace-ups and seams around the toe box Metal eyelet and lace detail along the mouth of the shoe Padded insole and a loop at the heel collar PU midsole TPU sole",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Brown-Zero-Lo-Canvas-Shoes_d7df4b561cd75b82828bb8e46904ca56_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Brown-Zero-Lo-Canvas-Shoes_673d639eea906c1b726e4e1d56fbb874_images.jpg"
+    }
+}

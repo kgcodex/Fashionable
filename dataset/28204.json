@@ -1,0 +1,17 @@
+{
+    "id": 28204,
+    "brandName": "Ray-Ban",
+    "productDisplayName": "Ray-Ban Men High Street Metallic Sunglasses",
+    "price": 3890,
+    "description": "High on style, this pair of sunglasses from the ray-ban collection comes in a styled frame. An eclectic mixture of fashion and wearablility, its shape provides that perfect Fit over the root of your nose. The glasses come in a signature Ray-Ban case. Lens width: 55 mm Warranty: 1 year Tinted high optical precision and impact resistant lens Stylised thin metal frame in an aerodynamic design for absolute comfort and durability Rectangle lens for absolute style and protection from the elements Flexible hinges for durability Flexible nose pads made of rubber with a double nose bridge to hold the glasses in place, ensuring there is no friction with the skin Care Remove dust and grime by gently wiping the lens with the cloth provided Remove oil or tough stains with the help of a lens cleaner Do not use your fingers on such stains Do not place glasses on uneven surface or heated areas like the dashboard of a car",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Ray-Ban-Men-High-Street-Metallic-Sunglassesf6c8967fd61cbb7276fff745d9dddb4b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Ray-Ban-Men-High-Street-Metallic-Sunglassese6434ebedbb92568aa7c38ef01779c67_images.jpg"
+    }
+}

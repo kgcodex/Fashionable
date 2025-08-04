@@ -1,0 +1,17 @@
+{
+    "id": 54144,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Brown Sandals",
+    "price": 590,
+    "description": "Heel: 1.25\"Open toed, textured forefoot strap and an elasticated ankle loopMidfoot strap connecting the forefoot strap to the ankle loopHas a soft footbed with brand label at the heelTough outsole with an",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/29d1c0626e865b8c0089b075159ba4a6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c07dcec54ed48606805a2b0cbc684c94_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 32188,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Marathon Blue Sports Shoes",
+    "price": 5999,
+    "description": "The legacy of the ultra-light and stylish shoe, adidas Marathon, continues - pushing you past the competition with the latest advances in premier adidas running technology. With an upper of air mesh for maximum ventilation and a non-slip lining for comfort and performance, the Adidas Marathon 10 running shoe will have you running in style and comfort. A lightweight moulded foam insole adds cushioning, making this pair priceles. Upper Mesh upper with felt overlays for maximum durability Branding on the sides, heel and tongue Padded tongue and collar for exemplary comfort Central lace ups for a snug and customised Fit Removable sock-liner to accommodate an orthotic Midsole Midsole gives lightweight comfort adiPrene insert gives shock absorption Torsion System provides mid-foot integrity while the adiPrene+ maintains forefoot propulsion and efficiency ForMotion technology along the edges of the outsole controls your stride for motion control and ground adaptability The adiWear outsole will give you the best durability in high-wear areas so the Adidas Marathon running shoe will last you run after run Shoe care Rub surface with clean, damp cloth to remove dust Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6c7e59f3ea3de874aa2e37a3f0c0311e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/171c28bcd9cce2b1c33b3cd87171da8e_images.jpg"
+    }
+}

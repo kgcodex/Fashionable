@@ -1,0 +1,17 @@
+{
+    "id": 26790,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men White Striped Shirt",
+    "price": 1799,
+    "description": "White striped shirt, has a spread collar, long sleeves with buttoned cuffs, a full buttoned placket, a patch pocket on the left chest and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-White-Striped-Shirt_802cb9dded0a39f2eae14e56b13b75e9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-White-Striped-Shirt_78438adfedc9c38be483b2a3e9c2cf41_images.jpg"
+    }
+}

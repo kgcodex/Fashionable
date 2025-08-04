@@ -1,0 +1,17 @@
+{
+    "id": 43061,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Black Dutch  T-shirt",
+    "price": 1095,
+    "description": "Style Note Be a true Netherlands football fan and sport this minimalistic fan tee. The Netherlands can now take on the EURO with the support of their true fans. Also wear this with jeans or shorts and add a sporty style statement to your attire.Product DetailsBlack T-shirt with round neck, short sleeves, Netherlands KNVB logo on the front, nike swoosh on left bottom, and KNVB logo at the napeMaterial and Care100% cottonMachine wash cold with like coloursDo not bleach or dry cleanTumble dry lowWarm ironSize and FitSlim fit",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3a9f91b01ac2dda9235d8f4d7f4e055e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1eeb5c638f054312af9c26a144cd7aed_images.jpg"
+    }
+}

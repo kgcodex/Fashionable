@@ -1,0 +1,17 @@
+{
+    "id": 22730,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Max Conquer ACG Black Sports Boot",
+    "price": 8995,
+    "description": "The nike ACG Air Max Conquer Boot gives rugged cold-weather comfort. Designed to keep feet warm in low temperatures and safe against the elements, the nike ACG Air Max Conquer men's boot supplies plush cushioning to go along with a tough exterior. A mid-height profile offering support with each step, this boot is a versatile, high-quality construction promising excellent protection. Nike's Max Air system means that although the heel is chunky, it has internal air pockets to reduce weight and provide excellent cushioning. Upper Black colour Water-resistant full-grain leather to keep feet dry and comfortable Cushioned mesh tongue and collar for support and breathability Ankle boot shape gives support and warmth to ankle &ndash; great for long rides on your bike Lace-up system provides customised Fit to foot and ankle while two-tone laces give a great look Haul loop on back collar ACG Nike branding throughout plus Nike swoosh embossed into back heel Rubber shield on bottom half of boot helps lock water out of the seams for ultimate rain protection Midsole Full-length Phylon midsole for lightweight cushioning Visible Max Air unit in the heel provides maximum impact protection and cushioning Outsole Rubber outsole for long-lasting durability Heavy duty lugs provide great grip on all surfaces Flex grooves along outsole length and width enhances flexibility for a smooth, efficient ride shoe care Wipe surface with damp, clean cloth to remove dust Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cff75ebdcb0f4abd46d2dffa6a7e46a9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/764e00ade3f7c160b7120ac638c1391d_images.jpg"
+    }
+}

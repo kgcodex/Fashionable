@@ -1,0 +1,16 @@
+{
+    "id": 58946,
+    "brandName": "Taylor of London",
+    "productDisplayName": "Taylor of London Women Chique Perfume",
+    "price": 550,
+    "description": "Chique by taylor of london comes in a frosted glass bottleConcentrated cologne spray",
+    "masterCategoryId": 11,
+    "masterCategoryType": "Personal Care",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Taylor-of-London-Women-Chique-Perfume_330ba0c3fd2ee5b85c91bd0acf5eaa86_images.jpg"
+    }
+}

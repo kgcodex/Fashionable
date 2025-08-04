@@ -1,0 +1,17 @@
+{
+    "id": 8522,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Nike Black Backpacks",
+    "price": 2995,
+    "description": "Fun, style and comfort are the highlights of this black nike backpack. It is perfect for the gym and all your sporting endeavors, since it has a wet-dry separator compartment and lots of space to accomodate all your items. It also has a laptop sleeve so you can carry it to office or college as well. A multipurpose bag, engineered with the Sports Fit System for greater comfort, this bag looks ruggedly handsome, and has loads of space- specially made for you! Measurement Height: 50 cm Width: 33 cm Depth: 19 cm Capacity: 24 litres Made of 15% polyester and 85% nylon for enhanced durability and style 84% nylon and 16% polyester lining for increased durability One main roomy zippered compartment with a padded laptop sleeve and two small zippered mesh pockets for stowing essentials Fleece-lined zippered compartment on the front for storing essentials Zippered pouch at the base with a wet/dry separator held together with a Velcro fastener Brand badge appliqued on the front and shoulder strap Wielded water-resistant zippers Appliqued loops on the base and top with brand name Haul loops at the top and base for ease of carrying Padded, adjustable shoulders straps with mesh lining, engineered with Sport Fit System technology to absorb shock and cushion the shoulder, distributing loads more evenly Mesh panels on the back using the Sport Fit System technology for improved comfort and ventilation Ergonomic design to fit along the torso comfortably Branded zippers and sliders for easy use Care Do not machine wash Rub surface with dry clean cloth to remove dust and dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ac237e1a274d3f219a6af2e58824cc5b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ca82a61ed21d5fdd3bad60ae66acd870_images.jpg"
+    }
+}

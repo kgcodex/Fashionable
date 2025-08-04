@@ -1,0 +1,16 @@
+{
+    "id": 2700,
+    "brandName": "Disney",
+    "productDisplayName": "Disney Kids Girl's White Kidswear",
+    "price": 249,
+    "description": "Composition:100% cotton white baby Daisy topWashcare:Machine wash in cold water with a gentle cycle using mild detergent. Wash dark colours seperately. Do not bleach. Do not soak nor wring. Dry it inside out. Do not tumble dry. Do not iron on print and studs.Fitting:Comfort FitEnhance that mischievous glint in your little girl's eyes with this white top from disney. It has a Daisy print and blue ruffle detailing on the chest that gives it a girly look. Team this with shorts or jeans when you take her out for an active day in the park.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Girls",
+    "gender": "Girls",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ea7dba4ef1b23df9a4c20090436bec0a_images.jpg"
+    }
+}

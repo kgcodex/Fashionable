@@ -1,0 +1,17 @@
+{
+    "id": 50241,
+    "brandName": "Stoln",
+    "productDisplayName": "Stoln Women Blue Handbag",
+    "price": 595,
+    "description": "Blue handbag with graphic print and a sequins design on the frontOne main spacious, zipped compartmentTwo short handles for carrying ease",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/10e959f4a1e50b4e5bce3810c91601f5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cfc4360ff09077dca77d7bc453af1677_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 49750,
+    "brandName": "Park Avenue",
+    "productDisplayName": "Park Avenue Men Grey Tie",
+    "price": 899,
+    "description": "Grey tie with diagonal stripe patterning A loop behind the broad tongue to tuck the smaller end in",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/45f7bcb3e2c291e1addbca8ec05605db_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/582c1dcee4e23c064aab563ef9a012a8_images.jpg"
+    }
+}

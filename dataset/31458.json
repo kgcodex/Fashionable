@@ -1,0 +1,17 @@
+{
+    "id": 31458,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Running Grey Shorts",
+    "price": 995,
+    "description": "CompositionGrey running shorts for men made of 100% polyester Dri-Fit fabric, has an attached inner boxer, elasticated waistband with a drawstring, yellow panel detailing on the sides and swoosh logo in a reflective material towards the left hemline Fit Regular Wash care Machine wash warm with like colours Do not bleach or dry clean Tumble dry on low Cool iron; do not iron on decorations Built for breathable comfort and with the zero-distraction fit that athletes demand, this pair of nike running shorts comes in a simple design with blue accents. These high-performance shorts created from Dri-Fit fabric wick sweat away from the body and keeps you cool, dry and comfortable. Team them with tees and running shoes.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3a6f19b3ea5f715498171bf6e87ea8ee_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0b8e094ccc163053b277e1de1b3c100c_images.jpg"
+    }
+}

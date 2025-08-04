@@ -1,0 +1,17 @@
+{
+    "id": 33341,
+    "brandName": "Homme",
+    "productDisplayName": "Homme Men Black Formal Shoes",
+    "price": 4490,
+    "description": "Genuine leather shoes in jet black from homme for dressy casual dos or toned down semi-formal occasions. Style with tonal accessories. This pair will last for a lifetime if well-cared for.UpperPointy toe cup with a leather upperElasticated inserts on the sides of the tongueReinforced overlay at the heelStitch detail on the toe boxLeather liningPadded footbedOutsoleTPU outsole with a stacked heel and textured patterns for gripshoe careWipe surface with soft, clean, damp cloth to remove dustUse a leather brush to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d5643dade4315cc822fbf75df726c6e3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/067d6c937145443605e3f7b5330a2504_images.jpg"
+    }
+}

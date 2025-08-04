@@ -1,0 +1,17 @@
+{
+    "id": 35709,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Grey Revolution MSL Sports Shoes",
+    "price": 3995,
+    "description": "Designed for absolute comfort, the nike Air Revolution MSL running shoe is stylish and comfortable. The stylish grey and royal blue upper adds to its appeal.UpperHeavily meshed upper for breathability, with synthetic overlays for enhanced shoe structureLacing system for a snug, customised FitMeshed and padded tongue and collar for all-day comfortMidsolePhylon midsole for impact protection and lightweight comfortOutsoleTPR outsole with flex grooves for ease of movementWaffle-pattern lugs for grip and tractionScooped heel for extra cushioning to the backfootShoe careWipe surface with a dry, clean cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a7a55cd785b14b0a3f9dbc3b9c60234f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5ec8b1f88cf257cc8ae772210c2ac7c1_images.jpg"
+    }
+}

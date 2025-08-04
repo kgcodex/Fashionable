@@ -1,0 +1,17 @@
+{
+    "id": 59063,
+    "brandName": "Global Desi",
+    "productDisplayName": "Global Desi Women Blue Kurta",
+    "price": 1499,
+    "description": "Blue, woven kurta, has a mandarin collar with a split V neckline, half placket with concealed hook and eye closures, three quarter sleeves with red binding, embroidered detail around the placket and neckline, side slits and red binding at the hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Global-Desi-Women-Blue-Kurta_dbaadbf81f2db48997bd32ca41b97917_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Global-Desi-Women-Blue-Kurta_ed5d8007ad810975890c901780d14ef7_images.jpg"
+    }
+}

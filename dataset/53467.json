@@ -1,0 +1,17 @@
+{
+    "id": 53467,
+    "brandName": "Amante",
+    "productDisplayName": "Amante Black Balconette Bra BCMW11",
+    "price": 1245,
+    "description": "Black balconette bra, has lightly padded and underwired cups, adjustable multiway shoulder straps, hook-and-eye closures on the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/53467/Amante-Black-Confidence-Bra-BCMW11_2_4c2ecf67b46254e94c24a01f1da8559f.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/53467/Amante-Black-Confidence-Bra-BCMW11_3_01d500453bb850296f206860b54cc98b.jpg"
+    }
+}

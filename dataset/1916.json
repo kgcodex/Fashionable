@@ -1,0 +1,17 @@
+{
+    "id": 1916,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Game Point Shoes",
+    "price": 2999,
+    "description": "Float in comfort in these lightweight sneakers. The classic black &amp; white contrast design makes this footwear stylish. It's ideal for use everywhere.Upper Casual sneaker in classic tennis look Leather upper which is totally comfortable to wear Tongue and toe section with breathable mesh for an extra level of comfort Perforated puma formstrip and puma cat logo on the side Midsole Light weight EVA injected midsole Outsole Waffle patterned rubber outsole for solid grip",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f44f54f4af43ceee75a85b8b9aa78761_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/23d1465b3e8e85f3cd11d64a7604d144_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 54559,
+    "brandName": "Global Desi",
+    "productDisplayName": "Global Desi Women Red Tunic",
+    "price": 1199,
+    "description": "Red tunic, has woven-in design detail, spaghetti straps, blue binding around the neckline and arm holes, half buttoned placket, round neckline, embroidered detail on either side of the placket, gathers below the placket and blue border at the hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Global-Desi-Women-Red-Tunic_1025a06d44331c88bf9601301f7ebc10_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Global-Desi-Women-Red-Tunic_412212e4b258537c35964ea6a831c5cd_images.jpg"
+    }
+}

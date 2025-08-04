@@ -1,0 +1,17 @@
+{
+    "id": 13996,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Solid Black Jackets",
+    "price": 3295,
+    "description": "CompositionBlack sleeveless reversible quilted jacket made of 100% polyester, has a mock neck, thermal lining, grey graphic pattern on the reverse side, insert pocket on the sides, zippered closure on the front and embroidered swoosh on the upper left chestFittingRegularWash careMachine wash cold with like coloursDo not dry cleanDo not bleach Tumble dry on lowCool iron onlyDo not iron on print or embroideryGet some serious street cred in this reversible black jacket from nike. The soft and warm thermal filling gives lightweight comfort, while the mock neck and quilted design gives serious urban edge. Team this with long-sleeved tees, low slung jeans and sports shoes for a casual look with an aggressive edge.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/48b9bf49161beb232ed65173c685fc96_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/30d713654cfd122326a49f90cafd2216_images.jpg"
+    }
+}

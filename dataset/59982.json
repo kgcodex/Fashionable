@@ -1,0 +1,17 @@
+{
+    "id": 59982,
+    "brandName": "Avirate",
+    "productDisplayName": "Avirate Black & Cream Dress",
+    "price": 3300,
+    "description": "Black dress with white accents at the the U-neck and below the bust, has extended short sleeves, zipper at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-Black---Cream-Dress_fe4c44d8abd64a3617e6be2eea6f074a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-Black---Cream-Dress_2fb9933ea87a599717f7591b290d0f3b_images.jpg"
+    }
+}

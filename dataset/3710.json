@@ -1,0 +1,16 @@
+{
+    "id": 3710,
+    "brandName": "Lee",
+    "productDisplayName": "Lee Men Navy Blue Canvas Belt",
+    "price": 399,
+    "description": "CompositionNavy blue belt made of canvas with brass buckle and brass eyelets Wash care1. Rub surface with damp, clean cloth to remove dust2. Do not machine washGive a well groomed appearance to your look with the right accessories. This navy blue belt from lee looks good with denims and is great for casual and semi-casual wear.",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b0b9310d78f6da1615841cf9755a9434_images.jpg"
+    }
+}

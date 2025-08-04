@@ -1,0 +1,16 @@
+{
+    "id": 2034,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Black Polo T-shirt",
+    "price": 949,
+    "description": "Look good in this stylish polo t-shirt and keep it simple yet stylish!",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/03388fe412a7a072f57a3b976f01cef0_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 57058,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women Multi Coloured Dress",
+    "price": 2400,
+    "description": "White woven, printed dress, has grey, yellow and green heart print all over, adjustable spaghetti straps, V neckline, elasticated smocking at the back neckline, panel over the bust with an optional tie up detail and two tiered ruffles with green piping at the hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Multi-Coloured-Dress_276c8281fc3707680e57ae93fcd84a7d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Multi-Coloured-Dress_848f79e970ba7008b059f39213f20114_images.jpg"
+    }
+}

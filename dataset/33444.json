@@ -1,0 +1,17 @@
+{
+    "id": 33444,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Camel Brown Sling Bag",
+    "price": 1450,
+    "description": "Camel brown sling bag with magnetic button closure Has one main zippered compartment (with a fold-over flap detail)Buckle detail on the front and branding on the back One zippered pocket at the back and insideHas an adjustable shoulder strap",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Camel-Brown-Handbag_ddbdfd81aa600c492ef92102b6ed741f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Camel-Brown-Handbag_1afe9e6f59d36694855e7bba2750cce6_images.jpg"
+    }
+}

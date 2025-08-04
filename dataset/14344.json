@@ -1,0 +1,17 @@
+{
+    "id": 14344,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Force White Sports Shoes",
+    "price": 4595,
+    "description": "Replete with a low-cut silhouette and a versatile look, the nike Air Force 1 '82 has been crafted in the lines of the iconic AF1, blending classic style, innovative technology and fresh detailing in a sneaker. Exceeding all standards of performance, functionality and excellence, the nike Air Force 1 '82 is a celebrated sneaker for over 25 years.UpperSynthetic leather upper with crisp edges for maximum durability and a cleaner lookPerforated toe box and sides for ample ventilationLow cut silhouette for a low-to-ground feelCotton twill lace-up system with lightly padded tongue for snug FitMetal tag on lace to honour the shoeMildly cushioned sockliner for in-step comfortMidsolePhylon midsole with an encapsulated Nike Air unit for lightweight cushioning and shock absorptionMassive midsole for soft, springy cushioningOutsoleNon-marking rubber outsole for better traction and durabilityPivot points on the big toe mound and heel, coupled with circular lugs for smooth transition in all directionsShoe careDo not machine wash or store in direct sunlightRemove dust and dirt with damp, clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/05251513444b4e14a287bfc4b210c4f2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/288022762f8c5aa76f9e088898c7f7b6_images.jpg"
+    }
+}

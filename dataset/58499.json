@@ -1,0 +1,17 @@
+{
+    "id": 58499,
+    "brandName": "Tonga",
+    "productDisplayName": "Tonga White Floral Design Dress",
+    "price": 2190,
+    "description": "White printed sleeveless dress, has a U-neckline with frills and elastication and smocking around the neckline and waist",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-White-Floral-Design-Dress_4bbaea040c6a48aa3359a92146302ff5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-White-Floral-Design-Dress_7494215a153407da390199f0b91f08b2_images.jpg"
+    }
+}

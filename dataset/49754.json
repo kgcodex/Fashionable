@@ -1,0 +1,17 @@
+{
+    "id": 49754,
+    "brandName": "Parx",
+    "productDisplayName": "Parx Men Blue Tie",
+    "price": 1100,
+    "description": "Blue tie with diagonal stripes and checksElectric blue shiny thread woven into the tie at the tipsMade of microfibre for luxurious feel and light sheenOne loop with brand badge on the inner of the broad tongue to hold the narrow tongue in placeBranded purple lining",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/34bfce394b6ea51e5afe144659521469_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f07b56c798f0062f4b800ac7303b2a2d_images.jpg"
+    }
+}

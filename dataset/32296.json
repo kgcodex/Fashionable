@@ -1,0 +1,17 @@
+{
+    "id": 32296,
+    "brandName": "Q&Q",
+    "productDisplayName": "Q&Q Men Blue Dial Watch",
+    "price": 1295,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-Blue-Dial-Watch_4bb48948fd4e67aaf14e08057ba939c1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-Blue-Dial-Watch_1fb693b409e770ee33ff9b5c17b352c8_images.jpg"
+    }
+}

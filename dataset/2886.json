@@ -1,0 +1,17 @@
+{
+    "id": 2886,
+    "brandName": "Catwalk",
+    "productDisplayName": "Catwalk Women Leather Brown Flats",
+    "price": 995,
+    "description": "Composition:Brown leather sandals with multi-coloured strapsshoe care:Rub surface with soft, clean, damp cloth to remove dustFitting:Regular FitTalk about simple and elegant sandals, and this is the right choice. These brown leather sandals from catwalk with multi-colored straps are designed for comfort, while their deep colours make them a great pair for casual wear. Team them with capris, denims or skirts for a stroll or an outing with friends.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/df5fa9c4ce034d5b21c91454c0859daf_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3471ac5be70a3a4ca2cd28d82012c22b_images.jpg"
+    }
+}

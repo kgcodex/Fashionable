@@ -1,0 +1,17 @@
+{
+    "id": 43349,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men Black Premier Zigfly Nano Sports Shoes",
+    "price": 5999,
+    "description": "SmoothFit technology engineered in the seamless upper offers ultimate in comfort with minimal irritation Open mesh uppers with synthetic overlays for greater breathability Mesh tongue for greater breathability Padded collar for greater comfort, has a central lacing for snug Fit Brand name appliqued on the tongue, has synthetic overlay on the heel cup with branding PlayDry lining provides moisture management, has forefoot flex grooves for flexibility and better running performance Phylon midsole for lightweight comfort Lightweight, low-profile ZigNano sole for a responsive ride, has a carbon rubber heel strike High-abrasion rubber outsole for increased durability, has a multi-surface outsole for optimal traction",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/726487978216e22ff9e743183a3fa70d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/47205d66b5fd155232a68d806529d982_images.jpg"
+    }
+}

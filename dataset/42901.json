@@ -1,0 +1,17 @@
+{
+    "id": 42901,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Women Pink Belt",
+    "price": 1699,
+    "description": "Style Note An all-time favourite accessory, belts form an integral part of dressing - be it to secure your trousers or jeans, or act as a styling detail to jazz up your outfit. This belt from French Connection is set to pump up your style and add zing to your attire. Product DetailsTang clasp to offer a snug Fit and to hold the belt in place Holes to customise fit Broad base to sit snug on the waist Branding on the inside of the belt Material and Care Leather, suede Wipe surface with a clean, dry cloth to remove dust Use a brass polisher to maintain buckle shine Use a leather conditioner to protect the leather",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5983d371a13c075e0e7e883125e495aa_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7d01226b21744c0e642afc3d15db4565_images.jpg"
+    }
+}

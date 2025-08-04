@@ -1,0 +1,17 @@
+{
+    "id": 46103,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Purple Tread Flip Flops",
+    "price": 599,
+    "description": "Style NoteHit the beach with this colourful pair of flip flops from adidas. Created for the carefree and offering exemplary comfort and style, these slip-on makes for perfect casual wear.Product DetailsPurple and blue flip flops with thong straps with the Adidas patented 3-Stripes logoHas a fabric toe separator and a PU footbed with printOutsole with geometric textured lugs for maximum tractionMaterial and CareRubberWipe surface with soft, clean, damp cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/100e35decbfea9a80415945e8c18393e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/abdb33b7badd15086c0ca042bc38dbf3_images.jpg"
+    }
+}

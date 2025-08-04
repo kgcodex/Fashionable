@@ -1,0 +1,17 @@
+{
+    "id": 20885,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men Speed mode Running White Shoes",
+    "price": 2999,
+    "description": "The reebok Speed Mode is a versatile running shoe that features ample ventilation and offers lightweight comfort, keeping your feet fresh and comfortable all day. Added to this is the plush DMX Ride cushioning that makes it an all the more comfortable, smooth and flexible ride. Wear them when you want to run or jog or use them as casual wear. One pair of shoes, and so many uses! Upper Breathable mesh upper for ample ventilation and reduced irritation Synthetic overlays for added shoe structure, durability and style Lace-up system with synthetic laces for a snug, customized Fit Lushly padded tongue and well-cushioned collar for in-step comfort Mesh tongue for maximum ventilation Brand logo on both sides Brand name on tongue and behind collar Midsole EVA midsole for lightweight responsive cushioning and shock absorption DMX Foam cushioning for all-day comfort Mesh lining for increased ventilation and comfort Outsole TPR outsole for better shock absorption and durability Waffle pattern for better grip on all surfaces Flex grooves for ease of movement Shoe care Wipe surface with soft, clean, dry cloth to remove dust Do not machine wash Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9d88a05a2cc808693b9128b6074bd560_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3375f3113fb3446ec14e8a38af01d6a1_images.jpg"
+    }
+}

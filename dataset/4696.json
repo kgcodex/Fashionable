@@ -1,0 +1,17 @@
+{
+    "id": 4696,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex Duramo Digital Black Watch",
+    "price": 1795,
+    "description": "Product descriptionA fresh addition to its performance collection, the adidas Duramo digital wrist watch is sleek and fashionable. Replete with features like a chronographer, timer and alarm, this watch is a great lifestyle addition to your wardrobe.Case diameter: 42 mmCase thickness: 13 mmDial shape: SquareBlack resin case with&nbsp; black rubber strap with white stripes for added style, comfort and durabilityFixed black resin bezel with adidas logo for enhanced durability and styleGrey digital dial displaying hours, minutes, seconds, time in am/pm format, date and day of the weekQuartz movement of time display using a paper-thin piece of synthetic quartz to ensure accurate time measurementScratch resistant mineral crystal to keep your watch safe and well protected for years to comeSolid case back for durabilityTang clasp to keep the watch firm in place as a belt buckleWater resistant at 50 metres or 165 feet depth, allowing you to use it even when swimming in a pool10 Lap memory that allows the watch to record upto 10 laps. The watch divides its readings into sessions and provides average, best and local time. You may either rename these sessions or they will hold default names such as set 1, set 2, etc.Interval Timer to daisy chain differnt times lengths and alert you at the end of each segmentDigital alarm in any time zone",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f4c8842917ae0ef0a02c12314b32f5df_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a7172b666b7ec0f23018c3737bcdfec0_images.jpg"
+    }
+}

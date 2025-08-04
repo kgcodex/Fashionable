@@ -1,0 +1,17 @@
+{
+    "id": 32233,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Women Printed Pink Kurta",
+    "price": 760,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Women-Printed-Pink-Kurta_794eb417aaaa3db9a02461ce88ab87f8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Women-Printed-Pink-Kurta_fb427bdc569c3b62290981cd1951b89c_images.jpg"
+    }
+}

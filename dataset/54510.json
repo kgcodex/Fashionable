@@ -1,0 +1,17 @@
+{
+    "id": 54510,
+    "brandName": "Lino Perros",
+    "productDisplayName": "Lino Perros Women Brown Handbag",
+    "price": 2495,
+    "description": "Brown handbag with white stone embellishments on the frontOne main zipped compartment with a zipped pocket, zipped separator and organizer sleevesTwo short adjustable and removable handles A zipped pocket at the backBuckle designs on the sidesBrand badge on the front",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Women-Brown-Handbag_f576039514d903ce25ecfca531ce813b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Women-Brown-Handbag_7724d7d64b3fdc4eb3105cac46b9b62e_images.jpg"
+    }
+}

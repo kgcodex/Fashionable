@@ -1,0 +1,17 @@
+{
+    "id": 31237,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Schon Black & Blue Polo T-shirt",
+    "price": 1199,
+    "description": "Black and blue polo T-shirt, made of 100% cotton, has a spread collar, buttoned placket, jumping cat appliqu&eacute;d on the left chest and a vented German brand puma specialises in minimalism and simplicity. This T-shirt from puma is the kind you cant have enough of. This piece's crush-worthy colour and stylish cut make it an off-duty must have. Pair this piece with fitted denims and bright canvas shoes.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/67ef13e149e42da2efb7fc141f28870b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/348c58eb316d0de1719eb21b293c20e3_images.jpg"
+    }
+}

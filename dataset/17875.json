@@ -1,0 +1,17 @@
+{
+    "id": 17875,
+    "brandName": "Levis",
+    "productDisplayName": "Levis Men Comfort Style Black Innerwear Vest",
+    "price": 399,
+    "description": "100% combed cotton makes this a soft and absorbent inner T-shirt. This black tee has a round high neck, short sleeves and signature Levi's reg tag on sleeve end Wash care Machine wash Do not bleach Tumble dry low Warm iron as needed Do not dry clean If you need a basic tee to keep you feeling fresh under your shirt and provide a little warmth when the air conditioning gets too cold then you've found it here. Levi's know what they're doing when they come up with practical basics which will make you look and feel great. The final product delivered might vary in colour and prints from the display here.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/98d638427a11ae0aa90a97f2d629c348_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e44280a233cd8916445b3c0b7816496e_images.jpg"
+    }
+}

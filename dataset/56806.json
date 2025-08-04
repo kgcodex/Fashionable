@@ -1,0 +1,17 @@
+{
+    "id": 56806,
+    "brandName": "Aneri",
+    "productDisplayName": "Aneri Women Printed Brown Kurti",
+    "price": 1049,
+    "description": "Brown printed woven kurti, has a mandarin collar with a split neckline, three fourth sleeves, wooden embellishments and sequin detail on the yoke and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Aneri-Women-Printed-Brown-Tunic_085e84e5b6f57b484b69450f619ed578_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Aneri-Women-Printed-Brown-Tunic_0f748c986f1f1cf7f083031601fcc021_images.jpg"
+    }
+}

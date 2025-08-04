@@ -1,0 +1,17 @@
+{
+    "id": 8242,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Mercurial Victory II Red Shoe",
+    "price": 3995,
+    "description": "This lightweight nike Mercurial Victory shoes is specially designed for those who play on hard soccer surfaces. Made of soft, supple synthetic leather, it ensures greater ball feel and offers better control. The TPU bladed cleats optimize acceleration and traction, thus making it an ideal shoe for those who want that revolutionary speed in a game. So jet set and keep the defenders running after you while you chase the ball to the goal.Upper Soft, supple synthetic leather upper provides durable comfort and great ball feel Anatomically-correct, contoured speed last mirrors the shape of the foot for an enhanced, snug Fit Internal heel counter helps lock down the foot for a secure fit Brushed finish reduces ball slippage for enhanced control in a variety of conditions Visual acuity graphic on heel offers an optimal visual signal on the pitch Midsole Contoured EVA sockliner on the midsole provides additional cushioning under the heel and forefoot for a soft, comfortable fit and reduced stud pressure Lightweight, two-piece TPU plate with Vapor Traction Islands for durable support Forefoot grip zones inspired by racing spikes provides perfect toe-off traction and extra speed burst Outsole Vapor Traction system with multi-directional stud pattern and secondary traction elements for instant acceleration and quick change-of-direction movements Built on a TPU with molded studs for lightweight comfort and traction Shoe careWipe surface with damp, clean cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/982da432dbc92fee492702179fcfea78_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c28b307f558a82ba27e3322bec13e7f0_images.jpg"
+    }
+}

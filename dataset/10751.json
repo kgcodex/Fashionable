@@ -1,0 +1,17 @@
+{
+    "id": 10751,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Breakline Grey Track Pants",
+    "price": 1495,
+    "description": "Composition Grey tracks made of 100% polyester, elastic waist with interior drawcord, mesh panel at back waist and sides, and a vented hem with drawcord at the hemline Fitting Comfort Wash care Machine wash cold at 30 degrees with like colours Do not bleach Tumble dry low Remove immediately/do not allow to lay on itself when wet Cool iron, but do not iron on design Do not dry clean Scorers and defenders alike require maximum range of motion to lead their teams to victory, and he'll have plenty of it in the nike Breakline Tracks. Made of sweat-wicking fabric and strategic ventilation, these tracks keep him focused on the big win.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6cd42511cf59e8882446abc86c3f97ee_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a8f0df345af7ffdf51e38f7b5b8c68b4_images.jpg"
+    }
+}

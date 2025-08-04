@@ -1,0 +1,17 @@
+{
+    "id": 9870,
+    "brandName": "Status Quo",
+    "productDisplayName": "Status Quo Men Stripes Pink Tshirts",
+    "price": 849,
+    "description": "Wash care 1. Machine wash separately in cold water 2. Use mild detergent 3. Do not bleach 4. Avoid soaking 5. Remove promptly 6. Line dry inside-out in shade 7. Warm iron only 8. Do not iron directly on print/embroider",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/07ae4cd8a01101d5f05f735843ba9110_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8c2254816133b28c4d3df4db42db2a2b_images.jpg"
+    }
+}

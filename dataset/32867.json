@@ -1,0 +1,17 @@
+{
+    "id": 32867,
+    "brandName": "Wildcraft",
+    "productDisplayName": "Wildcraft Unisex Acute Black and Grey Backpack",
+    "price": 995,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1c0f535c9438e24a4f466add27a0dfd4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8cccfb3ccda74216b54b2796b8cca117_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 42583,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Boys Navy Blue Waistcoat",
+    "price": 999,
+    "description": "Style NoteThis warm and cuddly sweater vest from united colors of benetton is made to Fit your little one just perfectly. When matched with blue jeans, this one is a sure stunner.Product Detailsnavy blue&nbsp; sleeveless sweater with a V-neck, a lapel collar, a buttoned placket, brand logo on left and ribbed hemMaterial and Care100% cottonHand wash coldDo not bleach, wring or tumble dryDo not dry clean",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bc1981487a151d51d07c55669455b8b8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a0c1cbd3cf62995a2b30df5c88d04eb1_images.jpg"
+    }
+}

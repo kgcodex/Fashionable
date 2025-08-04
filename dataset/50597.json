@@ -1,0 +1,17 @@
+{
+    "id": 50597,
+    "brandName": "Chromozome",
+    "productDisplayName": "Chromozome Men Blue Briefs",
+    "price": 169,
+    "description": "Blue briefs that has a broad, elasticated gold coloured waistband, stitch detailing, printed branding on the waistband and elasticated at the legs for enhanced comfort The final product delivered might vary in colour and prints from the display here.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/598eb5751b3dc26e004bbcfd37c4333c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/17a7b060f16b529117609a623a7b6661_images.jpg"
+    }
+}

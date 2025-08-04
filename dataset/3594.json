@@ -1,0 +1,17 @@
+{
+    "id": 3594,
+    "brandName": "Converse",
+    "productDisplayName": "Converse Men's Chuck Taylor Print OX White Canvas Shoe",
+    "price": 1399,
+    "description": "Rugged and stylish, and dedicated to Basketball champ Chuck Taylor, this Chuck Taylor All-Star series from converse is also called Chucks, and comes in classic designs. Created using canvas and rubber, this range of sneakers from Converse was initially designed to capture the basketball market, but soon enough turned into a hot casual footwear favourite.UpperCanvas upper for easy maintenance and durabilityCarbon rubber toe box for enhanced protection of the upper footLong canvas tongue for added comfort and snug FitLace-ups through metal eyelets for snug fit and durabilityMidsoleComfort Insole made of contoured latex foam for high energy return and cushioningOutsoleVulcanized rubber outsole for flexibility and tractionDiamond-shaped lugs on the forefoot and heel, with horizontal lugsand grooves on the toe region and heel region, and slanting grooves along the periphery and midfoot for superior grip on all terrains Shoe careMake a paste using 1 tbsp of baking soda, 1 tbsp white vinegar and 1 tbsp hot waterRub this paste onto the canvas and the sole using a brushWash off with lukewarm water",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/033335657b9e00d9ba050deafa2b48fd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2a5b5c7a7747cabab3c0ea7312d3efd1_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 34819,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Vermont White Sports Shoes",
+    "price": 2599,
+    "description": "Round toed, white sports shoes with grey and blue accents, has central lace-ups and low top stylingMesh upper with synthetic overlays, Adidas patented three stripes on both the sides at midfoot, perforated detail and reinforced heel collar with brandingSoft and padded tongue and inner, branding on the tongueCushioned footbed with branding at the heelEVA midsole for lightweight feelTPR outsole with a curved midfoot, arrow shaped nubs for maximum grip and deep flex grooves for extreme tractionWarranty: 3 months against manufacturing defects",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-Vermont-White-Sports-Shoes_c8181463de51ed8c3cbd576adacca177_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Men-Vermont-White-Sports-Shoes_14b2b3b6f25a3e58dd733e80d1af9dc4_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 42308,
+    "brandName": "Prafful",
+    "productDisplayName": "Prafful Magenta Crepe Printed Saree",
+    "price": 1299,
+    "description": "Magenta printed saree with mustard, navy blue and tan brown accentsComes with a blouse piece",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1f1351f0c49ecb46e23c7cbe0228ff7e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/662bad1fc141478490431eb9d0def6c4_images.jpg"
+    }
+}

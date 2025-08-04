@@ -1,0 +1,17 @@
+{
+    "id": 13699,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men CC Oscillate M Blue Sports Shoes",
+    "price": 4999,
+    "description": "shoe care Wipe surface with a damp, clean cloth to remove dust and dirt Do not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/936337500a9f6b65242a55a163c1907b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7051586005bb1c847bc52e010a6b02bd_images.jpg"
+    }
+}

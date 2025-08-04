@@ -1,0 +1,17 @@
+{
+    "id": 32945,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Neo Men Court Evo Black Shoes",
+    "price": 3599,
+    "description": "The Court Evo from adidas is a lifestyle shoe - a modern, lightweight reinterpretation of the humble sneaker. Crafted from the highest quality materials, the upper features stylish, understated perforation details on the classic 3-Stripes, giving an adidas twist that makes this shoe top our wish-list for the season! Class up your casual act with this stylish sneaker. Recommended for casual wear; looks best when worn with a matching leather jacket.UpperSynthetic upper with perforations for ventilation and comfortStrategically placed synthetic overlays and reinforced overlay on the heel for added shoe structureadidas Patented 3-Stripes on the midfoot for enhanced shoe structure and styleLace-up system for a snug, customised FitPadded collar and meshed tongue for snug fitPadded footbed for all-day comfortBranding on the tongue and at the back of the collarMidsoleRubber midsole for lightweight comfort and impact protectionOutsoleDot pattern grooves and a suction point at the toe for great tractionShoe careWipe surface with a damp, clean cloth to remove dust and dirtDo not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/789512d3deac362d4ee72adb988fbf93_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/43d7040cc3e94a6e33d85f9debaa614e_images.jpg"
+    }
+}

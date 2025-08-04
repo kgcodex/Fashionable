@@ -1,0 +1,17 @@
+{
+    "id": 5827,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Prt Grey T-shirt",
+    "price": 999,
+    "description": "&nbsp;Wash CareRub surface with cleanDamp cloth to remove dustDo not machine wash Wash CareRub surface with cleanDamp cloth to remove dustDo not machine wash&nbsp;",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/eb616180994e6dc6ade95cea35edf217_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0b0d8c569d0b78922e0a3e5d4d3ee9b9_images.jpg"
+    }
+}

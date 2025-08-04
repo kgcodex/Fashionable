@@ -1,0 +1,17 @@
+{
+    "id": 15799,
+    "brandName": "Facit",
+    "productDisplayName": "Facit Men Pack of Two White Mid-Rise Briefs",
+    "price": 178,
+    "description": "The final product delivered might vary in colour and prints from the display here.Pack of 2 white mid-rise comfort brief, stylish square cut design, flat seam detail for added comfort, has fabric covered waistband for smooth fit",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Facit-Men-Briefs_3df1b8f9fb065f2a0e44d761a55cbd2b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Facit-Men-Briefs_fb0abf81045d55d9ce252f2db8a7544a_images.jpg"
+    }
+}

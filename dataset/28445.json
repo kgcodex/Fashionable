@@ -1,0 +1,17 @@
+{
+    "id": 28445,
+    "brandName": "KIARA",
+    "productDisplayName": "Kiara Women Pink Handbag",
+    "price": 1099,
+    "description": "A practical and stylish choice of bag from kiara with extra roomy space and comfortable to carry, this smooth blended bag will give a sophisticated look to any casual outfit.Height: 22 cmWidth: 32 cmDepth: 8 cmMade of textured synthetic leather for durabilityFlap with metal detailing and magnetic button closureTwo pockets on the frontOne main zippered compartment with a zippered separator, a zippered compartment and two pouchesOne zippered compartment at the backTwo removable straps for ease of carryingCareWipe with clean, damp cloth to remove dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9b8e3014ce328b2137777fe4dc030268_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/44fe11f617418f8ab8763f0db8425b85_images.jpg"
+    }
+}

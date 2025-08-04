@@ -1,0 +1,17 @@
+{
+    "id": 3095,
+    "brandName": "Probase",
+    "productDisplayName": "Probase Men's Freestyler Red T-shirt",
+    "price": 299,
+    "description": "Composition:Red round neck t-shirt made of 100% cotton with graphic print on chestWash Care:Soft wash to avoid shrinkingFitting:Slim FitIf you are oozing with energy and spirit, then this bold red tee from probase is meant especially for you. Team this up with denims, slim fit jeans, corduroys or cargoes and sway to the rhythm of life. Model's Statistics:1. The model wears size M in t-shirts2. Height-5'11 ft, Shoulders-18\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d45127c47f0cba8025738c4dcf157760_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dbc1124c2e9c0eaef14090d81d6bf999_images.jpg"
+    }
+}

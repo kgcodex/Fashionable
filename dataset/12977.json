@@ -1,0 +1,17 @@
+{
+    "id": 12977,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Marathon Black Sports Shoes",
+    "price": 4999,
+    "description": "Designed for those who love those long runs, the adidas Marathon 10 combines lightweight comfort and absolute impact protection that makes aggressive running all the more pleasurable.UpperMesh upper for maximum breathable comfort and styleStrategically placed suede overlays for enhanced shoe structureadidas Patented 3-Stripes on the midfoot for enhanced shoe structure and styleMeshed and padded collar and tongue with fabric inner for all-day snug comfortLace-up system for a snug, customised FitCushioned footbed for all-day comfortRemovable footbed to accommodate an orthoticMidsolePU midsole for an absolutely cushioned ride, lightweight comfort and enhanced impact protectionadiPRENE+ inserts in the forefoot for absolute impact protection for the backfoot and anklesOutsoleDurable rubber outsole with flex grooves for absolute ease of movementTriangular and circular lugs for absolute grip and tractionFormotion in the heel for unparalleled heel strike to toe-offScooped heel for enhanced cushioning for the heelShoe careWipe surface with a damp, clean cloth to remove dust and dirtDo not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ff84685142015fa14463c077857b84ac_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f77c99e71099514a307718ce5f4a0938_images.jpg"
+    }
+}

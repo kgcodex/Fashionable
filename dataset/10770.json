@@ -1,0 +1,17 @@
+{
+    "id": 10770,
+    "brandName": "Disney",
+    "productDisplayName": "Disney Kids Red Casual Shoes",
+    "price": 299,
+    "description": "See your princess grow in a pretty lady with these slip-ons from disney. UpperCanvas upper with fibre motifs of disney logoToe guard in rubber to protect the foot from shockExtra piping around the collar to avoid shoe bitesElastic band connecting the two sides for a snug FitMidsoleSoft, foamy footbedLightweight phylon midsoleOutsoleMulti textured rubber outsole for great gripShoe careMake a paste using 1 tbsp of baking soda, 1 tbsp white vinegar and 1 tbsp hot waterRub this paste onto the canvas and the sole using a brushWash off with lukewarm water",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Kids-Girls",
+    "gender": "Girls",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ec64ba391c7e2f74240cfa066482c679_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/07a8e2e613755bbe6b66192b199ef0a9_images.jpg"
+    }
+}

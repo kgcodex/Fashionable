@@ -1,0 +1,17 @@
+{
+    "id": 20421,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Brown Handbag",
+    "price": 1625,
+    "description": "Extra roomy and comfortable to carry, the textured leather effect fabric on this baggit bag will give a sophisticated look to any outfit. Height: 28 cm Width: 35 cm Depth: 14 cm Made of synthetic leather for durability with a busy print on the front, with pleating Two short handles for carrying ease attached to the bag One main compartment with a zippered separator and a zippered pocket inside One zippered pocket at the back Care Wipe surface with a damp, clean cloth to remove dust",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6d2d1582e1cf22540e710e8cf2002790_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bb6116615b94eff6e154d2732b591eb4_images.jpg"
+    }
+}

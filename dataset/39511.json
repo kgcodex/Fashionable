@@ -1,0 +1,17 @@
+{
+    "id": 39511,
+    "brandName": "Peter England",
+    "productDisplayName": "Peter England Unisex Orange Backpack",
+    "price": 2199,
+    "description": "Orange laptop backpackHas a front zipped pouchOne main zipped compartment with a padded laptop holder with a velcro closureOrganizer slots and a concealed zipped pocket in the other side of the main zipped compartmentAdjustable, padded shoulder strapsHas a padded mesh backWarranty: 6 months",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Peter-England-Unisex-Orange-Backpack_2fec4c2775e499de8aba7cf353bdf44e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Peter-England-Unisex-Orange-Backpack_d387a1f236c20576d08af5ec902ba859_images.jpg"
+    }
+}

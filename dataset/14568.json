@@ -1,0 +1,17 @@
+{
+    "id": 14568,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Rowley",
+    "price": 3399,
+    "description": "vans brings you footwear for the urban youth. Inspired by skate boarders, the Rowley \"Style 99's\" shoes come in a lightweight vulcanized skate board friendly design and are geared towards performance. Team these with cargos or jeans and graphic tees. Upper Synthetic suede uppers for durability and comfort Perforations on the toe box for extra ventillation Padded collar and tongue for extra comfort Lace-ups for a snug Fit Brand name appliqued on the tongue and brand name on the back, on the lasting Cushioned footbed for all day comfort Midsole EVA midsole for better shock absorption Outsole Rubber outsole for durability Reverse waffle pattern for better grip Lasting with toe counter for extra protection to the toes shoe care Wipe surface with soft, clean cloth to remove dust Do not use a drier or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c771cd816ff3ac8fe332eb45a934e445_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0ce9e3f6245412214aa27c47406cd40b_images.jpg"
+    }
+}

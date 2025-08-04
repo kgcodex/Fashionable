@@ -1,0 +1,17 @@
+{
+    "id": 57477,
+    "brandName": "ID",
+    "productDisplayName": "ID Men Yellow & Black Casual Shoes",
+    "price": 1785,
+    "description": "Round toed snekers with fabric inlays and perforations at the toe box Central lace-ups, well-padded at the tongue and metal eyelets at the heel collar Flat tough rubber sole with striaght lined grooves and circular nubs",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ID-Men-Yellow---Black-Casual-Shoes_d388530889fb992166a3df9ba7a2a8ff_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ID-Men-Yellow---Black-Casual-Shoes_0cc102a79cefdc8859ef16598b8bb669_images.jpg"
+    }
+}

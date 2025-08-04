@@ -1,0 +1,17 @@
+{
+    "id": 43518,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Women Navy Blue Printed Top",
+    "price": 2699,
+    "description": "Style Note french connection has got that chic look just right for you this summer with their range of bright and well styled tops. Flattering to your form and easy to comp",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3a0065c5e81caef75b40e95f4b0e3ff6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/55f2ad7f4372807dca99d7588d95c63a_images.jpg"
+    }
+}

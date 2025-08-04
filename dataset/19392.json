@@ -1,0 +1,17 @@
+{
+    "id": 19392,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Solid Black Jersey",
+    "price": 999,
+    "description": "* Rearfoot and DuraSponge forefoot cushioning using silicon gel to minimize shock",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/29693971834ba07558153607be143989_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/95c01192f2f2647fecd10348b74c02de_images.jpg"
+    }
+}

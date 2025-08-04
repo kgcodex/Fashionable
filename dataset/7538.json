@@ -1,0 +1,17 @@
+{
+    "id": 7538,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's As Swoosh T-Shirt",
+    "price": 495,
+    "description": "CompositionBlack round neck t-shirt made of 100% cotton, with short sleeves, fabric tape on inseam of the neckline and embroidered nike swoosh on left chestFittingComfortWash care Machine wash cold at 30 degrees with like colours Do not bleach Tumble dry low Remove immediately/do not allow to lay on itself when wet Cool iron, but do not iron on design Do not dry clean This black nike t-shirt is part of the Nike Better World campaign, which is dedicated to serving the athlete and making a better world through sport. Flaunt your sporting spirit by slipping into this pure cotton tee. Team it with jeans and sports shoes, or shorts and floaters for unparalleled sporty cool.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a86ff17f5b73bb584e80b23bbb1474c4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/32be3ebe91186a2e6c588cf5024d0104_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 28533,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Gym Grey T-shirt",
+    "price": 1795,
+    "description": "Grey T-shirt for men, has a round neck, short raglan sleeves with mesh panels under the armholes extending down the sides and back, red panels on the front and back on the upper part of the T-shirt and nike swoosh on the left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/363f55eebe5d031a49aa03b30a935c71_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/764ef91c48d2fd3cdb8c6c6a943679a8_images.jpg"
+    }
+}

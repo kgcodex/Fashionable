@@ -1,0 +1,17 @@
+{
+    "id": 1986,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Womens Blue V Neck T-shirt",
+    "price": 699,
+    "description": "This is a classic light blue t-shirt from adidas for regular wear.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2bc2da5ba3aa46d72b96835604a923fd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/839d627d43af9ac53eb666e50ae16c1c_images.jpg"
+    }
+}

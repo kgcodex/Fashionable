@@ -1,0 +1,17 @@
+{
+    "id": 5895,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women's Allegra Mid Pink White Shoe",
+    "price": 4499,
+    "description": "This Allegra Mid Pink shoe in white is styled with mid-top lacing and extra large touch fastening for a secure Fit, this shoe is also engineered with a breathable AirMesh upper and idCELL midsole, topped off with",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/70926ecff9e47e5c859dd697a9d555aa_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2f8ee27a1ad5ff23c5ab9b7173dc081e_images.jpg"
+    }
+}

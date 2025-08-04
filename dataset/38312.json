@@ -1,0 +1,17 @@
+{
+    "id": 38312,
+    "brandName": "I DEE",
+    "productDisplayName": "I Dee Men Black Frame Sunglasses",
+    "price": 1950,
+    "description": "Lens colour: Graduated greyLens type: Regular, oval lensesFrame colour: BlackFrame type: Black metal full frame with flexible, rubber nose pads and plastic armsThe glasses come in a hard case with a soft cloth to clean your lensesWarranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6a08c1b5594889004b99585d81bd93f3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fcbf038db69e895703eda10e27a3434e_images.jpg"
+    }
+}

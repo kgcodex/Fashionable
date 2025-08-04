@@ -1,0 +1,17 @@
+{
+    "id": 51956,
+    "brandName": "yelloe",
+    "productDisplayName": "Yelloe Women Olive Sling Bag",
+    "price": 1490,
+    "description": "Olive green padded bag with a floral scarf across it's front Has two handles, one main buttoned compartment Has a zipped pocket and two slots inside",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2430b3e26d580f2a569f2d8ec24bd436_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/95da9b6c22d05a1ff266fd93f2884fbc_images.jpg"
+    }
+}

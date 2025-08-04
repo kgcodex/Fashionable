@@ -1,0 +1,17 @@
+{
+    "id": 15459,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men Walk Max Velcro White Sports Shoes",
+    "price": 4999,
+    "description": "Offering superior comfort for those who love those long walks, the reebok Walk Max Velcro comes in a low profile silhouette and is packed with features, making it a great buy.UpperSynthetic leather upper with strategically placed overlays and stitch detailingMeshed tongue and fabric inner lining for breathable comfortVelcro straps on the midfoot for a custom FitPadded tongue and collar, and a cushioned footbed for all-day comfortMidsolePhylon midsole for lightweight comfort and impact protectionOutsoleTPR outsole with multi-directional lugs engineered with moving air technology for enhanced cushioned comfort and easy forward movementTransition bridge for easy heel-strike to toe-offshoe careWipe surface with a damp, clean cloth to remove dustDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4a6a76f300acb580347e354c56882f9c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f8addddb66fec75ec4080a2577c43d6d_images.jpg"
+    }
+}

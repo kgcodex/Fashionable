@@ -1,0 +1,17 @@
+{
+    "id": 15310,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Furano 3 M Black Sports Shoes",
+    "price": 3499,
+    "description": "Take running to the next level in these Furano 3 shoes from adidas. Constructed for better comfort and cushioning, these shoes help you run longer and faster. Team these with jeans and tees for great urban style.UpperMesh uppers with synthetic overlays for better breathability and structureadidas patented 3-Stripe overlays on the sides for enhanced support and to exude the brand&rsquo;s belief in performanceMesh tongue provides better breathabilityPadded collar offers better comfortLace-up system for a snug, customized FitBrand name embossed on the tongue and behind the collarMidsoleAnatomically enginnered footbed provides all day comfortAdidas Litestrike EVA provides more bodily comfort and foot supportOutsoleBlown rubber outsole instigates lightweight motion controlCircular lugs along the mid forefoot and medial inner heel, with waffle pattern lugs on the medial forefoot and lugs along the lateral forefoot and medial heel for absolute grip and traction Impact guidance system for a more responsive ride from heel-strike to toe-offFlex grooves in the forefoot for easy movementScooped heel for absolute cushioned comfortshoe careWipe surface with damp, clean cloth to remove dirtDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b41108ce1f594b9d7bd6db6334c72f88_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/50b70ab90f211d90157bd60abff7f43a_images.jpg"
+    }
+}

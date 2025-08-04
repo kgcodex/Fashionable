@@ -1,0 +1,17 @@
+{
+    "id": 58745,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men White Ankle Dig Logo-H Socks",
+    "price": 149,
+    "description": "White socks with black stripesCushioned heel, a terry base and a soft seam for extra comfortSoft elasticated mouth with branding",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FILA-Men-White-Ankle-Dig-Logo-H-Socks_d4423e7f64a95b0ddfe21c4cbcb2724f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FILA-Men-White-Ankle-Dig-Logo-H-Socks_386da1a7b5429e6873ac5493d6ed96de_images.jpg"
+    }
+}

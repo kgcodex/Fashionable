@@ -1,0 +1,17 @@
+{
+    "id": 51365,
+    "brandName": "SPYKAR",
+    "productDisplayName": "Spykar  Women Blue Jeans",
+    "price": 2099,
+    "description": "Blue washed jeans, has a low waist, torn look on the waistband and on the pockets, button and zipped closure, belt loops around the waistband, brand patch at the back on the waistband, two insert pockets with a patch pocket inside the right insert pocket in front and two patch pockets at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/871f546566107b5396038a9ee72e7f56_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c102bb502ceda8a131a7b9929155124d_images.jpg"
+    }
+}

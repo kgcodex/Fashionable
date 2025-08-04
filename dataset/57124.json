@@ -1,0 +1,17 @@
+{
+    "id": 57124,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women Black Top",
+    "price": 1500,
+    "description": "Black lace top with round neck and short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Black-Top_cbc7fb68b288345471ba2a8fbe29b904_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Black-Top_572e99405de7550a29dd5dcdd24ad951_images.jpg"
+    }
+}

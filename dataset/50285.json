@@ -1,0 +1,17 @@
+{
+    "id": 50285,
+    "brandName": "Parx",
+    "productDisplayName": "Parx Men Purple Tie",
+    "price": 1100,
+    "description": "Purple tie with silver coloured dotsMade of microfibre for luxurious feel and light sheenOne loop with brand badge on the inner of the broad tongue to hold the narrow tongue in placeBranded purple lining",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/78894388c069c7f5b4b99e496dc5a4bd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/acc52b2ae7dffb23aaf5f2a393e0748e_images.jpg"
+    }
+}

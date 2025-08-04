@@ -1,0 +1,17 @@
+{
+    "id": 40359,
+    "brandName": "Tokyo Talkies",
+    "productDisplayName": "Tokyo Talkies Women Navy Blue Jeans",
+    "price": 849,
+    "description": "Blue 5 pocket jeans, lightly washed with whiskers at front, button and zip closure, waistband with belt loops",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7d7ba5742d3295f15f4668aad5902df7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8450990748f34cc50fa1d9162dd94816_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 57932,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Men White T-shirt",
+    "price": 1699,
+    "description": "White T-shirt, has a round neckline with rib knit binding, short sleeves, black cityscape print on the front and branding on the back neck",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-White-T-shirt_e094f97a1acd7d76045396d2a4968844_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-White-T-shirt_6cf5ce67b2a2f215169c72144b144cf6_images.jpg"
+    }
+}

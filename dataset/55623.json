@@ -1,0 +1,17 @@
+{
+    "id": 55623,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men Black Shoes",
+    "price": 2199,
+    "description": "Pointy toed, black leather shoe Leather upper with top-stitched ovelaysZippered closure on the side and a reinforced heel collarPadded foot-bedTPU out-sole with grooves on the fore-foot and brandingStacked heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Numero-Uno-Men-Black-Shoes_08a9460defb194ac0ab85f6fe62e5a88_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Numero-Uno-Men-Black-Shoes_8ea80bb1699409c77cf7591f4c11ac70_images.jpg"
+    }
+}

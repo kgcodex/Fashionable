@@ -1,0 +1,17 @@
+{
+    "id": 4474,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Complete Nightfox Black Blue White Shoe",
+    "price": 6499,
+    "description": "Get ready for a complete workout with these Complete Nightfox shoes from puma. These shoes are designed to perform on any terrain and protect your feet so that you can train better for longer. Upper Mesh upper with synthetic overlays for protection and breathability Cushioned collar and tongue for plush comfort Lace-ups for snug Fit ComfortLast to maximize fit and comfort, and cater to the anatomical needs of the runner Formstripe and cat logo on the sides for stability and style Reflective elements for secure running in low light conditions Midsole EVA midsole for increased shock absorption and weight reduction EverFoam in the heel for a fit that adjusts to the heel contour Rock Shield Plate sandwiched in the midsole for extra protection against stones and other firm surfaces found on the trails Outsole ArchTec technology to guide the foot through a natural transition from touch-down to toe-off Decoupled heel construction to distribute impact across the outsole, allowing for a softer stride EverTrack composite used in the outsole provides durability in high-wear areas IdCELL improves shock absorption and protects your foot",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7e52c1536aebed63da42783529922cf9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/316dc0c284a8794b3c6bc1c182300876_images.jpg"
+    }
+}

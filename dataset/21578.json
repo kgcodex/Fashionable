@@ -1,0 +1,17 @@
+{
+    "id": 21578,
+    "brandName": "roxy",
+    "productDisplayName": "Roxy Women Green Garden T-Shirt",
+    "price": 1295,
+    "description": "Green top with curved V neck, print in front, print at the lower back, sleeveless, spaghetti strap, un-stitched hem for style",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/roxy-Women-Green-GARDEN-Tshirt_629b482898e5fb2d7289da49fc27ddb7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/roxy-Women-Green-GARDEN-Tshirt_e0730d2d8b27882f1469d1384dc698c5_images.jpg"
+    }
+}

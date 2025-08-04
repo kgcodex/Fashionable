@@ -1,0 +1,17 @@
+{
+    "id": 19379,
+    "brandName": "Crusoe",
+    "productDisplayName": "Crusoe Men Surge Green Boxer Shorts",
+    "price": 269,
+    "description": "Green boxer shorts with elasticated waistband that has branding, button fly, buttoned pocket at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c9a3c1feb991efa957fec2aacb8d8c17_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/abf9b7e442d1883b7ae63bb88bc99743_images.jpg"
+    }
+}

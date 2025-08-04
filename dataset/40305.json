@@ -1,0 +1,17 @@
+{
+    "id": 40305,
+    "brandName": "Warner Bros",
+    "productDisplayName": "Warner Bros Kids Unisex Brown sandals",
+    "price": 799,
+    "description": "-",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Kids-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/aab38e1394c9fb85bac50d125681f564_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3c772534a97af0b80b13f91e21b088ba_images.jpg"
+    }
+}

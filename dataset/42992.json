@@ -1,0 +1,17 @@
+{
+    "id": 42992,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men White Ballista Sports Shoes",
+    "price": 2295,
+    "description": "Style NoteSleek and yet aggressively designed, the nike Ballista II shoe for men is replete with comfort and style. Ergonomically designed and well cushioned, it's a great shoe for runs and casual occasions.Product DetailsMeshed upper, perforated synthetic overlays, central lacing system, twill lace running through mid and back foot overlays and reinforced overlays on heel cup and above toe guardMeshed and padded tongue and innerCushioned footbed, EVA midsole and padded back soleForefoot and backfoot outsole with rectangular lugs and grooves, deep flex groove on mid forefoot and arched midfoot Material and CareSynthetic, meshDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/afdebb9ed9b32dd9e7dbdb2792915316_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ce6380d91b6fe2192b3bca9c87920aa6_images.jpg"
+    }
+}

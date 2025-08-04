@@ -1,0 +1,17 @@
+{
+    "id": 12967,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Spry M Black Sandals",
+    "price": 1799,
+    "description": "Slip into absolute comfort with these Spry floaters from adidas. Perfect for casual outings, these floaters ooze style and performance. UpperSynthetic leather straps with padded textile inner lining over the forefoot, midfoot and back heel to lock the foot in placeVelcro closures for forefoot and midfoot straps to offer a customised FitCushioned PU footbed with circular nubs for all-day massaged and cushioned comfortHaul loop to hang sandals from a backpackOutsoleTPR outsole with waffle pattern lugs on the periphery of the forefoot and heel, and star-shaped lugs on the mid forefoot and mid heel for enhanced grip and tractionSandal careWipe surface with a damp, clean cloth to remove dust and dirtDo not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5d5027f8a797eaf35256b86d3cd1e45f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d1c6b58ac20409d1ad4514e09c733d43_images.jpg"
+    }
+}

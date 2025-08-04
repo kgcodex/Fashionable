@@ -1,0 +1,17 @@
+{
+    "id": 35412,
+    "brandName": "Enroute Men",
+    "productDisplayName": "Enroute Men Black Shoes",
+    "price": 3199,
+    "description": "Indulge in the luxury of pure leather with this pair of shoes from enroute. In a classic silhouette and with ample cushioning, this shoe makes for a fabulous addition to your wardrobe. This pair comes with a shoe bag and a plastic shoe horn Upper Full grain leather upper with supple leather inner lining for comfort Stitched detailing and synthetic overlays for enhanced shoe structure Lace-up system for a snug, customised Fit Padded footbed for all-day comfort Midsole EVA midsole for impact protection Outsole Durable rubber outsole with TPU on the forefoot Wave-styled grooved for absolute grip and traction Shoe care Wipe surface with a clean and dry cloth to remove dust Use a branded leather conditioner Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f0c57dcca98be20fcbe8bdfe958a7a04_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/98132a703471a555e4c8538d3f719c5f_images.jpg"
+    }
+}

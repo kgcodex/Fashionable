@@ -1,0 +1,17 @@
+{
+    "id": 38571,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Regular Grey Capris",
+    "price": 1595,
+    "description": "Style Note Look cool and stylish while you exercise in these capris from nike. Wear them with a colourful tee and sports shoes for a fuss-free outfit which won't get in your way. The Dri-Fit fabric will wick away sweat and help you stay cool when things heat up! Also perfect for those armchair Sports fans who want something comfy to wear while lounging around at home. Product Details Regular fit grey capris with a broad waistband which fits snugly, gusset lined in stretchy polyester for strength and comfort, embroidered branding on waistband and contrast panel across back Material and Care 61% cotton, 33% polyester and 6% spandex Machine wash cool with like colours Do not bleach or dry clean Tumble dry low Cool iron do not iron on decorations",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b003a563ee86b36566c710b933486ec6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/410e821e52d929c813889fb589d7ccc1_images.jpg"
+    }
+}

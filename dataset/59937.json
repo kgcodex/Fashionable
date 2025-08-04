@@ -1,0 +1,17 @@
+{
+    "id": 59937,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Blue Casual Shoes",
+    "price": 2899,
+    "description": "Blue high-top casual shoes with textile and navy blue suede upper, padded collar, textile lining and sock, synthetic overlay, soft insole and rubber outsole with reverse waffle pattern",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Navy-Blue-Casual-Shoes_79d20738d691e82455b23a5599e50748_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Navy-Blue-Casual-Shoes_e77f8b2c59e69092463e22d73f6f9be2_images.jpg"
+    }
+}

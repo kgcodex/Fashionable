@@ -1,0 +1,17 @@
+{
+    "id": 25454,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Benassi Solarsoft Slide Black Flip Flops",
+    "price": 2200,
+    "description": "nike showcases its versatility with this pair of Benassi Swoosh sandals for lounging. Designed with a laidback, minimal style, wear this with your favourite jeans on a lazy evening.UpperOne wide synthetic leather strap across the forefoot and midfoot with the nike swoosh Cushioned footbed made of rubber with brandingOutsoleTPU outsole with patterned lugs and brandingSandal careWipe surface with damp, clean cloth to remove dustDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2afa95b7ece44e37876ab0df9fa3e8a5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/901674c8875f18afa99a32bfaf6be022_images.jpg"
+    }
+}

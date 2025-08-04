@@ -1,0 +1,17 @@
+{
+    "id": 11256,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Black Printed Shield T-shirt",
+    "price": 899,
+    "description": "Black T-shirt, ribbed round neck, short sleeves, graphic print on front, printed branding below back neck",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Black-Printed-Shield-T-shirt_bf36231069d5f43f79a13cb1414cb819_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Black-Printed-Shield-T-shirt_8855fc68b1cd3d33abe8a20d32499d93_images.jpg"
+    }
+}

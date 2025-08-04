@@ -1,0 +1,17 @@
+{
+    "id": 11788,
+    "brandName": "Vishudh",
+    "productDisplayName": "Vishudh Women Multi Coloured Kurta",
+    "price": 599,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/79ac5439ac0a9b4d2f29af4429630394_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5e624208ee3e35d458f607091f1d8b88_images.jpg"
+    }
+}

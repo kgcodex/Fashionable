@@ -1,0 +1,17 @@
+{
+    "id": 7859,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Purple Printed T-shirt",
+    "price": 599,
+    "description": "Purple printed T-shirt, has a round neck, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/12ba2bf5d104690f51befbbda7f88394_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4ca170531c9647c17efcf0fdcbd36433_images.jpg"
+    }
+}

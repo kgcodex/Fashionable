@@ -1,0 +1,17 @@
+{
+    "id": 43242,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men White Swift Chase Sports Shoes",
+    "price": 3999,
+    "description": "Mesh upper with synthetic overlays, has central lace-ups Has a padded inner and a soft footbed Thick foamy midsole, upraised at the heel TPU outsole with patterned grooves and lugs",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7440f629c0cb77eb45b40efd721d40d8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/88fcf1be3c89713f13355a4a42e08d3f_images.jpg"
+    }
+}

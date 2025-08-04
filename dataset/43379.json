@@ -1,0 +1,17 @@
+{
+    "id": 43379,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men White Mamba Casual Shoes",
+    "price": 3999,
+    "description": "Round toed shoe with contrast print on the midfoot and heel, has perforations at the toe region Has a central lace-ups, soft footbed and a padded tongue EVA midsole Has a TPU outsole with nubs at the big toe region and deep round grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a9b27a9eb29b4c0b5c930044087d7b27_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6c2428db258d894395f98feffff061ec_images.jpg"
+    }
+}

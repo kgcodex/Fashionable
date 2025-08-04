@@ -1,0 +1,17 @@
+{
+    "id": 33761,
+    "brandName": "Vero Moda",
+    "productDisplayName": "Vero Moda Women Viva Green T-shirt",
+    "price": 595,
+    "description": "Green T-shirt, has a round neck, short sleeves and graphic floral print on the left side",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/74fd61149e6377be729ac791a11ae0ba_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/79122aaa4a52be4b770deebd15538769_images.jpg"
+    }
+}

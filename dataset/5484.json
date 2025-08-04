@@ -1,0 +1,17 @@
+{
+    "id": 5484,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's City Court White Blue Shoe",
+    "price": 3995,
+    "description": "Superior grip in an ultra-lightweight package, the City Court VI tennis shoe from nike comes with ample cushioning and support to help you make those winning aces. Team this with tennis performance clothes when hitting the court, or simply pair them with jeans and t-shirts for that casual look.Upper Synthetic leather upper with overlays for structural comfort and durability Perforations for breathability Meshed and padded tongue with a lace-up system for snug Fit and comfort Cushioned sockliner for in-step comfort Midsole Phylon midsole for lightweight responsive cushioning and shock absorption Mildly cushioned footbed for comfort and impact protection Outsole Durable rubber outsole with outriggers for added support Herringbone traction pattern for multi-directional movement Midfoot arch for ergonomic comfort Shoe careDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/592404de710fb0c62f596321d93a4dc6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0979e6d5646c0f3bb38aaf44f6604564_images.jpg"
+    }
+}

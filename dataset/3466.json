@@ -1,0 +1,17 @@
+{
+    "id": 3466,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Vanquish White Silver Shoe",
+    "price": 2499,
+    "description": "CompositionSynthetic leather white shoes with nylon mesh upper, rubber outsole with grip nubs, comfort cushioning on the insole and EVA socklinerWash care1. Remove dust with soft, clean, damp cloth2. Do not machine washTalk about pampering your feet while running and this pair of shoes is that perfect answer. With an EVA sockliner and multi-layered insole, coupled with ample ventilation with a nylon mesh upper, these shoes from adidas make it an easy choice. The nubs on the rubber outsole ensure ample grip and stability marking this as a perfect urban wear.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a5992204d555d9f311ad768f5a1822db_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d8a7eb9a999627f2e0ca3fa07c4924de_images.jpg"
+    }
+}

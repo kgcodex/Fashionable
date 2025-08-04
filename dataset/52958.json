@@ -1,0 +1,16 @@
+{
+    "id": 52958,
+    "brandName": "FNF",
+    "productDisplayName": "FNF Red Sari",
+    "price": 4000,
+    "description": "Soft red with floral embroidery sari Green embroidered border and palluComes with blouse piece",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fashion-N-Fabrics-Red-Sari_eae79e164fc299d94fd2552cb40a1bec_images.jpg"
+    }
+}

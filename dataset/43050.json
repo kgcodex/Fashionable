@@ -1,0 +1,17 @@
+{
+    "id": 43050,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Blue FFF Football Jersey",
+    "price": 3295,
+    "description": "Style NoteDesigned for your training needs, this nike jersey is made of polyester fabric with Dri-Fit technology to offer absolute sweat-free, fresh comfort. Such properties make it ideal not just for training, but playing any sport even on a hot day. Team this with performance shorts and sports shoes, or tracks and floaters for an unparalleled cool look.Product DetailsBlue striped FFF jersey, mandarin neck with a two button concealed placket, short sleeves, Nike swooshon the right chest and French Football Federation logo on the left chestMaterial and Care100% polyesterMachine wash separately in cold water using a mild detergentDo not bleachTumble dry lowCool iron do not iron on decorationsSize and fitRegular fit",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fcda3f8b87d91cbd70ee40870c20d600_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dd9a4003d4b68c7deee210a5f9b4f87a_images.jpg"
+    }
+}

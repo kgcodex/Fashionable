@@ -1,0 +1,17 @@
+{
+    "id": 53121,
+    "brandName": "Myntra",
+    "productDisplayName": "Myntra Women Yellow T-shirt",
+    "price": 399,
+    "description": "Yellow T-shirt, round neck with rib knit binding, short sleeves with self binding, frontal print, printed inner branding for abrasion free comfort",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/82050187f4d6973fb4f7066306d5f2ff_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b4962ad118477062e4846336ce9d5cd7_images.jpg"
+    }
+}

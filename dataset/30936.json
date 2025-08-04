@@ -1,0 +1,17 @@
+{
+    "id": 30936,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Women Orange Kurti",
+    "price": 790,
+    "description": "Orange floral printed kurti with a round slit neck, three quarter sleeves, taping along the neck and sleeve hem, vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Spring",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Women-Tunics_730bc6120732112c6a47d8262ec9420e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Women-Tunics_4e3f30f1a00096dcdfb358bdc24d148f_images.jpg"
+    }
+}

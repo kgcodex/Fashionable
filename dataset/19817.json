@@ -1,0 +1,17 @@
+{
+    "id": 19817,
+    "brandName": "U.S. Polo Assn.",
+    "productDisplayName": "U.S. Polo Assn. Men Solid Blue Sweatshirt",
+    "price": 1999,
+    "description": "Royal blue sweatshirt, round ribbed collar, long sleeves with ribbed cuffs, embroidered branding in front, ribbed hemline, fleecing on the inside",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/US-Polo-Assn-Men-Solid-Blue-Sweatshirt_56aa03fc3a92211d31f7616fbafd81c5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/US-Polo-Assn-Men-Solid-Blue-Sweatshirt_b415365c29a06020c04118f2948c2317_images.jpg"
+    }
+}

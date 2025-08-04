@@ -1,0 +1,17 @@
+{
+    "id": 18910,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Adi Linear Green Flip Flops",
+    "price": 399,
+    "description": "sportswear giant adidas never disappoints. This pair of flip flops from adidas is the perfect beach wear with its PU footbed designed for the sun and sand. The design ensures an easy transition from beach wear to a pool side Flip Flops. Wear this with shorts and colourful shirts. Upper Rubber thong style straps with the Adidas 3-Stripe Rubber toe separator for comfort PU footbed with printed branding Outsole Durable TOU outsole with grooves for enhanced grip Flip Flops care Wipe surface with a damp, clean cloth Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/02666c972823f39ac395fbedd69a6b36_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/20a24feeb32cd82b129ca9f2cb82fb56_images.jpg"
+    }
+}

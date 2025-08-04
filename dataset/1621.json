@@ -1,0 +1,16 @@
+{
+    "id": 1621,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men Micro Shorts Black and White",
+    "price": 899,
+    "description": "",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/726aee674d48179d4119b0cabd7519cb_images.jpg"
+    }
+}

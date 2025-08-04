@@ -1,0 +1,17 @@
+{
+    "id": 43161,
+    "brandName": "Fastrack",
+    "productDisplayName": "Fastrack Women Pink Dial Watch",
+    "price": 2295,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/20e65f5ab11f1d56533367a00cc4203c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/21c369da4d13fc9c7819bd24b930eb1b_images.jpg"
+    }
+}

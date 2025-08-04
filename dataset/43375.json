@@ -1,0 +1,17 @@
+{
+    "id": 43375,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men Black Possession Flip Flops",
+    "price": 799,
+    "description": "Branded fabric thong straps knotted at the apex with a fabric toe separator Busy print on the vividly coloured foamy footbed Lightweight rubber outsole with horizontal grooves all over",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b2d0232a61b7faf120456ee76f86a377_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ddfd18dd0db768ef71c52793e4f767ad_images.jpg"
+    }
+}

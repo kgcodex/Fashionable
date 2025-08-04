@@ -1,0 +1,17 @@
+{
+    "id": 46884,
+    "brandName": "Ben 10",
+    "productDisplayName": "Ben 10 Boys Black Casual Shoes",
+    "price": 999,
+    "description": "-",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/48db010bd3677ed183ac7ebb968ce1fc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fd5310cae694162551b4040b11411f1f_images.jpg"
+    }
+}

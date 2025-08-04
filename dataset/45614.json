@@ -1,0 +1,17 @@
+{
+    "id": 45614,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Black Formal Shoes",
+    "price": 2999,
+    "description": "Round toed, black formal shoes with stitch detail at the seams of the toe box Branding embossed at the midfoot region Tough sole with a stacked heel Warranty: 3 monthsWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/16751e5a2df936a549cdafa69892ef45_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/56bea5f0c5cdab9d4f5fcf8db1ae5da4_images.jpg"
+    }
+}

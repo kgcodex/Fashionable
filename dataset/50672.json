@@ -1,0 +1,17 @@
+{
+    "id": 50672,
+    "brandName": "Chromozome",
+    "productDisplayName": "Chromozome Men Grey Melange Ranger Lounge Pants S-5429",
+    "price": 679,
+    "description": "Grey melange lounge pants, pockets at side, elasticated waist, black panelling with branding at thigh",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Chromozome-Men-Grey-Melange-Ranger-Track-Pants_cde6b3b0a1f79940bb91988145ce0d81_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Chromozome-Men-Grey-Melange-Ranger-Track-Pants_fc01171c17f15c6e03d88134da6fcc57_images.jpg"
+    }
+}

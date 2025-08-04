@@ -1,0 +1,16 @@
+{
+    "id": 13811,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Maroon Checked Muffler",
+    "price": 450,
+    "description": "Maroon checked muffler",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bd440d2499179cfad858dcf2be254844_images.jpg"
+    }
+}

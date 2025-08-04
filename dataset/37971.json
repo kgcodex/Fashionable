@@ -1,0 +1,17 @@
+{
+    "id": 37971,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Women Un Spire Red Sandals",
+    "price": 2999,
+    "description": "Style Note Handcrafted leather goodness for your feet - with love from clarks. This sandal is moulded to Fit your feet to perfection and designed to add an understated polish to your ensemble. Product Details Leather crisscrossing forefoot and midfoot straps and an ankle loop with a Velcro closure Padded footbed with a heel patch TPU outsole with deep flex grooves and an upraised heel Material and Care Leather Wipe with a clean, dry cloth to remove dust Use a branded leather conditioner for added shine",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5a0a08e922244293e30181967e9f9c06_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/59bf3ddf223aeff2b48323f9e6f8f815_images.jpg"
+    }
+}

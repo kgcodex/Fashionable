@@ -1,0 +1,17 @@
+{
+    "id": 49580,
+    "brandName": "Catwalk",
+    "productDisplayName": "Catwalk Women Golden Heels",
+    "price": 1995,
+    "description": "Style NoteA bold",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e6ad048284f339f38ff25349313524ef_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4054864d5bb6b4d1d3e5136ee317d152_images.jpg"
+    }
+}

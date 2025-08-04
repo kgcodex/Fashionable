@@ -1,0 +1,17 @@
+{
+    "id": 5583,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Adistreet Lux Brown Shoe",
+    "price": 4499,
+    "description": "The AdiStreet soccer shoes are clean, simple and soccer-inspired. With a neat design and comfortable to wear, they make for probably that perfect soccer shoes you can ever find. Team them with jeans and tees for a cool casual look, and when hitting the field, pair them with performance clothing for that dry comfort.UpperSynthetic leather upper for lightweight durabilityFull front central lacing with a metallic master eyelet for a polished lookThree patent adidas stitched leather overlays signifying the achievement of goals and adding value to the structureAppliqu&eacute;d logo on the tongue for styleSynthetic lined collar for greater comfortMidsoleDie-cut EVA midsole for lightweight comfortSoft and cushy midsole for maximum performanceOutsoleDurable TPU outsole with herringbone pattern for maximum tractionshoe careRub surface with damp cloth to remove dirtDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/654187ee453cd7bc8c64238c99a7855b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ab2cf3a3d85794f86446415cc594e799_images.jpg"
+    }
+}

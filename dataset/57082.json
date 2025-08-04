@@ -1,0 +1,17 @@
+{
+    "id": 57082,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women Blue Skirt",
+    "price": 1800,
+    "description": "Blue denim, layered skirt, has lace trimmings at the edge of the layers and zipped closure at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Blue-Skirt_20a8fb2f00ae4a6776ba4f8f01e9cf74_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Blue-Skirt_445471555f042e46391ca6f0ac17c539_images.jpg"
+    }
+}

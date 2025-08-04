@@ -1,0 +1,17 @@
+{
+    "id": 32028,
+    "brandName": "Playboy",
+    "productDisplayName": "Playboy Men Pack of 3 Socks",
+    "price": 399,
+    "description": "Set of three assorted coloured socks in shades of grey, black and whiteSocks with an elastane welt for a firm, no-sag grip, has terry inside for superior cushioning and absorbency, comfort toe and is above ankle lengthNote: The final product delivered might vary in colour and prints from the display",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Playboy-Men-Socks_e83d20108d8196e3fe37b0931af194f7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Playboy-Men-Socks_b941404f5e93d0ff4a8e83fe745c63de_images.jpg"
+    }
+}

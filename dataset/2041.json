@@ -1,0 +1,16 @@
+{
+    "id": 2041,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Mens Fire Grey T-shirt",
+    "price": 1099,
+    "description": "Look out for the fire sign on both the sides to accentuate your body curve. Made out of 100% polyester and perfectly suited to the Indian climate, this t-shirt is a great buy for Sports lovers.Model statisticsThe model wears size M in t-shirtsHeight-5.11\", Shoulders-17.5 \"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/13b1ed314fe4338e4683c829b91ed114_images.jpg"
+    }
+}

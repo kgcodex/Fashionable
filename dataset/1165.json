@@ -1,0 +1,17 @@
+{
+    "id": 1165,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Mean Team India Cricket Jersey",
+    "price": 2495,
+    "description": "Blue jersey with a tipped collar, concealed, half buttoned placket, Nike print on the right chest, Team India print and applique on the front, short sleeves, tri-colour side panels, print at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/assets/images/1165/2018/2/28/11519814281993-Nike-Mean-Team-India-Cricket-Jersey-6241519814281812-2.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/assets/images/1165/2018/2/28/11519814281968-Nike-Mean-Team-India-Cricket-Jersey-6241519814281812-3.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 11062,
+    "brandName": "John Miller",
+    "productDisplayName": "John Miller Men Solid Light Maroon Shirts",
+    "price": 1149,
+    "description": "Composition Rust coloured full sleeves shirt made of a cotton and polyester blend, has a patch pocket on the left chest with a full length buttoned placket and a slightly curved hemline Fitting Regular Wash care Machine/hand wash in cold water at 30 C with mild detergent Wash dark colours separately Do not bleach Tumble dry low Dry in shade Hot iron Formal clothes don't have to be boring! Make your weekdays fun by wearing this formal shirt from john miller. The shirt looks fresh and crisp and will keep you cool all day long. Pair it with well-fitting formal trousers and a pair of leather shoes to take the office by storm! Model statistics The model wears size M in t-shirts Height-6', Shoulders-18\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1c40d0e1da690da7eab5ac22b627b2b1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/47fdc601752fff50a3aa4f46bc8dbb49_images.jpg"
+    }
+}

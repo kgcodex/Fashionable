@@ -1,0 +1,17 @@
+{
+    "id": 47553,
+    "brandName": "Portia",
+    "productDisplayName": "Portia Women Black Heels",
+    "price": 699,
+    "description": "Black heels with multicoloured straps at forefootMildly padded footbedPlastic heel with TPU outsole Plastic heel-cap",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2bbaa56914f936ae317542ec31a7b65e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ea7fab95ca07debfd0b0c5ca955752cd_images.jpg"
+    }
+}

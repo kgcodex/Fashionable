@@ -1,0 +1,17 @@
+{
+    "id": 25866,
+    "brandName": "AMERICAN TOURISTER",
+    "productDisplayName": "American Tourister Unisex Blue Backpack",
+    "price": 1050,
+    "description": "Blue and black backpack with branding in frontHas a short, padded haul loop and two adjustable shoulder strapsOne main zipped compartmentOne zipped compartment in front with an organiser sleeve, another zipped compartment in front of thatOne bottle holder on each sidePadded backWarranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/AMERICAN-TOURISTER-Unisex-Backpacks_c65cb5dcb5a6c6d1c5223cf3548debdb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/AMERICAN-TOURISTER-Unisex-Backpacks_5c779af539f95186485f2e60e79c4470_images.jpg"
+    }
+}

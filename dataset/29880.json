@@ -1,0 +1,17 @@
+{
+    "id": 29880,
+    "brandName": "Mayhem",
+    "productDisplayName": "Mayhem Men Aviator Sunglasses 1019-205",
+    "price": 1840,
+    "description": "Lens colour: GreyLens type: Lens with UV protectionFrame colour: Gun-metalFrame type:&nbsp;Stylised oval metal full frame, has plastic casing on the ends of the armsHigh bridge with flexible nose pads",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/48e274b112729c9f9a3a0c591c472ba4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5ea54ad17c16f69750b5276d2d6f693a_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 15325,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Printed Blue Tshirts",
+    "price": 1095,
+    "description": "CompositionBlue T-shirt made of 58% cotton and 42% polyester Dri-Fit fabric, has a round ribbed neckline, short sleeves and graphic print on the front FittingRegularWash careMachine wash cold with like coloursWarm iron onlyDo not bleachTumble dry on lowDo not dry cleanDo not iron on print or embroideryThis blue T-shirt from nike is a perfect mix of sporty and bold styling. The graphic print with the words \"lung searing, physical, bliss\" inspires you to get moving, while the Dri-fit fabric wicks sweat away from the body and keeps you feeling cool and comfortable all day. Team this with jeans or tracks.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6c0f1934af4fd47418288946b23d98f3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c1fc47510f39c2b92e6fbe612b04aee4_images.jpg"
+    }
+}

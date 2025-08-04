@@ -1,0 +1,17 @@
+{
+    "id": 41829,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Women Black Sandals",
+    "price": 2399,
+    "description": "&nbsp;A pair of black flats with slip-on stylingSynthetic upper with a thong-style strap with a buckle along the strapsTextured footbed with branding on the heel region.Textured outsole.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6c33e00a9b62cf8afc73938b9f006988_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d2269a6b0913b053b53c4f525e296598_images.jpg"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "id": 1922,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Mens Slim Fit Black Polo T-shirt",
+    "price": 749,
+    "description": "1. Dry Fit keeps you comfortable and sweat free2. This puma Black t-shirt has white detailing on the shoulder pads3. White puma leaping cat symbol design is printed on the chest area of the t-shirtEasy to wear and easier to maintain, Choose this PUMA essential design to suit all aspects of your lifestyle with this clothing choice.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/04a27ea277fd19a91c084f43f4323e3c_images.jpg"
+    }
+}

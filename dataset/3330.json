@@ -1,0 +1,17 @@
+{
+    "id": 3330,
+    "brandName": "Reebok",
+    "productDisplayName": "RCB Mens Fangear Polo Jersey",
+    "price": 999,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/RCB-Mens-Fangear-Polo-Jersey_1dc83441248b82f197c9ddbda521e467_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/RCB-Mens-Fangear-Polo-Jersey_02904717fb6b1563aa915cc10c76f1f5_images.jpg"
+    }
+}

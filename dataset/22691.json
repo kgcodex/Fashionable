@@ -1,0 +1,17 @@
+{
+    "id": 22691,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women White Sweet Classic Leather Sports Shoes",
+    "price": 3195,
+    "description": "Celebrate the old school design aesthetic with this nike Sweet Classic Leather shoe. Breathable comfort combined with style, this classic shoe is a sport lover's wardrobe essential. Evolved from the courts to the streets, this is a vintage design you can vouch for.UpperSynthetic leather upper with perforations for breathability and durabilityLong tongue for comfortnike swoosh overlays for enhanced style and midfoot supportPadded tongue and collar for snug comfortLace-up system for snug, customized FitMidsoleFull length EVA midsole for superior cushioning and lightweight comfortMildly padded sockliner for all-day comfort OutsoleDurable rubber outsole in herringbone pattern for superior grip and tractionShoe careDo not machine washRemove dust and dirt with damp clean clothDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/06f1af06abcaa6457a423821fbcf77ef_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bf245404b5d9edbfe9d71f0965b5e335_images.jpg"
+    }
+}

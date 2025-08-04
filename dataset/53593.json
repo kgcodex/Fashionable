@@ -1,0 +1,17 @@
+{
+    "id": 53593,
+    "brandName": "Q&Q",
+    "productDisplayName": "Q&Q Men Digital Watch",
+    "price": 1395,
+    "description": "Case style: Digital watch with plastic round caseStrap style: Black rubber strap with a tang claspFeatures: Stopwatch, 150 lap memory and digital modesWater resistant 10 BAR, wearable around sinks, during swimming, poolside diving but not highboard diving and surfingWarranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-Black-Digital-Watch_a82f3b21da2752ae3437f325ce372e80_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-Black-Digital-Watch_f10a4ec1fd59ba38a276ee5c2ad04efc_images.jpg"
+    }
+}

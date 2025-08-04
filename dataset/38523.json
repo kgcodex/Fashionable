@@ -1,0 +1,17 @@
+{
+    "id": 38523,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Black Surge Shoes",
+    "price": 4499,
+    "description": "Style Notepuma has its roots in Germany, and the brand is known for its minimalist design in high-end athletic footwear. Crafted in the brand's signature style, these shoes are the right solution for brand conscious comfort junkies. This pair is great for regular wear as they ensure superior traction and protection to the feet, without compromising on comfort and style.Product DescriptionRound toe, black, mid top shoe with stitched detailing and black lacesPadded interiors with overlays at heal collarForm stripes on one side, with symmetric designMesh inlays on the upperRubber midsolePivoted and grooved outsoleMaterial and CareMesh, rubber, syntheticDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/453a3e347f88f74e955a0a3893352306_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3254dbca5be81187bd64b6adc1f4d64a_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 5539,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Air Relentless Black Red White Shoe",
+    "price": 3995,
+    "description": "The nike Air Relentless is a versatile running shoe that features ample ventilation and offers lightweight comfort, keeping your feet fresh and comfortable all day. Added to this is the plush cushioning that makes it an all the more comfortable, smooth and flexible ride.Upper Hevaily meshed upper in a bold pattern for enhanced ventilation and style Synthetic overlays with a velvetty touch for added shoe structure and durability Symmetrical lace-up system with cotton twill laces for snug Fit and comfort Interior strap on the midfoot for extra lock down of foot Mesh padded tongue with textile padded sockliner for in-step comfort Swoosh branding as synthetic overlays on the sides for style and support to the upper Reflective detailing for enhanced visibility in low-light conditions Midsole Phylon midsole for lightweight, responsive cushioning and impact protection nike Air unit in the heel for shock absorption and to ofefr greater cushioning r a smooth ridef Padded footbed for all-day comfort Outsole Durable rubber outsole for lightweight comfort Waffle pattern on forefoot and perimeter of midfoot for excellent traction BRS 1000 used to create heel unit for ample durability and drag protection Impact guidance system along mid length with deep flex grooves for maximum traction and flexibility Shoe careWipe surface with damp, clean cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/389b65a87ad3174b0bb5ac808d82070d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2e837507dfe236f09f80ac52f1e579d8_images.jpg"
+    }
+}

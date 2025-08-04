@@ -1,0 +1,16 @@
+{
+    "id": 52520,
+    "brandName": "Pepe Jeans",
+    "productDisplayName": "Pepe Jeans Men Cream Cargo Shorts",
+    "price": 2199,
+    "description": "Cream shorts, weave design, two slant pockets front, two bellow pockets with buttoned flaps at the side, one additional bellow pocket with buttoned flap at the side on the left near the hem, patch pockets at the back, waistband with loops, zippered fly with button, top stitch detail in grey, drawstring on waist on the inside",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Pepe-Jeans-Men-Beige-Shorts_24a5ec9a6adcb59b74265b013c2efe78_images.jpg"
+    }
+}

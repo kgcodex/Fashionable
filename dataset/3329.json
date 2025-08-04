@@ -1,0 +1,17 @@
+{
+    "id": 3329,
+    "brandName": "Reebok",
+    "productDisplayName": "KXIP Boys Fangear Tee",
+    "price": 799,
+    "description": "Style Note Crank up your kid's style as the cricket craze kicks off this summer with this Punjab Kings T-shirt from reebok. The apple of your eye will be displaying team pride with this tee as they cheer their favourite players at the IPL. There's no better way of saying 'Go Kings!' than with this T-shirt !Product Details Red jersey T-shirt, has a round neck, short sleeves, branding on right chest and Punjab Kings logo on left chestMaterial and Care 100% PolyesterMachine wash in lukewarm water below 40 degrees, using a mild detergentWash dark colours separatelyDo not soak, bleach, tumble dry, dry clean or iron on print/trims/ logoDry in shadeWarm iron",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f0d33ed31cafea8f850d20899683fdbf_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d7125544fe9f2ee7e049358bcfc4bdbc_images.jpg"
+    }
+}

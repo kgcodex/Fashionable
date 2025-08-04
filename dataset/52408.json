@@ -1,0 +1,17 @@
+{
+    "id": 52408,
+    "brandName": "Red Rose",
+    "productDisplayName": "Red Rose Women Maroon Nightdress",
+    "price": 717,
+    "description": "Maroon knee-length satin nightdress, has a V-neckline, adjustable shoulder straps, lace and tie-up detail at the yoke and is elasticated at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Rose-Women-Maroon-Nightdress_212f50ec9e8e30f81c83e54175b251ba_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Rose-Women-Maroon-Nightdress_e23c0274dabb405a71b2b3e7dc407235_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 25448,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Black Air Deschutz Sandals",
+    "price": 3995,
+    "description": "It's all about exemplary comfort with the nike Air Deschutz floaters. Crafted with soft twill straps and a cushioned footbed, there's nothing that your feet have to complain about.UpperTwill straps on the forefoot, midfoot and around the ankle, with velcro closures and buckles to offer a customised FitFabric padding along the straps for abrasion-free comfortHaul loop at the back strap to hang the floaters from a backpackErgonomically curved PU footbed with massage nubs for all-day comfortOutsoleTPR outsole with strategically placed lugs for optimum grip and traction Flex grooves for ease of movementScooped heel for cushioned comfort to the backfootSandal careWipe surface with damp, clean cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/42bbbd519264d9655328025714871e73_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/455399b56374bf237e302bbc9dca7ff2_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 49726,
+    "brandName": "Park Avenue",
+    "productDisplayName": "Park Avenue Men Grey Tie",
+    "price": 899,
+    "description": "Grey patterned tie with blue checks A loop behind the broad tongue to tuck the smaller end in",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Park-Avenue-Men-Grey-Tie_650a4cdf4c5578248fff7a88a6d5dc0e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Park-Avenue-Men-Grey-Tie_04833d12bca6ea757144cfbcdc31c9f6_images.jpg"
+    }
+}

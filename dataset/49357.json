@@ -1,0 +1,17 @@
+{
+    "id": 49357,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Black Casual Shoes",
+    "price": 4999,
+    "description": "Round toed, black shoes with subtle faux heel and central round lace fastening Leather upper with reinforced overlay at the heel collar Rubber signature waffle outsole with waffle thread pattern grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Black-Casual-Shoes_7d59cdf58ed51b1451d5de9a1eaab4e5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Black-Casual-Shoes_b4e8ce2de9c699cb40ed31bc384ef881_images.jpg"
+    }
+}

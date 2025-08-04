@@ -1,0 +1,16 @@
+{
+    "id": 50871,
+    "brandName": "Prafful",
+    "productDisplayName": "Prafful Mustard Crepe Printed Sari",
+    "price": 1299,
+    "description": "Mustard sari with red and green print that has a navy blue border",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Prafful-Women-Mustard-Crepe-Saree_e4c67a4fd56763011dc082df122e5f36_images.jpg"
+    }
+}

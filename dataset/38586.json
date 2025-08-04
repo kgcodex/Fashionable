@@ -1,0 +1,17 @@
+{
+    "id": 38586,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Pink Crew T-shirt",
+    "price": 795,
+    "description": "Style NoteStay fresh and stylish this summer in this nike T-shirt. Team this with training pants and training shoes for complete benefit during your Sports sessions or simply wear it with jeans and sports shoes and flaunt your sporty attitude.Product Details Cherry pink t-shirt with a round ribbed neckline, short sleeves, graphic print on the chest Material and Care 100% cottonMachine wash cold with like coloursDo not dry clean or bleachTumble dry lowWarm iron do not iron on print/decoration",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/939140893e97de51c00b0f1fba184f08_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/50b8a81d0cba45b753c26c6f150385b7_images.jpg"
+    }
+}

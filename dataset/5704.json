@@ -1,0 +1,17 @@
+{
+    "id": 5704,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men's Seguae-Deposit Chocolate Shoe",
+    "price": 2999,
+    "description": "Smooth and sporty, the skechers Seguae-Deposit shoe is a slip-on casual sneaker that speaks volumes of your sense of style. Team it with formal wear for casual days at work.Upper Smooth nubuck leather upper Stitched seam moc style toe Side stitching and seam detail Overlay side detailing Ventilating side panel with textile lining Embossed brand logo and Airators logo detail Padded collar and soft fabric shoe lining for snug Fit Dual side elastic fabric panels for easy slip on fit Heel pull on tab for comfortable fit Midsole Cushioned insole for in-step comfort Phylon midsole for lightweight cushioning Heel air pump provides air circulation Outsole Flexible traction outsole with suction grooves for cushioning Flex grooves across the arch to support an excellent ergonomic fit Shoe careUse a dry brush to dust off the dirtUse a branded leather polish",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8d9f4c3563244bab56c4d5a95b072f57_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/dfb9201e41cfb52f9fcad387a5af7f25_images.jpg"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "id": 30493,
+    "brandName": "Lovable",
+    "productDisplayName": "Lovable Women Fiona Rose Pink Bra",
+    "price": 825,
+    "description": "Dusky pink, mildly padded bra with seamless, underwired cups, silver dangler at the centre, hook closure at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7924d57a29d393f9dcf15c6b9f7cd1ab_images.jpg"
+    }
+}

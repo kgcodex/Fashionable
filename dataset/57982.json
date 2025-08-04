@@ -1,0 +1,17 @@
+{
+    "id": 57982,
+    "brandName": "Latin Quarters",
+    "productDisplayName": "Latin Quarters Women Black Top",
+    "price": 1350,
+    "description": "Black and white printed, one shoulder, woven top, has a cut out and bow detail on the one shoulder strap and an adjustable spaghetti strap on the other shoulder",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Black-Top_60bd88b0a1467d28ee6fab14bb0eef56_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Black-Top_5c2bd284044d778412590cd69f9c7835_images.jpg"
+    }
+}

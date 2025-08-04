@@ -1,0 +1,17 @@
+{
+    "id": 50167,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Brown Wedges",
+    "price": 1490,
+    "description": "Style NoteCreate",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4612b6cdf1bc1dcdfe382b42a7c8a23c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/264d0a08b87a9e2496aca0fa16e83c2a_images.jpg"
+    }
+}

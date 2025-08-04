@@ -1,0 +1,17 @@
+{
+    "id": 32615,
+    "brandName": "Levitate",
+    "productDisplayName": "Levitate Men Reversible Black & Brown Leather Belt",
+    "price": 825,
+    "description": "Black reversible belt with brown on the other sideTang buckle with a twist-and-turn mechanismHoles to customise the fit",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/40573aead850b865b106d30af0835936_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9dae0a03eb50d89023c000ed4d39e698_images.jpg"
+    }
+}

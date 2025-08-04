@@ -1,0 +1,17 @@
+{
+    "id": 22061,
+    "brandName": "Vishudh",
+    "productDisplayName": "Vishudh Women Brown Printed Kurta",
+    "price": 699,
+    "description": "Brown kurta with red and beige print, V neck with top stitched panel at chest, three quarter sleeves with stitched binding at cuffs, and vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e561304d026d829d131ada7e6b690537_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a9874f4efb80c3b35c3e85e8484f817c_images.jpg"
+    }
+}

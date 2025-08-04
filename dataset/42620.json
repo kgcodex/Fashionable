@@ -1,0 +1,16 @@
+{
+    "id": 42620,
+    "brandName": "Estelle",
+    "productDisplayName": "Estelle Gold Plated Drop Earrings",
+    "price": 499,
+    "description": "Gold plated, drop earrings, has a circular base embellished with stone and leaf shaped dangler with cut-out detail at the centre and stone embellishmentsSecured with a post and back closureWarranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Estelle-Gold-Plated-Drop-Earrings_c671ff256dae329174384d8e233f397b_images.jpg"
+    }
+}

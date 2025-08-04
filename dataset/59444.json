@@ -1,0 +1,17 @@
+{
+    "id": 59444,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Striped Grey Slim Fit Shirt",
+    "price": 1999,
+    "description": "White and grey striped shirt, spread collar, yoke at the front and back, long sleeves with buttoned cuffs, full buttoned placket, patch pocket on the left chest and curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Grey-Shirt_41cd257124c61fa1c1c2f681c74cf45a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Grey-Shirt_13a54c7421ec7980f6957154f74ce2db_images.jpg"
+    }
+}

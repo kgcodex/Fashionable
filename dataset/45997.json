@@ -1,0 +1,17 @@
+{
+    "id": 45997,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Black Striped Saree",
+    "price": 1690,
+    "description": "Black striped woven saree with pink border and tassels at the edges, has subtle blue striping",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e94b922034864c71f8df3d4ddda6b52e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0231798bb7684cf8e7e0c0123758898d_images.jpg"
+    }
+}

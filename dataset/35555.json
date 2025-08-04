@@ -1,0 +1,17 @@
+{
+    "id": 35555,
+    "brandName": "Enroute Teens",
+    "productDisplayName": "Enroute Teens Red Sandals",
+    "price": 999,
+    "description": "Stylish and sweet without looking overtly grown-up, this pair is perfect for the teen who likes to stay abreast of the latest fashion trends. This pair is just right for the latest season's style with pastel shades dominating the ensemble!UpperCriss-crossing leather straps across the forefoot and midfootAnkle strap looping around the collar with a Velcro closureOutsoleTPU textured outsole with a heel patchSandal careWipe surface with a dry, clean cloth to remove dust and dirtDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Kids-Girls",
+    "gender": "Girls",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5a442aff1f5eb3aac4a4dd4544447df7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b688259b091bf32bd42dc7411caf1f12_images.jpg"
+    }
+}

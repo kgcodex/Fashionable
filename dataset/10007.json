@@ -1,0 +1,17 @@
+{
+    "id": 10007,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women As Trophy Swo White T-Shirts",
+    "price": 1095,
+    "description": "Composition White round neck t-shirt with short sleeves, made of 100% cotton, has fabric tape detailing on the inseam of the neckline, graphic print on the front and nike swoosh printed near the hem Fitting Regular Wash care Machine wash in cold water at 30 degrees with like colours Do not use bleach or softeners Remove immediately Do not allow to lay on itself when wet Tumble dry low Cool iron Do not iron directly on print/trims/ logo Do not dry clean You know how they say, &ldquo;when in doubt, wear white&rdquo;.... This white t-shirt from nike takes this saying and makes it better by adding funky graphic print on the front! The multi coloured print is eye-catching and funky, which will make you stand out in a sea of people! Plus, the cotton fabric will keep you comfortable all day long. Team it with jeans or shorts and casual shoes to look fab.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/223426149d2aa106fa426657b9655811_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4b3c6ce1a91fde9e7ac4a3ce57bd45e2_images.jpg"
+    }
+}

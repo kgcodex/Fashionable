@@ -1,0 +1,17 @@
+{
+    "id": 59880,
+    "brandName": "Femella",
+    "productDisplayName": "Femella Women Black Stockings",
+    "price": 450,
+    "description": "Black pantyhose stockings, crisscross diamond shaped self-pattern, elasticated waist, stretchable fabric for a snug fit",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-Black-Stockings_4642ed6fcf41e9769f4a5fef59803d25_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-Black-Stockings_5c189d5957875cbfbde5013648e0322d_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 38756,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Fluorescent Green Tote Bag",
+    "price": 1895,
+    "description": "Fluorescent green tote bag Two short handles One main compartment with an internal pocket Warranty for manufacturing defects: 6 months (not valid on products with more than 20% discount)Warranty provided by Brand Owner / Manufacturer",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/61c136e3e8ff6846593e94d38130df32_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/47a7c265e54f7f7de9bdd69d6aa58ded_images.jpg"
+    }
+}

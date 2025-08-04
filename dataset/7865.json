@@ -1,0 +1,17 @@
+{
+    "id": 7865,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Black Printed Polo T-shirt",
+    "price": 750,
+    "description": "Black printed polo T-shirt, has a polo collar, short button placket, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/89a968f9bad8a9b3f5787d7db2608a90_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/977a5501bf9c2bebacd88e4dbeee50d3_images.jpg"
+    }
+}

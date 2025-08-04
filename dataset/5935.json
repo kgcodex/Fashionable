@@ -1,0 +1,17 @@
+{
+    "id": 5935,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Women Red T-shirt",
+    "price": 1499,
+    "description": "Product Details Red stylish T-shirt from ucb with short sleeves, round neck and a print on the front. Our stylist has styled this with a slim white belt in the picture Wash care Delicate machine wash at 30 degrees Use mild detergent Do not tumble dry Do not wring Do not bleach Do not dry clean Do not dry in direct sunlight Dry flat in shade Warm iron Do not iron directly on print/embroidery",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/80d0368a4c74e5656eef3ab1eee324f0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7cd50be06a91ac1a684a5bda1f9c86be_images.jpg"
+    }
+}

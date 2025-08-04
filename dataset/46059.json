@@ -1,0 +1,17 @@
+{
+    "id": 46059,
+    "brandName": "Estelle",
+    "productDisplayName": "Estelle Women Gold Colour Studded Bracelet",
+    "price": 1099,
+    "description": "Gold colour braceletCentre has a layered design with studded detailHas a press clasp closure",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Estelle-Women-Silver-Plated-Studded-Clamp-Bracelet388-Silver-Bracelet_bfa0653372555279a9308bce3334f30c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Estelle-Women-Silver-Plated-Studded-Clamp-Bracelet388-Silver-Bracelet_44cac8e3c2b2ee7f8cd347a122bb28f1_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 53580,
+    "brandName": "Q&Q",
+    "productDisplayName": "Q&Q Men Black Watch",
+    "price": 675,
+    "description": "Case style: Analog watch with steel round caseDial style: Black dial with luminous handsStrap style: Black plastic strap with a tang claspFeatures: Water resistant 10 BAR, wearable around sinks, during swimming, poolside diving but not highboard diving and surfingWarranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-Black-Watch_9c8cb6f3305a6281458a998ffe4d73be_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-Black-Watch_8f2dd540cae774b735cb099ab648ac71_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 11441,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Teal Top",
+    "price": 2199,
+    "description": "Winter teal blue top with a stand up collar at back, V neckline, asymmetrical seam with pleat detailing at chest, elasticated hemline with pleat detailing on the left side seam along with draping effect",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Women-Light-Winter-Blue-Tops_b4ff31f2bcda9e6add7631efab314314_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Women-Light-Winter-Blue-Tops_871ac009f7d442b86287b7064e0a756e_images.jpg"
+    }
+}

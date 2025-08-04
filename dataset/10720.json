@@ -1,0 +1,17 @@
+{
+    "id": 10720,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Ftbll/Socc shorts White Shorts",
+    "price": 1695,
+    "description": "CompositionWhite 100% woven polyester shorts engineered with Dri-Fit technology, with a built-in liner, mesh gussets below the crotch area and back waistband, comfortable elasticated waistband, contrast taping along the sides, embroidered club crest, brand logo and club lettering on waistband FittingComfortWash careMachine was cold separatelyDo not use softeners or bleachRemove immediately and line dryDo not ironDo not dry cleanPart of the 2010-11 home kit of the soccer team manchester united, these polyester shorts are designed for absolute comfort on the field and off it. The mesh gussets offer ample ventilation in the right places, while the elastic waistband sits snug on the waist.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1710242b3be77b33b46ee0a8e094148e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cbef41528b3758be94a4f753b6fc82d4_images.jpg"
+    }
+}

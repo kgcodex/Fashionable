@@ -1,0 +1,17 @@
+{
+    "id": 45395,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Black & Red Sandals",
+    "price": 990,
+    "description": "Style Noterocia brings back the 1950s kitten heel trend with these sleek and minimalistic red sandals. Its semi-cushioned heel ensures round the clock comfort. Pair it with a printed sh",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/457af5a57a76ee8c7d0f01d246069c49_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c320bd511dea1637549d98b5d4b86330_images.jpg"
+    }
+}

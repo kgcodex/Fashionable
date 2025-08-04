@@ -1,0 +1,17 @@
+{
+    "id": 57309,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Brown Flats",
+    "price": 590,
+    "description": "Brown slip on falts with an upraised heel Thong styled upper, knotted near the toe separator and broad straps Soft footbed Upper stitched to the outsole Tough outsole with star shaped patterns",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocia-Women-Brown-Sandals_928457fe74ac7281fd1b562c45ee117b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocia-Women-Brown-Sandals_7d3054e0879a0a154126d790687e6b1f_images.jpg"
+    }
+}

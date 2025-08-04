@@ -1,0 +1,17 @@
+{
+    "id": 51983,
+    "brandName": "Inaya",
+    "productDisplayName": "Inaya Women Grape Babydoll Nightdress",
+    "price": 2000,
+    "description": "Grape sleeveless nightdress, has a V neckline, spaghetti straps,&nbsp; lace trimmings at the bust line, inner padding, lace detailing below the bust and a flowy hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Inaya-Women-Nightdress_3a4a50273654fa3de8b1335975edce5c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Inaya-Women-Nightdress_dd4aa366440e84af6bf1de49010e17f8_images.jpg"
+    }
+}

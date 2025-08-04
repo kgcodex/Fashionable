@@ -1,0 +1,17 @@
+{
+    "id": 46215,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Orange Sports Shoes",
+    "price": 3099,
+    "description": "Style NoteDesigned for lightweight support, control and durability, these adidas f5 6 TRX HG soccer cleats feature a synthetic upper, a clean strike zone, EVA cushioning and the Traxion HG outsole for grip.Product DetailsSleek, orange, synthetic upper for light weight and durabilityAsymmetrical lacing for better ball contactComfortable textile liningPatented Adidas three stripes on the sides for styleEVA insole for comfortTRAXION HG outsole for grip and comfort on firm natural surfacesMaterial and careSynthetic, fabricWipe with a clean cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d9a4e24ee2081112bc4b62e0bebf2174_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/16d6535926eceb510530fc793b41acb1_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 4701,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex Originals Black Watch",
+    "price": 2295,
+    "description": "Product descriptionThis adidas Unisex watch is part of the adidas originals collection. The adidas Originals range of watches are designed for the fashion aware who look for timeless modern design and functionality. Constructed with great care to detail, they bring to life the Originals ethos of classic and relevant style in a timepiece.Case diameter: 42 mmCase thickness: 14 mmDial shape: Rectangular with rounded sidesBlack polyurethane strap and rectangular polycarbonate case for enhanced style, durability and comfortGrey bezel with ethed logo for added durability and styleGrey digital chronograph dial displaying time, day and dateWater resistant, stainless steel case back for enhanced durabilityDigital alarm Stopwatch with 1/100th second measurement for accurate performance measurementTang clasp to keep the watch firm in place as a belt buckleQuartz movement of time display using a paper-thin piece of synthetic quartz to ensure accurate 10 ATM water resistance tested using the equivalent static depth rating, with resistance&nbsp; at 50 meters or 165 feet, allowing you to use it even when snorkelling, skin-diving, and swimming10 Lap memory that allows the watch to record upto 10 laps. The watch divides its readings into sessions and provides average, best and local time. You may either rename these sessions or they will hold default names such as set 1, set 2, etc.",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ffb2f20286e2631e498df39f82651f27_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bfc3b862dc7f35549cceae3004d010de_images.jpg"
+    }
+}

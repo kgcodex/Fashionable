@@ -1,0 +1,17 @@
+{
+    "id": 58009,
+    "brandName": "Latin Quarters",
+    "productDisplayName": "Latin Quarters Women Yellow Top",
+    "price": 950,
+    "description": "Yellow and black, sleeveless, knit top, has a scooped neckline and shredded detail in front below the neckline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Yellow-Top_5b2ab08720c4a3d760a4c7f521cfb2ca_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Yellow-Top_44127c82d994284904c636eaeb3e92dc_images.jpg"
+    }
+}

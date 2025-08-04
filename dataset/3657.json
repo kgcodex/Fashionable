@@ -1,0 +1,17 @@
+{
+    "id": 3657,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men Emotion Red Shoe",
+    "price": 2099,
+    "description": "The fiery Emotion shoe from fila is crafted from the brand's finest materials. Its ethusiastic styling on the upper is perfect for the charismatic debonair on a casual outing. Wear this with tonal tees and your favourite denimsUpperStylish synthetic upper with aggressive patterningReinforced overlay on the heel for ankle supportLow cut style on the ankle for optimal comfortCentral lacing systemPadded tongue and socklinerMidsoleEVA midsole for lightweight comfort and better shock absorptionCushioned EVA foam footbed for enhanced impact protection and comfortOutsoleBranded TPU heel with flex grooves for evenly distributing shockTextured patterning on the outsoleShoe careWipe surface with soft, clean, cloth or brush, cold water and mild detergent to remove dustDo not machine wash or use a drierAvoid storing shoes in extremely hot conditions or in sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3ba49a5035f4d7a148fb82d6991d4e1f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ff458f8d6039f44d93e2cf3829b347b6_images.jpg"
+    }
+}

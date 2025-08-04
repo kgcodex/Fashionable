@@ -1,0 +1,17 @@
+{
+    "id": 47275,
+    "brandName": "FCUK Underwear",
+    "productDisplayName": "FCUK Underwear Men White Brief",
+    "price": 499,
+    "description": "White Active Engineered stretch hip brief, has a physique flattering Fit, soft elasticated broad grip waistband with branding on it, double layered pouch for shape retention and tagless comfort",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ca93396d3a4b6f85a7bd6dd437857607_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/577bc08d4dd049d32f6acc5980696ba3_images.jpg"
+    }
+}

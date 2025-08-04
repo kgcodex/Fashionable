@@ -1,0 +1,17 @@
+{
+    "id": 32648,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Black Legacy Woven     Training  Shorts",
+    "price": 1195,
+    "description": "Composition Black shorts for men made of 100% polyester, engineered with Dri-Fit technology, has an elasticated waistband with a drawstring, two insert pockets on the sides, side meshed panels with grey piping and appliqu&eacute;d nike swoosh on the left hem Fit Regular Wash care Machine wash cold at 30 degrees with like colours Do not bleach, dry clean or iron Line dry Stylish to a T, these polyester shorts from nike are designed with Dri-Fit technology to keep you fresh and comfortable while you sweat it out at the gym or on the trail. The broad waistband sits snugly, while you can further customise the fit with the drawstring. Team it with Nike Sports tees and shoes for that smart, sporty look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f2ae0cff3048eba424328260b4cf6c8d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3dd899ba5da99a404995b3df1e36dc64_images.jpg"
+    }
+}

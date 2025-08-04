@@ -1,0 +1,17 @@
+{
+    "id": 28564,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Bags Black T-shirt",
+    "price": 795,
+    "description": "CompositionBlack T-shirt for men made of 100% cotton, has a round ribbed neckline, short sleeves with nike swoosh and graphic print on the frontFitStandardWash careMachine wash cold at 30 degrees with like coloursDo not bleach or dry cleanTumble dry lowWarm iron; do not iron on decorationsGet casual with the utmost comfort in this nike T-shirt. The cotton wicks sweat away and keeps you fresh and comfortable during fun times with friends, while the fashionable graphic print adds style. Pair this tee with your favourite denims and sports shoes.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/61ba100d4bf59ca574989380e46a0d33_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cd8a454f0641dac62be7b77650646f24_images.jpg"
+    }
+}

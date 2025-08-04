@@ -1,0 +1,17 @@
+{
+    "id": 35777,
+    "brandName": "Force 10",
+    "productDisplayName": "Force 10 Men Black & Green Sports Shoes",
+    "price": 1899,
+    "description": "Style Note force 10 shoes for men - stylish upper with a tough masculine structuring makes for a great looking shoe that provides optimal performance on the track, in the gym or on the field. Product Details Round blunt toed green and black shoe with central lace-ups and mesh inlays and decorative stripes on the upper Reinforced overlay on the heel collar and toe cup has a pull loop at the back Padded mesh inner with a padded tongue and heel collar Foamy rubber midsole TPU outsole with deep grooves and grooved at the peripheryMaterial and Care Synthetic Remove dust with dry clean cloth Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b0136d67ad8d387d86e5794d2af7118f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bb2decb71e61f46b664293b1675dafb5_images.jpg"
+    }
+}

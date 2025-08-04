@@ -1,0 +1,17 @@
+{
+    "id": 44698,
+    "brandName": "Wills Lifestyle",
+    "productDisplayName": "Wills Lifestyle Women Blue Top",
+    "price": 1799,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/aa76d54ffbecc908836d1b1033e42544_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/96378db32ef24cc3c99d9ae7a7701e3e_images.jpg"
+    }
+}

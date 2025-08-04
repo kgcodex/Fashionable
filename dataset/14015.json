@@ -1,0 +1,17 @@
+{
+    "id": 14015,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Solid Off-White Polo Jerseys",
+    "price": 1195,
+    "description": "CompositionWhite polo neck T-shirt made of 100% polyester Dri-Fit fabric, has a ribbed collar with tape detailing on the inseam, short concealed button placket, long raglan sleeves, mesh panels on the back, inner sleeve and sides and brand logo embroidered on the upper left chestFittingRegularWash careMachine wash cold with like coloursDo not bleach Tumble dry on lowDo not iron or dry cleanPlay better cricket in this athlete-friendly designer T-shirt from nike. The Dri-Fit fabric wicks sweat away to keep you dry and comfortable all day, while the mesh panels on the sides and back offer superior ventillation. The white colour and long sleeves subtly enhances your style. Team this with track pants and performance shoes.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/85cec0e3f4cecfa94e7ddc63572a4de0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0d120100d6b5b3587a87c4144249910d_images.jpg"
+    }
+}

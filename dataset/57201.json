@@ -1,0 +1,17 @@
+{
+    "id": 57201,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women Brown Tunic",
+    "price": 1800,
+    "description": "Brown woven tunic, georgette, round neck, sleeveless, embroidered yoke in front, plain yoke at back, pleats below yoke, concealed zipper at the left, attached lining, straight hem, lace at the hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Brown-Tunic_378c442db43cdd9e5ff700b3f812d9f8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Brown-Tunic_efc0feebf73d4c4fec85aa564b72f2a5_images.jpg"
+    }
+}

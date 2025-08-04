@@ -1,0 +1,17 @@
+{
+    "id": 23221,
+    "brandName": "Aneri",
+    "productDisplayName": "Aneri Women Maroon Embroidery Kurta",
+    "price": 1799,
+    "description": "Wash care Machine wash separately using mild detergent Do not dry clean, do not bleach Drip dry Warm iron",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/324a7abf410335dbfd534f70d7977bb5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ef50b9065071914b111bd9b74c6e281b_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 36326,
+    "brandName": "Mr. Men",
+    "productDisplayName": "Mr. Men Boys Mr. Noisy Yellow T-shirt",
+    "price": 299,
+    "description": "Style Note Stretchy and comfy room-to-grow style t-shirt from Mr men, this stylish tee is the go-to piece for summertime games and fun, this tee will last longer than his scruffy escapades!Product DetailsYellow t-shirt with a round ribbed neckline, short, white raglan sleeves with slightly distressed rubber and graphic print on the frontMaterial and Care100% CottonMachine wash warm with like colours using a mild detergentUse a non chlorine bleach if neededTumble dry lowCool iron do not iron on decorationsDo not dry clean",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6c13e9ca08bc83db33902d06daa7e2d6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c0f04cf7c9bd9d7d694e234e980ecee3_images.jpg"
+    }
+}

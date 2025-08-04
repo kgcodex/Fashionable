@@ -1,0 +1,17 @@
+{
+    "id": 3019,
+    "brandName": "Lee",
+    "productDisplayName": "Lee Men's Slash White T-shirt",
+    "price": 899,
+    "description": "Composition:White round neck, half sleeve t-shirt in 100% cotton with chest printFitting:Regular FitWash Care:1.Light machine wash2.Do not scrub, bleach or dry clean3.Dry and warm iron on reverse This summer, play it cool in this white tee from lee. Team this with jeans or cargo shorts for a totally chilled out beach vibe during the day and gear up for a wild night party by pairing this t-shirt with a motorcycle jacket and dark denims.Model's Statistics:1. The model wears size M in t-shirts2. Height-6', Shoulders-19\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e221ea97809869cb4a532d921f70a8e7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9e95c37d718d1e863ea95c52d7269c79_images.jpg"
+    }
+}

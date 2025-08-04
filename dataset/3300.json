@@ -1,0 +1,17 @@
+{
+    "id": 3300,
+    "brandName": "ASICS",
+    "productDisplayName": "Asics Men's Gel Cushioning Black Yellow Shoe",
+    "price": 3999,
+    "description": "CompositionBlack and yellow reflective running shoes with removable sockliner, California slip lasting, GEL Cushioning System, sole with trusstic system, rear foot cushion and AHARWash careWipe surface with soft, clean, cloth or brush, cold water and mild detergent to remove dustDo not machine wash or use a drier Avoid storing shoes in extremely hot conditions or in sunlightFittingRegularMade for that comfortable running experience, these lightweight shoes from asics have a removable sockliner that can accommodate a medical orthotic. While the California slip lasting ensures stability and comfort, the upper is stitched around the EVA board and directly attached to the midsole, enhancing durability. The GEL Cushioning System attenuates shock during impact and toe-off phases and allows movement in multiple planes as the foot transitions through the gait cycle. The trusstic system reduces sole weight. It&amp;rsquo s reflective properties makes it a safe use even in low light .The heel plug enhances durability at initial impact and the AHAR placed in critical areas of the outsole provide exceptional durability.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6cbc407debd5ae5ebbb9f38b2716e08d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0564789163124bc2b4a8a38c4457c871_images.jpg"
+    }
+}

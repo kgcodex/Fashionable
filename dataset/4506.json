@@ -1,0 +1,17 @@
+{
+    "id": 4506,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men's Arcade Midway Charcoal Shoe",
+    "price": 2299,
+    "description": "Get retro and don an easy-going style with skechers Arcade-Midway denim shoes. Accented with multiple overlays of soft woven canvas and fabric, this classic, true to size lace-up casual sneaker is a great lifestyle sneaker that comes with an additional pair of laces.UpperDenim upper with soft woven canvas fabric and stitched overlay accents for durabilityStitch detailing across the periphery of the collar and side panels to enhance the style statementSynthetic twill laces running through metallic eyelets for snug Fit and durabilityPadded collar for snug fit and protection from impactDenim tongue with lining for added comfortMidsoleVulcanized rubber, Phylon midsole for lightweight comfortArched footbed for ergonomic fitOutsoleDual-layer rubber outsole for extended durabilityHerringbone pattern on outsole glued against the periphery of the heel counter and forefoot for enhanced grip and stabilityDiagonal flex grooves along the forefoot to facilitate natural movement of the feetScooped heel in the shape of a skull for added cushioningWash careRub surface with a soft, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/09257be5d660bf89d1759d3d4aa6da53_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/234aeaa9e496a5c7c54f8402c5a844a3_images.jpg"
+    }
+}

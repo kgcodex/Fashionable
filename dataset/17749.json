@@ -1,0 +1,17 @@
+{
+    "id": 17749,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Hispana Sandal",
+    "price": 1999,
+    "description": "Get ready to float in comfort and style with these lightweight Hispana floaters from adidas. Comfortable yet sturdy, these sandals are great for a stroll in the park or a walk on a trek trail. Upper Synthetic straps on the forefoot, collar and ankle, with velcro fastners for the forefoot and ankle straps Padded inner lining for the straps for greater comfort Printed logo on the forefoot and ankle strap Cushioned footbed with slightly elevated triangle and bee hive pattern for a soft massage feel and all-day comfort Outsole TPR outsole with multi-directional lugs for durability, grip and traction Flex grooves for natural movement of the feet Curved midfoot for ergonomic comfort",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Women-Hispana-Sandal_b9cf90f041d041795aeacbb65942aeda_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Women-Hispana-Sandal_2407187473ad1c56c8434b6d86a264f2_images.jpg"
+    }
+}

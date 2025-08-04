@@ -1,0 +1,17 @@
+{
+    "id": 22881,
+    "brandName": "Woodland",
+    "productDisplayName": "Woodland Men Khaki Sports Sandals",
+    "price": 1995,
+    "description": "-",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Woodland-Men-Khaki-Casual-Sandals_aaaac6d316dae28d7f54ceed2b9aef0a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Woodland-Men-Khaki-Casual-Sandals_aa01f2a443cc928877086e55f3c3587c_images.jpg"
+    }
+}

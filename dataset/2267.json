@@ -1,0 +1,16 @@
+{
+    "id": 2267,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Pink Women T-shirt",
+    "price": 895,
+    "description": "Composition:Pink, round neck, cotton blend t-shirtWash Care:It can either be hand washed or machine washedFitting:Comfort FitAction:Designed simple, this round neck, pink tee with a smart nike logo across the chest is that perfect sportswear. It's unique heat absorption technology will keep you fresh and dry all though your fitness activities.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fa75c851c950ab9be8a779667487535b_images.jpg"
+    }
+}

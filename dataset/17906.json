@@ -1,0 +1,17 @@
+{
+    "id": 17906,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Sptcas Black Sweatshirt",
+    "price": 2195,
+    "description": "Composition Black sweatshirt made of 80% cotton and 20% polyester, has a round ribbed neck, long sleeves with ribbed cuffs, brand swoosh and Bleed Blue label on the left sleeve and rubber print on the front Fitting Regular Wash care Machine wash cold with like colours Do not bleach or dry clean Tumble dry low Cool iron inside out; Do not iron on decorations A sportswear classic, this great sweatshirt from nike will form the backbone of your casual wardrobe and is a refreshing addition to your winter collection. The thick fabric provides lightweight comfort and warmth, the stylish print gives you a strong sporty edge. Layer over long sleeved tees, jeans or tracks and sports shoes. Model statistics Product is a size M on a model of height 6', chest 39\" and shoulders 18\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d6f413070de07e0627fe0a139f7e3356_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e8d3de981422a7cdebce2e9846cbf596_images.jpg"
+    }
+}

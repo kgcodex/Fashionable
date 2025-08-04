@@ -1,0 +1,17 @@
+{
+    "id": 34076,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Women White Leather Ballerinas",
+    "price": 2999,
+    "description": "A pair of white ballerinasLeather upper with a bow detailTextured TPR outsole with patterned groovesWarranty: 3 months against manufacturing defects",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/243858e7bd8dcc4b3a11a9b7b071fe57_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/82a3ce5cf5e1044650ebd06960580405_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 49686,
+    "brandName": "Park Avenue",
+    "productDisplayName": "Park Avenue Men Blue Tie",
+    "price": 899,
+    "description": "Blue tie with concentric sqaure geometrical patterning A loop behind the broad tongue to tuck the smaller end in",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a45e805f8612906bdb5d753106778558_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5253e3bedbfdf390e85e5cf9707ff9ce_images.jpg"
+    }
+}

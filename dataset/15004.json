@@ -1,0 +1,17 @@
+{
+    "id": 15004,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Solid Grey Jackets",
+    "price": 2199,
+    "description": "CompositionGrey hooded jacket made of 100% cotton, has full sleeves with patented adidas 3-Stripes running from the shoulder to the cuffs, hood with a mesh inner panel and drawstrings, full front zipper, ribbed cuffs and hem, and branding in rubber print on the left chestFittingComfortWash careWash below 40 degrees separatelyDo not dry cleanDo not soak, bleach or tumble dryDry in shadeWarm iron; do not iron on decoartionsPerfect for your sporting needs, this jacket from adidas is designed to keep you warm and comfortable during your training sessions in the winter chill. Team it with adidas track pants and sports shoes for a sporty look.Model statisticsThe model wears size M in jacketsHeight: 6'1', Shoulders: 18.5\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2b0b77e429f82fcac813b2e68ed7e097_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/099d00bfe4f8ace16b3accf5a719fbe6_images.jpg"
+    }
+}

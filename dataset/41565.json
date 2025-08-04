@@ -1,0 +1,17 @@
+{
+    "id": 41565,
+    "brandName": "AND",
+    "productDisplayName": "AND Women Blue Dress",
+    "price": 2699,
+    "description": "Blue sleeveless dress, has a square neckline, hook and zipper closure below the right armhole and rouch detail and button flap detail on the front&nbsp;",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/AND-Women-Blue-Dress_471755e27d0e8965c0bf5a172c0300bc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/AND-Women-Blue-Dress_c487629cec5ea390db468344dc29ecbb_images.jpg"
+    }
+}

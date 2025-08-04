@@ -1,0 +1,17 @@
+{
+    "id": 37097,
+    "brandName": "Wills Lifestyle",
+    "productDisplayName": "Wills Lifestyle Men Multi Coloured Polo T-shirt",
+    "price": 1699,
+    "description": "Multi-coloured striped polo neck T-shirt, has short sleeves with ribbed cuffs, chest buttoned placket and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/44555346eab4e2d1239fbe1864732e48_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fb384cc190bd3b42f6e9f1bc06fc1ef2_images.jpg"
+    }
+}

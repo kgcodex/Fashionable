@@ -1,0 +1,17 @@
+{
+    "id": 47541,
+    "brandName": "Portia",
+    "productDisplayName": "Portia Women Sliver & Black Sandals",
+    "price": 499,
+    "description": "Open toed beige, black and silver sandals with a stylised thong style upperBeige footbed with branding at the heelTough, smooth sole with a grooved and short heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0e713da73514d0d04477d88de679c2c0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/297eb0186991055da73fd62e2955bfda_images.jpg"
+    }
+}

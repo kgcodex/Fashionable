@@ -1,0 +1,17 @@
+{
+    "id": 30172,
+    "brandName": "ESPRIT",
+    "productDisplayName": "Esprit Men  Black Dial Chronograph Watch",
+    "price": 9995,
+    "description": "",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ESPRIT-Men-Chronograph-Black-Dial-Watch_0637e06ba9151c540053d013001e0549_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ESPRIT-Men-Chronograph-Black-Dial-Watch_1ad4dcc855efcd364ad0b9f697aaa885_images.jpg"
+    }
+}

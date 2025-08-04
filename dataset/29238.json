@@ -1,0 +1,17 @@
+{
+    "id": 29238,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men 22YDS Trainer White Sports Shoes",
+    "price": 3499,
+    "description": "Wide Fit Inspired from the famous 22YDS series, this shoe is great for the amatuer cricketer &amp; fan.UpperSynthetic leather upper for comfort and durabilityPerforated for ventilationTPU moulded stripes for support &amp; styleLace-up for snug fitBrand name embossed on the tonguePatented adidas 3-stripes for styleMeshed and padded tongueMidsoleInjection EVA midsole for lightweight cushioningOutsoleAggressive rubber outsole, SPEED GRIP for maximum traction &amp; agility",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5451cc83cae9e131374d98f279d30bb2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/37836faa7529575896795cabe5ac57ab_images.jpg"
+    }
+}

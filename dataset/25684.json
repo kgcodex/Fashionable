@@ -1,0 +1,17 @@
+{
+    "id": 25684,
+    "brandName": "Levis",
+    "productDisplayName": "Levis Men White Innerwear T-Shirt",
+    "price": 419,
+    "description": "White 95% combed cotton and 5% elastane inner T-shirt with a round neck, short sleeves and signature Levi's reg tag on sleeve end Wash care Machine wash cold Do not bleach Tumble dry low Cool iron as needed Do not dry clean If you need a basic tee to keep you feeling fresh under your shirt and provide a little warmth when the air conditioning gets too cold then you've found it here. Levi's know what they're doing when they come up with practical basics which will make you look and feel great. The final product delivered might vary in colour and prints from the display here.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f4dba625175ff13cfc12a36b6f74fa37_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9e9aa2b2c6abf9a55a325c9667c03e47_images.jpg"
+    }
+}

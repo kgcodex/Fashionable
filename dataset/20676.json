@@ -1,0 +1,17 @@
+{
+    "id": 20676,
+    "brandName": "Buckaroo",
+    "productDisplayName": "Buckaroo Men Brown Shoes",
+    "price": 2295,
+    "description": "Style NoteThese low-top rustic shoes from buckaroo blend vintage cowboy styling with a contemporary minimal trend. These classic four-hole lace ups with a leather inner give off a subtly stylish vibe. Style this pair with denims or corduroy trousers and a casual check shirtProduct Details Low-top leather upper with strategically placed overlay on the heelStitch detailing along the seams of the toe boxFour-hole central lace ups with a padded tongueSoft insole for in-step comfortOutsole reinforced onto the upper at the heelRubber midsole and a TPU outsole with a curved midfoot and tyre tread patterningMaterial and CareLeatherUse a leather brush to remove dustDo not store under sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/33cd27bf8673b2b50c9597b8742c77b1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8c92fbb11806ebca59c6202316277283_images.jpg"
+    }
+}

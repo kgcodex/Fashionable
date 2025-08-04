@@ -1,0 +1,17 @@
+{
+    "id": 25712,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex Blue Cap",
+    "price": 599,
+    "description": "Block the elements and look sporty in this fabulous cap from adidas. The cotton fabric and eyelets keep your head cool and dry all day. Team it with jeans, tees and sneakers to complete your sporty fashion statement. Made of 100% cotton Embroidered eyelets on the crown Printed brand name on the front Adjustable back strap Cap care Machine wash in cold water or hand wash separately Do not tumble dry, use softeners or bleach Line dry",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Unisex-Blue-Capaed51fa4ea761787363ef6b223a07cc6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Adidas-Unisex-Blue-Capdc82da31cbc9b9897618a18fc1bc8ee9_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 52412,
+    "brandName": "Red Rose",
+    "productDisplayName": "Red Rose Pink Nightdress 9005",
+    "price": 717,
+    "description": "Article number: 9005Pink knitted nightdress, has contrast adjustable shoulder straps, net overlay on the front with contrast embroidery, contrast taping on the front with a tie-up detail and a frilled panel below it with contrast scalloped edges, elasticated on the back, and contrast scalloped detail along the hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Rose-Pink-Nightdress-9005_ad69653d8c0beb2f0258e5cbcc5cf353_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Rose-Pink-Nightdress-9005_475ba5d0747618eca334afb24c9c69a1_images.jpg"
+    }
+}

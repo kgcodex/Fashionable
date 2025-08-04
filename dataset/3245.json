@@ -1,0 +1,17 @@
+{
+    "id": 3245,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Benecio Leather Black White Shoe",
+    "price": 2799,
+    "description": "Black low-profile vulcanized lace-up shoes made of leather uppers with screen printed sockliner and rubber outsolesUpperCrinkled-leather upper for durability, style and comfortPadded collar and tongue for enhanced comfort and snug FitLeather formstripe detail on the sidesHigh ankle support for comfort to the lower legBrand name embossed on the heel guard and ankle for styleMidsoleBreathable fabric lining and a cushioned footbed for all-day comfort.TPU and EVA midsole combined to give you support and ample cushioningOutsoleTextured durable rubber outsole for maximum traction and gripThe simple design and durable construction of these puma shoes is typical of the brand's minimalistic designs. It has leather upper for instant style and durability, cushioned midsoles for comfort and stability and rubber outsoles for maximum traction. Perfect for urban life.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9d7a59a6ff4728818da2218471dee8bd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/74a97516cc03a8b7aa607660e3d896c1_images.jpg"
+    }
+}

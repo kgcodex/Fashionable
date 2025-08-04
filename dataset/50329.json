@@ -1,0 +1,17 @@
+{
+    "id": 50329,
+    "brandName": "AURELIA",
+    "productDisplayName": "Aurelia Women Teal Kurta",
+    "price": 499,
+    "description": "Teal with light blue print round neck kurta, split neck, woven, orange and black printed facing with golden coloured lace detail, taping at centre front, three quarter sleeves with band at hem and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Aurelia-Women-Teal-Kurta_c122ea27e062e43d879f0f5a154d5c56_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Aurelia-Women-Teal-Kurta_1b96e6ddae5c8f3551e93e2c16bb473d_images.jpg"
+    }
+}

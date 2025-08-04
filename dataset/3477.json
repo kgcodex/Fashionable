@@ -1,0 +1,17 @@
+{
+    "id": 3477,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Tank Black Sleeveless T-shirt",
+    "price": 799,
+    "description": "CompositionBlack sleeveless PES t-shirt made of cotton pique, with white stripes along the cross cut shoulder flapsWash careHand wash or machine washStay cool and energized during the heat of activity in this sleeveless cotton pique t-shirt from adidas. Engineered with comfort dry-Fit, this tee ensures your body gets maximum ventilation while you sweat it out at the gym. The white stripes along the cross cut shoulder flaps adds zing to the outfit.Model's statistics1. The model wears size M in t-shirts2. Height-6', Shoulders-19\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d17867bcc4c16a7297066d42e6ec24a4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/417292d72e666855ecf27ea70f153166_images.jpg"
+    }
+}

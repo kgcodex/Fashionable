@@ -1,0 +1,17 @@
+{
+    "id": 12437,
+    "brandName": "Timberland",
+    "productDisplayName": "Timberland Unisex Casual Green Caps",
+    "price": 1490,
+    "description": "You can never go wrong with a baseball cap, and even more so you are on the right track if it's a timberland one made of organic cotton! Perfect for every season and stylish to the hilt, it adds that regal touch to all your outfits.Unstructured six panel cap made of 100% organic heavy garment washed cotton twill for durability, sweat-free comfort and easy maintenanceEyelets on the crown for enhnaced ventilationAdjustable leather backstrap with a butterfly closure for a customised FitBrand name embroidered in matte cotton on the front crown above the visorPre-curved visor to protect the face from elementsCap careHand wash in luke warm water using a mild detergent Drip dry in shade",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/203dfda0f4bc7b09057012743d392062_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ac865457cb0d9710c7f97d62b3a540ad_images.jpg"
+    }
+}

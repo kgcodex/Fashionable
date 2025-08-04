@@ -1,0 +1,17 @@
+{
+    "id": 2054,
+    "brandName": "Lee",
+    "productDisplayName": "Lee Men's Stone T-shirt",
+    "price": 699,
+    "description": "A t-shirt tribute to the phenomenon that took denim wearers by storm. This lee t-shirt is for all the guys who love to rock in their stone washed jeans.&nbsp; &nbsp; Model's Statistics:1. The model wears size M in t-shirts2. Height-5.11\", Shoulders-17.5 \"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/87eb2daaf5fa7f275e51158ad4401a81_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cd77acb1528367be08deb35d1e8e040b_images.jpg"
+    }
+}

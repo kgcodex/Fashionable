@@ -1,0 +1,17 @@
+{
+    "id": 36405,
+    "brandName": "Reid & Taylor",
+    "productDisplayName": "Reid & Taylor Men Brown Socks",
+    "price": 325,
+    "description": "Style NoteIt's comfort unparalleled once you slip into this pair of brown and blue striped socks from Reid and Taylor. Crafted from soft, stretchable fabric, these socks have been designed for casual occasions.Product DetailsBrown and blue striped socks for all-day comfort, easy stretch and sweat-free wearPadded foot-bed for cushioned comfortHand finished toe seam for abrasion-free wearRib knit mouth for a comfortable wearRoomy toe area for superior comfort and durabilityBranding on the heel areaMaterial and Care100% combed mercerized cottonMachine wash cold in 40 degrees using a mild detergentWash dark colours separatelyDo not iron, dry clean or tumble dryDry in shade",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/19b7a5c5c62b77e389421dac795a85df_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/906205dae3c1e82d8d394f982f7628e5_images.jpg"
+    }
+}

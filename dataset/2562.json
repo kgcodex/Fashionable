@@ -1,0 +1,17 @@
+{
+    "id": 2562,
+    "brandName": "Nabaiji",
+    "productDisplayName": "Nabaiji Women Black Swimsuit",
+    "price": 1099,
+    "description": "Black swimming costume with a round neck, branding on the front, shelf bra to ensure good bust support, racer back, mesh panels at front and back, circular cut out detail at the back, legsuit shape for good coverage with elasticated hem&nbsp;",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Domyos-Women-Tank-Classic-Black-Top_bcd9bd2ee81ba4197120c7a0c6640476_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Domyos-Women-Tank-Classic-Black-Top_e0452099c4a8e93c665ec50d5980232d_images.jpg"
+    }
+}

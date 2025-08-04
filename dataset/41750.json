@@ -1,0 +1,17 @@
+{
+    "id": 41750,
+    "brandName": "Doodle",
+    "productDisplayName": "Doodle Boys Printed Green T-shirt",
+    "price": 349,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/27a5061d20db6df4053c33edcce6b357_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cee5b6475443732dfd3e6b96870d80f5_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 58188,
+    "brandName": "Rocky S",
+    "productDisplayName": "Rocky S Women Blue Handbag",
+    "price": 3150,
+    "description": "Blue handbag with quiltingFlap with magnetic button closure and metal brandingOne main zippered compartment, a slip pocket, a mobile slot and a zippered pocket built into the liningAll over printed branding on the liningOne short handle for carrying easeLegs at base",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocky-S-Women-Blue-Handbag_75a05e2b1e1f583bb017c04b777a0217_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocky-S-Women-Blue-Handbag_05d82af495d16689b8106f58f2e0806c_images.jpg"
+    }
+}

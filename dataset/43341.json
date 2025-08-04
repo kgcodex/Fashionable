@@ -1,0 +1,17 @@
+{
+    "id": 43341,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men Realflex Optimal Grey Sports Shoe",
+    "price": 5999,
+    "description": "Grey sports shoes with a mesh upper and orange accentsStripe detail at the midfoot and backfoot regionReinforced at the heel collar and has brandingCentral lace up closureSoft padded footbed and tongue with brandingTextured outsole with aggressive lugsWarranty: 3 months from the date of purchase against manufacturing defects",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Reebok-Men-REALFLEX-OPTIMAL-White-Sports-Shoes_3a62450e4009df914ad57251f67d3769_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Reebok-Men-REALFLEX-OPTIMAL-White-Sports-Shoes_ea1dcddcd6af46117ac1c49be0b501b7_images.jpg"
+    }
+}

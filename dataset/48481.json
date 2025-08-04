@@ -1,0 +1,17 @@
+{
+    "id": 48481,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Black Dress",
+    "price": 4499,
+    "description": "Black woven dress, round neck, sleeveless, empire line with gathers and keyhole opening with buttons on top and zipper from waist down",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Black-Dress_336c1831980529c384b62576d54adfc2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Black-Dress_0b7c94270de1212c080753b9aa332449_images.jpg"
+    }
+}

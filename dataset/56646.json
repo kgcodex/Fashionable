@@ -1,0 +1,17 @@
+{
+    "id": 56646,
+    "brandName": "Mumbai Slang",
+    "productDisplayName": "Mumbai Slang Women White Kurti",
+    "price": 549,
+    "description": "White woven kurta with floral print in blue and red, has a mandarin collar with a split neckline, half button placket, pintucks at the yoke, three fourth sleeves with mid button tabs and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Mumbai-Slang-Women-White-Kurti_f73f56cc775a39a7725edad45768dc8e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Mumbai-Slang-Women-White-Kurti_954ea1ef488099a8c44925066014eb0e_images.jpg"
+    }
+}

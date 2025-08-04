@@ -1,0 +1,17 @@
+{
+    "id": 33417,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Brown Wallet",
+    "price": 700,
+    "description": "Brown single-fold wallet with knit and strap detail on the front Press buttoned closure at the folds Three insert pockets, five card slots and one zipped pouch pocket inside Branding inside One external zipped pocket and butterfly cut-out design at the back",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Brown-Wallet_bd5d0d1f50c0438a7b72cb004b104d8f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Brown-Wallet_6a4ac9d24fa0b6dac2f031c0942b84e9_images.jpg"
+    }
+}

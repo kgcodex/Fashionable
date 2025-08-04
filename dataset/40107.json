@@ -1,0 +1,17 @@
+{
+    "id": 40107,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Black T-shirt",
+    "price": 899,
+    "description": "Style Note adidas helps you avoid discomfort and keep dry and comfortable all day long. These T-shirts also offer you a stylish look that is most flattering on your day off. Pair it with a pair of jeans and sports shoes on your day off. Product Details Black T-shirt, has round neckline, short sleeves with Adidas patented three stripes, branding at the back below the neckline and graphic print in front Material and Care 70% cotton and 30% polyester Machine wash warm with like colours using a mild detergent Do not soak, tumble dry, bleach or dry clean Dry in shade Warm iron; do not iron on decorations Size and Fit Regular fit The model (height 6' and shoulders 18\") is wearing a size M",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b529c0797caad9e5f1e82d4c6f5ea3df_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/da69c498be684bac566e038898822320_images.jpg"
+    }
+}

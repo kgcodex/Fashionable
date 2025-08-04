@@ -1,0 +1,17 @@
+{
+    "id": 4680,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex Ess Black Silver Backpack",
+    "price": 1199,
+    "description": "Product SpecificationMade of 100% polyester for enhanced durability and waterproofingRoomy inner compartment to hold laptopFront pockets to hold all essentialsMesh side pockets to hold bottles and other essentialsNylon bonded thread for long lifeHaul loop for handling easePadded, adjustable shoulder straps that distribute weight evenly and protect the shoulders and back from injuriesErgonomic design to Fit the torso comfortablyWash careDo not machine washRub surface with dry clean cloth to remove dust and dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ba201564d1f64c1af8cc061132ffe39c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2466ee02ccada2e17fcc26d0fd0edb90_images.jpg"
+    }
+}

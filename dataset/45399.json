@@ -1,0 +1,17 @@
+{
+    "id": 45399,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Yellow Sandals",
+    "price": 1190,
+    "description": "Style NoteGarner attention at any party with these tropical rainforest inspired sandals from rocia. Its semi-cushioned sole ensures that you stay comfortable for hours. Pair it with a k",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0c616ea1b20b082352e0fc7835ddf17f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5c79df49615ef4ee1db5790817d33d2b_images.jpg"
+    }
+}

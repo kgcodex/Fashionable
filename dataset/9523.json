@@ -1,0 +1,17 @@
+{
+    "id": 9523,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex Bess Bp Blue Backpacks",
+    "price": 1099,
+    "description": "Stylish and spacious, the adidas BESS BP backpack makes for a great carry to the gym, carry your baby&rsquo;s stuff when on a shopping spree, and of course to work and college too. Capacity: 6kg Made of 100% polyester with a 100% polyester shell for durability and easy cleaning Branded zippers and sliders for easy use and longer life of the bag One main copiously spaced zippered compartment with a separator Two mesh organizers on either sides Twill tape haul loop for handling ease Wide, adjustable padded handles for carrying ease and to protect the shoulders and back from injuries Ergonomically padded back for carrying comfort Printed branding with piping in sliver on the front for style Care only hand wash Clean with a damp cloth when necessary Do not bleach, tumble dry or wring Line dry Do not iron",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ae3481e58c2809ae4101d0ddd33a91ae_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a017751d463f6cc3810458ab16129d0f_images.jpg"
+    }
+}

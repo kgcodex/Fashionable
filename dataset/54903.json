@@ -1,0 +1,17 @@
+{
+    "id": 54903,
+    "brandName": "Do u speak green",
+    "productDisplayName": "Do u speak green Men Grey T-shirt",
+    "price": 795,
+    "description": "Beige T-shirt, has a ribbed cutaway collar, three buttoned placket, short sleeves, appliqu&eacute; d detail on the right chest, printed detail on the left chest and graphic print at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Do-u-speak-green-Men-Grey-T-shirt_2f38be1b3a7ce9dbed9a14def057147c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Do-u-speak-green-Men-Grey-T-shirt_bb3389ae7b8299c0259cd35d71e7ebb2_images.jpg"
+    }
+}

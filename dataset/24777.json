@@ -1,0 +1,17 @@
+{
+    "id": 24777,
+    "brandName": "Lino Perros",
+    "productDisplayName": "Lino Perros Women Purple Belt",
+    "price": 299,
+    "description": "Violet belt with a gold toned tang clasp buckle with a single prongBuckle end doubles as the first loopHoles to customise fit",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Women-Belts_55932219fade2342ca4800731cfa6ca9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Women-Belts_08e5a8251714358af0bdd56377002dc4_images.jpg"
+    }
+}

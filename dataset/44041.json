@@ -1,0 +1,16 @@
+{
+    "id": 44041,
+    "brandName": "HUGO",
+    "productDisplayName": "HUGO Women XX Deo",
+    "price": 1200,
+    "description": "The opening delights with the fresh notes of mandarin, blueberry and litchi which unite with intensive jasmine and luscious rose in the heart of the composition. The warm base is created of sensual musk and amber.",
+    "masterCategoryId": 11,
+    "masterCategoryType": "Personal Care",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HUGO-Women-Gold-Deos_714dfccb48d24ee3b93960c4104af160_images.jpg"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "id": 12346,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Women Grey Solid V-Neck T-shirt",
+    "price": 250,
+    "description": "Grey and orange solid T-shirt, has a V-neck, short sleeves, one pockets",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {}
+}

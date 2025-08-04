@@ -1,0 +1,17 @@
+{
+    "id": 6562,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Club Pique Green T-shirt",
+    "price": 995,
+    "description": "CompositionGreen and white short sleeve polo neck t-shirt made of 100% cotton with horizontal pinstripes in green and white, vented hem, concealed button placket, ribbed collar and cuff, grey fabric tape on inseam of collar and embroidered logo on left chestFittingComfortWash care Machine wash cold with like colours Use mild detergent Do not bleach Avoid soaking Remove immediately Do not allow to lay on itself when wet Line dry inside-out in shade Cool iron only Do not iron directly on print/embroidery Do not dry clean This green and white nike t-shirt is ideal for all occasions: from golfing to office parties! The ribbed collar and cuff add to the charm of this classic tee that is made with a breathable fabric, and a great Fit that will ensure you're comfortable at all times. Pair it with jeans for a completely relaxed look, or with chinos for a semi-formal look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0bbe6f6cee4e4f6993c6e6abaa5de5a5_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5201d05c1e6ddd5b5549e8be2a0be5bb_images.jpg"
+    }
+}

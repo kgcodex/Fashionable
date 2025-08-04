@@ -1,0 +1,17 @@
+{
+    "id": 37810,
+    "brandName": "John Players",
+    "productDisplayName": "John Players Men Stripes Pink Shirt",
+    "price": 999,
+    "description": "Style Note This john players shirt is a dress shirt in bright and vibrant colours, perfect for Friday and Saturday night revelery! A party shirt that makes a statement, you can pair it with a dark pair of jeans and a trendy jacket to complete your evening out look. Product Details Grey shirt with solid pink vertical stripes that come with a sheen, has a spread collar, full buttoned placket, long sleeves and buttoned cuffs Material and Care 100% cotton Machine wash cold using a mild detergent Do not bleach Tumble dry low or dry inside out Use warm iron Size and Fit John Players' trim fit The model (height 6' and shoulders 18\") is wearing a size 40",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e88579542adba8214e2672bf48dc7bea_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1c6a1336f3433b4f1e73df994d4aaca8_images.jpg"
+    }
+}

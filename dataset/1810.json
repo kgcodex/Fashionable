@@ -1,0 +1,17 @@
+{
+    "id": 1810,
+    "brandName": "Decathlon",
+    "productDisplayName": "Tribord Profilter Red Men T-shirt",
+    "price": 799,
+    "description": "CompositionRed t-shirt made of 79% polyamide and 21% elastane, with a built up neckline, with elbow length sleeves, stitch detailing and branding along right shoulderFittingSkin FitWash care Normal machine wash 40 degrees Wash dark colours separately Normal tumble dry Cool iron Reverse iron on print Perfect for those wondrous swims, this t-shirt from Tribord is designed using water repellant technology to keep you dry while you enjoy those relaxing moves in water. Made of a polyester and elastene mix fabric, it helps you move with ease, while protecting your skin from the effects of pool water.Model's statisticsThe model wears size M in t-shirtsHeight-5.11\", Shoulders-18\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fd13a8f7dc23b17d18a0fb12d4f5d7d6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ca27955a1a173f9ef9db6647e5b13a53_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 18946,
+    "brandName": "Levis",
+    "productDisplayName": "Levis Men Scottish Stripes Flat Knit Pack of 3 Socks",
+    "price": 429,
+    "description": "Set of three pairs of socks in navy blue, grey and khaki, has stripe patterns and branding on it with ribbed rims for a comfort fit",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Levis-Men-Scottish-Stripes-Flat-Knit-Pack-of-3-Socks_ad2ea8b30cc03c010830537ba98eb0cc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Levis-Men-Scottish-Stripes-Flat-Knit-Pack-of-3-Socks_9bb5414a56003ddfcba41ef5d48edc56_images.jpg"
+    }
+}

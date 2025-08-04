@@ -1,0 +1,17 @@
+{
+    "id": 57493,
+    "brandName": "Lee Cooper",
+    "productDisplayName": "Lee Cooper Men Black Shoes",
+    "price": 2285,
+    "description": "Square toed black slip-on shoe Elasticated gussets at the sides of the tongue Soft inner and mildly padded footbed Tough rubber sole with texturing, has a stacked heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lee-Cooper-Men-Black-Shoes_22649a6c45408aee717838f23a1ab8a6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lee-Cooper-Men-Black-Shoes_915836c5534647a30518390d34d27bd4_images.jpg"
+    }
+}

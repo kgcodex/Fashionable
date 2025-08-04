@@ -1,0 +1,17 @@
+{
+    "id": 16629,
+    "brandName": "Facit",
+    "productDisplayName": "Facit Men Black Printed T-shirt",
+    "price": 399,
+    "description": "Black, knitted T-shirt, ribbed round neck, short sleeves, print in front, brand tag above hem on the left",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Facit-Men-Black-Printed-T-shirt_95060650f04d0bbf6b1b0946b382aa0c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Facit-Men-Black-Printed-T-shirt_e0fa00336d6a91af4230e3d6db68665c_images.jpg"
+    }
+}

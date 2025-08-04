@@ -1,0 +1,17 @@
+{
+    "id": 53776,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Green Shorts",
+    "price": 1399,
+    "description": "Green shorts, has a mesh like lining, an elasticated waist with a drawstring on the inside, two slant pockets in front with brand patch on the right side, white panels at side, branding printed on left leg in front, brand logo embroidered at right leg near hem at back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Green-Shorts_6239746d29969c757b01723fd404013d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Green-Shorts_a32e7070213091a3923b32774d0dd456_images.jpg"
+    }
+}

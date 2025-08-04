@@ -1,0 +1,17 @@
+{
+    "id": 29228,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Raise Up White Sports Shoes",
+    "price": 4999,
+    "description": "Take training to the next level in these Raise Up shoes from adidas. Constructed for better comfort and cushioning, these shoes help you train longer and better. Team these with jeans and tees for urban style.UpperSynthetic uppers with mesh inlays for better structure and comfortMid top stylingadidas patented 3-Stripe overlays on the sides for enhanced support and to exude the brand&rsquo;s belief in performancePadded tongue provides better breathabilityPadded collar offers better comfortLace-up system for a snug, customized FitBrand name embroidered on the tongue and below the collarMidsoleSturdy footbed provides all day comfort and supportFoamy rubber midsole for lightweight comfortOutsoleAggressive TPU oursole comprised of herringbone lugs on the forefoot, heel and periphery of the foot for better gripOutsole extends and builds up to the sides, heel and forefoot to give better grip and protection on all sidesReinforced midfoot arch for better arch supportshoe careWipe surface with soft, clean cloth to remove dirtDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9f9d6daf4a9ba6fd1a40f4833fdab71c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/31ce9440501fba91a31457721527b424_images.jpg"
+    }
+}

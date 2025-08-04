@@ -1,0 +1,17 @@
+{
+    "id": 58743,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Olive T-shirt",
+    "price": 749,
+    "description": "Green polo T-shirt, has a ribbed cutaway collar, three buttoned placket and puma cat embroidered on the left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Olive-T-shirt_bd0046acef3fd370e3813621698b4dfc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Olive-T-shirt_303bcf1553768d37b6e76f2670be9b5b_images.jpg"
+    }
+}

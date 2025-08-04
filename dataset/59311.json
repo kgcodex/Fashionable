@@ -1,0 +1,17 @@
+{
+    "id": 59311,
+    "brandName": "Gliders",
+    "productDisplayName": "Gliders Men Black Sandals",
+    "price": 1399,
+    "description": "Blunt toed sandals with black forefoot and midfoot straps that have Velcro closuresBranding on midfootAnkle loop with velcro closure and pull up tabTough rubber outsole with grooves and branding",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Gliders-Men-Black-Sandals_66a24c9218df408df0bcc7e951776a4e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Gliders-Men-Black-Sandals_afe8e146ada5eaedb85299e57676206d_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 44636,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men White Printed T-shirt",
+    "price": 1095,
+    "description": "Style NoteGet casual with the utmost comfort in this T-shirt from nike. The cotton wicks sweat away and keeps you fresh and comfortable during fun times with friends. Pair this tee with your favourite denims and sports shoes.Product DetailsWhite crew neck T-shirt, has short sleeves and branding on the frontMaterial and Care100% cottonMachine wash cold with like coloursDo not bleach or dry cleanLow tumble dryUse warm iron",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/36e16f5c14834d5c918ce9014e005464_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c1ff7cd7b34dd78dcf2a9507f0e58df9_images.jpg"
+    }
+}

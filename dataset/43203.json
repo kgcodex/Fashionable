@@ -1,0 +1,17 @@
+{
+    "id": 43203,
+    "brandName": "Fastrack",
+    "productDisplayName": "Fastrack Men Grey Dial Watch",
+    "price": 1395,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1130b87379de7144a219458304c36d02_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4b0831bcd6fe616b3ded108c33cfda8f_images.jpg"
+    }
+}

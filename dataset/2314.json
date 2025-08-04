@@ -1,0 +1,17 @@
+{
+    "id": 2314,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Mens JDI Black T-shirt",
+    "price": 995,
+    "description": "Composition:Black cotton t-shirt with round neckWash Care:Handwash/Machine washFitting:Comfort FitThis black, cotton t-shirt with a bold tagline of \"Just do it\" sets the mood for an upbeat day. An ideal casual wear for all seasons.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e3fe9f281c6e5d718d815ab89da8287a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3e2583a7f03578bd583d0b723684df13_images.jpg"
+    }
+}

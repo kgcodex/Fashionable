@@ -1,0 +1,17 @@
+{
+    "id": 33697,
+    "brandName": "Cobblerz",
+    "productDisplayName": "Cobblerz Women Brown Sandals",
+    "price": 2999,
+    "description": "A pair of open-toed, brown sandals with slip-on stylingThong style upper with a toe separator and metal rings and rivet detailSoft footbed with stitched detail and branding on the heelRubber outsole with patterned grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Smart Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cee6915c9d8307e00eda4b9729afab5e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d9eb2a82b7e49e9042ada1bf2e5beca2_images.jpg"
+    }
+}

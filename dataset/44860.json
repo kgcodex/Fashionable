@@ -1,0 +1,17 @@
+{
+    "id": 44860,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Red T-shirt",
+    "price": 1899,
+    "description": "Red t-shirt, short sleeves, round neck with rib knit binding, print in front, chain stitch on shoulder",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Red-T-shirt_e8fb308e6e120a5bdb4c351d40f83271_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Red-T-shirt_4f409b727421300b279c4bd073e7e947_images.jpg"
+    }
+}

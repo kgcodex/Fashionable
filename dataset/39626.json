@@ -1,0 +1,17 @@
+{
+    "id": 39626,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Max Turnaround Low White Sports Shoes",
+    "price": 5495,
+    "description": "Style Note A lightweight performance shoe from nike, the Nike Turnaround Low is a great buy. Weathers hard use through the seasons, buy this before stocks run out... Product Details Synthetic upper with central lace-ups and perforations on the toe and back foot Padded inner Air unit injected into the midsole at the heel region TPU outsole with herringbone grooves Material and Care Synthetic Wipe with a clean, dry cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/801aecb5ed44151a72ab15b019ed34fd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fdb6789bdab87c20e700d6e15dea2b74_images.jpg"
+    }
+}

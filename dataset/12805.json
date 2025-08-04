@@ -1,0 +1,17 @@
+{
+    "id": 12805,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Grey Polo Tshirts",
+    "price": 1195,
+    "description": "Peach pink and melange grey striped polo neck t-shirt made of 100% cotton that has ribbed collar and cuffs, buttoned placket, swoosh logo on the upper left chest and vented hems",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b39c57ff40c0aa3b219356aea9644d00_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/50e2fcdcc238f8a256d8bdf1a087a0bb_images.jpg"
+    }
+}

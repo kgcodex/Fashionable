@@ -1,0 +1,17 @@
+{
+    "id": 28530,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Sprinter Grey T-shirt",
+    "price": 1195,
+    "description": "CompositionGrey T-shirt for men made of 100% polyester, has a round black neckline, short raglan sleeves with black panels, mesh panels in the middle at the back and under the armholes, nike swoosh on the left shoulder and a curved hemFitSlimWash careMachine wash cold at 30 degrees with like coloursDo not bleach or dry cleanLine dryWarm iron; do not iron on decorationsThis T-shirt from nike is perfect for your running sessions. Engineered with Dri-Fit technology that wicks away sweat even on the hottest of days, it's sure to give you exemplary comfort and become your favourite running tee. Pair it with track pants and running shoes.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/25ee8fcbd7d0894f44034cb50b2f4f3e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/448c9ee14049ab43896328839dc79e32_images.jpg"
+    }
+}

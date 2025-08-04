@@ -1,0 +1,17 @@
+{
+    "id": 14010,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Printed Green Tshirts",
+    "price": 895,
+    "description": "CompositionNeon green T-shirt made of 100% cotton, has a ribbed crew-neck with tape detailing on the inseam, short sleeves, graphic print on the front and swoosh logo below the graphicFittingRegularWash careMachine wash cold with like coloursDo not dry cleanDo not bleach Tumble dry on lowCool iron onlyDo not iron on print or embroideryGet moving, get going with this neon green T-shirt from the Athletic Dept collection from nike. The classic, comfortable Fit is complemented by the bold graphic lettering of the words \"All time high\" on the front, while the cotton fabric provides all day comfort. Team this with jeans and canvas shoes for a strong, aggressive look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1fbd605114e734716b35c47261ed4f5d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fb0b70671341ab7b825dc16085d36487_images.jpg"
+    }
+}

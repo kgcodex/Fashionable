@@ -1,0 +1,17 @@
+{
+    "id": 59964,
+    "brandName": "Avirate",
+    "productDisplayName": "Avirate Women Black Dress",
+    "price": 3000,
+    "description": "Black and white printed dress, has short sleeves, a cross-over neckline and an elasticated waist",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-Women-Black-Dress_fdbe4fd4ee79a79d0649d192c0643ceb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-Women-Black-Dress_be4e340cf0bb43688a9350a5215da219_images.jpg"
+    }
+}

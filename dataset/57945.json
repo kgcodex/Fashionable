@@ -1,0 +1,17 @@
+{
+    "id": 57945,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Men Brown Sandals",
+    "price": 1799,
+    "description": "Round toed slip-onsBrown leather upper with top stitched overlaysCushioned at midfootCushioned and shaped footbed with top stitch detail and brandingTPR outsole with grooves and branding",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Clarks-Men-Brown-Sandals_3fe46389fae9ea8699817050600f1106_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Clarks-Men-Brown-Sandals_5463899c6782bfa04cb911cddf2f1513_images.jpg"
+    }
+}

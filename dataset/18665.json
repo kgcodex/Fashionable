@@ -1,0 +1,17 @@
+{
+    "id": 18665,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men Syncro White Shoes",
+    "price": 1799,
+    "description": "Round toed white shoes with central lace-ups, branding on the upper, padded inner Rubber sole with grooves and nubs Warranty: 3 monthsWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/961b43c0724aad5c11accba48e499288_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9f6947f260d140e950177a93bf94a8ad_images.jpg"
+    }
+}

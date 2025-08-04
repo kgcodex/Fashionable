@@ -1,0 +1,17 @@
+{
+    "id": 11852,
+    "brandName": "Playboy",
+    "productDisplayName": "Playboy Men White Flip Flops",
+    "price": 749,
+    "description": "Comfort and style rolled into one - that's playboy for you. Revel in the comfort of flip flops with this stylish pair from Playboy. Upper Wide twill fabric straps with a coarse upper and soft inner for absolute comfort Twill fabric toe separator to hold the foot in place with much ease Synthetic strip securing the toe separator to the straps with brand name printed on it Soft, cushioned rubber footbed with brand logo printed on the heel Footbed mildly curved at the back inner arch near the heel for ergonomic comfort Oustole Single piece flexible and cushioned rubber footbed and outsole for all-day comfort Brand bunny face logo-styled lugs throughout the footbed for absolute grip and traction on various surfaces Care Wipe surface with a damp, clean cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/04dcce3f65939558459cbb4658b0b808_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/617c2e3bfa17be1cc84badec891f6252_images.jpg"
+    }
+}

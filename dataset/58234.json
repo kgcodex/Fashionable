@@ -1,0 +1,17 @@
+{
+    "id": 58234,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Brown Wallet",
+    "price": 725,
+    "description": "Brown wallet with single fold crafted from synthetic leather with fabric overlay A flap with a press button closure with a metal brand badge One id holder, three card holders, two slip pockets and one insert pocket inside the fold One zipped pocket with two slots",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Mustard-Wallet_b407d6baa0a57e549fafde27a67a8a81_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Mustard-Wallet_bc78039d70e328b5acfe3a23bd0c00c7_images.jpg"
+    }
+}

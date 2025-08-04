@@ -1,0 +1,17 @@
+{
+    "id": 3561,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men's Zeta Black Lifestyle Casual Shoe",
+    "price": 2999,
+    "description": "Compositionblack shoes with suede leather upper, phylon midsole, carbon rubber sole and comes with an additional pair of lacesshoe care1. Rub surface with soft, clean cloth to remove dust2. Do not machine washThis pair of semi-formal black sneakers from skechers is both stylish and comfortable. The suede and nubuck uppers give long-lasting comfort and the overlapping layers and strips add stability and structure to the feet. The outsole is composed of small lugs throughout, with bigger lugs lining the periphery of the forefoot and heel to provide excellent traction.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/28214b4879b4314784250f7ddf6d3fb0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cfe5a0b79eca04108ab70d6d790992ff_images.jpg"
+    }
+}

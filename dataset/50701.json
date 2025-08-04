@@ -1,0 +1,17 @@
+{
+    "id": 50701,
+    "brandName": "Latin Quarters",
+    "productDisplayName": "Latin Quarters Women Pink Top",
+    "price": 990,
+    "description": "Pink knit top, has a round neckline, short sleeves and shredded shawl detail below the neckline in front which is stitched at a point on the left side",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Pink-Top_857519ea79e586e6c54da6d60a4fb8f2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Latin-Quarters-Women-Pink-Top_6456d674d673af2b1f43fbced16f2b3a_images.jpg"
+    }
+}

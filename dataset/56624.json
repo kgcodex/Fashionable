@@ -1,0 +1,16 @@
+{
+    "id": 56624,
+    "brandName": "Olay",
+    "productDisplayName": "Olay Women Age Protect Anti-Ageing UV Lotion",
+    "price": 220,
+    "description": "Stimulates skin's natural renewal procesReduces fine lines/wrinkles, dark spots, age spots, improves the texture of the skin",
+    "masterCategoryId": 11,
+    "masterCategoryType": "Personal Care",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Olay-Women-Age-Protect-Anti-Ageing-UV-Lotion_decea27e3b49da7137d87d5a38b2dc57_images.jpg"
+    }
+}

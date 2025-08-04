@@ -1,0 +1,16 @@
+{
+    "id": 59746,
+    "brandName": "Avirate",
+    "productDisplayName": "Avirate White Babydoll Nightdress",
+    "price": 2500,
+    "description": "White babydoll, made of stretchy net fabric with embroidered lace accents, has adjustable shoulder straps and has a slit hem with a bow detail",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-White-Babydoll-Nightdress_5ebc3aabcec2a4496a748f6e06de2163_images.jpg"
+    }
+}

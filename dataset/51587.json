@@ -1,0 +1,17 @@
+{
+    "id": 51587,
+    "brandName": "Wrangler",
+    "productDisplayName": "Wrangler Women Navy Blue Molly Jeans",
+    "price": 2095,
+    "description": "Navy blue jeans with insert pockets on the front, a patch pocket on the right side pocket, two patch pockets on the back and a comfortable waistband with button and zipper closure on the front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c7adf0fe172cbc62da36c67f047c8622_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9b78411c87d1775a21adaff081b63f4f_images.jpg"
+    }
+}

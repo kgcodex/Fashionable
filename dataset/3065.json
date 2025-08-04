@@ -1,0 +1,17 @@
+{
+    "id": 3065,
+    "brandName": "Tantra",
+    "productDisplayName": "Tantra Women Tiger Black T-shirt",
+    "price": 399,
+    "description": "CompositionBlack printed round neck t-shirt in 100% cotton with chest print",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tantra-Women-Tiger-Purple-T-shirt_478257f672c87d263e86f39268fa6107_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tantra-Women-Tiger-Purple-T-shirt_3003cd26a5863b8de4c50b43e3e65bd4_images.jpg"
+    }
+}

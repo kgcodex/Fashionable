@@ -1,0 +1,16 @@
+{
+    "id": 34999,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Women Black & Mustard Stole",
+    "price": 290,
+    "description": "Mull printed black and mustard yellow stole with neatly stitched edges",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/62f7f695a91d51479f887bf83d3b8155_images.jpg"
+    }
+}

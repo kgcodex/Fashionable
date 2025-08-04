@@ -1,0 +1,17 @@
+{
+    "id": 51434,
+    "brandName": "Myntra",
+    "productDisplayName": "Myntra Women Turquoise Blue Check Shirt",
+    "price": 699,
+    "description": "Style Note With its classic styling this shirt from myntra is a piece that will easily slot into your daily wear wardrobe. Made of pure cotton this shirt lets you stay comfortable even on sunny days. Pair it with crisp trousers and pumps for a look that exudes complete control and confidence. Product Details Multi coloured check shirt, has a spread collar, full buttoned placket, back yoke, long sleeves with buttoned cuffs, two patch pockets on the chest with buttoned flap closures and a curved hemline Material and Care 100% cotton Machine wash cold Tumble dry low Use warm iron Size and Fit Regular Fit The model (height 5'8\" and chest 33\") is wearing a size M",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/10142e0f59f4a5d9c8d7aafeb4cc378a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/553cd05391996da97d653f480ed0b35d_images.jpg"
+    }
+}

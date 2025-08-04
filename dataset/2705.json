@@ -1,0 +1,16 @@
+{
+    "id": 2705,
+    "brandName": "Disney",
+    "productDisplayName": "Disney Kids Girl's Blue Pooh Blouse Kidswear",
+    "price": 299,
+    "description": "Composition:100% cotton blue sleeveless blouseWashcare:Machine wash in cold water with a gentle cycle using mild detergent. Wash dark colours seperately. Do not bleach. Do not soak nor wring. Dry it inside out. Do not tumble dry. Do not iron on print and studs.Fitting:Comfort FitThis blue sleeveless top from disney with a light blue check bib, panel and a happy Pooh is bound to be a favourite with your little girl. Couple this with denim shorts or jeans and take her out for a romp in the park.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Girls",
+    "gender": "Girls",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/74e1ecfe5b76f46bf169742a303794ca_images.jpg"
+    }
+}

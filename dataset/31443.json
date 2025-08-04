@@ -1,0 +1,17 @@
+{
+    "id": 31443,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Football Red Jacket",
+    "price": 3595,
+    "description": "Composition Red jacket made of blended fabric, has a high stand mock collar with a full front zipper, full sleeves with elasticated hems, white piping from the shoulder to the sleeve cuff, embroidered nike swoosh logo on the left chest and two zippered pockets at the waist Fit Regular Wash care Machine wash cold with like colours Do not dry clean, bleach, use softeners or allow to lay on itself when wet Tumble dry low Remove immediately Cool iron Enjoy the winter in style with hot street food or a heated game of tennis with this jacket from nike. Crafted from a blended fabric, this jacket is designed to keep you warm. Layer it over jeans and t-shirts.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1cea3a2213693123ca94a9b8285de668_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f158b7eac0bb818fd193cf9a62f497e6_images.jpg"
+    }
+}

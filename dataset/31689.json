@@ -1,0 +1,17 @@
+{
+    "id": 31689,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Lunarfly Grey Sports Shoes",
+    "price": 4295,
+    "description": "The LunarFly running shoe offers absolute cushioned comfort, better Fit and dynamic support. Perfect for underpronators and moderate overpronators, the Dynamic Support platform in the midsole adapts to the runner's varying stride and offers on-demand support. Featuring a nike+ Ready option, this shoe can be teamed with nike+ compatible iPods, stop watches and much more to clock your fitness regime. Upper Breathable mesh upper with a nearly seamless construction for ample ventilation and reduced irritation Inner booties that wrap around the feet offering exceptional comfort Extended Fly-wire panels for lightweight comfort, super strong support and more secure fit around the mid-foot and heel Symmetrical lace-up system for a snug fit Meshed and padded tongue and sock-liner for in-step comfort Perforated, internal fit saddle work with lacing system for a comfortable, snug fit Midsole Fit-Sole cushioning for ultra-lightweight, springy cushioning and soft, responsive shock absorption Dynamic Support system to adapt to your stride Padded foot-bed for all-day comfort Removable foot-bed to accommodate an orthotic Outsole Environmentally preferred rubber outsole for enhanced durability Carbon rubber under the heel for abrasion resistance Waffle pattern for maximum traction, with a scooped heel for extra cushioning Shoe care Wipe surface with damp, clean cloth to remove dust Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d409bdb745b85e8190c5ec03bbebce88_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/afda099affef05661eb3b697ca0d8e34_images.jpg"
+    }
+}

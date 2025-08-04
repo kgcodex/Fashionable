@@ -1,0 +1,17 @@
+{
+    "id": 47677,
+    "brandName": "Femella",
+    "productDisplayName": "Femella Women Black Animal Print Trousers",
+    "price": 1090,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4f8dadbeca676cf9ed2c7419b698f191_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cac91c65cac087dff54c0430bfdd1669_images.jpg"
+    }
+}

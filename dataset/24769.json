@@ -1,0 +1,17 @@
+{
+    "id": 24769,
+    "brandName": "Spalding",
+    "productDisplayName": "Spalding Men Grey Flip Flops",
+    "price": 299,
+    "description": "Open toed, grey flip flopsThong style upper with branding on the strap and textured lookSoft lining on the insidePrinted and soft footbed with branding at the heel regionOrange midsole that is slimmer at forefootRubber textured outsole with grooves and lugs",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Spalding-Men-Grey-Flip-Flops_6ab1ce0b42a62eaa98e3456014f07f83_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Spalding-Men-Grey-Flip-Flops_8950a627f96fbc5d0376de595bb4dda7_images.jpg"
+    }
+}

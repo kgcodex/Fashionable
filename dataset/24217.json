@@ -1,0 +1,17 @@
+{
+    "id": 24217,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Zoom Vomero Grey Sports Shoes",
+    "price": 8995,
+    "description": "Perfect for underpronators and runners with a natural gait, the nike Zoom Vomero+ 6 has lightweight cushioning as its predecessors, but with a better Fit and support. With a Gender specific midfoot and elasticated mesh panels that lock the foot in place, it supports all phases of your run. Being a nike+ range shoe, you can add on to it compatible iPod nanos, Sports watches, sport bands and others from the Nike+ range and clock your runs, calories, track your routes and much more.UpperHeavily meshed upper with elasticated mesh panels on the forefoot and mouth, and fixed panels on the sides and backfoot for maximum ventilation and to lock the fit in place to create an adaptable fitSynthetic overlays with swoosh branding on the sides for shoe structurePadded sockliner for in-step comfortLace-up system with cushioned tongue for snug fitMesh inner sleeve that wraps around the entire foot for a plush, comfortable fitReflective elements for safe running even in low light conditionsMidsoleNike Zoom units in the forefoot and heel for responsive cushioningFull length Cushlon midsole for lightweight comfort, impact protection and durabilityOutsoleBlown Rubber outsole with BRS 1000 crash pad in the heel for efficient stride and maximum cushioningMultiple rubber and traction patterns offering a smooth strideGender specific flex grooves for improved flexibility and a more natural range of motion offering a seamless heel to toe transitionTransparent trusstic unit in the medial arch with extra support to stabilize the foot and allow natural motion, especially to underpronatorsShoe careDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d31f630d330f1a41ed2268839800a255_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1a398abd0afda5f77de4a86f68fcbab5_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 33949,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Black & White Striped Polo T-shirt",
+    "price": 2699,
+    "description": "Black and white striped polo t-shirt that has short sleeves, ribbed collar, engineered with climacool technology, buttoned chest placket, mesh panels under the armholes, branding embroidered at the nape of the neck and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/636fc4a3c631b5bab3c11ded06a77420_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/523281fe03a7c06e1d7fc799fea5da6f_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 11930,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men Shape Black Sports Shoes",
+    "price": 5299,
+    "description": "Run less, get more with the skechers Radius Trainer. Fab to look and a great gift for the feet, this pair of running shoes is designed with the best of technologies to offer absolute comfort and health quicker. The Kinetic Wedge Technology in this shoe intensifies training and burns more calories with each step, delivering a great cardio workout with ease. You get an extra pair of laces in a contrast colour and a DVD on the shoe and how to maximise the technologies for your benefit. Upper Meshed synthetic upper with strategically placed synthetic overlays for absolute durability, lightweight comfort and breathability Padded and meshed collar and tongue for in-step comfort Lace-up system for a snug, customised Fit Midsole Two-part firm and soft-density midsole that delivers a rocking effect from the heel to the toe, creating a natural instability and activating lesser used muscles, reducing the stress on joints and the back Anti-microbial form-fitting footbed to wick sweat away and prevent odour, and also increase breathability Removable footbed to accommodate an orthotic Roll bridge using reinforced heel pillars to improve side-to-side stability and control forward motion Ultra-soft Resamax Kinetic Wedge Technology extending from the heel to toe, offering a gradual transition with each stride. The softre lower layer of the Resamax provides superior cushioning and creates natural instability, toning the muscles and adjusting the body for proper balance and positioning Outsole Curved rocker bottom design for smoother heel-strike to toe-off transition, helping you run in a more natural state Made of durable high abrasion rubber treads for enhanced cushioning and maximum traction Shoe care Wipe surface with a dry, clean cloth to remove dust Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7569b9ccb163e923b3099a6ecf8dcd4e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bc8bff85f8412ff65892f77958382481_images.jpg"
+    }
+}

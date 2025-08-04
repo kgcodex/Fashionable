@@ -1,0 +1,17 @@
+{
+    "id": 13919,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men T-Lite 9 SL White Sports Shoes",
+    "price": 3795,
+    "description": "shoe care Wipe surface with damp, clean cloth to remove dust Do not machine wash Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4998c3a13f8b8c65b7c9f7ecbeaeb276_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d2239fcd0d6d95241bb58f5c18955c2e_images.jpg"
+    }
+}

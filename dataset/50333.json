@@ -1,0 +1,17 @@
+{
+    "id": 50333,
+    "brandName": "AURELIA",
+    "productDisplayName": "Aurelia Women White Printed Kurta",
+    "price": 450,
+    "description": "White with blue and green print, woven, square neck kurta, printed, short sleeves with taping, short buttoned placket and a vented hem with wide printed border",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Aurelia-Women-White-Kurta_65a4269442a1aff5f612152c6778f12c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Aurelia-Women-White-Kurta_b2b4a167266892663d5c609e2c5c5413_images.jpg"
+    }
+}

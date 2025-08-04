@@ -1,0 +1,17 @@
+{
+    "id": 32948,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Neo Men Jogger Plus White Shoes",
+    "price": 3999,
+    "description": "Designed for the avid jogger, this Jogger Plus shoe from adidas doubles as comfortable lifestyle footwear. Sleek with an aggressive yet light outsole, this shoe looks great with casual ensembles. UpperSynthetic upper with adidas 3-Stripe overlays at the midfoot regionPerforations on the toe boxPadded fabric liningPadded tongue with brandingPadded footbedCentral lace upsMidsoleFoam midsoleOutsoleTPU outsole with terraced lugs all over and branding at the midfoot regionShoe careWipe surface with damp, clean cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6e67e755bc84a300a9e3304e30a93d44_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/224f31b08a958716d0816ac9f3002af1_images.jpg"
+    }
+}

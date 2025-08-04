@@ -1,0 +1,17 @@
+{
+    "id": 57287,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Men Brown Shirt",
+    "price": 2699,
+    "description": "Ochre, brown and black check shirt with grey and white accents, has a cutaway, slim, buttoned down collar, full buttoned placket, long sleeves with buttoned cuffs, back yoke, patch pocket on the left chest with branding on it and curved hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-Brown-Shirt_ad007811a689360136706e27650c69bd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-Brown-Shirt_e4ed76afb3429bc2060dfcb76a650b61_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 9868,
+    "brandName": "Status Quo",
+    "productDisplayName": "Status Quo Men Navy Blue Polo Tshirts",
+    "price": 999,
+    "description": "Navy blue polo tshirt.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c012b61eddd9d399c9e15a6e73c60880_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/efd2c7d845e733c9d12c2eb32d0388f0_images.jpg"
+    }
+}

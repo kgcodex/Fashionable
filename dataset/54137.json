@@ -1,0 +1,17 @@
+{
+    "id": 54137,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Pink Sandals",
+    "price": 590,
+    "description": "Heel: 1.\"Open toed, pink printed thong style upper with a white knot detail above the plastic toe separatorFloral footbed with a heel patch Tough sole with a short heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocia-Women-Pink-Sandals_e7b0901c53c5bbb09842281e41353c45_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocia-Women-Pink-Sandals_a8c6f087be1efb938c1e04f8f6297b35_images.jpg"
+    }
+}

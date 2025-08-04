@@ -1,0 +1,17 @@
+{
+    "id": 16958,
+    "brandName": "Image",
+    "productDisplayName": "Image Men Sunglasses",
+    "price": 2490,
+    "description": "Lens colour: Graduated brownFrame colour: Metallic CopperFrame type: Metal, Oval frame&nbsp;Flexible hinges for durabilityFixed nose pads made of rubber with a double nose bridge to hold the glasses in placeThe glasses come in a signature Image caseLens colour: Graduated blueFrame colour: Metallic blueFrame type: Metal, Oval frame&nbsp; Flexible hinges for durabilityFixed nose pads made of rubber with a double nose bridge to hold the glasses in placeThe glasses come in a signature Image case",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Image-Men-Classic-Eyewear-Blue-Sunglasses_78d79f588ca15eb34b9b62ed15aac8f0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Image-Men-Classic-Eyewear-Blue-Sunglasses_4241c1a7cd5a39e6932518985e7ab517_images.jpg"
+    }
+}

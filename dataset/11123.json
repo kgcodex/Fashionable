@@ -1,0 +1,17 @@
+{
+    "id": 11123,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Men Travel Black Bags",
+    "price": 2699,
+    "description": "This bag from united colors of benetton is a perfect blend of functionality and style. With ample space and a lushly padded laptop chamber and many additional zippers, this bag will keep you well organized. Height: 50 cm Length: 29.5 cm Depth: 17 cm Made of 55% nylon, 10% polyurethane 35% polyester One main chamber with several zippered chambers Three sub-chambers to store other essentials Branding in leather patch embroidery on the outside panel Adjustable padded back straps for ease of carrying Care Do not wash, bleach, iron, dry clean or tumble dry Rub surface with dry, clean cloth to remove dust and dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c1cb13cc918c471dd3f41cad1e6c4f18_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ac30e8a257f186788a6dd31d6229dfea_images.jpg"
+    }
+}

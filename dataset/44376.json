@@ -1,0 +1,17 @@
+{
+    "id": 44376,
+    "brandName": "ONLY",
+    "productDisplayName": "ONLY Women Blue Waistcoat",
+    "price": 1495,
+    "description": "Light blue denim waistcoat with a slight fade, two welt pockets on the front, two buttons on the front and an adjustable belt at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ONLY-Women-Blue-Waistcoat_3e3c6b371372ffb63c1ec12f4fc934be_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ONLY-Women-Blue-Waistcoat_cd839ef09abf8ccbc79564a3b4f7c70e_images.jpg"
+    }
+}

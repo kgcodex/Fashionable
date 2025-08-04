@@ -1,0 +1,17 @@
+{
+    "id": 40693,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men White Shoes",
+    "price": 1799,
+    "description": "Style Note These numero uno casual with sturdy soles, bold overlays and aggressive design highlights is a closet essential. Class up your off-duty ensemble with this sleek shoe. Wear it with fitted denims and a T-shirt and throw on a tonal jacket for added style. Product Details Round toe, white shoes with lace up styling Rubber upper with reinforced overlay at the heel collar and over the toe box Padded fabric inner lining with a removable sock liner PU midsole with a foxing at the toe box TPU outsole with circular nubs and patterned grooves Material and Care Synthetic Wipe surface with soft, clean, cloth or brush Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/735ba763e4c479f211362b2571917dac_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e2e21e427a52b14074dd28472edb454c_images.jpg"
+    }
+}

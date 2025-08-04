@@ -1,0 +1,17 @@
+{
+    "id": 2092,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Mens Polo Blue Polo T-shirt",
+    "price": 699,
+    "description": "Do not tuck this t-shirt into your jeans if you want to keep it stylish and care free. To look your best, pair this t-shirt with navy blue or stone washed black jeans. Model statisticsThe model wears size M in t-shirtsHeight-5.11\", Shoulders-17.5\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/01bce51666bcf7d3fab31334c885e465_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2ae05d01aec42764719f35c485b7a9b2_images.jpg"
+    }
+}

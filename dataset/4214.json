@@ -1,0 +1,17 @@
+{
+    "id": 4214,
+    "brandName": "Disney",
+    "productDisplayName": "Disney Kids Girl's Yellow Summer Fun Fair Kidswear",
+    "price": 429,
+    "description": "CompositionRound neck pink top in 100% cotton with glittering chest graphicFittingRegularWash care1. Machine wash separately in cold water2. Use mild detergent3. Do not bleach4. Avoid soaking and remove promptly5. Line dry inside out in shade.6. Warm iron only, do not iron directly on print/embroideryLet your little girl go wild with joy in this prettily feminine top from disney. The glitter on the chest graphic and the three stripes along the hemline add that complete girly touch to your little princess' look. Pair this with comfortable and stylish footwear from the crocs collection available at myntra, include colourful jibbitz, and watch your little girl enjoy herself.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Girls",
+    "gender": "Girls",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/083b27a3c2992f74ce348673b1667359_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/51d9f94d56a59462790dcd42b31c5c3c_images.jpg"
+    }
+}

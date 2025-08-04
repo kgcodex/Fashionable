@@ -1,0 +1,17 @@
+{
+    "id": 31957,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women White Sports Shoes",
+    "price": 3995,
+    "description": "Superior grip in an ultra-lightweight package, the City Court VII tennis shoe from nike comes with ample cushioning and support to help you make those winning aces. Team this with tennis performance clothes when hitting the court, or simply pair them with jeans and T-shirt for that casual look.UpperSynthetic leather upper with overlays for structural comfort and durabilityPerforations for breathabilityMeshed and padded tongue with a lace-up system for snug Fit and comfortCushioned sockliner for in-step comfortMidsolePhylon midsole for lightweight responsive cushioning and shock absorptionMildly cushioned footbed for comfort and impact protectionOutsoleDurable rubber outsole with outriggers for added supportHerringbone traction pattern for multi-directional movementMidfoot arch for ergonomic comfortShoe careDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/261b6822fc3ca1adebeaf9334101ceb7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fc954956ea16a54abcbfc943420959c3_images.jpg"
+    }
+}

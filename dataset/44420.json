@@ -1,0 +1,17 @@
+{
+    "id": 44420,
+    "brandName": "Red Tape",
+    "productDisplayName": "Red Tape Men Brown Leather Shoes",
+    "price": 2395,
+    "description": "Style Note For the non-conformist high-fashion male, this pair of shoes from red tape is the right choice. Styled in genuine, soft leather for optimal comfort, this pair does not compromise on its style quotient. Wear this with washed black jeans from wrangler or corduroy trousers, a black leather belt, a casual shirt with a scarf. This off-duty ensemble is perfect to wear for casual outings. Product Details Brown boat shoe with a cut out braided design on the forefoot, stitched detailing on the seams of the toe, overlays and central lace-ups Outsole adhered to the upper TPU outsole with textured grooves Material and Care Leather Wipe surface with a clean, dry cloth to remove dust Use a branded leather conditioner if needed Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/40e2499f38e58e023052da2a8f77b063_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3829a4d104593151e1592a32de5f6ac4_images.jpg"
+    }
+}

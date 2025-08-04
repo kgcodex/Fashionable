@@ -1,0 +1,17 @@
+{
+    "id": 57291,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Men Light Blue Shirt",
+    "price": 2299,
+    "description": "Light blue and white striped shirt, has a curved, cutaway collar, full buttoned placket long sleeves with buttoned cuffs, back yoke, patch pocket on the left chest and a curved hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-Blue-Shirt_695932e3a11b55f950c42a6152b935f1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-Blue-Shirt_67f126a51060eae76bc65d57609b5dbe_images.jpg"
+    }
+}

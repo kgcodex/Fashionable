@@ -1,0 +1,17 @@
+{
+    "id": 45048,
+    "brandName": "maxima",
+    "productDisplayName": "Maxima Men Silver Dial Attivo Watch",
+    "price": 1695,
+    "description": "Case style: Black analogue watch with a round metal caseDial style: White dial with black numbering and handsStrap style: Metal bracelet with a butterfly claspFeatures: Date aperture at the 3 hour mark, engraving at the rimWater resistant: Water resistant up to 30 metresWarranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/479ef76e6a2fff8b188cb25a0dce881f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9c351761c5443ef485e8655bfe631863_images.jpg"
+    }
+}

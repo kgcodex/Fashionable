@@ -1,0 +1,16 @@
+{
+    "id": 50843,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Women Purple Dupatta",
+    "price": 390,
+    "description": "Purple dupatta with a crushed / wrinkled look, has threadbare edges with beaded detail",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Women-Purple-Dupatta_f803cf1552dd2029d385f849a50a2f84_images.jpg"
+    }
+}

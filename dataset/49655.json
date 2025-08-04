@@ -1,0 +1,17 @@
+{
+    "id": 49655,
+    "brandName": "Mineral",
+    "productDisplayName": "Mineral Pink & Green Skirt",
+    "price": 1899,
+    "description": "Patchwork skirt with floral printed panels and pink top stitch, lime green waistband and lace detail at hem, concealed zipper and button closure on left, inner lining",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2d997641d931b587ef86589060b6691e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/75144e01ce07d0ccc4cc9f8652ae6db1_images.jpg"
+    }
+}

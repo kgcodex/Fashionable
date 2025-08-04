@@ -1,0 +1,17 @@
+{
+    "id": 4672,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS C365 Dark Navy Black Unisex Backpack",
+    "price": 1999,
+    "description": "Product SpecificationMade of 100% polyester, with mesh back paddingRoomy inner compartment to hold all essentialsDiscreet sub compartment inside to stow away valuablesFront pocket to hold all essentialsSeperate bottom zippered compartment with mesh panel to hold footwearMesh pocket on the side to hold sipperNylon bonded thread for long lifeHaul loop for handling easePadded, adjustable shoulder straps that distribute weight evenly and protect the shoulders and back from injuriesErgonomic design to Fit the torso comfortablyClimaCool technology on the back and shoulder straps to keep heat and sweat away from your body and regulate body temperature with combination of 3D foam, mesh and ventilation channelsWash careDo not machine washRub surface with dry clean cloth to remove dust and dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e83b1304c570b942d6af74114f0a3efe_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f0f3cb0dac528213f0be1b16b7c377b3_images.jpg"
+    }
+}

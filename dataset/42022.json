@@ -1,0 +1,17 @@
+{
+    "id": 42022,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men AdiCliff Black Flip Flops",
+    "price": 1299,
+    "description": "Style Noteadidas designed this pair of AdiCliff flip flops for those who want fashion doubled with comfort. The print on the foot-bed is in a stylish contrast colour. Pair them with a tee and your favourite slept-in style denims for a casual outing.Product DetailsBlack and flurscent green coloured thick fabric striped thong strapsFabric toe separator for maximum comfort with branding on the axis of the slipperRubber foot-bed with print for all-day massage feelTPU outsole with geometric textured lugs for maximum tractionMaterial and CareFabric, rubberWipe with a clean dry cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7a33431c8ff80b5500fc45297c32514e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8217e61fb20770cfa68ffec8d290300d_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 1164,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Blue T20 Indian Cricket Jersey",
+    "price": 1595,
+    "description": "CompositionBlue cotton jersey with a ribbed V-neck and spread collar, short sleeves, tri-colour paneling from the sleeve to the hem, orange panel on the back neck and branding on the frontWarranty for manufacturing defects: 6 months (not valid on products with more than 20% discount)FitComfort",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Blue-T20-Indian-Cricket-Jersey_c314044328597e0f88a6e334fb2133f0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Nike-Men-Blue-T20-Indian-Cricket-Jersey_f97f8fdbc41bab0f891e3f14a6140fbc_images.jpg"
+    }
+}

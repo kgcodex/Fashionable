@@ -1,0 +1,17 @@
+{
+    "id": 26265,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Maroon Polo T-Shirt",
+    "price": 599,
+    "description": "Maroon polo T-shirt, has a polo collar, short button placket, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/99f84f3819a2390bff9ff0b0f3914b39_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4d1719ae1c03f1566dfe5ce6320e89ef_images.jpg"
+    }
+}

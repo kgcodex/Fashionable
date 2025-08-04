@@ -1,0 +1,17 @@
+{
+    "id": 13280,
+    "brandName": "Inc 5",
+    "productDisplayName": "Inc 5 Women Casual Multi Flats",
+    "price": 850,
+    "description": "It's femininity celebrated and enhanced with this pair of sequined slippers from Inc. 5. With it's sleek design and simple style, this pair works great both as an office wear and for parties. This pair comes with a shoe bag that helps you carry it around in ease. Upper Smooth leather footbed with a wood-styled finish and ergonomically curved for absolute comfort and style Soft, supple plastic straps in thong style with a toe separator to hold the foot in place Sequin embellishments on the straps for enhanced style Outsole TPU outsole with a small round metallic heel that has a durable rubber base with horizontal grooves for absolute grip even on smooth surfaces Sandal care Wipe surface with a damp, clean cloth to remove dust and dirt Do not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/56a48fd85529c367625cd4662276eece_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3975de3a8d9a983af21e54f31fb4a572_images.jpg"
+    }
+}

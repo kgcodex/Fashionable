@@ -1,0 +1,17 @@
+{
+    "id": 28946,
+    "brandName": "Biba",
+    "productDisplayName": "BIBA OUTLET Women White Tunic",
+    "price": 999,
+    "description": "White, pink and yellow tunic made of 100% cotton, has a boat neck with a keyhole opening and a tie up, ruched effect along the neckline, small appliqu&eacute;d flowers on the chest with stitch detailing and mirror work, short sleeves elasticated at the cuffs, elasticated at the hips and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/28da2ba9e1892d2d9071de1ec2945968_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/82d419b8d4bb548a00992d825b4e5cc1_images.jpg"
+    }
+}

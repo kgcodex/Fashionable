@@ -1,0 +1,17 @@
+{
+    "id": 52472,
+    "brandName": "Red Rose",
+    "productDisplayName": "Red Rose Women White & Pink Polka Dot Print Bath Robe",
+    "price": 1049,
+    "description": "White and pink polka dot print bath robe, short extended sleeves, patch pocket on front right side, inner tie-ups at waist, belt loop at waist sides, tie stitched down at back waist",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Rose-Women-Bath-Robe_68c902ffcc3aedc35a2b8cd80aae2820_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Red-Rose-Women-Bath-Robe_93397f2b65a04e922ade15dc4ef4abdf_images.jpg"
+    }
+}

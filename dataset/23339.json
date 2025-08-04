@@ -1,0 +1,17 @@
+{
+    "id": 23339,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men Negotiator Grey Sport Shoes",
+    "price": 3599,
+    "description": "An entry level running shoe, the reebok Negotiator is not just comfortable, but stylish enough to double up as a casual shoe. The thick sole, padded ankle and heel ensure that your feet are well protected even during tough training sessions, while the mesh upper offers ample ventilation, keeping the environment inside the shoe healthy and safe. Upper Heavily meshed upper with startegically placed synthetic overlays in brand style for enhanced breathability and shoe structure Hevaily padded tongue and collar for snug comfort Lacing system for a snug, customised Fit Haul loop for easy on/off and to hang shoes Padded footbed for impact protection and all-day comfort Midsole Phylon midsole for impact protection and lightweight comfort Outsole TPR outsole with strategically placed lugs for absolute grip and traction Flex grooves in the forefoot for ease of movement Impact guidance line for enhanced energy return Shoe care Wipe surface with a clean, damp cloth to remove dust Do not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/446d515a16861360b661c00d76cf2f77_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e888e75acf2f36f182f7e89834d65d0e_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 31904,
+    "brandName": "Heart 2 Heart",
+    "productDisplayName": "Heart 2 Heart Women Multicoloured Briefs H2H-4-201",
+    "price": 199,
+    "description": "Article number: H2H-4-201Multicolured low-rise briefs, has an elasticated waistband with binding, striped detail throughout, elasticated leg openings with binding",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ff9b5c4e8be1468917b677a0a100878e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9827d8def78fa4950f31fa8d9c70c098_images.jpg"
+    }
+}

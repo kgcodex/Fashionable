@@ -1,0 +1,17 @@
+{
+    "id": 4012,
+    "brandName": "Spalding",
+    "productDisplayName": "Spalding 508z Black Basketball",
+    "price": 699,
+    "description": "CompositionBlack, silver and grey rubber basket ball made with synthetic rubber and wide channelsCare1. Rub surface with clean, damp cloth to remove dust2. Do not machine washEnhance your performance level with this NBA Certified Basketball from spalding. Root for the San Antonio Spurs with this black, grey and silver team ball from Splading. Engineered with spalding technology, its top grade rubber cover and wide channels make it an ideal ball for court games.",
+    "masterCategoryId": 12,
+    "masterCategoryType": "Sporting Goods",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/11085588395eb32c0da5b5b8ef4a1624_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/038d568345ab787552dd19f1948f7e8a_images.jpg"
+    }
+}

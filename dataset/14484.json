@@ -1,0 +1,17 @@
+{
+    "id": 14484,
+    "brandName": "Flying Machine",
+    "productDisplayName": "Flying Machine Men Green Shoes",
+    "price": 1600,
+    "description": "Green canvas upper with blue laser cut overlaysCanvas tongueCushioned footbed with a fabric lining for sweat-free comfort and impact-protectionLace-up system for a snug, customised fitDurable rubber outsole with herringbone grooves on the medial side and brick-styled grooves on the lateral side for absolute grip and traction",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Flying-Machine-Men-Grey-Canvas-Shoes_48bf722e11e9d8afe0ec4074722f1c4b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Flying-Machine-Men-Grey-Canvas-Shoes_04ff8d4c34fdee3a2554996246dde1b2_images.jpg"
+    }
+}

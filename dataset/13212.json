@@ -1,0 +1,17 @@
+{
+    "id": 13212,
+    "brandName": "ASICS",
+    "productDisplayName": "ASICS Women Gel Spree Running Grey Sports Shoes",
+    "price": 3499,
+    "description": "-",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Spring",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ba763a4b6319f310d13aaa9807a698bb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a40bd5e7fd17aafa1c987a50befdbbcf_images.jpg"
+    }
+}

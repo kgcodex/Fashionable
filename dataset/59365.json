@@ -1,0 +1,17 @@
+{
+    "id": 59365,
+    "brandName": "Vishudh",
+    "productDisplayName": "Vishudh Women Orange Printed  Kurta",
+    "price": 499,
+    "description": "Orange and yellow printed kurta, has a mandarin collar with a slit V neckline, black panel with stitched detail around the neckline, short sleeves with black binding, darts at the back for better Fit and side slits",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vishudh-Women-Orange-Kurta_c9d1d98cb0693d6bacf186fa5e8a7903_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vishudh-Women-Orange-Kurta_f6156459e1f6e18fca27b2e8fb23c335_images.jpg"
+    }
+}

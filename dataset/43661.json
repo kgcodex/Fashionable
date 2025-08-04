@@ -1,0 +1,17 @@
+{
+    "id": 43661,
+    "brandName": "ONLY",
+    "productDisplayName": "ONLY Women Brown Top",
+    "price": 1295,
+    "description": "Caramel coloured top, has a round neckline, gathers around the neckline, short sleeves with elasticated cuffs and smocking at the hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9c8a832b0f92f2088cb28a1e7430b453_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/369d6379a60ab78dccb8fdef1cbe53f5_images.jpg"
+    }
+}

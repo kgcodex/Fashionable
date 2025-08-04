@@ -1,0 +1,17 @@
+{
+    "id": 28365,
+    "brandName": "I DEE",
+    "productDisplayName": "IDEE Men Brown Sunglasses",
+    "price": 2150,
+    "description": "Lens colour: Brown Lens type: Polarized lens for glare reduction Frame colour: Brown Frame type: Recatangular, full thin frame with plastic arms High bridge and flexible nose pads for ergonomic comfort The glasses come in a signature IDEE case Warranty: 1 year",
+    "masterCategoryId": 190,
+    "masterCategoryType": "Free Items",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/IDEE-Men-Copper-Sunglasses0577fc9f7a9dd8cab77148180900c070_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/IDEE-Men-Copper-Sunglasses839f0d967e68daea95f9c1b41e071ddb_images.jpg"
+    }
+}

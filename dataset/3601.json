@@ -1,0 +1,17 @@
+{
+    "id": 3601,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Deccan Chargers Kids Navy Blue Lookalike Jersey",
+    "price": 450,
+    "description": "Navy blue round neck jersey made of 100% polyester, has short sleeves, jumping cat logo on the right chest, Deccan Chargers logo on the left chest and white tape detail at the inner back neck",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Deccan-Chargers-Kids-Navy-Blue-Lookalike-Jersey_327a1bfc5883fdf754a45e0b77079a5f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Deccan-Chargers-Kids-Navy-Blue-Lookalike-Jersey_562cda083a92fee3d798e915733b2021_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 3161,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Air Citius MSL White Grey Shoe",
+    "price": 3200,
+    "description": "Composition:White and grey Air MAX 90 full air nike shoeshoe care:1. Brush surface with a soft, clean, damp cloth to remove dust2. Do not machine washThese white and grey running shoes from nike are from the iconic Air Max range. The rugged waffle outsole complements the high performance light mesh uppers. These shoes provide excellent support, mobility, flexibility and freedom. A real classic, these shoes combine rugged appeal and futuristic performance.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/84faa0ea9fa7eee6b57f3bfce855fbc4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ffc6cca35261354f667ec1245a65b9fc_images.jpg"
+    }
+}

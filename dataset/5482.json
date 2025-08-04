@@ -1,0 +1,17 @@
+{
+    "id": 5482,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Air Press Sports Shoe",
+    "price": 3995,
+    "description": "The nike Air Press features a full length nike Air sole for lasting comfort on the Basketball court. Stylish to the T and perfect for those hard games, this pair makes for a great lifestyle shoe too.Upper Hi-top silhouette for added support Breathable mesh and leather upper for durability, ventilation and added shoe structure Lace-up system for a snug Fit Perforations on the toe box and the sides for maximum ventilation Lushly padded collar for in-step comfort Padded tongue with mesh upper and textile lining for snug fit and breathability Midsole Full length phylon midsole with encapsulated Air-sole unit for maximum shock absorption Mildly cushioned footbed for all-day comfort Outsole Solid rubber outsole with herringbone pattern for maximum traction and easy multi-directional movement Fibre encapsulated air chamber on the outsole for style Shoe careRub surface with clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7aee0e483f64e6577cc5f7d773e61890_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/080c226511cb36400fa5494a93010ad5_images.jpg"
+    }
+}

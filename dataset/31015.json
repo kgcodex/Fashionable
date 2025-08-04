@@ -1,0 +1,17 @@
+{
+    "id": 31015,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men White and Blue Striped Shirt",
+    "price": 1999,
+    "description": "Blue and white striped shirt, has a spread collar, yoke at the back, full buttoned chest placket, short sleeves with branding on one cuff, patch pocket on the left chest and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-White-and-Blue-Striped-Shirt_9c684fdb9b73fd70c3c1eaddea3efa32_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-White-and-Blue-Striped-Shirt_074018c11ecb4d1ce16afce33a57c9c2_images.jpg"
+    }
+}

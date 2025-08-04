@@ -1,0 +1,17 @@
+{
+    "id": 30014,
+    "brandName": "Kenneth Cole",
+    "productDisplayName": "Kenneth Cole Men White Dial Watch",
+    "price": 5995,
+    "description": "kenneth cole New york is manufactured using the highest quality materials and craftsmanship. The incorporation of both traditional and contemporary design philosophy result in a unique and modern product. Choose this watch to display your sophisticated and discerning taste in accessories. Case diameter: 40 mm Case thickness: 8 mm Dial shape: Round Warranty: Two years Steel round case Black leather strap with a tang clasp White dial with black and white hands Branding at the 12 hour mark Date aperture at the 3 hour mark Screw to reset time Solid case back made of stainless steel for enhanced durability",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Kenneth-Cole-Men-White-Dial-Watch_cdbf37bc0d4a320d70fa314b79770a6c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Kenneth-Cole-Men-White-Dial-Watch_848a40176e5434c85c358ef75a5055b1_images.jpg"
+    }
+}

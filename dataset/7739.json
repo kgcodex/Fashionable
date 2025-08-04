@@ -1,0 +1,17 @@
+{
+    "id": 7739,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Unisex Stripe Cat Steel Grey Cap",
+    "price": 499,
+    "description": "CompositionSteel grey cap made of 100% cotton, with eyelets on the panels, branded tape on the inside on the seam lines, velcro fastening at the back, stitch detailing on the vizor, cat logo print on the front and small brand tab in metal on the back Wash care Gentle machine wash in cool water Do not bleach Do not tumble dry Do not iron Do not dry clean Wash with similar colours Use detergent for colours Do not wring Stretch to original shape while damp Get ready to go out and have fun with this cap from puma. The eyelets keep you cool while the sleek styling with the striped cat logo makes this perfect for everyday wear. Team it with your sporting clothes or casuals when you go out in the sun to keep yourself dry and comfortable.",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/52a755984b5acd02ef38e52dbb5263e6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/de6a38769155befe769377400f1f08de_images.jpg"
+    }
+}

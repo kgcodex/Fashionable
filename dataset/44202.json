@@ -1,0 +1,17 @@
+{
+    "id": 44202,
+    "brandName": "iPanema",
+    "productDisplayName": "iPanema Women Purple Flip Flops",
+    "price": 599,
+    "description": "-",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f5f64356f2eb307fe6ebe5131cad41ae_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a445a2ddd23f9a3019e090773eb73d50_images.jpg"
+    }
+}

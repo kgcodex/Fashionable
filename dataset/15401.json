@@ -1,0 +1,17 @@
+{
+    "id": 15401,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men Tubes White Casual Shoes",
+    "price": 1699,
+    "description": "A perfect blend of fashion and comfort, the fila Tubes makes for a great casual shoe. Packed with features and crafted in a low profile silhouette, this shoe is a great buy.UpperSynthetic leather upper with perforations and strategically placed overlays for absolute breathable comfort and enhanced shoe structureSuede overlay as a toe boxLacing system for a snug, customised FitPadded tongue and collar with a textile lining for a custom fit and enhanced breathable comfortPadded footbed for all-day comfort and impact protection, which is removable to accommodate an orthoticMidsolePhylon midsole for lightweight comfort and impact protectionOutsoleTPR outsole with brand logo styled grooves for absolute grip and tractionOutsole embeded onto the upper as a heel guard for enhanced shoe lifeShoe careWipe surface with a dry, clean cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d5a73e624728feb729591b34ccbc9207_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/828960ca2e6fdf5b504e5104591ac77c_images.jpg"
+    }
+}

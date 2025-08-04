@@ -1,0 +1,17 @@
+{
+    "id": 44444,
+    "brandName": "Gliders",
+    "productDisplayName": "Gliders Unisex Grey Spiner Flip Flops",
+    "price": 299,
+    "description": "Style Note Rushing out of the house for a quick errand or heading out for a walk on the beach is made easy with these flip flops from gliders. Add style to your casual outfits with these slip-ons while ensuring your feet are comfortable. Product Details Black and grey flip flops, has thong straps and rubber toe separator Soft and textured grey foot bed with branding on the heel Thong straps adhered to the outsole on the sides PU outsole with patterned lugs and grooves Comes with a shoe bag Material and Care Rubber Wipe with a clean damp cloth when required",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f147b97910f9bd19626cf17731d62eb0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5402892e3e174de5d092918bd1c24a5e_images.jpg"
+    }
+}

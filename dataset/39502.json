@@ -1,0 +1,17 @@
+{
+    "id": 39502,
+    "brandName": "Peter England",
+    "productDisplayName": "Peter England Unisex Orange Duffle Bag",
+    "price": 2499,
+    "description": "Orange duffle bagOne main U shaped zippered compartmentZippered compartments on all four sidesTwo short handles and one long, adjustable and detachable strap",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/93adecbc9241388af17650e40c9adffa_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2d05a421047a4f7a38e7d4152fe5a7b3_images.jpg"
+    }
+}

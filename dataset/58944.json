@@ -1,0 +1,16 @@
+{
+    "id": 58944,
+    "brandName": "Taylor of London",
+    "productDisplayName": "Taylor of London Women Tweed Perfume",
+    "price": 795,
+    "description": "Tweed by taylor of london comes in a frosted glass bottleConcentrated cologne spray",
+    "masterCategoryId": 11,
+    "masterCategoryType": "Personal Care",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Taylor-of-London-Women-Tweed-Perfume_b9cf7b7c4356feeb40a9df31b776297b_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 35826,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men Cavier White Sports Shoes",
+    "price": 1999,
+    "description": "fila brand originates from Italy's materials capital Biella, and they craft their shoes for quality and optimal durability. This Cavier shoe with its sport shoe styling and padded inner is sure to become a closet favourite. Style this sockless with shorts; it's a perfect slip-on when you're in a hurry! Upper Mesh upper with synthetic overlays Reinforced overlay at the toe box and heel collar Central lace ups Padded tongue with branding Padded fabric with inner Embossed branding on the fore foot Midsole Rubber midsole for cushioned comfort Outsole TPU outsole with a curved midfoot and a decoupled heel Geometric grooves inside terraced lugs Shoe care Wipe surface with a dry, clean cloth to remove dust Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c95954168252a34e86af1d12a63c8d55_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/de6b814c77dccba31bdf08ca0f59cfd8_images.jpg"
+    }
+}

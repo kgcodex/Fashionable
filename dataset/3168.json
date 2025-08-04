@@ -1,0 +1,17 @@
+{
+    "id": 3168,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Incinerate MSL White Blue Shoe",
+    "price": 3300,
+    "description": "Composition:White and blue ligthweight running shoe with Air technologyshoe care:1. Brush surface with a soft, clean, damp cloth to remove dust2. Do not machine washThese white and blue pair from nike are the perfect running shoes. The mesh and leather upper provide great support and breathability while the lightweight midsoles lend themselves to enhanced performance. The waffle sole gives excellent grip and the flex grooves on the forefoot give greater flexibility.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/97687ab5c5fb62fa367a5b5875d8835f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/408fd9ab1e285650cbf546a450070fd2_images.jpg"
+    }
+}

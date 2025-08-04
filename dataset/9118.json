@@ -1,0 +1,17 @@
+{
+    "id": 9118,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Women Axis Silver Sports Shoes",
+    "price": 2999,
+    "description": "The Axis shoe from puma is a lightweight everyday trainer. A great neutral running shoe, it looks fabulous when teamed with casual wear as well. Upper Mesh upper with synthetic overlays for enhanced structure and breathability Formstripe and cat logo on the sides for added style and structure Cushioned collar and tongue for plush comfort Lace-ups for snug Fit Midsole Phylon midsole for strength and lightweight structure OrthoLite sockliner for superior comfort, material regeneration, air circulation and anti-microbial function Outsole ArchTec for greater ease in heel to toe transition Flex grooves built across the outsole to enhance flexibility",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/daae6e0d711eb49daba703cd3fc3c711_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5556dcbabd74b487e3769e32402d5d0d_images.jpg"
+    }
+}

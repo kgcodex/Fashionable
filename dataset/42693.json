@@ -1,0 +1,17 @@
+{
+    "id": 42693,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Black & Silver Sandals",
+    "price": 1290,
+    "description": "Style NoteA season staple, this pair of sandals from rocia is set to become your love-forever classic you'll not get enough of. This hard wearing pair will outlast the season despite ro",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7cf8dc8c2fc43725326a69a21e4efcd8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9e7fc9167b80af6c0a983d95a52e6bc5_images.jpg"
+    }
+}

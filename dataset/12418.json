@@ -1,0 +1,17 @@
+{
+    "id": 12418,
+    "brandName": "Reid & Taylor",
+    "productDisplayName": "Reid & Taylor Men Casual Black Wallet",
+    "price": 1095,
+    "description": "Crafted from soft leather, this wallet from Reid and Taylor is a fabulously stylish way to keep your money and cards safe and secure. With a smooth finish, this tri-fold wallet has an embossed branding on the upper and lots of inner storage making it perfect for everyday use.Leather for flexibility and supplenessTwo main compartments with fabric inner liningMultiple partitions on the two front halves to stash cards and coinsA buttonable third fold for additional spaceCareWipe surface with a dry, clean cloth to remove dust",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/67f327ebd846a30dbba66a57ce45bd50_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/186a45cd2441647dc79cf2bb70de15c3_images.jpg"
+    }
+}

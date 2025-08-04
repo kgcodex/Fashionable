@@ -1,0 +1,17 @@
+{
+    "id": 53608,
+    "brandName": "Q&Q",
+    "productDisplayName": "Q&Q Men White Digital Watch",
+    "price": 1195,
+    "description": "Case style: Digital watch with white plastic round caseStrap style: White plastic strap with a tang claspFeatures: Stopwatch, chrono alarm, power lite and digital modesWater resistant 5 BAR that can be used around sinks and rain splashesWarranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-White-Digital-Watch_332aa038176c45090f611181b557515f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-White-Digital-Watch_548300b2157622edcafb8bd9104c9b1d_images.jpg"
+    }
+}

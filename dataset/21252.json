@@ -1,0 +1,17 @@
+{
+    "id": 21252,
+    "brandName": "Skybags",
+    "productDisplayName": "Skybags Unisex Black Duffle Bag",
+    "price": 1170,
+    "description": "Black duffle bagTwo fabric handles and one adjustable shoulder strapOne main zip compartmentOne zip compartment on the frontTwo zip compartments on the sidesPlease note: The inner lining material/colour may vary from what is shown in the image",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/566d6ecd91ee29323b89582d6b600dbe_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bd64fd5275caa9b36dd41f0c4bd8eaab_images.jpg"
+    }
+}

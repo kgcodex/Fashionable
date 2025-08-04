@@ -1,0 +1,16 @@
+{
+    "id": 53031,
+    "brandName": "FNF",
+    "productDisplayName": "FNF Printed Yellow Sari",
+    "price": 2666,
+    "description": "Yellow printed sari with pink and gold border",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fashion-N-Fabrics-Printed-Yellow-Sari_1c5aaaa2b2c0609118a1e6b8c3f459c3_images.jpg"
+    }
+}

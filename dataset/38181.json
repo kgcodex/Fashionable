@@ -1,0 +1,17 @@
+{
+    "id": 38181,
+    "brandName": "Miami Blues",
+    "productDisplayName": "Miami Blues Women Sunglasses",
+    "price": 1615,
+    "description": "NA",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b1f65d783c731c2afb62071bdebe8db2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/73ad848a1b32dba3ea7715b54658437a_images.jpg"
+    }
+}

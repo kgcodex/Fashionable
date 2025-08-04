@@ -1,0 +1,17 @@
+{
+    "id": 54973,
+    "brandName": "Femella",
+    "productDisplayName": "Femella Women Off White Dress",
+    "price": 890,
+    "description": "Off white coloured sheath dress, knee-length, woven, sheer fabric panels at front and pack, boat neck, sleeveless, concealed zipper on the left side, attached lining",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-Cream-Dress_065ff3717e6c872eb9285d0d51aa0ae7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-Cream-Dress_0b41700d9c3d92056e4ea43468ef3912_images.jpg"
+    }
+}

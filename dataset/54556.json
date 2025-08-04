@@ -1,0 +1,17 @@
+{
+    "id": 54556,
+    "brandName": "Global Desi",
+    "productDisplayName": "Global Desi Women Purple & White Kurta",
+    "price": 1195,
+    "description": "White, purple, pink, green and rust coloured printed kurta, woven, has a round slit neckline, three quarter sleeves and side slits",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Global-Desi-Women-Mult-Coloured-Kurta_d6babd5a2c86a80da6ff10d6215d3ade_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Global-Desi-Women-Mult-Coloured-Kurta_3b8d7b98342fadb966d730a2c53b5955_images.jpg"
+    }
+}

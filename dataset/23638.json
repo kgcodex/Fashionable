@@ -1,0 +1,17 @@
+{
+    "id": 23638,
+    "brandName": "DC Comics",
+    "productDisplayName": "DC Comics Men Green T-shirt",
+    "price": 599,
+    "description": "Style Note The vibrant colours and graphics transport you to your childhood fantasies, while the soft cotton fabric keeps you fresh all day. Pair this DC Comic T-shirt with jeans or shorts. Product Details Green T-shirt made of 100% cotton, has a round neck, short sleeves and graphic and flock print on the front Material and Care 100% cotton Hand wash with like colours using a mild detergent Use a non chlorine bleach if needed Warm iron do not iron on decorations Size and Fit Regular Fit The model (height 6' and shoulder 18&amp;rdquo ) is wearing a size M",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bb4e6f40fa1eed4c8a54e8d1f94e0653_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/695c4a7423632b50400dde0da18dbb27_images.jpg"
+    }
+}

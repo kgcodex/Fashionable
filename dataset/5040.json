@@ -1,0 +1,17 @@
+{
+    "id": 5040,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men's Talus Navy Flip Flop",
+    "price": 499,
+    "description": "Enjoy summer in these sleek flip flops from fila. The insole is soft while the foamy phylon midsole makes the footwear lightweight and cushioned. The wide straps ensure a snug Fit and the twill tape toe separators give added comfort. The TPR outsole with 3-D branding enhances grip and stability.Upper Lightly padded synthetic straps stitched to the midsole Comfortable twill tape toe separators Embroidery branding on the straps Midsole Printed cushioned footbed for added comfort Graphiti on the footbed for style Visible phylon midsole Outsole TPR outsole with 3-D branding for extra grip shoe careDo not machine washRub with soft, clean cloth to remove dust and dirt",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/743d8481ff7421441418e067c665b26c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b245b5dd397a6c5bbe7a4c3345b7a758_images.jpg"
+    }
+}

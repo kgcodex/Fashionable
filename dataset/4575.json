@@ -1,0 +1,17 @@
+{
+    "id": 4575,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Air Max Court Blue Shoe",
+    "price": 7900,
+    "description": "Designed for professional tennis players, the Air Max Courtballistec from nike provides extreme durability, cushioning and support to help you play better for longer, giving you an edge over your competitor. Specially created for an elite game, the nike Air Max Courtballistec is a favoured choice among some of the most powerful tennis players worldover.Upper Ultra-strong DragOn 2X upper that encases a mesh in a hexagonal pattern for maximum flexibility, superior ventilation and extra durability Synthetic leather and mesh panels for structure and support to the shoe Off-center lacing system to protect laces while locking the foot in place Mesh tongue and mesh inner sleeve for breathability and glove-like Fit Heel counter to lock down heel for a secure fit Molded foam sockliner for cushioning and a customized feel Midsole Springy Lunarlon cushioning for soft yet responsive shock absorption in the forefoot Outsole Max Air unit in heel for maximum impact protection and long-lasting comfort Extra durable rubber on the outsole helps in quick multidirectional changes that come with aggressive play Modified herringbone pattern offers enhanced traction Areas near the toe and ball of the foot are thick and provide resilience and drag protection Flex grooves on the outsole for flexibility through toe-off Wash careDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4261eab32296117557cbd244c88becad_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4a1187f6f079ee16c4cad1736611a49c_images.jpg"
+    }
+}

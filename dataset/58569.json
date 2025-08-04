@@ -1,0 +1,17 @@
+{
+    "id": 58569,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Black T-shirt",
+    "price": 2299,
+    "description": "Black T-shirt, has a round neckline, short sleeves, branding embroidered on the right sleeve, ferrari branding on the left sleeve and graphic print in front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Black-T-shirt_46d415c444621acba806a2d4f1a28cfb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Men-Black-T-shirt_755556139b0cb2d553c6229ea37c54ca_images.jpg"
+    }
+}

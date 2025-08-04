@@ -1,0 +1,17 @@
+{
+    "id": 58267,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Bronze Handbag",
+    "price": 1600,
+    "description": "Bronze handbag with two short handles and elasticated at the mouth One large zipped compartment with two slots, an inner zipped pocket in-between and a zipped pocket on one side A hidden external zipped pocket at the back",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Bronze-Silly-Birdtt-Handbag_2551498530ffc78f412fb5f3ae9c23bb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Bronze-Silly-Birdtt-Handbag_c395a69c9a4885d19096f47679697b32_images.jpg"
+    }
+}

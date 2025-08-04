@@ -1,0 +1,17 @@
+{
+    "id": 3247,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Match Black White Shoe",
+    "price": 3299,
+    "description": "These Match classics shoes are a fresh take on the puma tennis sneakers originally released in 1974. The black leather uppers with gold logo lettering bring subdued glam to this universal classic. Team this up with jeans and tees for a cool casual look.Uppers Synthetic leather uppers for durability and protection Perforations on the sides give superior breathability Suede strips on the sides for re-inforcement Lace-ups for snug Fit Logo print on the side Logo applique on the tongue and collar Padded collar for greater comfort Textile lining for greater comfort Midsole Cushioned insole for all day comfort Lightweight midsole for greater shock absorbency and comfort Outsole Rubber outsole with herringbone tread pattern for greater traction",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ed4045de6697ad7081b8c904255ae408_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/60a02fa9c79b0c804bf7d08b0c076b25_images.jpg"
+    }
+}

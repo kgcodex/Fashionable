@@ -1,0 +1,17 @@
+{
+    "id": 57277,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Men Red Check Shirt",
+    "price": 2499,
+    "description": "Red, black and white check shirt, has a spread buttoned down collar, full buttoned placket, centre back seam, long sleeves with buttoned cuffs, patch pocket on the left chest with a buttoned closure and curved hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-Multi-Coloured-Shirt_f3076f4a05583fb1665b19ee650b72cc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Men-Multi-Coloured-Shirt_47062f6a6d46ec41fcee62ddbe18cdd2_images.jpg"
+    }
+}

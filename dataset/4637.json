@@ -1,0 +1,17 @@
+{
+    "id": 4637,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Phantom Low White Red Grey Shoe",
+    "price": 2299,
+    "description": "The Phantom for women is a plush high mileage training shoe for neutral runners. adidas continues to deliver ultimate comfort and a super smooth ride in one package. This is a highly recommended shoe for larger framed runners.UpperComplete mesh upper for breathability with synthetic overlays for added durabilityThree rubber overlays across the sides of the upper for added structure and style signifying the brand's motto of performance, perseverance and achievementSynthetic central lacing for snug FitMesh cut-out on the heel cap with adidas logo to enable heat transferLuxuriously padded collar to prevent the ankle from twistingPadded tongue for snug fitOverlays of glossy synthetic for styling effectMidsoleLightly cushioned insole for ergonomic fitEVA injected phylon midsole for lightweight comfortOutsoleMulti-directional flex grooves for added tractionMultiple rubber lugs all over the outsole for increased grip on any groundArched footbed for ergonomic comfortWash careWipe surface with soft, clean, damp clothDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b58cf8251b6f98a859b3e2dd4c1231e3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c9ace2eb9e6fa3be9c653417f13d5454_images.jpg"
+    }
+}

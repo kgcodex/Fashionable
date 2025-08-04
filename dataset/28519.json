@@ -1,0 +1,17 @@
+{
+    "id": 28519,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Breakline Black Track Pants",
+    "price": 1495,
+    "description": "CompositionBlack track pants for men made of 100% polyester, has a wide elasticated waist band, two mesh panels on the sides of the flared legs, two insert pockets on the sides, one pocket with a velcro closure on the back and toggle straps at the hemFitComfortWash careWash separately with like coloursDo not bleachCool ironGet more out of your workouts and yoga sessions with this flattering pair of tracks from nike. The wide waistband and flared legs flatter most body types while the mesh panels wicks sweat away from the body and keeps you feeling fresh and comfortable all day long. Team this with tees and sports footwear for trips to the gym.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/878f94bad6153d0cf9646f6cc0ce37b3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f56e90c015ed2c182efa448dbbc91a1a_images.jpg"
+    }
+}

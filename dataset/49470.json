@@ -1,0 +1,17 @@
+{
+    "id": 49470,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Maroon Classic Slip On Shoes",
+    "price": 1999,
+    "description": "Maroon, round toed slip on shoes Canvas upper with elasticated inserts at the sides of the tongue and reinforced overlay at the heel collar Soft inner lining with padding at the mouth and footbed EVA midsole with foxing Rubber signature waffle outsole wit",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Maroon-CLASSIC-SLIP-ON-Casual-Shoes_801e8e0f355c7fba92a3146d68e608e2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Maroon-CLASSIC-SLIP-ON-Casual-Shoes_12138a624a2dfbf38f08b24981fb4ae1_images.jpg"
+    }
+}

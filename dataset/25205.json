@@ -1,0 +1,17 @@
+{
+    "id": 25205,
+    "brandName": "Lino Perros",
+    "productDisplayName": "Lino Perros Women Beige & Brown Handbag",
+    "price": 2495,
+    "description": "Beige and brown textured handbag with top stitch detailingBranded zipped pocket in front with metallic brand badge, brown buckled tabs running vertically on either sides and metallic lock and key detailing design on topBranded zippered pocket at the backOne main compartment (fabric lined), divided into two with a zipped pocket separatorOne side has a zippered pocket built into the liningSecond side has two slotsTwo, short and fixed handles, with metal detailing (at the fixture), for carrying ease",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Women-Beige---Brown-Handbag_c361dc2805fec2d861292ee4036ba6c3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Women-Beige---Brown-Handbag_032a7c5afbc0559c9bca003768d12f9c_images.jpg"
+    }
+}

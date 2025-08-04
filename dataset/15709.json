@@ -1,0 +1,17 @@
+{
+    "id": 15709,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Whirlwind Classic Green Sports Shoes",
+    "price": 3499,
+    "description": "Designed for the runner who winds past in style, the puma Whirlwind Classic comes in a low silhouette and offers unparalleled comfort.UpperNylon upper with suede and synthetic leather overlaysLacing system for a snug, customised FitPadded tongue and collar for a custom fitPadded footbed for all-day comfort and impact protectionMidsolePU midsole for lightweight comfort and shock absorptionOutsoleTPR outsole with circular lugs for absolute grip and tractionOutsole embeded onto the upper as a toe guard and heel guard",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2e47e4fc7162675bbf13a4c9b9a1a193_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c0468fac67b2e475fd495f2a07b1db97_images.jpg"
+    }
+}

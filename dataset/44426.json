@@ -1,0 +1,17 @@
+{
+    "id": 44426,
+    "brandName": "Footfun",
+    "productDisplayName": "Footfun Kids Unisex Blue Sandals",
+    "price": 299,
+    "description": "Style NoteLet your little one enjoy the summer with these cute little slip-ons from footfun. Their soft and bendable outsole lets your child stay on their feet all day long.Product Details Blue round toed slip-ons with forefoot strapBranding on forefoot strap, heel and outsolePrinted footbed adhered to outsoleRaised TPU outsole with horizontal groovesMaterial and CareSyntheticWipe surface with a clean and dry cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Kids-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cc1e48196bcb61ddcce3304b0cb31b6d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/621ab5b35a1d2576fc0013c6b72371cd_images.jpg"
+    }
+}

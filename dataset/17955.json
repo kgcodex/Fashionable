@@ -1,0 +1,17 @@
+{
+    "id": 17955,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Stay Cool Blue Cap",
+    "price": 795,
+    "description": "A sporty head gear for the sporty woman, this cap from nike is designed with fashionable cuts to offer a comfortable yet flattering Fit and is engineered with Dri-FIt technology to ensure sweat-free comfort. This cap is crafted from recycled material, making it a perfect addition to the wardrobe of the environment friendly. Team it with track suits and sports shoes for a truely sporty look. Circumference: 57 cm Body made of 100% polyester Dri-Fit engineered mesh inserts made of 92% polyester and 8% spandex Adjustable back strap with velcro closure Heat transferred nike swoosh on the front Curved visor to protect the face from the glare of the sun Care Hand wash in warm water and line dry Do not dry clean, bleach, wring or iron",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/535ab49e0a201cc36620bcbdd6b3aefe_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ef96869bf4c13f9b1a902b2a43addc03_images.jpg"
+    }
+}

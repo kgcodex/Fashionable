@@ -1,0 +1,17 @@
+{
+    "id": 12705,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Courtballistic White Sports Shoes",
+    "price": 5995,
+    "description": "The nike Air Courtballistec 3.1 men's tennis shoe is a classic, durable shoe made for someone who needs a simple tennis shoe without the frills of the newer, more expensive models. It features quality material, letting you play uninhibited by the sneakers on your feet and the dent in your wallet.UpperCombination of full grain leather and synthetic leather with a little mesh to give you a comfortable, well ventilated feel Lip on the outside to support lateral movement Gilly lacing system for a supportive, locked-in Fit EVA sockliner for plush comfort and performanceMidsoleFull length phylon midsole for ample cushioning and lightweight comfort Mildly padded footbed for all-day comfort Max Air unit in heel for maximum impact protection and long-lasting comfortOutsoleDurable rubber outsole for greater traction and easy lateral movement on any surface Extra durable rubber lugs on the outsole for quick multi-directional movement Modified herringbone pattern for enhanced traction Thicker at the toe and heel rehion for resilience and better drag protectionShoe careRub surface with clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/16eb5c005b2f2457e70654126d934b50_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d322fd089cd056bcac72c7528acd3f32_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 27266,
+    "brandName": "Arrow Woman",
+    "productDisplayName": "Arrow Woman Light Yellow Striped Shirt",
+    "price": 1299,
+    "description": "Yellow striped shirt, has cap sleeves, a mandarin collar with a V-neckline, a buttoned placket and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f7fb3a361d7f0cec41f497c7865884cc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/63124f9009f4b1fca7bc5b8a2de8c766_images.jpg"
+    }
+}

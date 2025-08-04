@@ -1,0 +1,17 @@
+{
+    "id": 10268,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Men Hang Work Leather Black Formal Shoes",
+    "price": 2499,
+    "description": "A perfect formal shoe, this smart Hang Work slip-on leather shoe offers absolute relaxed comfort. With a soft leather and fabric inner lining, rounded toe and raised stitch detailing, this shoe is a great addition to your wardrobe. UpperFull grain leather upper in a slip-on style for absolute comfortDecorative strap over the tongue for midfoot support and styleRaised stitch detailing for durability and styleRounded toe for easy movement of the toes within the shoeMildly padded collar for comfortHas a generous G-width fittingPart leather, part textile inner lining for abrasion-free wearMidsoleMan-made EVA midsole for lightweight comfortSoft leather footbed for cuhsioned, all-day comfortOutsoleDurable textured rubber outsole with suction grooves throughout the forefoot and grooves on the heel in a horse shoe shape for absolute grip and tractionFlex grooves in the forefoot for flexible movementCurved midfoot for inner-arch supportRaised heel for ergonomic comfort and styleShoe careWipe surface with dry, clean cloth to remove dustBrush using a branded leather conditioner to restore shoe shineDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f295a0ad0edc6a2e4853df7bd6d2c590_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f0946478d8ce286e2fe7f2c61aff1a94_images.jpg"
+    }
+}

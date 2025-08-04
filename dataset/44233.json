@@ -1,0 +1,17 @@
+{
+    "id": 44233,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Black Shoes",
+    "price": 2595,
+    "description": "Style Note There is nothing like a shoe which combines a stylish look with comfort and durability. nike aces at shoes like that. This Lite Force Mid shoe is a pair of casual shoes that you wouldn't want to take off. Lightweight and designed to be a fine wear, this one is just looking for a place in your shoe collection. Product Details Round toed, hight top, black and white casual shoes with lace up fastening Fabric upper with Nike swoosh on either side of the midfoot region, reinforced overlays around the toe box and heel collar Mildly padded tongue and padded inner and soft footbed Rubber midsole Rubber outsole with modified herringbone grooves for added traction and absolute grip Material and Care Fabric and rubber Wipe with a clean and dry cloth when needed",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/291106f51311b0544e1e59440f30b199_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fe654a778a82e3a9ed7a4668ca542c59_images.jpg"
+    }
+}

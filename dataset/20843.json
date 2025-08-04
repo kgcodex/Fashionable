@@ -1,0 +1,17 @@
+{
+    "id": 20843,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men Aviator LP White Sports Shoes",
+    "price": 1599,
+    "description": "The reebok Aviator is a versatile running shoe that features ample ventilation and offers lightweight comfort, keeping your feet fresh and comfortable all day. Attractive, with a durable TPR outsole, they are perfect not just for your running/jogging sessions, but also work very well as all-day casual wear. Upper Breathable mesh upper for ample ventilation and reduced irritation Synthetic overlays for added shoe structure, durability and style Lace-up system with synthetic laces for a snug, customized Fit Lushly padded tongue and well-cushioned collar for in-step comfort Mesh tongue for maximum ventilation Brand name on tongue, lateral side and behind collar Midsole EVA midsole for lightweight responsive cushioning and shock absorption Cushioned footbed for all-day comfort Fabric lining for increased comfort Outsole TPR outsole for better shock absorption and durability Circular and triangular lugs for better traction on all surfaces Textured pattern on the heel for improved grip Flex grooves for ease of movement Shoe care Wipe surface with soft, clean, dry cloth to remove dust Do not machine wash Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/334b9b189624ed4b4591335504b6a562_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9f7c8e6267989febe6c60e1d83bf47ad_images.jpg"
+    }
+}

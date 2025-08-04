@@ -1,0 +1,17 @@
+{
+    "id": 29254,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men aZ F50 Trainer Black Sports Shoes",
+    "price": 4999,
+    "description": "Take training to the next level with these Adizero shoes from adidas. The sleek design with the light-weight design and high performance features helps you train better for longer. Team these with jeans and tees for a cool casual look.UpperSynthetic uppers with synthetic suede overlays for better structure and comfortadidas patented 3-Stripe design on the sides for enhanced support and to exude the brand&rsquo;s belief in performanceLace-ups for snug FitPerforated tongue for greater breathabilityLightly cushioned collar for greater comfortBrand name embossed on the tongue and behind the collarMidsoleOrtholite performance insole provides long lasting cushioning, air flow, odor prevention, antibacterial properties and wicks away moisture for all day comfortPhylon midsole provides lightweight comfortOutsoleOutsole with multi-directional triangular pattern for better grip on all surfacesshoe careWipe surface with damp, clean cloth to remove dirtDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1e594cddd8dcc36d172c292b324bd570_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0d5246d42846355cd62e6dcb1ba37e2e_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 29873,
+    "brandName": "Mayhem",
+    "productDisplayName": "Mayhem Men Rectangular Sunglasses 1022-206",
+    "price": 1840,
+    "description": "Lens colour: BlueLens type: Lens with UV protectionFrame colour: BlueFrame type: Stylised rectangular metal full frame, has plastic casing along the ends of the armsHigh bridge with flexible nose pads",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/244342edb45a61c253770d899f482d2b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8a13dea23dbaf06b116fef45dadbe2d3_images.jpg"
+    }
+}

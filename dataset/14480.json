@@ -1,0 +1,17 @@
+{
+    "id": 14480,
+    "brandName": "Flying Machine",
+    "productDisplayName": "Flying Machine Men Blue Casual Shoes",
+    "price": 2000,
+    "description": "An eclectic fusion of hot style and cutting edge design, this shoe from flying machine is a great way to attain a cult status. Made with a canvas and nubuck upper, this is a must-have in your casual wardrobe.UpperCanvas upper with a nubuck toe box for absolute breathable comfort and supportHigh ankle with a synthetic tape deatiling around the mouthPadded tongue with a fabric inner lining for sweat-free comfortCushioned footbed with a fabric lining for sweat-free comfort and impact-protectionLace-up system for a snug, customised FitMidsoleEVA midsole for absolute impact protectionOutsoleDurable rubber outsole with waffle pattern lugs throughout and horizontal grooves on the upper midfoot for absolute grip and tractionShoe careClean the nubuck toe box using a nubuck brushTo clean the canvas, make a paste using 1 tbsp of baking soda, 1 tbsp white vinegar and 1 tbsp hot water. Rub this paste onto the canvas and the sole using a brush. Wash off with lukewarm water.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1f34844173b072ba5ce80f994d768a28_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fe11b788ab29792524268e309401f87c_images.jpg"
+    }
+}

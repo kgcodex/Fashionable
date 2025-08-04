@@ -1,0 +1,17 @@
+{
+    "id": 59056,
+    "brandName": "Carlton London",
+    "productDisplayName": "Carlton London Women Blue & Cream Shoes",
+    "price": 1995,
+    "description": "Round toed, blue and white shaded shoes with central lace up fastening and an upraised heel Leather upper with overlays and a soft footbed Upper adhered to the outsole Tough textured outsole",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Carlton-London-Women-Blue---Cream-Shoes_6574d470b371948ea4001094033cf7df_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Carlton-London-Women-Blue---Cream-Shoes_430b29c3e82c83cc9fd173c380e57390_images.jpg"
+    }
+}

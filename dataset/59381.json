@@ -1,0 +1,17 @@
+{
+    "id": 59381,
+    "brandName": "Vishudh",
+    "productDisplayName": "Vishudh Women Brown Printed Kurta",
+    "price": 499,
+    "description": "Brown, yellow, red and white printed kurta, has a round slit neckline, front yoke, three quarter sleeves with printed panel at the cuffs, printed panel at the hemline and has side slits",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vishudh-Women-Brown-Kurta_a9dd75f454e38e810376fa2ca654d0d2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vishudh-Women-Brown-Kurta_346ee9d3e5ddd2b075a37c3d2b8dbec9_images.jpg"
+    }
+}

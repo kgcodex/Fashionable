@@ -1,0 +1,17 @@
+{
+    "id": 53427,
+    "brandName": "Alma",
+    "productDisplayName": "Alma Women White Printed Kurta",
+    "price": 499,
+    "description": "White woven kurta, has light and dark green print, a mandarin collar with a U-neckline, lace detail along the neckline, three quarter sleeves and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Alma-Women-Blue-Printed-Kurta_4d5b3c67c23fc5dab04839a59145538e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Alma-Women-Blue-Printed-Kurta_fba0149c322a4193019cf3e73198cc4c_images.jpg"
+    }
+}

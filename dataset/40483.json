@@ -1,0 +1,17 @@
+{
+    "id": 40483,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Women Pink Speed Lite Sports Shoes",
+    "price": 2099,
+    "description": "Style Note This fila shoe with its sleek upper and light weight makes for great Sports shoe that doubles as a casual shoe. Product Details Pink sports shoe, mesh upper for lightweight comfort and absolute breathability, strategically placed synthetic overlays for added shoe structure, asymmetrical lace-up system for an abrasion-free customised Fit, meshed and padded tongue and padded fabric collar, PU midsole for lightweight comfort, fabric footbed for sweat-free wear, TPR outsole with modified patterned lugs, outsole reinforced onto the upper as a toe guard for enhanced forefoot protection Material and Care Synthetic, TPR outsole Wipe surface with soft, clean, damp cloth to remove dust Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f3a2cfb810af61e597fb8b60501e0429_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2807d5ae0a7ce10cd850a36d5d7da864_images.jpg"
+    }
+}

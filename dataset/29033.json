@@ -1,0 +1,17 @@
+{
+    "id": 29033,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex Corp Black Cap",
+    "price": 399,
+    "description": "Block the elements and look stylish in this fabulous cap from adidas. The polyester fabric and eyelets keep your head cool and dry all day. Team it with jeans, tees and sneakers to complete your sporty fashion statement.Black cap made of 100% polyesterEmbroidered eyelets on the crownEmbroidered brand name and adidas patented 3-Stripes appliqued on the frontAdjustable back strapCap careMachine wash in cold water or hand wash separatelyDo not tumble dry, use softeners or bleachLine dry",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fac669e0853a9f80c02fc96a2be5000c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/419053c901c91a137ab886f487b5975b_images.jpg"
+    }
+}

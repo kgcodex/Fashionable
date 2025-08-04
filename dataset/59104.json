@@ -1,0 +1,17 @@
+{
+    "id": 59104,
+    "brandName": "Just Natural",
+    "productDisplayName": "Just Natural Men Brown Rain Jacket",
+    "price": 1895,
+    "description": "Brown quilted jacket, hood with drawstrings with a strap and buckle detail at back to hold the hood in place when not in use, mesh fabric inside, long sleeves with and elasticated cuffs with velcro closure, red and black panel overlays for style, detachable zippered front, placket covering zipper with velcro closure, two welt pockets with velcro closure on the front, drawstrings at the hem for a snug Fit",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Just-Natural-Men-Brown-Rain-Jacket_47df99e7dc2df2a6bf908688108cc808_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Just-Natural-Men-Brown-Rain-Jacket_d2d942c16c4d81ef1b7688c0a9f12415_images.jpg"
+    }
+}

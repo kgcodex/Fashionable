@@ -1,0 +1,17 @@
+{
+    "id": 48504,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Women Blue Top",
+    "price": 2999,
+    "description": "Style Notefrench connection has got that chic look just right for you this summer with their range of bright and well styled tops. Flattering to your form and easy to compl",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1a085998694494a142bd72c2b42f3b04_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/879b74a4bf36ea09e69aa8a690be5e4f_images.jpg"
+    }
+}

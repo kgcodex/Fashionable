@@ -1,0 +1,17 @@
+{
+    "id": 31208,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Mercurial Victory Purple Sports Shoes",
+    "price": 4595,
+    "description": "Built for speed on hard surfaces, the nike Mercurial Victory II lightweight soccer cleats are designed for that revolutionary speed, coupled with the ultimate in traction, cushioning and control. The entire shoe is designed such that it mirrors the shape of the foot and offers a premium Fit allowing you to strike the ball fast and clear. The nike Mercurial Victory II shoe is configured with firm ground (FG) cleats that can be used on short grass fields that may be slightly damp, but not muddy. Its innovative vapour traction island pattern makes this deliver targeted traction where the player needs it most. This special shoe engineering concept with special TPU bladed studs aids quicker acceleration of players at scintillating speed.&nbsp;UpperUltra-lightweight synthetic leather adjusts to the foot shape and works to keep feet locked in placeLace-ups for a snug fitBold graphic on the uppers for a stylish lookContoured speed last for an ergonomic fitFull-length glass-fibre chassis for responsive energy and a firm yet flexible fitCushioning at the heel provides a more comfortable feel and helps keep the heel from slippingMidsoleContoured sockliner at the midsole for cushioning to reduce stud pressureOutsoleGlass-fibre outsole engineered for responsiveness and explosive bursts of speed while ensuring excellent tractionFirm, yet flexible outsole that helps reduce stud pressureFirm-ground (FG) studsShoe careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/eea843932023050183544d15c8e9bb34_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/90ee29deb330716a011935200173b5d4_images.jpg"
+    }
+}

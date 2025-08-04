@@ -1,0 +1,17 @@
+{
+    "id": 31047,
+    "brandName": "Arrow Sport",
+    "productDisplayName": "Arrow Sport Men Blue Striped Shirt",
+    "price": 1999,
+    "description": "Blue shirt with white and yellow stripes, has a spread collar, yoke at the back, full buttoned chest placket, short sleeves with branding on one cuff, patch pocket on the left chest with brand patch and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Sport-Men-Blue-Striped-Shirt_060f3f3dfbe62cfe93ca3e2813ce930b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Sport-Men-Blue-Striped-Shirt_158d9ae315ae0ac9e795b3ecc5dbf013_images.jpg"
+    }
+}

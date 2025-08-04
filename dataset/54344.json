@@ -1,0 +1,17 @@
+{
+    "id": 54344,
+    "brandName": "Levis",
+    "productDisplayName": "Levis Men Pack of 3 Socks",
+    "price": 349,
+    "description": "Three pairs of socks in black Branding at the cuff Spandex in welt for better grip Elasticated and ribbed cuffs for a good Fit and grip above the ankle Arch support for better grip and fit Three dimensional shaped heel and toe for a good fit Cushion sole for impact protection",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Levis-Men-3-Pair-Of-Socks_04162174c6410100c152469c97717441_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Levis-Men-3-Pair-Of-Socks_35aca066d29ba42abdd693d0c47ffaf0_images.jpg"
+    }
+}

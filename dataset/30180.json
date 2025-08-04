@@ -1,0 +1,17 @@
+{
+    "id": 30180,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Navy Blue Duffle Bag",
+    "price": 2295,
+    "description": "Style NoteIf you want a bag that's funky, stylish, super cool and comfortable to carry around all day, check out this backpack from nike. Carry it to college or on a casual day out with your friends. A stunningly good looking bag, with loads of space, it'll become your best buddy in no time. Be prepared to be swept off your feet by this awesome backpack! Product DetailsMade of tough 600D polyester and durable 300D polyester Polyester lining for increased durabilityOne main zipped compartment to accommodate all your essentialsTwo roomy side pockets nike swoosh appliqu&eacute; d on the left sidePadded, adjustable and detachable shoulder straps that distribute weight evenly and protect the shoulders and back from injuriesBranded steel zips and sliders for easy use Material and Care100% polyester Rub surface with dry clean cloth to remove dust and dirtDo not machine wash Size Height: 35.5 cmWidth: 77.5 cmDepth: 35.5 cm",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7cb943e5cd06ef0e3f8cbce7c09c44a8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7a32d6c041d86220a7525a33b7c9b4f4_images.jpg"
+    }
+}

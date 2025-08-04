@@ -1,0 +1,17 @@
+{
+    "id": 30312,
+    "brandName": "Myntra",
+    "productDisplayName": "Myntra Men Viva Las Vegas Red T-shirt",
+    "price": 399,
+    "description": "CompositionRed round neck T-shirt made of 100% cotton, has short sleeves and graphic print on the chestFitRegularWash careMachine wash separatelyDo not bleach, do not dry clean, do not tumble dryWarm iron, iron print on reverseSpun from our irresistibly soft cotton, this is a blissfully cosy T-shirt, and it follows our favourite trend - statement tees! Sporting a 'Viva Las Vegas' print on the chest, this tee from myntra gives a fresh twist to an off-duty staple making it ideal for your cool summer uniform. Style it with checked shorts, understated accessories and lace up casual shoes for perfect man-about-town nonchalance.Model statisticsThe product is a size M on a model of height 6' and shoulders 18\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7893727d8bf95fdd3bc9cc933ac7b454_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/404965b4286b786053da738978bbf5bf_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 13835,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Solid Black Jackets",
+    "price": 3595,
+    "description": "CompositionBlack hooded jacket made of 100% nylon, has full sleeves with ribbed cuffs, zippered pockets on the sides, full front zipper closure and a nike swoosh on the right chest Fitting Regular &nbsp; Wash care Machine wash in 30 degrees Do not tumble dry Drip dry in shade inside-out Do not iron &nbsp; An iconic design that perfectly suits the spirit of sporting, this Nike360 jacket offers absolute warmth and comfort. While the side zippered pockets offer secure storage of your essentials, the ribbed cuffs and hem provide a snug Fit. A perfect companion on your early morning runs and sporting events when the cold winds blow, this jacket teams well with track pants or comfortable leggings and sports shoes.Model statisticsProduct is a size M on a model of height 6' and shoulders 18\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6bf7257154ae65b4efaa14d2305d2389_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5a564b6a81f14e924611906fbe2b4c46_images.jpg"
+    }
+}

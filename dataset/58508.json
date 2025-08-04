@@ -1,0 +1,17 @@
+{
+    "id": 58508,
+    "brandName": "Tonga",
+    "productDisplayName": "Tonga Women Grey Sweater",
+    "price": 1690,
+    "description": "Knitted grey sweater with a round neck, short sleeves, rib knit placket with four buttons, two pockets in the front, rib knit binding at the sleeves, neck and hemline, comes with a knitted grey tubular muffler",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Women-Grey-Sweater_ae1949c3f3cfe2c96b9ea61cba82ee0d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Women-Grey-Sweater_bc634f78e2d25ce361693b4a9885766b_images.jpg"
+    }
+}

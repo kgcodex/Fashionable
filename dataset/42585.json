@@ -1,0 +1,17 @@
+{
+    "id": 42585,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Mens Black Polo T-shirt",
+    "price": 1399,
+    "description": "Black polo T-shirt, has a ribbed spread collar, short buttoned placket, text&nbsp; appliqu&eacute; d&nbsp; on the left chest, short sleeves with ribbed cuffs, branding appliqu&eacute; d on the right sleeve and left bottom above the hem, vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Boys-Black-Polo-T-shirt_8f0ed9cd9a1a73861a9af00116108916_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/United-Colors-of-Benetton-Boys-Black-Polo-T-shirt_66c4f68e96565ef7f58d54b581a65527_images.jpg"
+    }
+}

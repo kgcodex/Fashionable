@@ -1,0 +1,17 @@
+{
+    "id": 50692,
+    "brandName": "Chromozome",
+    "productDisplayName": "Chromozome Men Grey Trunk Trunks",
+    "price": 239,
+    "description": "Grey trunks that have a broad, elasticated gold coloured waistband, stitch detailing, printed branding on the waistband and slightly elasticated at the legs for enhanced comfort",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Chromozome-Men-Grey-Trunk-Briefs_19fcc93afe9b2051702a8d83daa4120e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Chromozome-Men-Grey-Trunk-Briefs_de80c7724ee27b832e85463ae41f650b_images.jpg"
+    }
+}

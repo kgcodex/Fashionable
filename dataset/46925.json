@@ -1,0 +1,16 @@
+{
+    "id": 46925,
+    "brandName": "York",
+    "productDisplayName": "York Men Prestige Perfume",
+    "price": 450,
+    "description": "Style Noteyork perfumes are known for its sophisticated fragrances and it's value for money. No outfit is complete without the right fragrance (be it formal or off-duty).",
+    "masterCategoryId": 11,
+    "masterCategoryType": "Personal Care",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/06fe146a9a24669e502bcc8387edbe95_images.jpg"
+    }
+}

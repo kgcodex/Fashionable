@@ -1,0 +1,16 @@
+{
+    "id": 1911,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Mens Manchester United Blues T-shirt",
+    "price": 995,
+    "description": "Now there are more football club fanwear t-shirts for soccer fans to choose from. For all you football fans, grab this nike manchester united t-shirt, with the nike swoosh and the ManU logo shining bright!Look around and name the one dress that's constant everywhere. The answer is easy - t-shirts. Nothing quite like it. And nothing else will be. Supremely comfortable and so easy to wear, a t-shirt is a sheer delight. Its rather easy to try on a hundred T-shirts and never get tired of even one. Somehow T-shirts have the knack of pleasing the body, senses and soul. They are available in eye-catching colours, great designs, fits and sizes. No matter what the occasion, be it to office, outings or parties, T-shirts are a perfect wear and complement your style effortlessly. Go on and get your T-shirts right away.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/90342a64b39ca46cac522261ad3f8842_images.jpg"
+    }
+}

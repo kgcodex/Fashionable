@@ -1,0 +1,17 @@
+{
+    "id": 53592,
+    "brandName": "Q&Q",
+    "productDisplayName": "Q&Q Men White Dial Watch",
+    "price": 845,
+    "description": "Case style: Analog watch with steel round caseDial style: White dial with silver handsStrap style: Steel strap with a butterfly claspFeatures: Water resistant Warranty: 1 year",
+    "masterCategoryId": 190,
+    "masterCategoryType": "Free Items",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-White-Dial-Watch_2ec32b0779954d2f5fa2223769c96efb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Q-Q-Men-White-Dial-Watch_2ffc323a92f5a86b144e4f93b4504f68_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 42137,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men White Air Courtballistec White Sports Shoes",
+    "price": 5995,
+    "description": "Style NoteBuilt for action on the courts, but perfect as a lifestyle shoe, the nike Courtballistec 4.1 is best known as Rafael Nadal's signature shoe. Product DetailsSynthetic leather upper, perforated panels on the sides of the midfoot, honeycomb patterned embossing on the forefoot, molded overlay at the vamp for durability and midfoot shank for support and stabilityPadded tongue and inner (mesh)Phylon midsole and Nike Air unit in the heel for cushioningMulti-surface traction pattern for versatile traction, flex grooves at the outsole for flexibility and enhanced range of motion and full-length GDR compound in an aggressive, multisurface traction pattern for long lasting durability and traction Material and CareSyntheticWipe surface with a dry, clean cloth to remove dustDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/09fd34f7aab1f52735af47a003089a2e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/44cf2f584e0599eb84d9d597b7b5232f_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 46487,
+    "brandName": "Timex",
+    "productDisplayName": "Timex Men Sliver Dial Chronograph Watch",
+    "price": 6095,
+    "description": "Style Note",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/46487/Timex-Men-Sliver-Dial-Chronograph-Watch_2_408b225f3de40ac32e2fa163db1451b6.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/46487/Timex-Men-Sliver-Dial-Chronograph-Watch_3_b849e9c318f5ade7b422c2e52af4e2d4.jpg"
+    }
+}

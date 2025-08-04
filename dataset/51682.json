@@ -1,0 +1,17 @@
+{
+    "id": 51682,
+    "brandName": "Louis Philippe",
+    "productDisplayName": "Louis Philippe Men Brown Sunglasses",
+    "price": 3500,
+    "description": "Lens colour: BrownFrame colour: Brown with hints of silver at the sideFrame type: Metal, aviator styleLens type: PolarizedBranding at the sides soft nose-padsThe glasses come in a case",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/51682/Louis-Philippe-Men-Brown-Sunglasses_2_93882750351b11eae3f9e1858a262992.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/51682/Louis-Philippe-Men-Brown-Sunglasses_3_76a8d6de26e041493ef9b3253221811d.jpg"
+    }
+}

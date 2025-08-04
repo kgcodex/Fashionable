@@ -1,0 +1,17 @@
+{
+    "id": 54516,
+    "brandName": "F Sports",
+    "productDisplayName": "F Sports Men White Velocity Sports Shoes",
+    "price": 1395,
+    "description": "White shoe with central lace-ups and black stripes on the sides Has a padded tongue and inner and brand name on the tongue Lightweight TPR outsole with concentrated circular grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/F-Sports-Men-White-Velocity-Sports-Shoes_e161f42d2825b7201a7247ba9aceed12_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/F-Sports-Men-White-Velocity-Sports-Shoes_7bc44d9703cd75195cdeabd6fb84551a_images.jpg"
+    }
+}

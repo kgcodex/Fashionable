@@ -1,0 +1,17 @@
+{
+    "id": 7479,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Black V-Neck T-shirt",
+    "price": 399,
+    "description": "Black T-shirt, has a V-neck, short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bc66cc3caf4f22f8ea9a4a79f8da8048_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3303c88e64a866ccabf30d2133645db3_images.jpg"
+    }
+}

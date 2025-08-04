@@ -1,0 +1,17 @@
+{
+    "id": 40015,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Unisex Navy Blue Pack of 3 Socks",
+    "price": 399,
+    "description": "Style NoteWear these socks with trainers when you're working out. adidas ensures that all their products are designed to offer the best performance and these socks are no exception.Product DetailsThree pairs of navy blue socks, ankle crop length, with ribbed opening and brand logo on ribbed designingMaterial and Care80% cotton, nylon 16% and lycra 4%Machine wash in cold water or hand wash separatelyDo not tumble dry, use softeners or bleachLine dry",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/432ad3a28ea50968703a7e2532014d99_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/69f086cd06128efeef8dfb4745708109_images.jpg"
+    }
+}

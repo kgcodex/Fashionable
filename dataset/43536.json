@@ -1,0 +1,17 @@
+{
+    "id": 43536,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Women Peach Top",
+    "price": 2699,
+    "description": "Peach loose-fitted top with a round neck, drop down shoulders with short sleeves, print on the front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Women-Multi-Coloured-Top_3ae11394d4b746bcdc85940e139296f0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Women-Multi-Coloured-Top_e745cfb47f9e0def4e81effa8f50fc25_images.jpg"
+    }
+}

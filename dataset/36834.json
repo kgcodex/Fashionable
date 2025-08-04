@@ -1,0 +1,17 @@
+{
+    "id": 36834,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Sidewinder Brown Flip Flops",
+    "price": 3995,
+    "description": "Style NoteAggressively designed nike Sidewinder 2 flip flops double up superbly as lifestyle wear. The hardy design ensures durability, as does the brand itself. Experiment with your looks with this stylish footwear! Product Details Textured leather thong straps with a toe separator Soft leather footbed Braid styling holding the upper to the outsole for style with a pull tab Nike waffle outsole Material and CareSyntheticDo not machine wash Remove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d97fadfc05b9606f49272ef562d61c63_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/168a359dc57a8e6b83a8c024e620d0a3_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 15646,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Running Grey Jerseys",
+    "price": 1295,
+    "description": "CompositionGrey jersey made of 100% polyester, with polyester meshes engineered with Dri Fit technology, has short raglan sleeves with a blue panel and blue stitch detailing, round neck and strategically placed ports for hassle-free management of earphone cordsFittingComfortWash careMachine wash cold with like coloursDo not dry clean, bleach, use softeners or allow to lay on itself when wetTumble dry lowRemove immediately Cool ironCrafted from soft polyester and engineered with Dri-Fit technology, this jersey offers exemplary dry comfort, making it a great everyday wear for your healthy runs and casual days. What's even better is the strategically placed ports to ensure your earphone cords dont come in your way. Team this with jeans and running shoes for a sporty look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6a649f397290f11320f75828c0f7775d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f44daced31b4c0870934c295d6ac0da0_images.jpg"
+    }
+}

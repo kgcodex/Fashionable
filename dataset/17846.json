@@ -1,0 +1,17 @@
+{
+    "id": 17846,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Supergame Black Sports Shoe",
+    "price": 2295,
+    "description": "Designed with stylish cuts and packed with features, the nike Supergame is a fab trainer that doesn't compromise on style. Offering all-round support, cushioning and durability even during intense work-out sessions, this sneaker is here to stay for years. Upper Heavily meshed upper with a fabric inner lining and synthetic overlays for enhanced shoe structure and breathable comfort Lacing system for a snug, customised Fit Cushioned tongue and collar for a snug comfort Cushioned footbed for enhanced cushioning and impact protection Midsole Phylon midsole for absolute shock absorption and lightweight comfort Outsole TPR outsole with strategically placed lugs for optimum grip and traction Flex grooves for ease of movement Scooped heel for cushioned comfort to the backfoot Shoe care Wipe surface with damp, clean cloth to remove dust Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b9dad63eea5a89bbb2f4b0ca2863c6d6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5d50a53d70eaa32d23a2ddba708ff4a7_images.jpg"
+    }
+}

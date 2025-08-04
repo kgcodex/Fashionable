@@ -1,0 +1,17 @@
+{
+    "id": 7583,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's As Cruiser T-Shirts",
+    "price": 995,
+    "description": "CompositionWhite round neck t-shirt made of 60% cotton and 40% polyester, with short sleeves, engineered with Dry-Fit technology and has a graphic on the frontFittingComfortWash care Dry clean or machine wash warm at 40 degrees with like colours Do not bleach Tumble dry low Warm iron, but do not iron on design Designed for that absolute running experience, this nike t-shirt is replete with Dri-Fit comfort to make your sporting experience all the more comfortable and fun. The Dri-Fit technology wicks away sweat, allowing you to run the fast lane. Team this with performance shorts and running shoes for that complete running comfort.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6bf9bd80ca56cd1b84820f5961891197_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2b8c45562f4668b0940b6c875e07b3d4_images.jpg"
+    }
+}

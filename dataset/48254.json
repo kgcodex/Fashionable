@@ -1,0 +1,17 @@
+{
+    "id": 48254,
+    "brandName": "The Amazing Spiderman",
+    "productDisplayName": "The Amazing Spiderman Boys Orange T-shirt",
+    "price": 349,
+    "description": "Orange round neck t-shirt, has navy blue short raglan sleeves, graphic print on the front, navy blue rib knit binding at neck, printed branding for tagless comfort, flatlock stitch at sleeve and bottom hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/The-Amazing-Spiderman-Boys-Orange-T-shirt_5b2fadbe804a1e476271076514651ca1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/The-Amazing-Spiderman-Boys-Orange-T-shirt_592659ba3f2069fe7ef22fe0b3b0f9a7_images.jpg"
+    }
+}

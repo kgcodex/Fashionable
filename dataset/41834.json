@@ -1,0 +1,17 @@
+{
+    "id": 41834,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men Black Shoes",
+    "price": 2699,
+    "description": "Style NoteThis sneaker is a part of Fusion sneakers line from skechers, equipped with comfy features and a stylish upper. Style this with your off-duty staples to give them a new-season twist.Product DetailsBlack round toed synthetic and mesh upper with nubuck overlaysHas perforations on the synthetic upper with central lace-upsHas a padded inner and tongueFoamy rubber midsoleTPU outsole with terraced lugs all overMaterial and CareLeather, mesh, syntheticClean with a leather brushDo not store under sunlight or wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ec4420f1c0c023f856132afe783e2546_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3bf5f0d8eaeaf6797ae88ed433774b48_images.jpg"
+    }
+}

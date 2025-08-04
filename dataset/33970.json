@@ -1,0 +1,17 @@
+{
+    "id": 33970,
+    "brandName": "Femella",
+    "productDisplayName": "Femella Women Navy Blue Dress",
+    "price": 950,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-Navy-Blue-Dress_05e4110582824b73c352c18c2f5ae6ec_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-Navy-Blue-Dress_cee2c73fac6ebf0811a4689592331491_images.jpg"
+    }
+}

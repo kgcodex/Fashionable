@@ -1,0 +1,17 @@
+{
+    "id": 6636,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Tennis Classic AC Light White Red Shoe",
+    "price": 3700,
+    "description": "If you want the ultimate sensation of comfort for your feet, then these tennis Classic shoes from nike are just made for you. Designed for the tennis-lover, these shoes are a great combination of comfort and style. Team these with jeans and tees for a cool casual look.Upper Woven fabric uppers in a plaid design for protection, comfort and style Lace-ups for snug Fit Lightly cushioned collar and tongue for extra comfort Appliqu&eacute;d swoosh on the sides to create a style statement Embroidered logo on the back of collar and appliqued brand tab on the tongue Midsole Cushioned footbed for all-day comfort EVA midsole for advanced lightweight cushioning Outsole Rubber outsole in herringbone pattern for superior traction and durability shoe careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8bec7a076a9dac813e9153426085a209_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5fc744daaa57d95f7486244c9a2cb0c2_images.jpg"
+    }
+}

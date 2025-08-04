@@ -1,0 +1,17 @@
+{
+    "id": 21014,
+    "brandName": "Fastrack",
+    "productDisplayName": "Fastrack Unisex Leatherette Black Wallet",
+    "price": 395,
+    "description": "Crafted for the urban style maven, this wallet from fastrack is a must have for those who love organising their wallet space. Dimensions : 18 cm x 13 cm Crafted from Leatherette for enhanced durability One main zippered compartment One small insert pocket on the front Broad loop to fix the wallet on your belt Brand logo and name embossed on the top Care Wipe with clean, damp cloth to remove dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2e32b3bac1ba42cdd601afda5a1eafc8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bb1e1ed6a290595725b5906fb6cd9376_images.jpg"
+    }
+}

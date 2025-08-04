@@ -1,0 +1,17 @@
+{
+    "id": 44421,
+    "brandName": "Red Tape",
+    "productDisplayName": "Red Tape Men Leather Black Shoes",
+    "price": 2395,
+    "description": "Style NoteA classic derby shoe in suede with a tapered toe to create just the right impression. Offset this pair with matching pair of socks, a refined trousers and an arrow shirt for a raffish look. Product DetailsBlack tapering toed leather shoe with central lace-upsSoft inner and a textured upperTPR outsole with patterned grooves at the forefoot and a stacked heelMaterial and CareSuedeClean with a leather brushDo not store under sunlight or wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6ee6a1a21679d290ea8b1f8c11778d51_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5535080ab5e5119ad56823c4f0088be4_images.jpg"
+    }
+}

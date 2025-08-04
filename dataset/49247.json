@@ -1,0 +1,17 @@
+{
+    "id": 49247,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Brown Cap",
+    "price": 599,
+    "description": "Brown cap with embroidery in front Eyelets at crown Cream taping at back Buckle at back to adjust Fit Cream visor with top stitch detail",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Brown-Cap_7430939dd0beea643ad8f56a09c7e29d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Arrow-Men-Brown-Cap_ebfc5a9a9990281c885cc532c895b7cc_images.jpg"
+    }
+}

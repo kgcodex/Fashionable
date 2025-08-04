@@ -1,0 +1,17 @@
+{
+    "id": 20799,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men Zone White Sports Shoes",
+    "price": 2499,
+    "description": "shoes from fila are made with fine fabrics crafted in Italy's materials capital, Biella. This Zone shoe from fila is an example of the brand's excellent craftsmanship. These shoes were designed for Basketball but they can also be used for other Sports. The powerful outsole and comfortably built inner and upper guarantee maximum comfort. Wear these with breathable nike t-shirts and shorts for a great look during your game. Upper Synthetic leather upper with perforations for absolute durability, breathable comfort and style High ankle collar for better support to the lower leg Lace-up system for a snug, customized Fit Meshed and padded tongue and collar for snug and fresh all-day comfort Padded footbed for all-day comfort Midsole Phylon midsole for lightweight comfort and shock absorption Dynamic Landing System (DLS) for better impact protection Outsole Durable rubber outsole textured along the centre length and with herringbone grooves on the rest of the outsole for absolute grip and traction on various courts Curved midfoot for enhanced inner arch ergonomic support Shoe care Wipe surface with a damp, clean cloth to remove dust and dirt Do not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ca43dd6978ca7e9abcc01a309d55df85_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/aeb382481db7629138f2e4296c5da43e_images.jpg"
+    }
+}

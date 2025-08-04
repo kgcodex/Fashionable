@@ -1,0 +1,17 @@
+{
+    "id": 1657,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men's White High Wire Shoe",
+    "price": 4599,
+    "description": "1. DMX Foam and an IMEVA midsole to provide cushioning2. Mesh upper helps your feet to breathe3. IMEVA midsole adds cushioning4. Colour: white and navy blueThe bright silver and white pair of shoes is designed especially for the exercise lovers and the runners who like to be on their feet every time! Apart from the look and the sport element, these shoes will take your breath away because of its light-feel technology.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e5232af196bea9c5dedd40a26ff3c4a8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/28360eecfc51489fa37f0d4e2c4eb527_images.jpg"
+    }
+}

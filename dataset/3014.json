@@ -1,0 +1,17 @@
+{
+    "id": 3014,
+    "brandName": "Lee",
+    "productDisplayName": "Lee Men's Live Purple T-shirt",
+    "price": 699,
+    "description": "Composition:Purple round neck, half sleeve t-shirt in 100% cottonWash Care:1.Light machine wash2.Do not scrub, bleach or dry clean3.Dry and warm iron on reverseFitting:Regular FitIs your entire life about work and creativity?Then this purple tee from lee is the best way to tell the world that you believe in working hard and playing even harder. Team it up with dark denims for that uber cool look.Model's Statistics:1. The model wears size M in t-shirts2. Height-6', Shoulders-19\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d4a0ba1bfa8b6b3cc213a331f422257e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/970d321e7688831e7a87ec0ff8fbbd68_images.jpg"
+    }
+}

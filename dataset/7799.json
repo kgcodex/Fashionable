@@ -1,0 +1,17 @@
+{
+    "id": 7799,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men's Manilla Hi White Shoe",
+    "price": 3799,
+    "description": "The Manilla is a high street fashion footwear from puma. The high ankle support sits snug, supporting the lower leg, while the contrast lining provide a robust style statement.Upper Crinkled leather upper for style and comfort Suede overlay on the ankle Central&nbsp; lacing for a snug, customised Fit Perforated formstripe detail Midsole Innovative puma midsole in a combination of phylon and EVA that provides better cushioning and reduces weight Outsole Textured durable rubber outsole for great grip and traction",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5e95cc0e6696e98b0190f249aa78dd36_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/faa834ef7cb2f8f271a27c9cbc75b934_images.jpg"
+    }
+}

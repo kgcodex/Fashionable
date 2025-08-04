@@ -1,0 +1,17 @@
+{
+    "id": 13818,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Navy & Grey Colourblocked Beanie",
+    "price": 399,
+    "description": "Navy blue and grey colourblocked beanie, ribbed hem",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e5e462a23b00fc8488bba2dfd6de116b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/56c7637e8e31c2ba55c278bc064ff878_images.jpg"
+    }
+}

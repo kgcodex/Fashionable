@@ -1,0 +1,17 @@
+{
+    "id": 7563,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's As Spher Navy Blue T-shirt",
+    "price": 1795,
+    "description": "CompositionNavy blue round neck t-shirt made of 92% polyester and 8% spandex with mesh made of 100% recycled polyester, engineered with Dri-Fit technology, has a zippered chest, short sleeves and black side panels and nike swoosh in silver print on left chest FittingComfortWash care Machine wash cold at 30 degrees with like colours Do not use softeners or bleach Tumble dry low Remove immediately/do not allow fabric to lie on itself when wet Cool iron, but do not iron on design Do not dry clean Designed for that absolute running experience, this nike t-shirt is replete with Dri-Fit comfort to make your sporting experience all the more comfortable and fun. The Dri-Fit technology wicks away sweat, allowing you to concentrate on your running, while the strategically placed mesh panels enhance ventilation, regulating body temperature. Team this with performance shorts and running shoes for that complete running comfort.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/47e95932ac1145fe735e60b83634996c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2e3777e07b81cf01fc52d416e3421b2b_images.jpg"
+    }
+}

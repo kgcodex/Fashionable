@@ -1,0 +1,17 @@
+{
+    "id": 58265,
+    "brandName": "Baggit",
+    "productDisplayName": "Baggit Women Brown Handbag",
+    "price": 1675,
+    "description": "Brown synthetic leather handbag with one short handle woven through a metal loop on one side Pintucked details on the front One large zipped compartment with two slots, an inner zipped pocket in-between and a zipped pocket on one side One external zipped pocket with a mobile pouch and branding at the back",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Brown-Handbag_0388a052b85c15d77ef7f6ab0a34c38f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Baggit-Women-Brown-Handbag_a57d4c96b51a7f93ad075a1e991e64c1_images.jpg"
+    }
+}

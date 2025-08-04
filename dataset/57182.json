@@ -1,0 +1,17 @@
+{
+    "id": 57182,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women Red Tunic",
+    "price": 1800,
+    "description": "Red sleeveless tunic, has a cowl neckline, knit fabric at the back and woven fabric at front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Red-Tunic_1934ee882e7f803ddb2855fdde76ef21_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-Red-Tunic_1dc9b0c7702c0d492088f0f9afe203df_images.jpg"
+    }
+}

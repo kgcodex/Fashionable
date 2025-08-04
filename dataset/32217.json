@@ -1,0 +1,17 @@
+{
+    "id": 32217,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Women Printed Maroon Kurta",
+    "price": 990,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a4e2788c5917733c7a316022f8761316_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/610122279aec68dffb647acec08add06_images.jpg"
+    }
+}

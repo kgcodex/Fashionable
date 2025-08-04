@@ -1,0 +1,17 @@
+{
+    "id": 51684,
+    "brandName": "Louis Philippe",
+    "productDisplayName": "Louis Philippe Men Sunglasses LP207-C2",
+    "price": 3500,
+    "description": "Lens colour: Graduated greenFrame colour: BlackFrame type: Metal full frame with plastic casing along the armsHigh bridge with flexible nose padsComes in a signature Louis Philippe hard caseWarranty: 12 months from the date of purchase against manufacturing defects",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Louis-Philippe-Men-Grey-Sunglasses_c228bb88d6d0c4cac01305d1f862ebee_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Louis-Philippe-Men-Grey-Sunglasses_60666548fca7f05b9672732b1d360964_images.jpg"
+    }
+}

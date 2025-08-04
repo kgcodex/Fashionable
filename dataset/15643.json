@@ -1,0 +1,17 @@
+{
+    "id": 15643,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men AS Team Woven Black Track Pants",
+    "price": 1995,
+    "description": "CompositionBlack trackpants made of 100% polyester shell and mesh, is engineered with Dri-Fit and thermal technology, has an elasticated waist with drawcords, grey panels along the length, and printed nike swoosh logo on the left thighFittingComfortWash careMachine wash cold with like coloursDo not dry clean, bleach or lay on itself when wetTumble dry lowDo not ironDesigned for the man who never compromises on comfort and style, this trackpant from nike is crafted from a polyester fabric to offer exemplary comfort and a flattering fit. The Dri-Fit technology ensures you enjoy your training sessions and casual outings in sweat-free comfort, while the thermal qualities traps your body heat and keeps you warm and comfortable. Add on sporty t-shirts and sneakers.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ecb41dcc2705519fec6fd72f251d81ee_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e1fea11d611f1d8697bbe75b66c63f0a_images.jpg"
+    }
+}

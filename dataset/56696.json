@@ -1,0 +1,17 @@
+{
+    "id": 56696,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Men Teal Kurta",
+    "price": 490,
+    "description": "Green striped arham short kurta, has a mandarin collar, chest button placket, long sleeves, a patch pocket on the left chest and side slits",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Men-Teal-Kurta_073d8db3ab269a5fddf8937e312e1b47_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Men-Teal-Kurta_91a87735db215b8022bd74e4c1661398_images.jpg"
+    }
+}

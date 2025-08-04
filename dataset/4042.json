@@ -1,0 +1,16 @@
+{
+    "id": 4042,
+    "brandName": "Puma",
+    "productDisplayName": "Rajasthan Royals Kids Authentic Replica Cricket Jersey",
+    "price": 1000,
+    "description": "Blue jersey made of a blended fabric, has a notched mock neck, short sleeves, Indian flag in rib on back neck, branding on the left chest and both sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rajasthan-Royals-Kids-Authentic-Replica-Cricket-Jersey_5b5e1d3ba1da985ff49a76b0db1d2976_images.jpg"
+    }
+}

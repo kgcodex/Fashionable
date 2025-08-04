@@ -1,0 +1,17 @@
+{
+    "id": 39960,
+    "brandName": "GAS",
+    "productDisplayName": "GAS Men Brown Madly Sandals",
+    "price": 2200,
+    "description": "Open toed brown sandals with slip-on styling, thong style upper with metal eyelets all over Brown footbed with a flat sole Textured sole with branding at the midfoot region Warranty: 3 months",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/GAS-Men-Brown-Madly-Sandals_ecb2c21026d58f83a5650fc785a613cd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/GAS-Men-Brown-Madly-Sandals_f44d15b9d85791ff624b9f4b900e05b7_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 3669,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men's Racing Black Gold Shoe",
+    "price": 2499,
+    "description": "CompositionBlack and gold racing shoes made of high peel PU, with textile lining and TPU otusoleshoe care1. Rub surface with clean, damp cloth to remove dust2. Do not machine washLook stylish on the racetrack or off it in this pair of black and gold shoes from the fila Formula Racing series. The sleek black uppers with gold and black paneled strips add a touch of glamour to the shoes and provide a snug Fit. The TPR outsole with grooved yellow lugs ensures great traction on tracks. On the whole, this is a must have for all Formula One enthusiasts.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/064bf6094a6b55411af2e72f2b6ae250_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b5039970d9ff4be6c4738a7736631ba7_images.jpg"
+    }
+}

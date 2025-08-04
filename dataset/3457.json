@@ -1,0 +1,17 @@
+{
+    "id": 3457,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men's Vanquish White Uni Blue Shoe",
+    "price": 2499,
+    "description": "CompositionWhite and grey shoes in synthetic leather with nylon mesh upper, rubber outsole with grip nubs, comfort cushioning on the insole and EVA socklinerWash care1. Remove dust with soft, clean, damp cloth2. Do not machine washTalk about pampering your feet while running and this pair of shoes is the answer. With an EVA sockliner and multi-layered insole, coupled with a nylon mesh upper for ample ventilation, these shoes from adidas make it an easy choice. The nubs on the rubber outsole ensure ample grip and stability making this a perfect urban wear.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c40071303bf21ce9380eb02697803291_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2cf447e0f0ef97f0b4ea69d240bbe0e5_images.jpg"
+    }
+}

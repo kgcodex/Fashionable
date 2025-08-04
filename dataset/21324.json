@@ -1,0 +1,17 @@
+{
+    "id": 21324,
+    "brandName": "Louis Philippe",
+    "productDisplayName": "Louis Philippe Men Aviator Sunglasses LP201-C1",
+    "price": 3750,
+    "description": "Lens colour: BrownLens type: UV protected lensFrame colour: Gold-toned and blackFrame type: Metal frame with plastic arm endsHigh bridge and flexible nose padsComes in a case",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3f9111d0d55c91fcd87e564107cb8bf1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d74c6fcf02caf899b59525565de2bd5d_images.jpg"
+    }
+}

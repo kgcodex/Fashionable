@@ -1,0 +1,17 @@
+{
+    "id": 28608,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Dart VII Leather White Sports Shoes",
+    "price": 3795,
+    "description": "Speed and endurance are the inspiration of the nike Dart VII leather men's running shoe, with premium craftsmanship in a supportive, durable Fit. The nike Dart VII has great durability, cushioning, support and amazing grip to keep you and your feet happy when running. Breathable mesh upper combined with a midfoot overlay to give you a great fit and a comfortable ride.UpperBreathable mesh upper with stylish overlays which give support and shoe structure See-through mesh panels on each side for ultimate ventilationNike swoosh on the lateral side of the midfootPerforations all over for breathabilityReinforced overlays on the toe box and heel collar for abrasion free comfortCentral lacing systemPadded tongue with brandingPadded mesh lining inner for optimal comfortRemovable sockliner to accommodate an orthoticMidsolePhylon midsole with natural motion engineering for an optimal rideOutsoleTPU outsole with waffle patterned lugs and a decoupled heelImpact line along the outsole to minimize shockShoe careWipe surface with damp, clean cloth to remove dustDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/891575d98d07788aaa9871f481272513_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/22fb1dca197c48327547aa2cbceac942_images.jpg"
+    }
+}

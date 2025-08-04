@@ -1,0 +1,17 @@
+{
+    "id": 48468,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Mauve Dress",
+    "price": 4299,
+    "description": "White and mauve printed, knit dress, V neck, flutter sleeves , built up neck, tie up below chest and yoke at front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Mauve-Dress_2a479634f32ba1bcea0c62f0cb0315e3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/French-Connection-Mauve-Dress_448d4589a1770b2c5d3898d656229dee_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 3018,
+    "brandName": "Lee",
+    "productDisplayName": "Lee Men's Believe Chocolate T-shirt",
+    "price": 799,
+    "description": "Composition:Deep brown round neck, half sleeve t-shirt in 100% cotton with chest printWash Care:1.Light machine wash2.Do not scrub, bleach or dry clean3.Dry and warm iron on reverseFitting:Regular FitThis summer, play it cool in this dark chocolate tee from lee. Team this with jeans or cargos to don that sensational look during the day, and pair it with a motorcycle jacket and dark denims for a wild night out.Model's Statistics:1. The model wears size M in t-shirts2. Height-6', Shoulders-19\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9c8c5d1a0434a4d2ee097fcf69e3a649_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/02156e4e57c3ceb7d0df3d4f00854071_images.jpg"
+    }
+}

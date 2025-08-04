@@ -1,0 +1,17 @@
+{
+    "id": 45624,
+    "brandName": "Red Tape",
+    "productDisplayName": "Red Tape Men Black Shoes",
+    "price": 2495,
+    "description": "Style NoteCut a dash with these shoes for the cosmopolitan male from red tape. Inspired by the rugged Texas plains and the cowboy lifestyle from a bygone era, these leather shoes pay homage to the Wild West. Wear them with stone washed denims, a casual plaid shirt and a stylish leather jacket.Product DetailsBlack slip-on with high quality leather upper and reinforced overlays High on ankle for style with elasticated gussets on the sides, has a pull loop at the heel collarPadded footbed for comfortUpper adhered to the outsole wth stich detailing on the outsole from midfoot to forefoot region TPU outsole with patterned lugs and an upraised heelMaterial and CareLeatherClean with a neat dry clothDo not store under sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/534002b3ee3b972e0246b01c6baefaf8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/215fe751934ed05bc6de6cd417cf532c_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 2390,
+    "brandName": "Red Tape",
+    "productDisplayName": "Red Tape Men's Semi Black Casual Shoe",
+    "price": 2295,
+    "description": "Composition:These shoes are made of pure leatherCare: Use a branded shoe polish to keep your leather footwear clean and shinyFit:RegularGeneral:leather shoes have long been known to be the essential formal footwear. However, the current trend lists leather shoes, be it black, tan, brown or fawn, as the most versatile piece of footwear. They can also be combined with ultra-slim fit jeans and a jazzy party shirt, with gelled hair and minimal accessories so that the focus remains on the style and not the accessories. These shoes will look the best when worn with semi formal attire. With a texture of thread on the upper and the rugged over all look of the shoes, they will definitely fair better as semi formal footwear rather than typical formals.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7bda8ebc0348b7879974af922816d296_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b42ff10d8fb2cd049c7e1f13e6525550_images.jpg"
+    }
+}

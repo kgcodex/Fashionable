@@ -1,0 +1,17 @@
+{
+    "id": 5600,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men's Trail Mud Slinger Black Blue Shoe",
+    "price": 7999,
+    "description": "Take your run off the road to the track with the Trail Mudslinger II from reebok. Upper Synthetic and mesh upper is breathable and supportive Gilly lacing for snug Fit Mesh tongue with textile lining and padded collar for molded fit Brand mark appliqu&eacute;d on the tongue Stitched fibre overlay with perforations on the sides further adding to the structure and increase breathability Perforations on the toe area for breathability Midsole DMX Ride enhanced cushioning system designed for lasting comfort IMEVA midsole for underfoot comfort Removable sockliner to accommodate an orthotic Outsole Forefoot flex grooves for increased flexibility through push off Suction point on the forefoot and the heel are for great traction on the ground Trusstic system to support overpronation and underpronation Outsole made with non-marking rubber which will not leave marks on any ground shoe careRub surface with clean, damp cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5a05bd9c03a14dbb36e479ddee58f9ef_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c353f9a52c6128978c376861ea386274_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 5710,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men's Apex White Athletic Shoe",
+    "price": 4999,
+    "description": "A great trainer, the reebok Alex LP is a classic looking low profile running shoe that offers comfort at its best. Upper Complete mesh upper with an inner bootie for maximum comfort, breathability and snug Fit Lightweight synthetic overlays strategically placed for forefoot, midfoot and backfoot support, added shoe structure and durability Lace-up system for snug, customised fit Meshed and padded tongue and collar for in-step comfort and snug fit Midsole PU midsole for durability, impact protection and lightweight comfort Cushioned footbed for all-day comfort Outsole Full length TPR outsole for durability Impact guidance grooves on the forefoot and heel for better shock distribution and greater traction Flex grooves on the forefoot for easy movement and flexibility Diamond lugs on the lateral forefoot for maximum grip on various terrain Circular and rectangular lugs on medial forefoot with circular lugs on periphery of backfoot for absolute traction and stability Arched midfoot for ergonomic comfort Shoe careDo not machine washRemove dust and dirt with damp clean clothDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2f33f1a7b721964852c15ccc7fdabf8a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8ac9cf42c8f877798c0d01e939cc083f_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 11903,
+    "brandName": "Franco Leone",
+    "productDisplayName": "Franco Leone Men Brown Shoes",
+    "price": 2295,
+    "description": "Pointy toed brown slip on shoesTextured leather upper with elasticated inserts at the sides of the tongueReinforced overlay at the heel collarSoft and padded footbed with soft inner liningUpper adhered and stitched to the outsoleTextured TPU outsole with grooves and stacked heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Franco-Leone-Men-Formal-Brown-Formal-Shoes_9ae58b165bbf81f0ee35f99521b9b2c7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Franco-Leone-Men-Formal-Brown-Formal-Shoes_667b79ba59c16875c3cec205d9eebd11_images.jpg"
+    }
+}

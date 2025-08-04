@@ -1,0 +1,17 @@
+{
+    "id": 8912,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Cabana Racer Sketch White Sports Shoes",
+    "price": 3299,
+    "description": "The height of style in 1981 brings forward a look that captivates the look of the present in the puma Cabana Racer shoe. Upper Suede and textile upper for a cool combination of look and texture Contrast puma formstripe for an iconic look Logo tag at the tongue for style Dual hook-and-loop closure for a snug Fit Soft textile lining for comfort Padded tongue and collar for extra cushioning Midsole Removable sockliner has Kinder-fit technology to create a customised fit Lightweight cushy midsole for supreme comfort and support Outsole Durable rubber outsole with flex grooves for maximum grip and traction on various surfaces",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f8e2fc14f00bc822134caacb1d11702b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bd51888d59be87c2aabf335291a72d25_images.jpg"
+    }
+}

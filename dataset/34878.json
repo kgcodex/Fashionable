@@ -1,0 +1,17 @@
+{
+    "id": 34878,
+    "brandName": "Envirosax",
+    "productDisplayName": "Envirosax Women Navy Blue Bag",
+    "price": 450,
+    "description": "Navy blue bag with print all over Two handles Foldable bag that comes with a buttonable loop to secure the rolled up bag Easy roll up design for portability",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2028e03b0405a7245e0960cccf9b7f5e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7a84b944f986c3e967b34d566a1b407b_images.jpg"
+    }
+}

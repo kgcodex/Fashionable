@@ -1,0 +1,17 @@
+{
+    "id": 32190,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Duramo Pink Sports Shoes",
+    "price": 3599,
+    "description": "Mesh uppers with synthetic overlays for better breathable comfort and structureLace-ups for better FitIconic three stripes symbolising the challenges that are seen ahead and goals that can be achieved on the sidesPadded collar and tongue and textile shoe lining for better comfortCushioned footbed for all day comfortEVA midsole for better shock absorption and cushioningAnatomically engineered footbed for exemplary comfortadiPrene+ delivers supreme forefoot cushioningadiPrene offers under heel impact protectionadiWear outsole supplies optimal durability in high-wear areasScooped out heel gives better cushioning of the heel from shockImpact guidance system enables better motion of the feetFlex grooves provide better flexibility to the feet",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ad222a36b88546e2289e5deddaad56ff_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f4a04879bc6bd75e31200131a1a5237d_images.jpg"
+    }
+}

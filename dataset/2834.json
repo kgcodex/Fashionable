@@ -1,0 +1,17 @@
+{
+    "id": 2834,
+    "brandName": "Lee Cooper",
+    "productDisplayName": "Lee Cooper Men's Slip On Darknight Black Shoe",
+    "price": 2285,
+    "description": "Composition:Black leather slip-onsWash care:Clean with leather conditionerFitting:RegularThese jet black leather slip-ons from lee cooper are great for casual and semi-formal occassions. Wear them to casual outings with friends or to office on Fridays to create that personal style statement of yours.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6a483219007ca3a703448d2ce7926ed0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/34b0fc54bfd2273e7e3ad1e22f982fd2_images.jpg"
+    }
+}

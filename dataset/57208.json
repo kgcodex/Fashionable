@@ -1,0 +1,17 @@
+{
+    "id": 57208,
+    "brandName": "Kraus Jeans",
+    "productDisplayName": "Kraus Jeans Women Blue Jeggings",
+    "price": 1195,
+    "description": "Blue jeggings with two scoop pockets in the front, elasticated waistband for a snug Fit with loops for belt, zippered fly with buttoned closure, two patch pockets at the back with branding at the right pocket and at the waistband at the back",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Kraus-Jeans-Women-Blue-Jeans_6ad43b0e39650ee445e38cdeea5ec403_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Kraus-Jeans-Women-Blue-Jeans_971bca0b9a4c1ddb4495e6afd96dd31f_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 3774,
+    "brandName": "Status Quo",
+    "productDisplayName": "Status Quo Men's Fushia Polo T-shirt",
+    "price": 799,
+    "description": "Fuchsia pink polo t-shirt made of 100% cotton, with horizontal stripes in green, white and light blue, ribbed sleeves and front open collar",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/afc1a90f234ff73f83e92235a27845b2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d7c1333500fe41b9ae0303b2a421a377_images.jpg"
+    }
+}

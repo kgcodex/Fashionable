@@ -1,0 +1,17 @@
+{
+    "id": 59925,
+    "brandName": "DIVA",
+    "productDisplayName": "Diva Women Grey Kurta",
+    "price": 699,
+    "description": "Grey woven printed kurta, has a V-neckline, short sleeves with pleated ruffles on the cuffs, flower shaped metal embellishments at the front and has side slits",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/DIVA-Women-Grey-Kurti_679fef4adcc40d93644fa7ec596f0403_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/DIVA-Women-Grey-Kurti_398b2c736d4a44adbb28441a29472f7d_images.jpg"
+    }
+}

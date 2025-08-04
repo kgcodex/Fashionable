@@ -1,0 +1,17 @@
+{
+    "id": 51664,
+    "brandName": "Louis Philippe",
+    "productDisplayName": "Louis Philippe Men Oversized Sunglasses LP214-C1",
+    "price": 3000,
+    "description": "Lens colour: Graduated greyFrame colour: BlackFrame type: Plastic full frame with metallic detail along the armsHigh bridge with fixed nose holdersComes in a signature Louis Philippe hard caseWarranty: 12 months from the date of purchase against manufacturing defects",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Louis-Philippe-Men-Black-Sunglasses_9981c1f4d0ff505ef19e57a5e1ebf5ed_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Louis-Philippe-Men-Black-Sunglasses_3f594d26b10ad7fb95f2a88b85fe7efe_images.jpg"
+    }
+}

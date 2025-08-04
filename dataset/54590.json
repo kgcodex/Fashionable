@@ -1,0 +1,17 @@
+{
+    "id": 54590,
+    "brandName": "Sushilas",
+    "productDisplayName": "Sushilas Women Printed Red Kurta",
+    "price": 999,
+    "description": "Red woven, printed kurta, has a green printed spread collar that extends down a buttoned chest placket, bead work on either sides of the placket, flaring tucks on the front from the waist down and three quarter sleeves with buttoned cuffs that have mid buttoned tabs",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Sushilas-Women-Printed-Red-Kurta_25ba16376e3d49deec0bd380e2490aca_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Sushilas-Women-Printed-Red-Kurta_ddd6711731863cbb5a0ec3d190741d2f_images.jpg"
+    }
+}

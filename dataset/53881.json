@@ -1,0 +1,17 @@
+{
+    "id": 53881,
+    "brandName": "U.S. Polo Assn.",
+    "productDisplayName": "U.S. Polo Assn. Men Red Flip Flops",
+    "price": 949,
+    "description": "Thong style fabric straps with a fabric toe separatorPrinted branding on the footbedTPU outsole with wave patterned grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/US-Polo-Assn-Men-Red-Flip-Flops_68c6d629e7306ba213c4fbcc8f38b548_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/US-Polo-Assn-Men-Red-Flip-Flops_ac7b855793a6ddb0d501fa5204104d19_images.jpg"
+    }
+}

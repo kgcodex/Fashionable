@@ -1,0 +1,17 @@
+{
+    "id": 22053,
+    "brandName": "Vishudh",
+    "productDisplayName": "Vishudh Women Printed Purple Kurta",
+    "price": 749,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9a530ac6d2c2b285a7d6441e5e2c2c14_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e23899538a03a24f40f72a11a90c5f9b_images.jpg"
+    }
+}

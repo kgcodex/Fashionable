@@ -1,0 +1,17 @@
+{
+    "id": 3574,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women Black Outdoor Shoe",
+    "price": 3299,
+    "description": "CompositionBlack synthetic leather, water shoes with mesh upper and rubber outsoleWash care1. Remove dust with soft, clean, damp cloth2. Do not machine washEnjoy those lovely summer showers in these grippy ClimaCool water shoes from adidas. Made of synthetic leather and rubber oustole, they ensure that your feet are firm on the ground and kept dry in wet conditions. The upper mesh ensures there&rsquo;s ample air reaching your feet, keeping them fresh even as you enjoy those splashes of water.",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/01aab1f9e5f4f0182ad0e625c12ebca8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/af783f6f3deeadfd50e873664cfd4a40_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 9869,
+    "brandName": "Status Quo",
+    "productDisplayName": "Status Quo Men Grey Polo Tshirts",
+    "price": 949,
+    "description": "Grey polo tshirt.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d48ae71fa27f5cb68083a0f62e644ef0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/98fe0f1426d296f035107f0ba9ceefd7_images.jpg"
+    }
+}

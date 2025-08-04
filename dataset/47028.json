@@ -1,0 +1,17 @@
+{
+    "id": 47028,
+    "brandName": "Shree",
+    "productDisplayName": "Shree Women Navy Blue Printed Kurta",
+    "price": 299,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4724ec74a3de41f66f99bb6bb41a2928_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/436731ed6b5fefc3cf7f677b26f38a89_images.jpg"
+    }
+}

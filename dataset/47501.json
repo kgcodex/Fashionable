@@ -1,0 +1,17 @@
+{
+    "id": 47501,
+    "brandName": "Footfun",
+    "productDisplayName": "Footfun Kids Unisex Red Shoes",
+    "price": 249,
+    "description": "Style Notefootfun shoes for your little one are designed for maximum comfort and are hard wearing (you know the scrapes your little one can get into!) They're fashioned to make your child look as cute-as-a-button!Product DetailsRed and grey printed slip on style shoe with elasticated gussets at the sides of the tongueSoft footbed and a mesh padded innerTPU outsole, arched at the midfoot, has circular nubs at the forefoot and heelMaterial and careFabricWipe with a cotton swab to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Kids-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f66f081c3c91630f0b31c52a4e341952_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e24f368f56a94e72b0e691e3a941eb11_images.jpg"
+    }
+}

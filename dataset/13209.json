@@ -1,0 +1,17 @@
+{
+    "id": 13209,
+    "brandName": "ASICS",
+    "productDisplayName": "ASICS Men Gel Challenger 8 Running Black Sports Shoes",
+    "price": 5599,
+    "description": "A perfect shoe for tennis enthusiasts, the asics Gel Challenger 8 is lightweight with enhanced lateral support and a great cushioning system. Master the court in style with the high performance tennis shoes and start making those winning aces in style. UpperSynthetic leather uppers with perforations for breathability, support and durabilitySynthetic overlays for shoe structure and to provide ample support to the midfootPGuard toe protector for enhanced toe durability and protectionSynthetic laces for durabilityPlush padded and meshed tongue for ample ventilation and comfortPlush padded sockliner for in-step comfort and snug FitMesh and memory foam lined heel collar molds to the heel for a customized fitBrand name on tongueMidsoleRearfoot GEL Cushioning System to attenuate shock during impact phase and allow a smooth transition to midstanceSolyte midsole material, lighter than the standard EVA and SpEVA materials, for better cushioning and durability with a speed-oriented feelRemovable sockliner to accommodate an orthoticOutsoleasics High Abrasion Rubber (AHAR) placed in critical area of the outsole for exceptional durabilityModified tread pattern provides non-marking traction on all court surfacesPivot point for easy 180 degree movementRearfoot and forefoot gel cushioning system to minimize shockShoe careWipe surface with soft, clean, cloth or brush, cold water and mild detergent to remove dustDo not machine wash or use a drierAvoid storing shoes in extremely hot conditions or direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/288ba99c62c51d2cbc048b157f6b89df_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/93052c0b9d177c1b810c5d7bd8797895_images.jpg"
+    }
+}

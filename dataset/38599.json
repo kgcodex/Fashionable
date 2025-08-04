@@ -1,0 +1,17 @@
+{
+    "id": 38599,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Printed Blue T-shirt",
+    "price": 895,
+    "description": "Style Note Get casual with the utmost comfort in this stylish regular Fit T-shirt for men from nike. The soft cotton fabric wicks sweat away and keeps you fresh and comfortable during fun times with friends, while the rubber print add style. Pair this tee with your favourite denims and sports shoes. Product Details Blue T-shirt with a round neck, short sleeves and graphic print on the front Material and Care 100% cotton Machine wash cool with like colours Do not bleach or dry clean Tumble dry low Cool iron do not iron on decorations",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5795c2471ea70b5515c4a3c6790e21e9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/afe173dbb8e72b23542213c5bc3d559a_images.jpg"
+    }
+}

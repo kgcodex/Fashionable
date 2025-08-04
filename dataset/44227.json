@@ -1,0 +1,17 @@
+{
+    "id": 44227,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Silver and Black Sports Shoes",
+    "price": 2795,
+    "description": "Style NoteWith plush cushioning and a supportive Fit, the nike 2.04 running shoe is perfect for those who love healthy runs. Lightweight and comfortable, this shoe also doubles up as a great everyday wear for those who enjoy long walks.Product DetailsMesh upper for enhanced ventilationStrategically placed synthetic overlays for added shoe structure and durabilityMeshed and padded tongue and sockliner for all-day comfortGilly lacing system for a supportive fit and to lock the foot in placeDual-density phylon midsole for a unique blend of lightweight cushioning and enhanced impact protectionCushioned fabric footbed for all-day comfortTPR outsole with multi-directional lugs on the forefoot for optimal traction on various surfacesForefoot flex grooves for a more natural range of motionDecoupled heel with a mid-heel scoop for enhanced grip and traction, and enhanced impact protection to the backfoot and anklesArched midfoot for inner arch supportWarranty for manufacturing defects: 6 months (not valid on products with more than 20% discount)Material and CareSynthetic, meshWipe surface with damp, clean cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3db368dfb1c5e2e5be100e6ae5b4f939_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ea43b98dd17b693c05d8c018e556082d_images.jpg"
+    }
+}

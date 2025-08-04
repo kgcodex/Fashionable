@@ -1,0 +1,17 @@
+{
+    "id": 29207,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men White Socks",
+    "price": 149,
+    "description": "Specially engineered to offer maximum performance and exemplary comfort, this pair of socks from fila are a great buy for those who never compromise on style and luxury. Made of soft cotton for a snug and secure Fit, durability and stretchable comfort Terry base foot-bed with power cushioning to absorb shock and impact, offering non-stop comfort Cushioned heel for impact protection Comfort grip at the mouth to ensure a soft grip around the ankle Soft seam at the toe region for abrasion-free comfort Sock care Machine wash in warm water using a mild detergent Use non-chlorine bleach if needed Tumble dry low in a delicate cycle Do not iron",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7fb711f5e094d4a2f4c8e00390092e01_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/20c59a614da730e780ffd7fc35d7f9dd_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 54813,
+    "brandName": "Ivory Tag",
+    "productDisplayName": "Ivory Tag Brown Fur Handbag",
+    "price": 2450,
+    "description": "Brown bag with faux fur Eyelet details with drawstring for closure with fringed tassels for style One long shoulder strap for carrying ease One main slot with a mobile pouch and an inner zipped pocket on the sides Branding inside",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Ivory-Tag-Women-Brown-Handbag_a2c66e2c4d097cced06b132fbcbb629b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Ivory-Tag-Women-Brown-Handbag_077cb3e6df98a1245d57b8d0e85c1f9f_images.jpg"
+    }
+}

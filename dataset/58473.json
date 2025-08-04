@@ -1,0 +1,17 @@
+{
+    "id": 58473,
+    "brandName": "Fossil",
+    "productDisplayName": "Fossil Men Brown Wallet",
+    "price": 1995,
+    "description": "Darkest brown wallet with two-foldsHas two main compartmentsHas eight card slots and four insert pockets A zipped detail on the outside of the wallet in the middle which extends to form pockets Stitch detailing and branding embossed on the inside and top of the wallet",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fossil-Men-Brown-Wallet_66202804ab727a0adaa512575f3da738_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fossil-Men-Brown-Wallet_92a1af2d5cabb3c334b9c570c8c57cfb_images.jpg"
+    }
+}

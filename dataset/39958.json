@@ -1,0 +1,17 @@
+{
+    "id": 39958,
+    "brandName": "GAS",
+    "productDisplayName": "GAS Men Brown Deeply Sandals",
+    "price": 2200,
+    "description": "Open toed brown sandals with slip-on styling, wide brown forefoot strap Brown footbed with a flat sole Textured sole with branding at the midfoot region Warranty: 3 months",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/GAS-Men-Brown-Deeply-Sandals_4b54dc6e4db96833b416766f86fee0cc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/GAS-Men-Brown-Deeply-Sandals_92712a995b5bce11150bc58c487961c9_images.jpg"
+    }
+}

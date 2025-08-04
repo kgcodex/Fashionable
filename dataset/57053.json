@@ -1,0 +1,17 @@
+{
+    "id": 57053,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Pink Vintage Dress",
+    "price": 3000,
+    "description": "Pink dress, sleeveless, woven, has a round neckline with lace detail around it, two buttons at the back with a key hole detail at the back neckline, lace detail on the arm holes, pin tucks down centre front from neckline to the hemline, belt loops at the waist and lace detail at the hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Pink-Vintage-Dress_079b98a8d08a3a2b07d4fcfcc7074c37_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Pink-Vintage-Dress_2333fa02c2bafab9aff23a2d683bfbea_images.jpg"
+    }
+}

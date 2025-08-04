@@ -1,0 +1,17 @@
+{
+    "id": 46327,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men Grey Realflex Breeze Sports Shoes",
+    "price": 5999,
+    "description": "Grey and red blunt toed running shoes with a pull loop at the backMesh&nbsp; upper with reinforced overlay at the heel collar, low cut Fit for easy mobilitySoft and padded inner, tongue and footbed with a removable sock liner, minimum fold over tongue for modern and lightweight stylingUpper adhered to the outsoleRubber outsole with multi - directional flex nodes which allow natural motion and carbon rubber heel strike for durable traction",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a7b938ebccf586e55f85d3688a46dfe1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8a3de956997d0181f011dc1f6213575c_images.jpg"
+    }
+}

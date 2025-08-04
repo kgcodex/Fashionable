@@ -1,0 +1,17 @@
+{
+    "id": 58164,
+    "brandName": "Rocky S",
+    "productDisplayName": "Rocky S Women Turquoise Blue Wallet",
+    "price": 1550,
+    "description": "Turquoise blue wallet with golden slot seamMetal brand badge on the frontOne main zippered compartment with a slip pocket, six card slots and a zippered inner separatorAll over printed branding on the lining",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocky-S-Women-Turquoise-Blue-Wallet_2417cf1f2a6e4cf3887adfe8843776dd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocky-S-Women-Turquoise-Blue-Wallet_f3aefc486f4a634791183942307febba_images.jpg"
+    }
+}

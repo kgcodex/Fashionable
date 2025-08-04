@@ -1,0 +1,17 @@
+{
+    "id": 4448,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Down Shift Black Grey Shoe",
+    "price": 3195,
+    "description": "Designed for those who are just beginning to start a running regime, the nike Air Downshifter shoes provide steady comfort and protection even when running for miles on end. The nike Air Downshifter shoes help you maintain a proper gait and run with maximum cushioning to feel light and comfortable, without stressing out your feet. Upper Open mesh upper for optimal breathability Leather overlays deliver durable, targeted support to the midfoot region External heel counter helps keep the foot securely locked into place Lightly padded tongue and collar for added comfort and snug Fit Midsole Full-length Phylon midsole provides lightweight cushioning for a responsive ride Encapsulated Air-Sole midsole unit delivers supreme cushioning Rubber shank for heightened midfoot support and torsional rigidity throughout midstance Outsole BRS 1000 rubber outsole for long-lasting wear Forefoot flex grooves allow the foot to retain fluid motion for smooth transitions Wash careWipe surface with damp, clean cloth to remove dust Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4f9d70cdc70712709923655973dd920a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b401b84be47c5d1d95d81e30ef1962ba_images.jpg"
+    }
+}

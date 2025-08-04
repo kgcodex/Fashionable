@@ -1,0 +1,17 @@
+{
+    "id": 38225,
+    "brandName": "Polaroid",
+    "productDisplayName": "Polaroid Women Sunglasses",
+    "price": 3786,
+    "description": "Lens colour: Black &nbsp;Lens type: Polaroid polarized lenses block out virtually 100% of glareFrame colour: PeachFrame type: Plastic full frame with plastic armsHigh bridge and flexible nose padsThe glasses come in a signature Polaroid caseWarranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b731bf659bb7cca76292b4349a6328fd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f056670543cd51fc0802ab63e1d9c213_images.jpg"
+    }
+}

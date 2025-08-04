@@ -1,0 +1,17 @@
+{
+    "id": 49509,
+    "brandName": "Vans",
+    "productDisplayName": "Vans Men Grey Era Wingtip Shoes",
+    "price": 3599,
+    "description": "Grey, round toed shoes with central lace fastening which has metal eyelets Suede upper with overlays and reinforced overlay at the heel collar Padded at the mouth and footbed with a soft lined inner and tongue EVA midsole with foxing Rubber signature waffle outsole with diamond shaped, scooped out grooves",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Grey-Casual-Shoes_2cc84de183cdf6261edee007f7d3893b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Vans-Men-Grey-Casual-Shoes_2ffb35e2ca04248c1f5e25f6657079e1_images.jpg"
+    }
+}

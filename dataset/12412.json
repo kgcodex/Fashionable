@@ -1,0 +1,17 @@
+{
+    "id": 12412,
+    "brandName": "Reid & Taylor",
+    "productDisplayName": "Reid & Taylor Men Solid Brown Wallets",
+    "price": 995,
+    "description": "Crafted from textured synthetic leather, this dark brown wallet from Reid and Taylor is a fabulously stylish way to keep your money and cards safe and secure. With a textured finish, this tri-fold wallet has an embossed brand name on the upper and lots of inner storage making it perfect for everyday use.Dimensions: 11.5 cm X 9 cmSynthetic leather for flexibility and durabilityOne compartment with fabric inner lining on the outsideOne compartment with fabric lining on the insideMultiple partitions on the tri-fold to stash away cards and coinsCareWipe surface with a dry, clean cloth to remove dust",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e8fa1b1f951b0cb67489e23db9cfed7d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/70790d033c38af6d70a61cfd1f50072d_images.jpg"
+    }
+}

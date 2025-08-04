@@ -1,0 +1,17 @@
+{
+    "id": 58506,
+    "brandName": "Tonga",
+    "productDisplayName": "Tonga Women Printed Blue Dress",
+    "price": 1850,
+    "description": "Knitted blue maxi dress with animal print, halter neck, off-white crocheted overlay at the top, elasticated gathers at the back, elasticated frill above the knee",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Women-Printed-Blue-Dress_68d62696a9fde011881b70171647acbb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tonga-Women-Printed-Blue-Dress_d55fafca16eb91407367a83ea9eeec86_images.jpg"
+    }
+}

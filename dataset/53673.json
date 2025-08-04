@@ -1,0 +1,17 @@
+{
+    "id": 53673,
+    "brandName": "KIARA",
+    "productDisplayName": "Kiara Women Green Handbag",
+    "price": 750,
+    "description": "Green handbag that has a textured, embossed floral printOne main zipped compartment with an inner zipped pocket and a mobile pouchTwo short handles with a floral detail tied to one strap",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/af62c87227362f6f30eceed322bc8e60_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b91d411ad2033aa8e4305b1e6d1269eb_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 12707,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Overplay White Sports Shoes",
+    "price": 3795,
+    "description": "The nike Overplay VI is a fantabulous Basketball shoe that works great on hard courts. It's clean design makes it a great street casual shoe too.UpperSynthetic leather upper with perforations and mesh panels around the collar for enhanced lightweight comfort, breathability and styleToe box for enhanced forefoot protection Lace-ups for a snug Fit Cushioned tongue and collar for all-day comfortMidsolePadded sockliner for all day comfortPU midsole for lightweight comfort and impact protectionOutsoleTPR outsole with herringbone grooves and suction holes for absolute grip and tractionFlex grooves for ease of movementWash careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cca2049d5c1a6e8f7eb1db7e532e6493_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ff146fee4b96b8b50aa90e44496ab002_images.jpg"
+    }
+}

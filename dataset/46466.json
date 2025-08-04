@@ -1,0 +1,17 @@
+{
+    "id": 46466,
+    "brandName": "Timex",
+    "productDisplayName": "Timex Women White Dial Watch",
+    "price": 2795,
+    "description": "-",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Timex-Women-Steel-Watch_86f99ec6496b22c52f3b6ebcc37a7c3b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Timex-Women-Steel-Watch_b59f44252ea00968ed8c651954f09607_images.jpg"
+    }
+}

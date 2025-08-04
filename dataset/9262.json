@@ -1,0 +1,17 @@
+{
+    "id": 9262,
+    "brandName": "Mark Taylor",
+    "productDisplayName": "Mark Taylor Men Blue Striped Shirt",
+    "price": 519,
+    "description": "NA",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1e31dcfcf934ef2348e69de171f67ca6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9ba683af6898f80bdedfb2be4528fd78_images.jpg"
+    }
+}

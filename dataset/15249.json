@@ -1,0 +1,17 @@
+{
+    "id": 15249,
+    "brandName": "ADIDAS Originals",
+    "productDisplayName": "ADIDAS Originals Men Samba Black Casual Shoes",
+    "price": 4999,
+    "description": "Mixing Rebel Alliance images with colours of the Jamaican bobsled team, the world of Star Wars collides to form the Samba SW of the adidas originals collection. This shoe features alternate inner and outer stripes and a tongue badge graphic depicting Luke, Han, Chewie and C-3PO flying by in a Superstar bobsled. This shoe comes with two extra pairs of laces in contrast colours.UpperMesh upper with a suede overlay as the toe cap, adidas patented 3-Stripes on the midfoot and a printed panel at the backfootLacing system for a snug, customised FitPadded collar and tongue with a firm lower back heel for optimum fit and to hold the foot in placePadded footbed for all-day comfortMidsoleMoulded midsole detailing for vintage style and impact protectionOutsoleTransparent TPR outsole with traingular grooves, suction points and a pivot point on the forefoot, and small terraced lugs on the backfoot for absolute durability, grip and tractionShoe careUse a suede brush and leather impregnation spray to clean the suede overlayWipe surface with a damp, clean cloth to remove dust and dirtDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d639c92476d44b10997b54762a1e5e21_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/87688646af38bf69bb6c09feb6c8beb1_images.jpg"
+    }
+}

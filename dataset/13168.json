@@ -1,0 +1,17 @@
+{
+    "id": 13168,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Women Smart Grey Sports Shoes",
+    "price": 3599,
+    "description": "Stylish and uber cool, these Shape-up Liv-smart shoes from skechers add an extra bounce to your step. With a great mesh-synthetic leather combination in attractive colors, these shoes help you tone up perfectly while on your feet look super stylish in these comfortable shoes all day long. Upper Mesh upper with synthetic overlays for added durability and style Created in a sock Fit silhouette for easy fit Lace-up system with synthetic laces for a snug, customized fit Sofly padded tongue and well-cushioned collar for in-step comfort and a secure fit Mesh tongue for improved ventilation Brand tab on tongue and brand logo embedded on the side Midsole Removable insole that can be replaced with a medical orthotic Lightweight phylon midsole for comfort and support Outsole Diagonal SmartShoe bottom adjusts to your stride so the motion of each step aligns your body's center of gravity and promotes fluid transitions as you walk, jog or run Flex grooves for better flexibility Horizontal ridges on the outsole for improved traction shoe care Wipe surface with soft, clean, dry cloth to remove dust Do not wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f9accceb3601327dd3df5a26712c3dc8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9e70ce2b93c850dd40a5f3d89f5068ce_images.jpg"
+    }
+}

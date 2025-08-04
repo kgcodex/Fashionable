@@ -1,0 +1,17 @@
+{
+    "id": 32193,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Ohne Black Shoes",
+    "price": 5599,
+    "description": "The adidas Ohne shoes have a simple, stylish design, enhanced by the adidas logo on the lateral side and tongue. Made of leather with a mesh tongue and strategically placed overlays on either side, this pair is sure to become a training favourite and live up to its champion status!UpperComplete leather upperFabric lining for great durability and comfortCentral lace-up Fit for comfortable customised fitPadded tongue and collar for snug fitAdidas branding on the lateral sideMidsoleFull length TPU midsole for lightweight structureRemovable sock-liner to accommodate an orthoticOutsoleTPU outsole with woven grooves on the forefoot and midfoot for absolute grip and tractionBranding on the heel for maximum agilityshoe careRub surface with clean, damp cloth to remove dustUse a branded shoe polish to keep your leather footwear clean and shinyDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/551984f895881a2eacbaa289aa556f2a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/72d387e6dfb12cb24b34253e298566f9_images.jpg"
+    }
+}

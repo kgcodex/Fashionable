@@ -1,0 +1,17 @@
+{
+    "id": 9010,
+    "brandName": "ID",
+    "productDisplayName": "iD Men Casual Brown Shoe",
+    "price": 2385,
+    "description": "-",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4478482e856411baadb49f77c54478e0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/efaede4e134f652a2796083194237f42_images.jpg"
+    }
+}

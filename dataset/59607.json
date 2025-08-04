@@ -1,0 +1,17 @@
+{
+    "id": 59607,
+    "brandName": "FNF",
+    "productDisplayName": "FNF Pink & Grey Wedding Collection Sari",
+    "price": 9000,
+    "description": "Pink and grey patterned sari with applique and work on the borders",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FNF-Green-Collection-for-Wedding-Wear-Sari_3d5ba7b2abf580f1f0b19e8ffdf14d6b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FNF-Green-Collection-for-Wedding-Wear-Sari_70bd4238b332a1f0af1cf1ebb326bd55_images.jpg"
+    }
+}

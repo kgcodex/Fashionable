@@ -1,0 +1,17 @@
+{
+    "id": 46808,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Blue & Grey Sports Shoes",
+    "price": 5995,
+    "description": "Style NoteIf it's unending speed you're looking for, there's no better running shoe than the nike Free 3 V4. A perfect cross-country shoe, the Free Run is employed with DriFit technology that allows water to drain away, keeping your feet dry and comfortable even in wet conditions.Product DetailsOne-piece, single-layer fabric upper for lightweight comfort and breathability Attractive blue print on the upper with the tongue stitched to itAllows water to drain away keeping the feet dry and fresh even in wet conditionsInternal arch bandage locks down the foot offering a snug, secure Fit and optimal power transferCollar lobes provide a snug fit for ultimate heel lock downNo-sew construction and eyestays limit internal stitching to reduce friction and foot irritationRemovable cushioned footbed to accommodate an orthoticEVA injected midsole for lightweight feelUnique tip to heel Nike Free TPU outsole with multi-directional lugs for optimal traction on various surfaces Vertical and horizontal flex grooves and waffle patterned lugs for added cushioning and flexibility while runningMaterial and CareFabricClean with a leather brushDo not store under sunlight or wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/173b1d83a6727665c21eb6ba8a85f929_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6bacd29778097eab4c2a63ccbffb296f_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 28854,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Mauve T-shirt",
+    "price": 499,
+    "description": "Lavender pique knit polo T-shirt, has a polo collar, short button placket, short sleeves, a chest pocket, a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/57396ddf0c58da89e091ab51251db69c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/928282473cf74befcb0de76f7610a502_images.jpg"
+    }
+}

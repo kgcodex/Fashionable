@@ -1,0 +1,17 @@
+{
+    "id": 8091,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Galaxy Elite White Sports Shoes",
+    "price": 3999,
+    "description": "A bestselling trainer, the Galaxy Elite shoe from adidas combines a unique sporty style, superior cushioning and excellent traction. What&rsquo;s even better is that it is miCoach compatible that helps you track your speed, time, calories burnt and much more. Team this with adidas socks and performance sportswear and there&rsquo;s no stopping you from emerging as the winner. Upper Synthetic leather uppers with perforations for absolute breathability Strategically placed synthetic overlays for added shoe structure and support Inner bootie for wrap-around comfort adidas patented 3-Stripe overlays in synthetic leather on the midfoot region for enhanced support and to exude the brand&rsquo;s belief in performance Lace-up system for a snug, customized Fit Meshed and plushly padded tongue and collar for absolute breathability and snug comfort Midsole Injected EVA midsole for long time lightweight cushioning adiPRENE inserts in the heel for superior cushioning 3D cushioning technology in the heel to absorb the harmful longitudinal and lateral impact Outsole Non-marking rubber outsole made with adiWEAR technology for absolute durability Herringbone pattern grooves on the forefoot and grooved heel for absolute grip and traction Shoe care Wipe surface with damp, clean cloth to remove dirt Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b475a065eb867280dd8755d1bf05a76b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/017237b9f9d72f81c5d8188ea1afffd3_images.jpg"
+    }
+}

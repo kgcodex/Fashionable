@@ -1,0 +1,17 @@
+{
+    "id": 35053,
+    "brandName": "Windsor",
+    "productDisplayName": "Windsor Men Black Formal Shoes",
+    "price": 2499,
+    "description": "Style Note Crafted from the finest leather, this derby shoe from windsor is designed to offer comfort at its best, without compromising on style. Packed with features that offer luxurious comfort, this pair makes you look your executive best when paired with formals and classy accessories. Product Details Black Derby shoe with central lace-ups, overlays and stitched detailing A padded tongue and inner Tough rubber outsole Thick TPU outsole with an upraised heel, patterned grooves and lugs on the sides Material and Care Leather Do not machine wash Remove dust and dirt with damp clean cloth Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c5b59cd380bc90241fabd2353e750ef2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f1b5a7d24ad42cc6af6258fad768225b_images.jpg"
+    }
+}

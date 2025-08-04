@@ -1,0 +1,17 @@
+{
+    "id": 50166,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Blue Wedges",
+    "price": 1490,
+    "description": "Style NoteIt's a",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9359613f97f40c12715ca4435091af8a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5cfa30ee00975301bc318c96a6ae930c_images.jpg"
+    }
+}

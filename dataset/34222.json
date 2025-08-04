@@ -1,0 +1,17 @@
+{
+    "id": 34222,
+    "brandName": "Proline",
+    "productDisplayName": "Proline White Polo T-shirt",
+    "price": 599,
+    "description": "White polo T-shirt, has a polo collar, short sleeves, short button placket, vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/43526572bf42dcefd8c97da7682b8670_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1cd40a4cb65fc30727cbc8f75e9e51a8_images.jpg"
+    }
+}

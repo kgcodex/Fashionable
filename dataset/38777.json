@@ -1,0 +1,17 @@
+{
+    "id": 38777,
+    "brandName": "Woodland",
+    "productDisplayName": "Woodland Men Brown Leather Shoes",
+    "price": 2495,
+    "description": "Square toed, brown leather shoes with central lace-ups and low top stylingLeather upper with stitched detail, soft tongue with brandingPadded footbed with brandingTough and textured outsole with patterned groovesWarranty: 3 monthsWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Woodland-Men-Olive-Shoes_fc6d5c6b38cfa227c68680f07e6f9775_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Woodland-Men-Olive-Shoes_338544e84b7056cbb9ee13c76a4aee2c_images.jpg"
+    }
+}

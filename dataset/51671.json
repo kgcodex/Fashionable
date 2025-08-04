@@ -1,0 +1,17 @@
+{
+    "id": 51671,
+    "brandName": "Louis Philippe",
+    "productDisplayName": "Louis Philippe Men Black Sunglasses",
+    "price": 3500,
+    "description": "Lens colour: Grey shadedFrame colour: Silver and blackFrame type:Metal, aviator styleBranding at the sides soft nose-padsThe glasses come in a case",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Louis-Philippe-Men-Grey-Sunglasses_3260cdce2cbee31f53648895bae65490_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Louis-Philippe-Men-Grey-Sunglasses_bc7a54c3e2e9b8c590672cb5a03a5a23_images.jpg"
+    }
+}

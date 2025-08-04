@@ -1,0 +1,17 @@
+{
+    "id": 26325,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Phantom White Sports Shoes",
+    "price": 2299,
+    "description": "The Phantom from adidas is a plush high mileage training shoe for neutral runners. Adidas continues to deliver ultimate comfort and a smooth ride in one package with this shoe. This is highly recommended for larger framed runners.UpperComplete mesh upper for breathability with synthetic overlays for added durabilityThree rubber overlays across the sides of the upper for added structure and style signifying the brand's motto of performance, perseverance and achievementSynthetic central lacing for snug FitMesh cut-out on the heel cap with Adidas logo to enable heat transferLuxuriously padded collar to prevent the ankle from twistingPadded tongue for snug fitOverlays of glossy synthetic for styling effectMidsoleLightly cushioned insole for ergonomic fitEVA midsole for lightweight comfortOutsoleMulti-directional flex grooves for added tractionMultiple rubber lugs all over the outsole for increased grip on any groundArched for ergonomic comfortShoe careWipe surface with soft, clean, damp clothDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f10ad741cd045e34c52de7980c6de13f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/257bbe0ee3be3d920cfbdf6ed3183cdd_images.jpg"
+    }
+}

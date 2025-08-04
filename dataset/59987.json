@@ -1,0 +1,17 @@
+{
+    "id": 59987,
+    "brandName": "Avirate",
+    "productDisplayName": "Avirate Black Dress",
+    "price": 2800,
+    "description": "Black dress, knit, V neck, short sleeve, empire line with gather detail at the chest and attached lining",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-Black-Dress_a5df093662bf211ed55f8772fde28e5b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-Black-Dress_497ec52d63bf2dea2a00a3bed0edc2f7_images.jpg"
+    }
+}

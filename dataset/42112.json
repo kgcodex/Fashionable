@@ -1,0 +1,17 @@
+{
+    "id": 42112,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Grey T-Shirt",
+    "price": 899,
+    "description": "Style NoteSay hello to cool comfort in this T-shirt from adidas. The stripes on the shoulder are not just Adidas' logo, they also add a dose of fresh colour and style to the tee. Engineered with ClimaLite technology, the tee draws sweat away from the skin to keep you dry and comfortable at all times. Wear this versatile tee for all your sporting activities or for casual outings. Pair it with jeans or tracks for the wow effect.Product DetailsGrey round neck short sleeved T-shirt, fabric tape detailing on the inseam of the neckline, Adidas' three stripes in purple appliqu&eacute; d on the sleeves, printed brand name and logo on the left chestMaterial and Care70% cotton and 30% polyesterGentle machine wash in cold water below 30 degreesWash dark colours separatelyDo not soak, bleach or tumble dryDry in shadeDo not iron on print or decorationsSize and FitRegular fitThe model (height 6' and shoulders 18'') is wearing a size M",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/fda0746fe1352bcf532ed07e3085051f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/51bd0400127d6b768f8593ef3c99224c_images.jpg"
+    }
+}

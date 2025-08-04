@@ -1,0 +1,17 @@
+{
+    "id": 45593,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Black Formal Shoes",
+    "price": 3199,
+    "description": "Pointy toed black Oxford shoes, branding at the midfoot Mildly padded inner Tough sole with a stacked heel Warranty: 3 monthsWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/582933a5a9bd932d7e0b181ea8a6a457_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ea4b5accf673614d84a7c15335921dfb_images.jpg"
+    }
+}

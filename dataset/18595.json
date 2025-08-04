@@ -1,0 +1,17 @@
+{
+    "id": 18595,
+    "brandName": "New Hide",
+    "productDisplayName": "New Hide Men Casual Black Wallet",
+    "price": 495,
+    "description": "Crafted from pure leather, this wallet from Newhide is a great addition to your everyday wardrobe. The soft natural leather removes bulk, making this a slim, sleek wallet for occasions when only the best will do. Leat",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ff87ff12f018f72d61cf3dd523023450_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/187569b4cd9d6ae53981ce2d77433c6b_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 26819,
+    "brandName": "Arrow",
+    "productDisplayName": "Arrow Men Striped Navy Blue Trousers",
+    "price": 1799,
+    "description": "Navy blue formal trousers with like coloured stripes, has a flat front with two pockets on the sides, two welt pockets on the back with button closures, brand badge at the side of the right pocket, belt loops on the waistband, reinforced stitch detailing, a zip and button closure and extendible hems",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/587a85c0462e4cbd435408a044f67b92_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7e20d14c00babfcb67f9ab9ba89ee1c0_images.jpg"
+    }
+}

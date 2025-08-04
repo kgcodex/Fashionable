@@ -1,0 +1,17 @@
+{
+    "id": 35706,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Court Majestic White Shoes",
+    "price": 2995,
+    "description": "Designed with a low profile silhouette for the tennis player, the nike Court Majestic for women lives up to its name and offers a sleek upper with ample comfort. With cushioned comfort and a grippy outsole, this shoe also doubles up as a perfect casual sneaker.UpperSynthetic leather upper with nike swoosh overlays on either side of the midfoot for styleLacing system for a snug, customised FitCushioned tongue and collar for snug comfortPadded footbed for enhanced cushioning and impact protectionMidsolePhylon midsole for absolute shock absorption and lightweight comfortOutsoleTPR outsole with herringbone grooves for optimal tractionShoe careWipe surface with damp, clean cloth to remove dustDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b94a8829814929b1e9256c8f86f61f64_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a481beb72b86b7c1eb3de89a6e136a10_images.jpg"
+    }
+}

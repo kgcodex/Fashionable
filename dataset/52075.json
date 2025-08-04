@@ -1,0 +1,17 @@
+{
+    "id": 52075,
+    "brandName": "Myntra",
+    "productDisplayName": "Myntra Men Blue T-shirt",
+    "price": 699,
+    "description": "Blue and white striped polo T-shirt, has a ribbed cutaway collar, short sleeves with ribbed cuffs, embroidered design on the left chest, two button placket and a vented hemline",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ad7afc6b018d4d8ed1fed89f9c46af42_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9232bf3df38a9efb73a499f3cfcb08df_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 53103,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Silver Earrings",
+    "price": 560,
+    "description": "Silver round dangler with designs around the peripheryHas a fish hook closure",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Silver-Earrings_ad9cf4c4a241e21dd56d3c6b4fcda951_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Fabindia-Silver-Earrings_d2f946384d5648fee70ccdc6b97502b0_images.jpg"
+    }
+}

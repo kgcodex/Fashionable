@@ -1,0 +1,17 @@
+{
+    "id": 57157,
+    "brandName": "Elle",
+    "productDisplayName": "Elle Women White T-shirt",
+    "price": 800,
+    "description": "White T-shirt, has a round neckline, short extended sleeves, gathers below the shoulders and graphic print on the chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-White-T-shirt_bf6d119009d32b2472334b09eeb480b2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Elle-Women-White-T-shirt_31277aef897e01f006be7e6186124990_images.jpg"
+    }
+}

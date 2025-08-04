@@ -1,0 +1,17 @@
+{
+    "id": 42042,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Relentless 2 MSL White Sports Shoes",
+    "price": 4295,
+    "description": "Style NoteDesigned for absolute comfort, the nike Air Relentless running shoe is stylish and comfortable. Its stylish upper makes it a great lifestyle footwear.Product DetailsHeavily meshed upper for breathability, with synthetic overlays for enhanced shoe structureLacing system for a snug, customised FitMeshed and padded tongue and collar for all-day comfortPhylon midsole for impact protection and lightweight comfortTPR outsole with flex grooves for ease of movementWaffle-pattern lugs for grip and tractionScooped heel for extra cushioning to the backfootMaterial and CareMeshWipe surface with damp, clean cloth to remove dustDo not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7585d1a86a93f4bde0b4ec2f4cbf07d4_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ea2d2e9a90dbbdc29cdadbafcece06a4_images.jpg"
+    }
+}

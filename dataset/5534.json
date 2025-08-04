@@ -1,0 +1,17 @@
+{
+    "id": 5534,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Air Retaliate Grey White Shoe",
+    "price": 3700,
+    "description": "Bounce back from a demanding day with a dynamic ride in the nike Air Retaliate!Upper Open mesh upper for supreme breathability Synthetic leather overlays for a snug, supportive Fit Lightly padded tongue and collar for added comfort Performance lining for great step-in feel Lace-up system for snug fit Midsole Encapsulated Air-Sole midsole unit for supreme cushioning Full-length phylon midsole for lightweight feel Outsole BRS 1000 rubber outsole in the heel acts as a crash pad for cushioning and long-lasting wear Forefoot flex grooves for fluid motion and smooth transition of the foot shoe careDo not machine washRemove dust and dirt with damp clean clothDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9d13e1aa8455bfb9c541c5cb8439d7be_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/087296a52696403d00dab3aeb0f47405_images.jpg"
+    }
+}

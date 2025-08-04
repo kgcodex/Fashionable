@@ -1,0 +1,17 @@
+{
+    "id": 4338,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Men's Leonard Black Shoe",
+    "price": 2399,
+    "description": "With a soft footbed and a lace up front, these shoes are assured to support your exercise regime as well as when on outings with friends.Upper Synthetic upper with lace-up front for snug Fit Padded tongue for soft feel Padded sock liner for enhnaced shock absorption and snug fit Rubber heel counter embedded into the upper for longer shoe life Perforations around the toe box for ventilation Midsole Lightweight EVA midsole for extra shock absorption Soft footbed for an ergonomic fit Outsole Carbon rubber outsole with rib pattern below the toe area for flexible 180 degree movement Ridges below the heel counter for enhanced grip and support Wash careDo not machine washRub with soft cloth to clear off dust and dirt",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f7e6357312dc6dc6af3e8885c147a113_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/958102618618d0720c9eae2bde6eb751_images.jpg"
+    }
+}

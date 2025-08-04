@@ -1,0 +1,17 @@
+{
+    "id": 29147,
+    "brandName": "United Colors of Benetton",
+    "productDisplayName": "United Colors of Benetton Men Printed Green T-shirt",
+    "price": 1599,
+    "description": "Wash care Dry clean preferred Hand wash in cold water using a mild detergent Flat dry Cool iron on reverse",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8e76bc2d4d10b820550a2b155aa7cb4a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8e40ffbdc636f63164105380503bba75_images.jpg"
+    }
+}

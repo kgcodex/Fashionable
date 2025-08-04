@@ -1,0 +1,17 @@
+{
+    "id": 59988,
+    "brandName": "Avirate",
+    "productDisplayName": "Avirate Black & Silvery Grey Dress",
+    "price": 3100,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Party",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-Black---Silver-Dress_3c99969d1661d483a3d3e27bcb7a185c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Avirate-Black---Silver-Dress_ddf6102a925fd1c0086ed4e003f88673_images.jpg"
+    }
+}

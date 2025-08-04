@@ -1,0 +1,17 @@
+{
+    "id": 15847,
+    "brandName": "Warner Bros",
+    "productDisplayName": "Warner Bros Kids Unisex SD Fly Clog Blue Sandals",
+    "price": 499,
+    "description": "It's comfort and fun rolled into one in this Scooby Doo Fly Clog from Warner Brothers. These clogs are crafted from soft PU in a single casing, offering unparalleled comfort to your little one's feet. Upper Soft PU forefoot strap with cartoon embossed on it Movable and flexible backfoot strap made of PU PU footbed ergonomically grooved for all-day comfort Outsole Textured PU outsole with leaf-rib lugs for grip and traction Care Wipe with a damp, clean cloth to remove dust and dirt",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Kids-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6eb046b1b543228ed1347ac1d75c98a9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/30329c1a7844750da2f3420baadf3ced_images.jpg"
+    }
+}

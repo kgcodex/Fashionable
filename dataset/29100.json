@@ -1,0 +1,17 @@
+{
+    "id": 29100,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Unisex Black Backpack",
+    "price": 2599,
+    "description": "Style note Ideal for Sports sessions and for keeping your essentials handy, this puma Apex backpack is a durable construction packed with storage space. With a zip flap and front organiser space, this bag has room for all your accessories and stationary. With a large main compartment and adjustable shoulder straps, it's an ideal backpack for school, work, travel and fitness. Product Details Has a black upper One diagonal small compartment in the front Two main zippered compartments; one has organizer pouches and the other has a padded laptop separator Two mesh pockets on the sides Padded mesh back and a haul loop Two adjustable, padded shoulder straps Material and Care 100% nylon only hand wash Clean with a damp cloth when necessary Do not bleach, tumble dry or wring Line dry; do not iron Size Height: 50 cm Width: 32 cm Depth: 12 cm",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e59d1a16669b2bf8d1225d20486f6edd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c7add148c859ce987055f205f564d29a_images.jpg"
+    }
+}

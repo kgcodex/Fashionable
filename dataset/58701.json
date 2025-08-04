@@ -1,0 +1,17 @@
+{
+    "id": 58701,
+    "brandName": "Alayna",
+    "productDisplayName": "ALayna Women Printed White Kurta",
+    "price": 549,
+    "description": "White floral printed woven kurta, has a U-neckline, short sleeves with pom pom trims on the cuffs, pom poms and pintucks on the yoke and side slits",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ALayna-Women-Printed-White-Kurta_a32d47a4d18a7d1218f69fab8a2f7478_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ALayna-Women-Printed-White-Kurta_519304f4cd49f5b64f0b55abf3298279_images.jpg"
+    }
+}

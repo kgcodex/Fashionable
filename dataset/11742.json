@@ -1,0 +1,17 @@
+{
+    "id": 11742,
+    "brandName": "Lee",
+    "productDisplayName": "Lee Men Navy Blue Polo Tshirts",
+    "price": 1499,
+    "description": "Navy blue polo neck t-shirt made of 100% cotton, has white and red stripes, fabric collar with a tape detailing on the inseam, long sleeves with ribbed cuffs, short chest placket, embroidered logo on the upper left chest, stitch detailing on the base of the placket, brand tab appliqued on the left hemline and a vented hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ce71e6d1129565b2b8b40911d58954f0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8f16a8424333fd22b8b2c63f59229f50_images.jpg"
+    }
+}

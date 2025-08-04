@@ -1,0 +1,17 @@
+{
+    "id": 49716,
+    "brandName": "Park Avenue",
+    "productDisplayName": "Park Avenue Men Blue Tie",
+    "price": 899,
+    "description": "Blue tie with grey and light blue checks all over A loop behind the broad tongue to tuck the smaller end in",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Park-Avenue-Men-Blue-Tie_2ba0c8f89d468ede2993ad855487cbfd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Park-Avenue-Men-Blue-Tie_426bfdb206cc43035dd9736bfe358aeb_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 3241,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Route Ducati Black Shoe",
+    "price": 4999,
+    "description": "Feel weightless with these padded and breathable pair from puma's Ducati series. The perforated formstrip on the sides add to the breathability. The Ducati badge on the back and embroidered cat logos give a new dimension. The EVA midsole ensures greater cushioning and shock absorption, while the abrasion resistant rubber outsole gives excellent traction.Upper Leather and synthetic leather upper for extended durability Slim and snug lacing puma and ferrari logos adorn the upper Perforations on the sides for ventilation Midsole Injected EVA midsole for cushioned comfort and durability Outsole Durable racing-inspired rubber outsole for outstanding traction",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d58bbd0c63348f2e480912eff34b9b79_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f7f0009cdd86e72c934fa1a07652f6c3_images.jpg"
+    }
+}

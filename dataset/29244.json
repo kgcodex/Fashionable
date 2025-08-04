@@ -1,0 +1,17 @@
+{
+    "id": 29244,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Adi Primo White Sports Shoes",
+    "price": 3099,
+    "description": "The Adi Primo lifestyle fitness shoes from adidas are great for all kinds of Sports and training. They give superior traction and protection to the feet while remaining comfortable and stylish. Team these with jeans and tees for a great casual look.UpperMesh upper with synthetic overlays for enhanced breathability and extended durabilityPatent three synthetic overlays across the sides of the upper for added structure to the shoe and signifying brand's motto of performance, perseverance and achievementSynthetic central lacing for snug FitInverted triangular rubber padding on the heel cup to protect it from impactPlush padded collar and tongue for enhanced comfortSoft fabric shoe lining and cushioned insole for comfortable in-step and snug fitMidsoleEngineered with Adiprene technology to provide ample cushioning to the feet and protect them from impactEVA injected midsole for lightweight comfortLightly cushioned insole for lightweight feelOutsoleCarbon rubber outsole with horizontal flex grooves for added tractionOutsole built with impact guidance system to guide the natural movement of the feetAdiwear outsole for better abrasion resistance during sports performed on hard surfaces and provide improved traction and durabilityCarbon rubber outsole embedded onto the toe box to protect the forefootShoe careWipe surface with soft, clean, damp clothDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/87187eb1e81c213b84260fc5d460f06f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9bd0c7f4f457e3e5c227abc76eb779bc_images.jpg"
+    }
+}

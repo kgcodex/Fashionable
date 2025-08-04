@@ -1,0 +1,17 @@
+{
+    "id": 35932,
+    "brandName": "Salomon",
+    "productDisplayName": "Salomon Men X-Tracks GTX Black Sports Shoes",
+    "price": 8999,
+    "description": "Style Note The salomon X-Tracks GTX is a heavy duty hiking shoe which is ultra-light and styled as a mid-top. This shoe is best for those who combine fast hiking and trail running as it provides the right combo of breathability and insulation. The water resistant textile upper, heel foam and moulded EVA outsole are the best of its kind. Product Details GORE-TEX (A membrane/lining that offers durable waterproof protection and is moderately insulated for changing conditions) weather protection that is ideal for people who mix fast hiking and even some trail running into their adventures Waterproof bootie construction Quicklace system - pull on toggle straps to tighten the Fit OS Tendon (Rebound technology running the length of the outsole that provides improved heel-to-toe transition for better runability) Ortholite Sockliner Moulded EVA (Ethylene-Vinyl Acetate - A polymer used to absorb physical shock) midsole Non-marking Contagrip outsole Material and Care Synthetic, fabric Wipe surface with a clean, dry cloth to remove dust Do not machine wash or store in sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/615ba104aee705d16625f7d741eccef0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/74be173b10b785f08120b258c4945081_images.jpg"
+    }
+}

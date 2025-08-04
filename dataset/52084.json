@@ -1,0 +1,17 @@
+{
+    "id": 52084,
+    "brandName": "Myntra",
+    "productDisplayName": "Myntra Women Pink T-shirt",
+    "price": 399,
+    "description": "Pink T-shirt, has a round ribbed neckline, short sleeves and graphic print in front",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Myntra-Women-Pink-T-shirt_0ac806ecece81340da5ba033aa6997b0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Myntra-Women-Pink-T-shirt_0a0c7fba3fd81ffe6ce7d9e2c0a1293d_images.jpg"
+    }
+}

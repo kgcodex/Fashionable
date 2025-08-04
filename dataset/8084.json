@@ -1,0 +1,17 @@
+{
+    "id": 8084,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Uraha 3 M White Sports Shoes",
+    "price": 3999,
+    "description": "True to adidas&rsquo; belief in delivering performance and value, the Uraha 3 running shoe is designed for everyday wear. Upper Open mesh upper with strategically placed synthetic overlays for a breathable and comfortable Fit Synthetic overlay along the toe region and a wrap-around across the heel for better foot protection Lacing system for a snug, customized fit Padded tongue and collar for in-step comfort Adidas patented 3-Stripe overlays in synthetic leather on the midfoot region for enhanced support and to exude the brand&rsquo;s belief in performance Midsole Injected EVA midsole for long term lightweight cushioning Padded EVA insole for all-day comfort adiPRENE inserts under the heel for superior impact protection Outsole Non-marking outsole made of adiWEAR rubber for absolute durability, especially in high wear areas Modified waffle pattern in the forefoot and decoupled heel for absolute grip and traction Scooped heel for absolute cushioned comfort shoe care Wipe surface with damp, clean cloth to remove dirt Do not machine wash or store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4d6a7b722c51cdfc6c64bc1b3ab19cc6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f38d4682dede1e057f5d040391183574_images.jpg"
+    }
+}

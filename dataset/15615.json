@@ -1,0 +1,17 @@
+{
+    "id": 15615,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Running Red Jerseys",
+    "price": 1495,
+    "description": "CompositionRed jersey made of 100% recycled polyester engineered with Dri Fit technology, has short sleeves, round neck and graphic print on the frontFittingComfortWash careMachine wash cold with like coloursDo not dry clean, bleach, use softeners or allow to lay on itself when wetTumble dry lowRemove immediately Cool ironGo with the graphic and Run Fast in ease in this red jersey from nike. Crafted from soft recycled polyester and engineered with Dri-Fit technology, this jersey offers exemplary dry comfort, making it a great everyday wear for your healthy runs and casual days. Team it with jeans and running shoes for a sporty look.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7b3502a73a3fad6883409b733ba49b3b_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/30fe32e18c4a3dc5e142cbc20330d88e_images.jpg"
+    }
+}

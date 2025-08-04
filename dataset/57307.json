@@ -1,0 +1,17 @@
+{
+    "id": 57307,
+    "brandName": "Rocia",
+    "productDisplayName": "Rocia Women Beige Flats",
+    "price": 590,
+    "description": "Beige slip on flats with an upraised heel Thong styled upper, knotted near the toe separator and broad straps Soft footbed Upper stitched to the outsole Tough outsole with star shaped patterns",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocia-Women-Beige-Sandals_c393baa04649883d89f86bd7ae67399e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Rocia-Women-Beige-Sandals_d54ecc0a7553df489eafd2cd62886180_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 25252,
+    "brandName": "Lino Perros",
+    "productDisplayName": "Lino Perros Women Orange Handbag",
+    "price": 1995,
+    "description": "Orange textured handbag Zipped closure across the top Paneled front with zip pockets, one across the top and one along the right panel's seam Paneled back with a zip pocket along the left panel's seam All zippers on the outside are exposed and silver colored with stylized zip pulls. Has an adjustable strap plus one short shoulder strap with an overlay and stud detail at either end One slip pocket, mobile pocket and a zipped pocket built into the lining Base turns into a gusset at the sides",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Women-Leatherette-Orange-Handbag_eaa5069a02b14927dbc1ecf0cebef5f2_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Lino-Perros-Women-Leatherette-Orange-Handbag_08849760d7068d48cda1ad2cf1c79a89_images.jpg"
+    }
+}

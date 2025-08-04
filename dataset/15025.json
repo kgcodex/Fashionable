@@ -1,0 +1,17 @@
+{
+    "id": 15025,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Solid White Caps",
+    "price": 699,
+    "description": "CompositionWhite cap made of 100% cotton, has embroidered eyelets on the crown, embroidered NBA badge on the front and back, adjustable back strap and adidas patented 3-Stripes embroidered in blue on the visorFittingComfortWash careMachine wash in cold water or hand wash separatelyDo not tumble dry, use softeners or bleachCool ironBlock the elements and look sporty in this NBA cap from adidas. The cotton fabric and eyelets keep your head cool and dry all day. Team it with jeans, tees and sneakers to complete your sporty fashion statement.",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ba9cc869e5ab2953e67d09c3dca6df95_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/40f9b6f56cba05162769cd79927ed02c_images.jpg"
+    }
+}

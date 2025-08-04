@@ -1,0 +1,17 @@
+{
+    "id": 38190,
+    "brandName": "Polaroid",
+    "productDisplayName": "Polaroid Unisex Sunglasses",
+    "price": 3661,
+    "description": "Lens colour: Black &nbsp;Lens type: Polaroid polarized lenses block out virtually 100% of glareFrame colour: BlackFrame type: Plastic full frame with plastic armsHigh bridge and flexible nose padsThe glasses come in a signature Polaroid caseWarranty: 1 year",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/685c9796e2d1cc3fb189792df7f35432_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3a503b72e4e57e53aefc028caf9a24c9_images.jpg"
+    }
+}

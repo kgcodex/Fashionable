@@ -1,0 +1,17 @@
+{
+    "id": 59015,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men Grey Sports Shoes",
+    "price": 6499,
+    "description": "Meshed upper with an inner meshed bootie for absolute comfort and breathability Strategically placed synthetic leather overlays for absolute comfort, support and style Heavily padded and meshed collar and tongue Lace-up system for a snug, customised Fit Collection name embossed on lateral ankle Ultra-light, injection moulded kinetic footbed for absolute comfort Removable footbed to accommodate an orthotic TPU midsole for absolute lightweight comfort Has a high abrasion rubber outsole with Kinetic Wedge technology in the outsole to absorb more energy and elevate muscle activity with every stride Soft kinetic wedge to absorb impact and spread it throughout the foot to relieve joint and back pain, and ensure a comfortable run Balance pods that create slight and constant shifts in weight to offer a more intense workout with lesser stress Curved rocker bottom for smoother heel-strike to toe-off transition, helping you run in a more natural state",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Skechers-Men-Grey-Sports-Shoes_a9103f99b222cca32875ecf06b781103_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Skechers-Men-Grey-Sports-Shoes_2acbfc9e60fdfef474398b07da525b73_images.jpg"
+    }
+}

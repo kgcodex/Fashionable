@@ -1,0 +1,17 @@
+{
+    "id": 8520,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Women Nike Grey handbag Grey Bags",
+    "price": 2495,
+    "description": "nike presents the perfect handbag for those who love to carry their world with them! With loads of space and great looks, it's the arm candy you've been waiting for! Look like a diva as you carry it to the mall or coffee shop. Be prepared to make heads turn with this stylish fashion accessory! Measurement Height: 29 cm Width: 52 cm Depth: 24 cm Capacity: 23 litres Made of 55% nylon, 35% polyurethane and 10% polyester for enhanced durability and style Nylon lining for increased durability Water-resistant tarpaulin bttom One main roomy zippered compartment with a small fleece-lined zippered pocket to hold essentials A second smaller zippered compartment for storing items Hook-loop design above zipper for additional closure short handles for ease of carrying Cushioned tubular handle cunstruction for added comfort Snap buttons to clip the handles together for added convenience Branded zippers and sliders for easy use Eye-catching graphic print all over nike Swoosh appliqued on the front for branding and added attraction Care Do not machine wash Rub surface with dry clean cloth to remove dust and dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f3797a16bedcc257f93ad622706c5d3e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/be912592a5c0b06f1aac1cef7690ecbc_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 28541,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Running Grey T-shirt",
+    "price": 1295,
+    "description": "CompositionGrey T-shirt for men made of 100% polyester, has a round neckline, short sleeves with red panels extending to the sides, mesh panel at the back and nike swoosh on the left chestFitComfortWash careMachine wash cold at 30 degrees with like coloursDo not bleach or dry cleanLine dryWarm iron; do not iron on decorationsThis T-shirt from nike is perfect for your running sessions. Engineered with Dri-Fit technology that wicks away sweat even on the hottest of days, it's sure to give you exemplary comfort and become your favourite running tee. Pair it with track pants and running shoes.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5040ea2db13e93c1d699e599066e7a91_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d4614146e3a5f54c4976dfa834ed3f1e_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 19305,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Force 1 Navy Blue Sports Shoe",
+    "price": 4595,
+    "description": "Replete with a low-cut silhouette and a versatile look, the nike Air Force 1 '07 has been crafted on the lines of the iconic AF1, blending classic style, innovative technology and fresh detailing in a Basketball shoe. Exceeding all standards of performance, functionality and excellence, the nike Air Force 1 '07 has been a celebrated sneaker for over 25 years. UpperSynthetic leather upper with crisp edges for maximum durability and a cleaner lookPerforated toe box and sides for ample ventilationLow cut silhouette for a low-to-ground feelCotton twill lace-up system with lightly padded tongue for snug FitMetal tag on lace to honour the shoeMildly cushioned sockliner for in-step comfort Midsole Phylon midsole with an encapsulated Nike Air unit for lightweight cushioning and shock absorptionMassive midsole for soft, springy cushioning Outsole Non-marking rubber outsole for better traction and durabilityPivot points on the big toe mound and heel, coupled with circular lugs for smooth transition in all directions Shoe care Do not machine wash Remove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/6e24991f03cc9c041aaeff29d0adef1e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3a34af5acc7a89684c1f4f4618649a7c_images.jpg"
+    }
+}

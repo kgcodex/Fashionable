@@ -1,0 +1,17 @@
+{
+    "id": 48089,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Women Burgundy Top",
+    "price": 3999,
+    "description": "&iuml; &raquo; &iquest; &iuml; &raquo; &iquest; &iuml; &raquo; &iquest; Dark burgundy sleeveless top, has a Peter Pan collar, full buttoned placket, drawstring tie at the shoulder and curved hemline with the front hem longer than the back hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/267c3bb0d381baeab46917a43a8abadb_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/08f167c3407f4f78cc262552973a14ce_images.jpg"
+    }
+}

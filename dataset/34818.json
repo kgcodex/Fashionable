@@ -1,0 +1,17 @@
+{
+    "id": 34818,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men Snova Seq 4M Wide Grey Sports Shoes",
+    "price": 7999,
+    "description": "A running shoe that cares about your wellness, the adidas Snova Seq 4M Wide shoe has a GEOFIT construction, impact-absorbent adiPRENE cushioning and TORSION midfoot support to protect your joints while running. Upper Mesh upper with synthetic and felt overlays Ortholite insole for wicking away moistue, long-lasting cushioning, inhibiting odor and fungus and enabling air flow Stitched-on micro-suede in forefoot for smooth Fit and support Moulded EVA sockliner for anatomical fit and great step-in comfort GEOFIT construction for anatomical fit and comfort TORSION SYSTEM for midfoot integrity adiPRENE under the heel for superior cushioning impact Midsole FORMOTION adapts to the ground to ensure the smoothest, most comfortable run possible. adiPRENEplus midsole in the forefoot maintains propulsion and efficiency. Heel stabiliser element improves running transitions Outsole adiWEAR outsole offers the ultimate in high-wear durability Deep flex grooves with circular nubs all over Decoupled heel Shoe care Rub surface with a clean, damp cloth to remove dust Do not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f4f3e284eaa41c493464b569d84b05f1_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bc085392c44002f6f1c6df235d032e7d_images.jpg"
+    }
+}

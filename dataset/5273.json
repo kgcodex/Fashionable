@@ -1,0 +1,17 @@
+{
+    "id": 5273,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men's Hanavi Red Green Flip Flop",
+    "price": 799,
+    "description": "Funky yet discreet, this pair of Hanavi slippers is a great choice for a summery or lazy day with friends. Feel comfy in this soft footbed, while the structured outsole holds its grip on any terrain.Upper Synthetic rubber thong straps with a shiny branded panel Synthetic toe separator to withstand excessive use Midsole Phylon footbed for comfort Fit and cushioning Footbed splattered with brand name for style Outsole TPR outsole with ridges for good grip on any terrain shoe careRub surface with clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/49d60629afa8c2431e28d4bcc4bf4f50_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cc1157965a6aab987769150eddd77962_images.jpg"
+    }
+}

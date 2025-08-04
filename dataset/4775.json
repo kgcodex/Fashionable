@@ -1,0 +1,17 @@
+{
+    "id": 4775,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Women 3S Black Track Pants",
+    "price": 1299,
+    "description": "Black full length track pants made of a cotton-lycra blend fabric, has an elasticated waist with a drawcord, embroidered logo on the left hip and adidas Essentials 3-Stripes along the length",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0be3ad92dd5492c610550fc88a9328bc_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/09aab0ed8f78f7413b36ce758f69a686_images.jpg"
+    }
+}

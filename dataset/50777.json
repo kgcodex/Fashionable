@@ -1,0 +1,17 @@
+{
+    "id": 50777,
+    "brandName": "Clarks",
+    "productDisplayName": "Clarks Men Dino Limit Brown Formal Shoes",
+    "price": 6499,
+    "description": "Round toed, brown wingtip brogues with low top styling and central lace-upsLeather upper with stitched detailing and a reinforced heel collar Lightly padded footbedTough outsole with grooves and a stacked heelWarranty: 3 monthWarranty provided by the brand owner / manufacturer",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Clarks-Men-Formal-Shoes_ee113a2858b93adc2d2033713d1126f3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Clarks-Men-Formal-Shoes_db349770ac87c85613758356958ad994_images.jpg"
+    }
+}

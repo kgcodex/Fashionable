@@ -1,0 +1,17 @@
+{
+    "id": 25453,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Air Endurance White Casual Shoes",
+    "price": 3500,
+    "description": "A perfect shoe for those casual runs and marathoners, the nike Air Endurance is replete with style and comfort. Team this with performance clothes when burning the trail, and with jeans and tees for that semi-formal look on casual Fridays at work.UpperDurable synthetic leather upper with perforations on the forefoot and heel for ventilationFolded detailing on the midfoot to enhance durability and midfoot supportnike swoosh overlays appliqued on the sides for enhanced midfoot support and added shoe structureLace-up system for a snug, customised FitMeshed and padded tongue and collar for a snug fit and breathabilityMidsolePhylon midsole for lightweight cushioning and impact protectionAir unit in the heel for maximum cushioning and protection of the foot during heel-strikePadded footbed for all-day in-step comfortRemovable footbed to accommodate an orthoticOutsoleDurable rubber outsole with an arched midfoot for ergonomic comfortCircular suction grooves through the forefoot and heel for maximum cushioningSquare lugs lugs on the arched midfoot for supportive grip and tractionTriangular lug on lateral forefoot for stabilityFlex grooves on forefoot for easy, flexible movementShoe careWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ad106a438c24df7eac5a915dea920920_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/ac4d1d7a9d3b3402d0d8654b4d45a40a_images.jpg"
+    }
+}

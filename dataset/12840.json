@@ -1,0 +1,17 @@
+{
+    "id": 12840,
+    "brandName": "Ant",
+    "productDisplayName": "Ant Kids Brown Striped T-Shirt",
+    "price": 425,
+    "description": "Brown striped T-shirt with a round neck with yellow piping, short sleeves and a straight cut hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Kids-Boys",
+    "gender": "Boys",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Ant-Kids-Brown-Striped-T-Shirt_a79590f503ee558060eb35d472d0bc19_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Ant-Kids-Brown-Striped-T-Shirt_bf247a933926ff70888ee67160e6c944_images.jpg"
+    }
+}

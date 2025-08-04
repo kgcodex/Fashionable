@@ -1,0 +1,16 @@
+{
+    "id": 55252,
+    "brandName": "Lakme",
+    "productDisplayName": "Lakme Perfect Definition Eye Pencil 20 Midnight Black",
+    "price": 175,
+    "description": "Lakme perfect definition eye pencil",
+    "masterCategoryId": 11,
+    "masterCategoryType": "Personal Care",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Spring",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/55252/Lakme-Perfect-Definition-Eye-Pencil-20-Midnight-Black_2_820c064c12bfbcc653eaecccf3960f44.jpg"
+    }
+}

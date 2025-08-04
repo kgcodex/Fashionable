@@ -1,0 +1,17 @@
+{
+    "id": 3431,
+    "brandName": "Myntra",
+    "productDisplayName": "Myntra Mens I Have a Helluva Attitude T-shirt",
+    "price": 399,
+    "description": "CompositionBlack round neck t-shirt in 100% cotton with chest printFitting Comfort Wash care Light machine wash Do not bleach arm iron on reverse Do not dry clean Dry flat/reverse Do not scrub Broadcast your naughty, edgy, devilish attitude with this black tee from myntra. Team this with jeans or cargoes and a pair of uber cool shoes from the wide catalogue at myntra for that wholesome stylish look.Model statisticsThe model wears size M in t-shirtsHeight-6', Shoulders-18\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/4ffbe12f5fb0c78138348406f9285998_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/04b803cdbce6df43a2ad096b6244f2f2_images.jpg"
+    }
+}

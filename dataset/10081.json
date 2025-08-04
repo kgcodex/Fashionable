@@ -1,0 +1,17 @@
+{
+    "id": 10081,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Men Zigdynamic White Sports Shoes",
+    "price": 6999,
+    "description": "Try the reebok ZigDynamic and you will refuse to wear any other running shoe ever! These sneakers come with a zig-zag sole that helps propel you forward, and reduces muscle fatigue on your shins. Now you can sweat it out in the gym without sweating it out! The lightweight shoes are attractive and super comfortable to be worn all-day long. So, when you aren't running in them, you can lounge in them at the coffee shop, while all eyes are on your precious shoes.UpperBreathable mesh upper for ample ventilation and reduced irritationSynthetic overlays for added shoe structure, durability and styleSmoothFit upper for increased comfort and reduction of seam related irritation and rubLace-up system with synthetic laces for a snug, customized FitLushly padded tongue and well-cushioned collar for in-step comfortMesh tongue for maximum ventilationBrand logo on both sidesBrand name on tongue and behind collarMidsoleInjection Moulded EVA midsole for lightweight responsive cushioning and shock absorptionCushioned footbed for all-day comfortMesh lining for increased ventilation and comfortRemovable sockliner to replace with an orthoticOutsoleTPR outsole for better shock absorption and durabilityTransition Bridge for ultimate heel-to-toe responseZigzag sole to propel you forward and reduce muscle fatigue on shinForefoot grooves for increased flexibility through push-off Multi-surface outsole for traction and durabilityShoe careWipe surface with soft, clean, dry cloth to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/91e2b05fb7c5d1cf6e6aea161be8dc23_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/834d5561b82de532db8eeca35a5f98c1_images.jpg"
+    }
+}

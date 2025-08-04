@@ -1,0 +1,17 @@
+{
+    "id": 44624,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Orange Daybreak Visor Cap",
+    "price": 795,
+    "description": "Style NoteDon that sporty look with this swoosh cap from nike. Made of Dri-Fit fabric, this Day Break Visor cap ensures your head is absolutely sweat-free all day long.Pr",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9f560442787f39f22f313f233f2bb29c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/764d007c97a78f6f4efd51c68f76e4ec_images.jpg"
+    }
+}

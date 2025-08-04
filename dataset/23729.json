@@ -1,0 +1,17 @@
+{
+    "id": 23729,
+    "brandName": "Ray-Ban",
+    "productDisplayName": "Ray-Ban Men High Street Sunglasses",
+    "price": 5790,
+    "description": "This is a brand which needs no introduction, - 'Genuine since 1937' ray-ban have moved on from their beginnings as the official sunglasses of U.S. Army fighter pilots to become the most iconic sunglasses in the world.&nbsp; Wear this pair for an effortlessly stylish look that'll never go out of fashion. The glasses come in a signature Ray-Ban case.Lens size: 60 mmLens colour: BlackFrame colour: BlackWarranty: 1 yearHigh optical precision and impact resistant lensStylised plastic frame in an aerodynamic design for absolute comfort and durabilityRectangle lens for absolute style and protection from the elementsFlexible hinges for durabilityFixed nose holder with a thick bridge which is part of the frame to hold the glasses in place, ensuring there is no friction with the skinCareRemove dust and grime by gently wiping the lens with the cloth providedRemove oil or tough stains with the help of a lens cleanerDo not use your fingers on such stainsDo not place glasses on uneven surface or heated areas like the dashboard of a car",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Ray-Ban-Men-High-Street-Sunglasses898842fe811ee47a88babac6f9be5b87_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Ray-Ban-Men-High-Street-Sunglasses548ae1fd20a7d9819af2018580f8a154_images.jpg"
+    }
+}

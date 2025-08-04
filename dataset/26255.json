@@ -1,0 +1,17 @@
+{
+    "id": 26255,
+    "brandName": "Proline",
+    "productDisplayName": "Proline Men Navy Track Pants",
+    "price": 699,
+    "description": "Navy blue knitted mid-rise track pants, has two pockets, an elasticated waistband",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/28f715f3f83a3fa3a36072e9bca247ea_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/7f6759c2bff80f25972bd949d01e672d_images.jpg"
+    }
+}

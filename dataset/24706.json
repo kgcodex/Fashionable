@@ -1,0 +1,17 @@
+{
+    "id": 24706,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Unisex Blue Flip Flops",
+    "price": 399,
+    "description": "Blue flip flops, has a thong style strap with branding on it Textured footbed with branding on itEVA outsole with dotted grooves all overWarranty: 3 months against manufacturing defect",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Unisex-Blue-Flip-Flops_0c5c87bdb2bcf03873fde3635e35b806_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Puma-Unisex-Blue-Flip-Flops_976ec646cfb23ba5d0c78d6368aa6c77_images.jpg"
+    }
+}

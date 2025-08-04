@@ -1,0 +1,17 @@
+{
+    "id": 20836,
+    "brandName": "Hush Puppies",
+    "productDisplayName": "Hush Puppies Men Formal Brown Shoes",
+    "price": 3099,
+    "description": "Simple and stylish, this oxford from hush puppies adds that casual zing to your semi-formal wear. Wear it with crisp semi-formals and classy accessories for heightened style. Upper Leather upper for comfort and style Lacing system for a snug, customised Fit Mildly padded tongue and collar with a leather inner for breathable comfort Padded footbed for all-day comfort Midsole EVA midsole for impact protection Outsole TPU outsole with textured TPR units in the forefoot and heel for absolute grip and traction shoe care Wipe surface with a clean, dry cloth to remove dust Use a branded leather conditioner if needed Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5f81eceb79fe174ffbe68ccb34bb9f1a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/1a7e731a110ea557718faa6f7c4e22b3_images.jpg"
+    }
+}

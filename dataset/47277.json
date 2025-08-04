@@ -1,0 +1,17 @@
+{
+    "id": 47277,
+    "brandName": "FCUK Underwear",
+    "productDisplayName": "FCUK Underwear Grey Striped Boxers",
+    "price": 699,
+    "description": "Grey, black and white striped boxers, has a soft elasticated waistband, brand patch on the waistband and concealed buttoned fly",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FCUK-Underwear-Grey-Striped-Boxers_c30e8d47751f4b6ab4a8cbd0103200dd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FCUK-Underwear-Grey-Striped-Boxers_f6e578a500a96d09c80dda066284dfd8_images.jpg"
+    }
+}

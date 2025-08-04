@@ -1,0 +1,17 @@
+{
+    "id": 15636,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men AS Airtight Navy Blue Tshirts",
+    "price": 995,
+    "description": "CompositionBlack T-shirt made of 100% cotton, has a round neck, short sleeves, and graphic print on the chestFittingComfortWash careMachine wash cold with like coloursDo not dry clean or bleachTumble dry lowWarm ironGo by the graphic print and speed through in this T-shirt from nike. Crafted from soft cotton fabric, this T-shirt offers exemplary dry comfort, making it a great everyday wear. Team this tee with jeans and sneakers for a sporty look. Add on a hooded sweatshirt for exemplary comfort during winters.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0e68e8a0457e42d705b8e209c6fe82fa_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/26f48ceb5887f04946788d1db0020bea_images.jpg"
+    }
+}

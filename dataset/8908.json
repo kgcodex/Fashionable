@@ -1,0 +1,17 @@
+{
+    "id": 8908,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Sienna Xc Nm Black Sports Shoes",
+    "price": 3799,
+    "description": "The Sienna XC NM sneaker from puma looks sleek with styling thats sure to get you noticed. This off-road trainer looks great when teamed with jeans and tees for casual wear. Upper Mesh uppers with synthetic leather overlays for structure and breathability Padded collar and tongue for optimum Fit and comfort Gilly lacing system with round laces for snug fit Fabric lining for more comfort Formstripe on both sides in contrast colours for added style and structure Midsole EVA midsole for cushioning and comfort OrthoLite removable footbed for hours of comfort that can be replaced with an orthotic Outsole Abrasion-resistant toe guard for protection Two-tone rubber outsole Aggressive interweaving pattern and circular lugs for traction",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b9c87ed49b50267de8f69120748c3cb8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f3660cdab3111fee0a8d827662ebd49a_images.jpg"
+    }
+}

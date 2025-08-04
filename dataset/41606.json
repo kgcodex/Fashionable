@@ -1,0 +1,17 @@
+{
+    "id": 41606,
+    "brandName": "Basics",
+    "productDisplayName": "Basics Men Beige Shirt",
+    "price": 1299,
+    "description": "Beige shirt has a spread collar, long sleeves with buttoned cuffs, full buttoned placket, a patch pocket on the left chest with flap button closure and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c6e528987f8cfc0d036851282261bf77_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f88a7807e78070f8e7981c436b983ddf_images.jpg"
+    }
+}

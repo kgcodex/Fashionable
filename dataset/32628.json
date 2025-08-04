@@ -1,0 +1,17 @@
+{
+    "id": 32628,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Black Polo T-shirt",
+    "price": 1895,
+    "description": "Black polo T-shirt for men made of 100% polyester, has a slim spread collar, short sleeves, Dri-Fit technology, stitch detailing, white panels on the sleeves and sides, buttoned chest placket and nike swoosh embroidered on the left chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/5b0feb2d35a13e993c95e94f14023a9e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/05087bab42efcb019b48886c4ee58cad_images.jpg"
+    }
+}

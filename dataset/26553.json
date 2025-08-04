@@ -1,0 +1,17 @@
+{
+    "id": 26553,
+    "brandName": "ID",
+    "productDisplayName": "ID Men Blue Shoes",
+    "price": 1985,
+    "description": "Fuss-free low-top sneaker reminiscent of a surf and skate aesthetic. This shoe captures the essence of man-about-town nonchalance. It pays tribute to the individualistic, sport fashion lifestyle with its stitch detailing and thick midsole. Pair it with distressed jeans, a casual check shirt and a tonal belt to recapture the laidback vibe of sun 'n' sand Sports. Upper Low top leather upper with reinforced nubuck overlay on the heel collar Central lace ups Mesh lining Contrast stitch detailing Soft footbed Midsole Rubber midsole with textured patterning Outsole Lightweight rubber outsole with an upraised heel and patterned lugs Shoe care Wipe leather surface with dry, clean cloth to remove dust Use a branded leather conditioner Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/50d6347a4ea1b927517cd6be72231626_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b291a357bee8cc167af296180db8c3ae_images.jpg"
+    }
+}

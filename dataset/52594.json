@@ -1,0 +1,17 @@
+{
+    "id": 52594,
+    "brandName": "Mod-acc",
+    "productDisplayName": "Mod-acc Women Pink Clutch",
+    "price": 995,
+    "description": "Pink clutch with a ruffled rosette detail on the front, one long detachable and adjustable shoulder strap for carrying ease, one main zippered compartment with an organiser sleeve and an inner zipped pocket on either side, an external zipped pocket at the back",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Mod-acc-Women-Pink-Clutch_24feaace675804e4ff28af4137738c33_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Mod-acc-Women-Pink-Clutch_ca964250758d996b47e2d2353c03b305_images.jpg"
+    }
+}

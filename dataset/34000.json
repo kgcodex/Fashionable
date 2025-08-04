@@ -1,0 +1,17 @@
+{
+    "id": 34000,
+    "brandName": "Femella",
+    "productDisplayName": "Femella Women Black Top",
+    "price": 550,
+    "description": "Composition Black top made of blended fabric, has a notched collar, long sleeves, a buttonable key hole detail at the cuffs and a curved hem Fit Regular Wash care Wash dark colours separately Dry inside out Do not bleach or wring Warm iron Strikingly chic, reminiscent of a vintage vibe, this top from femella is a detail-oriented deconstruction of a wardrobe essential. Pared down to the basics, with a flowy silhouette, pair this with a pencil skirt and pumps. For a formal or casual feel wear this with denims or formal pants. Model statistics The product is a size M on a model of height 5'8\" and chest 33\"",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d2d0d15f670f7281e6b6f927a7a5344c_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b0c2b5092a2c49db4aa333b266410984_images.jpg"
+    }
+}

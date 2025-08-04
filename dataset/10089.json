@@ -1,0 +1,17 @@
+{
+    "id": 10089,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Women Raceon Silver Sports Shoes",
+    "price": 4999,
+    "description": "The reebok Raceon is a versatile running shoe that features ample ventilation and offers lightweight comfort, keeping your feet fresh and comfortable all day. Added to this is the plush DMX Ride cushioning that makes it an all the more comfortable, smooth and flexible ride. Wear them when you want to run or jog or use them as casual wear. Upper Breathable mesh upper for ample ventilation and reduced irritation Synthetic overlays for added shoe structure, durability and style Lace-up system with synthetic laces for a snug, customized Fit Lushly padded tongue and well-cushioned collar for in-step comfort Brand name on tongue and behind collar Midsole Phylon midsole for lightweight responsive cushioning and shock absorption DMX Ride foam cushioning for all-day comfort Mesh lining for increased ventilation and comfort Outsole Non marking TPR outsole for better shock absorption and durability Transition Bridge for ultimate heel-to-toe response Waffle-pattern grip for excellent traction Scooped heel for extra cushioning and comfort Shoe care Wipe surface with soft, clean, dry cloth to remove dust Do not machine wash Do not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d9caca4e0c981f5da4b1e768766e6e14_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3a23042967530d7ea321e24eb43200b8_images.jpg"
+    }
+}

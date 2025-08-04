@@ -1,0 +1,17 @@
+{
+    "id": 27782,
+    "brandName": "BULCHEE",
+    "productDisplayName": "Bulchee Men Brown Wallet",
+    "price": 1099,
+    "description": "Brown upper with two main compartments and a central flap An id holder and five card slots on the central fold Five card slots on the left fold and five card slots and a flap on the right fold",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Bulchee-Men-Brown-Wallet_b3fb243f081f20734f7b5fb6e3d45ebe_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Bulchee-Men-Brown-Wallet_a8491e53b520a1927e0a10c039ea59c5_images.jpg"
+    }
+}

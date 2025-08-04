@@ -1,0 +1,17 @@
+{
+    "id": 17953,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Knit Beanie Grey Skull Cap",
+    "price": 895,
+    "description": "Get two for the price of one! Striped on one side and plain on the other, this knit beanie from nike makes for a perfect addition to your winter wardrobe. Designed to offer snug comfort, this beanie is a great way to beat the chill and enjoy those long winter walks. Made of 100% knit acrylic fabric Nearly seamless stitching for abrasion-free comfort Stripes on one side and plain on the reverse, with embroidered nike swooshes on either side Care Hand wash in warm water and line dry Do not dry clean, bleach, wring or iron",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/9013b399a0a10797bd5919dc3bdc6bd6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d25234dee8c62b1da5984e397604be22_images.jpg"
+    }
+}

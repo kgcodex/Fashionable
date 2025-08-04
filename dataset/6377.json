@@ -1,0 +1,17 @@
+{
+    "id": 6377,
+    "brandName": "Numero Uno",
+    "productDisplayName": "Numero Uno Men's Brown Canvas Shoe",
+    "price": 1499,
+    "description": "A stylish casual shoe, this pair from numero uno is a great addition to your wardrobe. With a synthetic and suede combination, it creates a sharp style statement. Team this with jeans and polo neck t-shirts for that smart look.Upper Synthetic leather upper for durability and comfort Stitched overlays in around pattern for midfoot support and structure Lace-up system for snug, customized Fit Long tongue for snug fit Midsole Phylon midsole for all-day cushioned comfort Cabreel lining for easy and cushioned wear Toe box foxing in durable rubber for forefoot protection and durability Outsole Durable rubber outsole in ridged pattern for maximum durability and traction shoe careWipe synthetic leather surface with damp, clean cloth to remove dustBrush the suede leather parts with a suede brush to remove dustDo not machine washDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a1d280b006ef75c9a11e3f469677da20_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/cd5f0a12eb22cb1c3604f27983b00fb7_images.jpg"
+    }
+}

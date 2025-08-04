@@ -1,0 +1,17 @@
+{
+    "id": 9953,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men CBF H/A SS RE Yellow Jersey",
+    "price": 2995,
+    "description": "Composition Yellow crew neck Brazil jersey made of 100% polyester, has a fabric tape lining on the inseam, Brasil screen-print at upper back and is engineered with Dri-Fit technology Fitting Comfort Wash care Machine wash cold at 30 degrees with like colours Do not bleach Tumble dry low Remove immediately/do not allow to lay on itself when wet Cool iron, but do not iron on design Do not dry clean The 2011/12 Brasil CBF home men's Soccer Jersey is an ode to the only team in history to win five world championships. It features a classic Brasilian look and breathability on and off the field. This soccer jersey features short sleeves and a triumphant yellow throughout, with a heroic green stripe across the chest underlining the renowned crest. Inside the collar, the message Nascido Para Jogar Futebol (Born to Play football) references the famous team of 1970. And five stars at the left shoulder celebrate the Brasilian team's five world championship wins. Lightweight and breathable, this soccer jersey is crafted from 13-percent lighter Dri-FIT fabric and was designed with the environment in mind. It's made from recycled plastic bottles and helps keep you dry and comfortable by wicking sweat away from the skin to the fabric's surface, where it quickly evaporates. Mesh panels at the side seams and a mesh vent at the centre chest enhance ventilation.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/b6633f6cb72aad5d1f27ba1106fa26fd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/68606dae7b8332468e8b9edb5512f70e_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 50020,
+    "brandName": "Hanes",
+    "productDisplayName": "Hanes Women Navy Cotton Stretch Leggings",
+    "price": 399,
+    "description": "Navy three quarter length leggings, has an elasticated waistband with brand print below at left on the front, decorative lace at hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hanes-Women-Navy-ComfortWear-Cotton-Stretch-Leggings_4ab657f4691577f2e84548110e1cd769_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Hanes-Women-Navy-ComfortWear-Cotton-Stretch-Leggings_6f8b5bd303eca761830146e170b4c0ef_images.jpg"
+    }
+}

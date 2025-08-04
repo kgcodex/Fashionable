@@ -1,0 +1,17 @@
+{
+    "id": 47660,
+    "brandName": "Femella",
+    "productDisplayName": "Femella Women White Printed Tunic",
+    "price": 890,
+    "description": "White woven tunic with polka hearts, has a round neckline, full buttoned placket, patch pockets with a pleat and buttoned flap closures, back yoke, three quarter sleeves with mid arm buttoned tabs for a folded look and loops on the waist for a sash.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-White-Printed-Tunic_80387240ff3b0a09c16da7ff146d3f43_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Femella-Women-White-Printed-Tunic_d5cc09d5235c5fc330633bd86f3d1c90_images.jpg"
+    }
+}

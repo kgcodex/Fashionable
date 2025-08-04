@@ -1,0 +1,17 @@
+{
+    "id": 56859,
+    "brandName": "HM",
+    "productDisplayName": "HM Women Blue Flats",
+    "price": 1199,
+    "description": "Open toed thong style upper with zari layering and a toe separatorSoft footbed with a zari heel patchTPU sole with an upraised heel",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Blue-Sandals_09d092a528b1b0304f217af3fa61f270_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/HM-Women-Blue-Sandals_5da976b9157f630d42b5ab681b36f791_images.jpg"
+    }
+}

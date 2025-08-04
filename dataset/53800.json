@@ -1,0 +1,17 @@
+{
+    "id": 53800,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Men Black T-shirt",
+    "price": 799,
+    "description": "&iuml;&raquo;&iquest;Black T-shirt, has a round ribbed neckline, graphic print in front with branding, brand tag at the hemline and short sleeves",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8aaa7399d10d40ec55553a7ed18a45b9_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/d33852b16a6cb3f436211ebacd48d62c_images.jpg"
+    }
+}

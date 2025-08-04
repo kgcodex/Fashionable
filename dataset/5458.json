@@ -1,0 +1,17 @@
+{
+    "id": 5458,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men Training Knit Navy Blue Track Pant",
+    "price": 1695,
+    "description": "CompositionFull length navy blue track pants made of 100% polyester, engineered with Dri-Fit technology, has handy side pockets with synthetic net lining, comfortable elastic waistband with inner draw string, mesh panel on the back and crotch, and logo printed on the leftFittingComfortWash care Machine wash cold with like colors Do not use softeners Remove immediately Do not allow to lay on itself when wet Do not bleach Tumble dry low Do not iron Do not dry clean Stylish to the T, these navy blue track pants are designed with Dri-Fit technology to wick away sweat and keep you fresh and comfortable while you sweat it out at the gym. The smart side pockets are spacious enough to hold your wallet, iPod and other essentials. The broad wasitband sits snugly, while the drawstrings offer a customised fit. The zippers at the leg ends allow more flexible movement. Team it with a nike Dri-fit t-shirt and a pair of fitness shoes for that complete in comfort.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/04882950cc5fdf5cb3c4d9c294067d4a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3c6967128c11c2e6048904e20872e466_images.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 15418,
+    "brandName": "FILA",
+    "productDisplayName": "Fila Women Hex II White Sports Shoes",
+    "price": 1699,
+    "description": "Round toed white shoes, has a mesh upper with strategically placed synthetic leather overlays for absolute breathable comfort and enhanced shoe structure Lacing system for a snug, customised fit, padded collar and tongue with a textile inner lining for optimum fit and comfort Padded footbed for all-day comfort and impact protection, which is removable to accommodate an orthotic Phylon midsole for lightweight comfort and impact protectionTPR outsole with modified waffle pattern lugs, suction and diamond-shaped grooves on the forefoot and decoupled heel for absolute grip and traction Flex grooves on the forefoot for easy movement, curved midfoot with a plastic trusstic shank for ergonomic comfort Scooped heel for enhanced cushioning to the backfootWarranty: 3 months",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FILA-Women-Sports-Shoes_986231f3010cd1b487462913724840f8_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/FILA-Women-Sports-Shoes_4250a809b0410cfa445eff3eb8a2a364_images.jpg"
+    }
+}

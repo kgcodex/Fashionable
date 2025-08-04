@@ -1,0 +1,17 @@
+{
+    "id": 6100,
+    "brandName": "Puma",
+    "productDisplayName": "Puma Unisex Beach Black Flip Flop",
+    "price": 899,
+    "description": "CompositionEva,phylon,synthetic rubbershoe CareRub surface with clean, damp cloth to remove dust",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/186a263719b89d11ed24ff4a124403e0_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0c805946a4490358aa4e325634dafd5c_images.jpg"
+    }
+}

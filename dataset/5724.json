@@ -1,0 +1,17 @@
+{
+    "id": 5724,
+    "brandName": "Reebok",
+    "productDisplayName": "Reebok Unisex Drive Black Floater",
+    "price": 1599,
+    "description": "Float in comfort with the Drive range of floaters from reebok. Comfortable yet sturdy, these sandals are great for a stroll in the park or a walk on a trek trail.Upper denim upper for maximum style Upper with forefoot and ankle straps, coupled with velcro fasteners, providing a snug, customised Fit Appliqu&eacute; d logo on the ankle strap for style Midsole Textured footbed for soft massage feel and all-day comfort Outsole TPR outsole with multi-directional pattern for greater traction Flex grooves for natural movement of the feet Lugs to provide greater durability shoe careDo not machine washRemove dust and dirt with damp clean clothDo not store in direct sunlight",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3d34a50ad09f828605a55567ff07cb14_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a8a5c06d492638fc0b25d5b4b6839632_images.jpg"
+    }
+}

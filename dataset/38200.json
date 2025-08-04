@@ -1,0 +1,17 @@
+{
+    "id": 38200,
+    "brandName": "Polaroid",
+    "productDisplayName": "Polaroid Men Sunglasses",
+    "price": 3661,
+    "description": "NA",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/da54569bcb3f057885a0cca8903d610d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/3a62aa4ce949a9ec879858a687e76280_images.jpg"
+    }
+}

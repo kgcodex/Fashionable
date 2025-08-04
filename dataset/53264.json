@@ -1,0 +1,17 @@
+{
+    "id": 53264,
+    "brandName": "LOCOMOTIVE",
+    "productDisplayName": "Locomotive Men Black Shirt",
+    "price": 974,
+    "description": "Solid black shirt, has a spread collar, a buttoned placket, short sleeves, embroidery on the left chest and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/51a8cdc96769ba4dc3dc148ec43eea0d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e419dd900acf7fcef6a862440d2744f7_images.jpg"
+    }
+}

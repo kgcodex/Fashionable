@@ -1,0 +1,17 @@
+{
+    "id": 9063,
+    "brandName": "Mark Taylor",
+    "productDisplayName": "Mark Taylor Men Pink Striped Shirt",
+    "price": 519,
+    "description": "NA",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Formal",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c21c0c8739a1c6faa903e4830bbe3d6a_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/018cb4044cd89fbcbd287e8a26dfb9b0_images.jpg"
+    }
+}

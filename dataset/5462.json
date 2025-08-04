@@ -1,0 +1,17 @@
+{
+    "id": 5462,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men's Air Trail Ridge Black Shoe",
+    "price": 5795,
+    "description": "Hit the trail in style and don't you worry about your feet when you run with the nike Air Trail Ridge. WIth a high durability and cushioning factor, this running shoe provides a stable ride and maximum protection even on uneven roads.Upper Mesh upper for maximum ventilation Synthetic overlays for supportive lightweight comfort Meshed, padded tongue with a lace-up system for breathable snug Fit Perforated toe box overlay for breathable comfort Strategic welds for protection from road debris Swoosh overlays on the side for added shoe structure and style Cushioned sockliner for in-step comfort Midsole Full-length phylon midsole for responsive cushioning, durability and stability Visible Air-Sole unit in the heel for exceptional impact protection and comfort on rough terrain Dual-density foam for plush cushioning Outsole Solid rubber outsole for durability and comfort Multi-directional tread patter for maximum protection and traction on eneven terrain Toe guard reinforced on the upper for enhanced protection to the forefoot Shoe careDo not machine washRemove dust and dirt with dry clean cloth",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/f86d9f0baf3ec57ad87ae0e51efc76d3_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a210e6a5de7716825d70db2f0c56dc96_images.jpg"
+    }
+}

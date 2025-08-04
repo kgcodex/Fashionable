@@ -1,0 +1,17 @@
+{
+    "id": 41837,
+    "brandName": "Skechers",
+    "productDisplayName": "Skechers Men Grey Shoes",
+    "price": 3499,
+    "description": "Style NoteThis shoe is ideal for those who don't want to compromise when it comes to the stylish look of their footwear - and the best part is that skechers have also paid attention to practicality. The soft footbed takes the natural curve of your feet, the mesh tongue keeps your feet fresh and clean, the lace-up upper of the shoes will keep your foot firm on the ground and the outsole will accelerate your speed when on the go! Product DetailsGrey mid-top leather shoes with overlays, central lace-ups, and decorative stitch detailingPadded tongue and inner with a zipper closure on the medial side of the shoeThick rubber midsoleDurable rubber outsole with patterned groovesMaterial and CareLeatherWipe surface with soft, clean, damp cloth to remove dustDo not machine wash",
+    "masterCategoryId": 10,
+    "masterCategoryType": "Footwear",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/8f2fdec8b2af307673d993fd13b2ae6f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c54ba7f8fa72337534689073ed09b059_images.jpg"
+    }
+}

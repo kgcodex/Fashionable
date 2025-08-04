@@ -1,0 +1,17 @@
+{
+    "id": 23779,
+    "brandName": "OAKLEY",
+    "productDisplayName": "Oakley Men Black Fast Jacket Sunglasses",
+    "price": 13400,
+    "description": "High on style, this pair of Fast Jacket sunglasses from oakley comes in a styled frame. An eclectic mixture of fashion and substance, its shape provides that perfect Fit over the root of your nose. The glasses come with alternative orange lenses so you can match your sunglasses to your outfit. Housed in an embossed case and enclosed in a velveteen pouch. Comes with a nano-clean hydrophobic pen.Lens size: 72 mmWarranty: 1 yearTinted Plutonite lens with 100% UVA, UVB and UVC protection and harmful blue light upto 400nmHas Oakley Iridium leans coating to reduce glare and improve contrastStylised plastic frame in an aerodynamic design for absolute comfort and durabilitySquare lens in two colours for absolute style and protection from elementsFlexible hinges for durabilityFixed nose holder with a thick nose bridge which is part of the frame to hold the glasses in place, ensuring there is no friction with the skin CareRemove dust and grime by gently wiping the lens with the cloth providedRemove oil or tough stains with the help of a lens cleanerDo not use your fingers on such stainsDo not place glasses on uneven surface or heated areas like the dashboard of a car",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Winter",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Oakley-Men-Black-Fast-Jacket-Sunglasses90a9f829ee86e7f0bff0f47374a6d5bd_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Oakley-Men-Black-Fast-Jacket-Sunglassescedf5154888ea7e53b8428a43784c170_images.jpg"
+    }
+}

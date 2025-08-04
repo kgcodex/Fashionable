@@ -1,0 +1,17 @@
+{
+    "id": 10486,
+    "brandName": "Flying Machine",
+    "productDisplayName": "Flying Machine Men Black Polo Tshirts",
+    "price": 799,
+    "description": "Black polo t-shirt made of 100% cotton, with a ribbed collar and buttoned chest placket, short sleeves with ribbed hems, embroidered brand logo on right sleeve, paneling on chest with coloured panels on the left and brand print on the back neck, brand tab on the left hem and vented hems",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/43a1ecc362fc41126d9639c1273e8808_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/78b54d68a5bc6ee98de6baa9c0d3e27a_images.jpg"
+    }
+}

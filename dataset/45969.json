@@ -1,0 +1,17 @@
+{
+    "id": 45969,
+    "brandName": "Tokyo Talkies",
+    "productDisplayName": "Tokyo Talkies Women Grey Melange Printed Top",
+    "price": 399,
+    "description": "Grey Melange single jersey knit top, round neckline with binding, short sleeves with upturned hem , graphic print on the front with flock print details, curved hem, foil print branding on the inside",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a0057dc5fb1feba212e7d2eb3a23ce64_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/0fb88a479c8234deafe04e2ea4c9ab0d_images.jpg"
+    }
+}

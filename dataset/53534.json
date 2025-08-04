@@ -1,0 +1,17 @@
+{
+    "id": 53534,
+    "brandName": "Amante",
+    "productDisplayName": "Amante Women Grey Seamless Briefs PCSN11",
+    "price": 495,
+    "description": "Grey low-rise seamless briefs with an elasticated waistband and double-layered gusset",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/53534/Amante-Women-Grey-Briefs_2_3d1dae51106e7f765901b7a9c13515bf.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/image/style/properties/53534/Amante-Women-Grey-Briefs_3_cad830cf634789f60e8b603309732af7.jpg"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 9791,
+    "brandName": "Classic Polo",
+    "productDisplayName": "Classic Polo Men Ikon Brown Polo Tshirts",
+    "price": 765,
+    "description": "Light brown polo neck t-shirt with red and beige stripes, made of 100% cotton with ribbed collar and short buttoned placket, tape detailing on the inseam of the collar, vented hems and pocket with embroidered logo on left side of the chest",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/401d165f1b182caab51ccb79d68016a7_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/50883325c4059921448f912869f48dd8_images.jpg"
+    }
+}

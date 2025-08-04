@@ -1,0 +1,17 @@
+{
+    "id": 15625,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Men AS Squad FT LS Crew Grey Sweatshirts",
+    "price": 1595,
+    "description": "CompositionGrey sweatshirt made of 100% cotton, with ribbing below the neck, sides, cuffs and hem made of 97% cotton and 3% spandex, has a round neck, full sleeves and nike swoosh logo embroidered on the left chestFittingComfortWash careMachine wash cold with like coloursDo not dry clean, bleach, use softeners or allow to lay on itself when wetTumble dry lowRemove immediately Cool ironEnjoy the winter in style with hot street food with this sweatshirt from nike. Crafted from pure and thick cotton fabric, this jacket is designed to keep you warm. Layer it over jeans and t-shirts.",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/77cc6c83c04045a1a28de7e17478d16f_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/472a321a8a41b828a4d7a9f960693872_images.jpg"
+    }
+}

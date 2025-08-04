@@ -1,0 +1,17 @@
+{
+    "id": 39930,
+    "brandName": "Tortoise",
+    "productDisplayName": "Tortoise Unisex Brown Laptop Bag",
+    "price": 3299,
+    "description": "Brown laptop bag with magnetic button flap closureHas a main compartment with a laptop sleeveA zipped pocket on frontA zipped pocket at the backBranding embossed at the backA long adjustable handle",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tortoise-Unisex-Brown-Laptop-Bag_3d7ede7dd2f889426b61f9b9db8e9a9d_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/Tortoise-Unisex-Brown-Laptop-Bag_315faee1e68bcdf006e6fa2902ecd80b_images.jpg"
+    }
+}

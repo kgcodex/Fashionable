@@ -1,0 +1,17 @@
+{
+    "id": 48391,
+    "brandName": "French Connection",
+    "productDisplayName": "French Connection Men Grey Trousers",
+    "price": 3699,
+    "description": "-",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/c47d57e9bfee5974b3cd43361df3768e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/555b11545dab9a7d75a6a5aeba37f601_images.jpg"
+    }
+}

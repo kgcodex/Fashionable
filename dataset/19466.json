@@ -1,0 +1,17 @@
+{
+    "id": 19466,
+    "brandName": "Quiksilver",
+    "productDisplayName": "Quiksilver Men Red Check Shirt",
+    "price": 3295,
+    "description": "Red and navy blue check shirt made of 100% cotton, has a spread collar, short sleeves, front buttoned placket, buttoned patch pocket on the left chest with appliqued brand logo and a curved hem",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/bf7b91335b2661f51ad64fa50803dd93_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/912a31ebda98eac7bc0f1ed542376a8b_images.jpg"
+    }
+}

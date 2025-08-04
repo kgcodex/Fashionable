@@ -1,0 +1,17 @@
+{
+    "id": 30196,
+    "brandName": "Nike",
+    "productDisplayName": "Nike Unisex Casual Red Backpack",
+    "price": 1495,
+    "description": "If you want a bag that's funky, stylish, super cool and comfortable to carry around all day, check out this red and black backpack from nike. Carry it to college or on a casual day out with your friends. A stunningly good looking bag, with loads of space, it'll become your best buddy in no time. Be prepared to be swept off your feet by this awesome backpack!Height: 44 cmWidth: 27 cmDepth: 16 cmCapacity: 30 litresMade of 100% 600D polyester for enhanced durability and styleNylon lining for increased durabilityOne main zipped compartment to accommodate all your essentialsOne laptop sleeve to Fit a 15&rdquo; laptop and one mesh zipped pocketOne zipped pocket on the front with an organiser sleeveOne smaller pocket with an asymmetric opening on the frontnike swoosh appliqu&eacute;d on the pocket and branding appliqu&eacute;d on the frontTwo insert pockets on the sidesPadded, adjustable shoulder straps that distribute weight evenly and protect the shoulders and back from injuriesErgonomic design to fit along the torso comfortablyNike Swoosh on strapHaul loop for handling easeBranded zips and sliders for easy useCareRub surface with dry clean cloth to remove dust and dirt",
+    "masterCategoryId": 1,
+    "masterCategoryType": "Accessories",
+    "ageGroup": "Adults-Unisex",
+    "gender": "Unisex",
+    "season": "Summer",
+    "usage": "Casual",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2b4beabf5a473a6c214bb3ea2b2704f6_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a143a63f77234c5b6e25cbcb1f11e5d8_images.jpg"
+    }
+}

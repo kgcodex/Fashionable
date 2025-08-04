@@ -1,0 +1,17 @@
+{
+    "id": 8394,
+    "brandName": "ADIDAS",
+    "productDisplayName": "ADIDAS Men White Neo Crkt Cc Polo T-Shirts",
+    "price": 1399,
+    "description": "White full sleeve polo neck t-shirt made of 100% polyester, has a ribbed collar and cuff, fabric tape detailing on inseam of the collar, thread work on the collar, mesh panels with piping on the front and upper back, short Sleeve buttoned placket, embroidered brand name and logo on the left chest, embroidered cricket ball on the nape of the neck and engineered with ClimaCool technology",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Men",
+    "gender": "Men",
+    "season": "Fall",
+    "usage": "Sports",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/2e780a6f41503e1af5e94a9514a06c09_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/27267949f4ccbf5e88fad79803e421d6_images.jpg"
+    }
+}

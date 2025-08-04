@@ -1,0 +1,17 @@
+{
+    "id": 45996,
+    "brandName": "Fabindia",
+    "productDisplayName": "Fabindia Cream-Coloured & Red Hand Printed Saree",
+    "price": 1390,
+    "description": "Cream-coloured and red woven saree with Khari handblock print",
+    "masterCategoryId": 9,
+    "masterCategoryType": "Apparel",
+    "ageGroup": "Adults-Women",
+    "gender": "Women",
+    "season": "Summer",
+    "usage": "Ethnic",
+    "images": {
+        "front_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/a7f681e1eadc4346e1eaedbd4795634e_images.jpg",
+        "back_image_url": "http://assets.myntassets.com/h_1440,q_95,w_1080/v1/images/style/properties/e4b31b175ac44349188de10a3a78f3c9_images.jpg"
+    }
+}
