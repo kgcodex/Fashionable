@@ -9,15 +9,14 @@ from utils.fetch_product_info import fetch_product
 
 
 app=FastAPI()
-VERCEL_URL = os.environ.get("VERCEL_URL")
+
 
 origins=[
     "http://localhost:8000",
     "http://localhost:5173"
 
 ]
-if VERCEL_URL:
-    origins.append(f"https://{VERCEL_URL}")
+
 
 api_router = APIRouter(prefix="/api")
 
