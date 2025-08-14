@@ -11,7 +11,8 @@ app=FastAPI()
 
 origins = [
     "http://localhost:5173",  
-    "http://localhost:8000",   
+    "http://localhost:8000",  
+    "https://68ab69ef-5dd0-4808-9c31-9dc25eeea8e0.e1-us-east-azure.choreoapps.dev" 
 ]
     
 
