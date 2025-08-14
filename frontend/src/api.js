@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api= axios.create({
-    baseURL: "/api"
+    baseURL: "/choreo-apis/fashionable/backend/v1/api"
 });
 
 export default api;

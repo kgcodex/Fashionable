@@ -8,11 +8,6 @@ export default defineConfig({
     tailwindcss(),
   ],
 
-  build: {
-    outDir: 'dist',
-    assetsDir: 'assets'
-  },
-  
   server: {
     proxy: {
       '/api': {
